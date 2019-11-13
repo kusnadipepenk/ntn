@@ -763,8 +763,6 @@ http://203.207.56.228/live/iptv032.m3u8
 http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT2xx
 http://iliketot.dyndns.tv/02cb79ab0b0c418f847148ca9e2baed4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
-#EXTINF:-1  group-title="SPORTS",FOX SPORT 3
-http://203.207.56.228/live/iptv037.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT3 SD
 http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT3xx
@@ -781,10 +779,12 @@ https://live.youlive-cdn.com/RugbyWorldCup/chunklist.m3u8
 https://live.youlive-cdn.com/02_PremierHD1_480p/chunklist.m3u8
 #EXTINF:-1  group-title="SPORTS",TRUE Premier2HD
 https://live.youlive-cdn.com/02_PremierHD2_480p/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/ZM3FtZp/bein1.png" group-title="SPORTS",BEIN1 SD
-http://31.220.1.50:7899/-mac/fYLkczeLEW/50042
+#EXTINF:-1  tvg-logo="https://i.ibb.co/ZM3FtZp/bein1.png" group-title="SPORTS",BEIN4 SD
+http://iptv2.premium-stv.com:8888/live/BEIN4/SSMDSHFKod/43.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/ZM3FtZp/bein1.png" group-title="SPORTS",BEIN3 SD
+http://iptv2.premium-stv.com:8888/live/BEIN3/0jwkR45MqZ/5.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ZM3FtZp/bein1.png" group-title="SPORTS",BEIN2 SD
-http://31.220.1.50:7899/-mac/fYLkczeLEW/50023
+http://iptv2.premium-stv.com:8888/live/BEIN2/x8ZD4RdhNm/45.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hHhx3tz/bein2.png" group-title="SPORTS",BEIN(LaLiga)Sports
 http://23.237.22.82:8086/udp/127.0.0.1:56021
 #EXTINF:-1  tvg-logo="https://i.ibb.co/gZfX8CS/bein3.png" group-title="SPORTS",BEIN(HD3)Sports

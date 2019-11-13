@@ -445,8 +445,6 @@ http://livecdnh3.tvanywhere.ae/hls/docubox/03.m3u8
 http://83.167.253.110:5000/live/discovery/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY asia
 http://34.69.67.123:8888/tvnow/http://sv5.dailymotion.com.1cdn.host/live/discovery/chunks.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY CHANNEL
-http://203.207.56.228/live/iptv010.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY-CHANNEL SD
 http://aldirect.hls.huya.com/huyalive/30765679-2523417602-10837996074740744192-2847699224-10057-A-0-1_1200.m3u8
 #EXTINF:-1  group-title="KNOWLEDGE",Discovery Science
@@ -457,8 +455,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/03.m3u8
 http://34.69.67.123:8888/tvnow/http://sv5.dailymotion.com.1cdn.host/live/diy/chunks.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",FOOD
 http://95.86.32.7:999/food
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Fashion One
-http://190.2.154.164/TV0681
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
 http://203.207.56.228/live/iptv019.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet(H)

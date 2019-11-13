@@ -525,7 +525,7 @@ http://203.207.56.228/live/iptv006.m3u8
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
 #EXTINF:-1  tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="SUB PREMIUM",TVN Movies
 http://203.207.56.228/live/iptv009.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",TVN DRAMA
+#EXTINF:-1  tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="SUB PREMIUM",TVN DRAMA
 http://50.7.161.82:8278/TVN/playlist.m3u8?tid=m02000000000012778588&ct=17982&tsum=8d4948e951d52e62699d90039b91c278
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",SONY PIX
 http://mu03.amzlive.net:8880/ZYX1M156/stkTYCQUpv/1933

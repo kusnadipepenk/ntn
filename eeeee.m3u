@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1, tvg-logo="https://i.ibb.co/L0x4cC6/net.jpg" group-title="STASIUN NASIONAL",NET. TV
 http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1, tvg-logo="https://i.ibb.co/L0x4cC6/net.jpg" group-title="STASIUN NASIONAL",NET. TV(2)
@@ -142,8 +141,6 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
 
 
-
-#EXTM3U
 #EXTINF:-1, tvg-logo="https://i.ibb.co/wyrQfKC/animax.jpg" group-title="KIDS",ANIMAX
 http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/JBh6DYD/aniplus.jpg" group-title="KIDS",ANIPLUS
@@ -243,7 +240,6 @@ http://ws.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8_mid.
 
 
 
-#EXTM3U
 #EXTINF:-1, tvg-logo="https://i.ibb.co/T8fdzXn/blueantx.png" group-title="PREMIUM INDONESIA",BLUEANT EXTREME
 http://210.210.155.35/session/ca6ab734-6a2f-11e9-ae93-9813b3aa7f8f/dr9445/h/h15/02.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/Q8xjNSc/blueantent.png" group-title="PREMIUM INDONESIA",BLUEANT ENTERTAINMENT
@@ -660,7 +656,6 @@ http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8
 
 
 
-#EXTM3U
 #EXTINF:-1, tvg-logo="" group-title="MUSICS",MUSIC NOW
 http://livecdnh1.tvanywhere.ae/hls/music_now/03.m3u8
 #EXTINF:-1, group-title="MUSICS",VH1
@@ -909,7 +904,6 @@ http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
 
 
 
-#EXTM3U
 #EXTINF:-1, group-title="SOUTH KOREA",KBS Drama
 http://54.180.143.6:9981/stream/channelid/645909077
 #EXTINF:-1, group-title="SOUTH KOREA",SBS MTV
@@ -1051,7 +1045,6 @@ https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
 
 
 
-#EXTM3U
 #EXTINF:-1, tvg-logo="" group-title="LAIN-LAIN",SSS9
 http://220.158.149.14:9999/live/TV00000000000000000120@HHZT;LIVE
 #EXTINF:-1, tvg-logo="" group-title="LAIN-LAIN",MCM (Rusia)

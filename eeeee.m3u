@@ -1167,9 +1167,31 @@ http://iliketot.dyndns.tv/71f197de056e499a85265c03b44bdab1.m3u8?wmsAuthSign=c2Vy
 http://streamer.in-lan.net.ua:8080/ch0195
 #EXTINF:-1  group-title="Premium Akun",hfgh
 http://209.126.102.141:80/sara123/sara123/3441
-
+#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 1
+http://live.faucontv.com:8000/Salwa/Salwa/6596
+#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 2
+http://live.faucontv.com:8000/Salwa/Salwa/6597
+#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 3
+http://live.faucontv.com:8000/Salwa/Salwa/6598
+#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 4
+http://live.faucontv.com:8000/Salwa/Salwa/6599
+#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 5
+http://live.faucontv.com:8000/Salwa/Salwa/6600
+#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 6
+http://live.faucontv.com:8000/Salwa/Salwa/6601
+#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 7
+http://live.faucontv.com:8000/Salwa/Salwa/6602
+#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 8
+http://live.faucontv.com:8000/Salwa/Salwa/6603
+#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 9
+http://live.faucontv.com:8000/Salwa/Salwa/6604
+#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 10
+http://live.faucontv.com:8000/Salwa/Salwa/6605
 
 
 #EXTINF:-1  group-title="MOVIE ON DEMAND",Escape Plan 2 2019
 http://dl2.film2serial.ir/film2serial/film/asli/97/5/Escape.Plan.2.Hades.2018.480p..mkv
-#EXTINF:-1  group-title="MOVIE ON DEMAND",gggg
+#EXTINF:-1 group-title="MOVIE ON DEMAND",Smallville S01 E01
+https://4.bp.blogspot.com/-MqfIFSJKQXk/XAhan7z9FLI/AAAAAAAASno/u3ZA4X2IiLk4APPUvmNZNKze4QvOEjHBQCKgBGAs/m22/[CineRoom]1x01.mp4
+#EXTINF:-1 group-title="MOVIE ON DEMAND",Smallville S01 E02
+https://2.bp.blogspot.com/-ooFtfr5W6n8/XAhPpgdO2pI/AAAAAAAASlM/AXDR9-WmpJUwprhqjPRJp5HhIP3CNW3mQCKgBGAs/m22/[CineRoom]1x02.mp4

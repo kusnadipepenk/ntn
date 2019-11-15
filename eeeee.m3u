@@ -673,10 +673,6 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_2.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/kqffBBK/mtv.png" group-title="MUSICS",MTV-HITS
 http://185.176.117.242/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/kqffBBK/mtv.png" group-title="MUSICS",MTV
-http://203.207.56.228/live/iptv013.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/kqffBBK/mtv.png" group-title="MUSICS",MTV SD
-http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/04.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/kqffBBK/mtv.png" group-title="MUSICS",MTV 2
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1  tvg-logo="https://i.ibb.co/kqffBBK/mtv.png" group-title="MUSICS",MTV Live
@@ -694,7 +690,8 @@ http://ws.flv.nimo.tv/live/su1599512427593r490f93a8a500f7d39cbb5ae9d8ea735b_mid.
 #EXTINF:-1  tvg-logo="" group-title="MUSICS",Country MUsic
 http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/index_150_av-p.m3u8?sd=6&rebase=on
 
-
+#EXTINF:-1  group-title="SPORTS",Dsport
+http://jiocgenhub.jio.ril.com/Dsports_HD/Dsports_HD_400.m3u8
 #EXTINF:-1  group-title="SPORTS",ZIGGO sport
 http://95.170.215.118/hls/m3u8/ZIGGO-voetbal.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/wwRP0qz/redb.png" group-title="SPORTS",REDBull Tv

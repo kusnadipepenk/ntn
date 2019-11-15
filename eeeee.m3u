@@ -1131,16 +1131,19 @@ http://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
 http://live-edge01.telecentro.net.ar/live/smill:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 #EXTINF:-1  group-title="LAIN-LAIN",Silence TV
 http://109.236.85.100:8081/SilenceTV/live/playlist.m3u8
-#EXTINF:-1  group-title="LAIN-LAIN",entah
+#EXTINF:-1  group-title="LAIN-LAIN",RedbulTV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1  group-title="LAIN-LAIN",MAXPRIME
 http://209.126.102.141:80/sara123/sara123/5126
-#EXTINF:-1  group-title="LAIN-LAIN",FOXfamily
-http://209.126.102.141:80/sara123/sara123/5181
+#EXTINF:-1  group-title="LAIN-LAIN",hbo
+http://209.126.102.141:80/sara123/sara123/5171
+#EXTINF:-1  group-title="LAIN-LAIN",hbo2
+http://209.126.102.141:80/sara123/sara123/5166
+#EXTINF:-1  group-title="LAIN-LAIN",hbo3
+http://209.126.102.141:80/sara123/sara123/3463
 
 
 
 #EXTINF:-1  group-title="MOVIE ON DEMAND",Escape Plan 2 2019
 http://dl2.film2serial.ir/film2serial/film/asli/97/5/Escape.Plan.2.Hades.2018.480p..mkv
-#EXTINF:-1  group-title="MOVIE ON DEMAND",dsdfsssssss
-https://doc-0o-04-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/baqsqlfk8uanhuqadacro4id3tp9al4h/1573776000000/00455182253709072195/*/1cbyQuDAp5H5mLyH-15MZPCn5cA7Qaw2A?e=download
+#EXTINF:-1  group-title="MOVIE ON DEMAND",gggg

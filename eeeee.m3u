@@ -118,8 +118,6 @@ http://ott-cdn.ucom.am/s65/01.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",CCTV4
 http://210.210.155.35/qwr9ew/s/s19/02.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="STASIUN BERITA",CGTN
-http://210.210.155.35/qwr9ew/s/s20/02.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",TV5 Monde
 http://210.210.155.35/qwr9ew/s/s24/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/mGNPfpD/tbn.png" group-title="STASIUN BERITA",TBN Asia
@@ -415,6 +413,8 @@ http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
 http://stream1.ninmedia.tv/mktv/udp.stream_360p/playlist.m3u8
 
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary
+http://210.210.155.35/qwr9ew/s/s20/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC EARTH
 http://203.207.56.228/live/iptv001.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",NAT GEO ASIA

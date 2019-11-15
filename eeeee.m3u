@@ -1133,14 +1133,20 @@ http://live-edge01.telecentro.net.ar/live/smill:musictop.smil/chunklist_w7674351
 http://109.236.85.100:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:-1  group-title="LAIN-LAIN",RedbulTV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-#EXTINF:-1  group-title="LAIN-LAIN",MAXPRIME
-http://209.126.102.141:80/sara123/sara123/5126
-#EXTINF:-1  group-title="LAIN-LAIN",hbo
-http://209.126.102.141:80/sara123/sara123/5171
-#EXTINF:-1  group-title="LAIN-LAIN",hbo2
-http://209.126.102.141:80/sara123/sara123/5166
-#EXTINF:-1  group-title="LAIN-LAIN",hbo3
+
+
+#EXTINF:-1  group-title="Premium Akun",MAXprime
+http://209.126.102.141:80/sara123/sara123/3441
+#EXTINF:-1  group-title="Premium Akun",HBO
 http://209.126.102.141:80/sara123/sara123/3463
+#EXTINF:-1  group-title="Premium Akun",FOX
+http://209.126.102.141:80/sara123/sara123/3108
+#EXTINF:-1  group-title="Premium Akun",FOOOOX
+http://209.126.102.141:80/sara123/sara123/3685
+#EXTINF:-1  group-title="Premium Akun",FOOOOOOXX
+http://209.126.102.141:80/andrea/andrea/3108
+#EXTINF:-1  group-title="Premium Akun",Fox fam
+http://209.126.102.141:80/sara123/sara123/3439
 
 
 

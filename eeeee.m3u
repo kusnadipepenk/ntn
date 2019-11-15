@@ -1136,17 +1136,37 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
 
 #EXTINF:-1  group-title="Premium Akun",MAXprime
-http://209.126.102.141:80/sara123/sara123/3441
+http://209.126.102.141:80/sara123/sara123/3352
 #EXTINF:-1  group-title="Premium Akun",HBO
 http://209.126.102.141:80/sara123/sara123/3463
-#EXTINF:-1  group-title="Premium Akun",FOX
-http://209.126.102.141:80/sara123/sara123/3108
-#EXTINF:-1  group-title="Premium Akun",FOOOOX
-http://209.126.102.141:80/sara123/sara123/3685
+#EXTINF:-1  group-title="Premium Akun",HBO2
+http://209.126.102.141:80/sara123/sara123/3464
+#EXTINF:-1  group-title="Premium Akun",ESPN2
+http://209.126.102.141:80/sara123/sara123/3675
+#EXTINF:-1  group-title="Premium Akun",Cine
+http://209.126.102.141:80/sara123/sara123/5073
 #EXTINF:-1  group-title="Premium Akun",FOOOOOOXX
 http://209.126.102.141:80/andrea/andrea/3108
-#EXTINF:-1  group-title="Premium Akun",Fox fam
-http://209.126.102.141:80/sara123/sara123/3439
+#EXTINF:-1  group-title="Premium Akun",Foxclasic
+http://209.126.102.141:80/sara123/sara123/5074
+#EXTINF:-1  group-title="Premium Akun",tt
+http://209.126.102.141:80/sara123/sara123/5138
+#EXTINF:-1  group-title="Premium Akun",gft
+http://209.126.102.141:80/sara123/sara123/5179
+#EXTINF:-1  group-title="Premium Akun",tre
+http://209.126.102.141:80/sara123/sara123/3687
+#EXTINF:-1  group-title="Premium Akun",fghy
+http://209.126.102.141:80/sara123/sara123/5177
+#EXTINF:-1  group-title="Premium Akun",sss
+http://209.126.102.141:80/sara123/sara123/5122
+#EXTINF:-1  group-title="Premium Akun",bnbn
+http://209.126.102.141:80/sara123/sara123/5123
+#EXTINF:-1  group-title="Premium Akun",tyry
+http://209.126.102.141:80/sara123/sara123/5181
+#EXTINF:-1  group-title="Premium Akun",bnc
+http://209.126.102.141:80/sara123/sara123/5126
+#EXTINF:-1  group-title="Premium Akun",hfgh
+http://209.126.102.141:80/sara123/sara123/3441
 
 
 

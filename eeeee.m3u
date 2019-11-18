@@ -449,8 +449,6 @@ http://sv5.dailymotion.com.1cdn.host/live/discovery/chunks.m3u8
 http://aldirect.hls.huya.com/huyalive/30765679-2523417602-10837996074740744192-2847699224-10057-A-0-1_1200.m3u8
 #EXTINF:-1  group-title="KNOWLEDGE",Discovery Science
 http://80.80.160.168/live/9/2500000/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/BTs9vxy/afc.png" group-title="KNOWLEDGE",AFC (Asian Food Channel)
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DIY Channel
 http://34.69.67.123:8888/tvnow/http://sv5.dailymotion.com.1cdn.host/live/diy/chunks.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",FOOD
@@ -509,16 +507,10 @@ http://218.202.220.2:5000/nn_live.m3u8?id=HBO
 http://203.207.56.228/live/iptv005.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/nnNzMrW/hbofam.png" group-title="SUB PREMIUM",HBO FAMILY
 http://203.207.56.228/live/iptv004.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/nnNzMrW/hbofam.png" group-title="SUB PREMIUM",HBO FAMILY2
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
 #EXTINF:-1  tvg-logo="https://i.ibb.co/FJPtGSG/hbihit.png" group-title="SUB PREMIUM",HBO HITS
 http://203.207.56.228/live/iptv007.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/FJPtGSG/hbihit.png" group-title="SUB PREMIUM",HBO HITS2
-http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
 #EXTINF:-1  tvg-logo="https://i.ibb.co/kXn8ZJ9/hbosignatr.png" group-title="SUB PREMIUM",HBO SIGNATURE
 http://203.207.56.228/live/iptv006.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/kXn8ZJ9/hbosignatr.png" group-title="SUB PREMIUM",HBO SIGna-2
-http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
 #EXTINF:-1  tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="SUB PREMIUM",TVN Movies
 http://203.207.56.228/live/iptv009.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="SUB PREMIUM",TVN DRAMA
@@ -529,8 +521,6 @@ http://mu03.amzlive.net:8880/ZYX1M156/stkTYCQUpv/1933
 http://50.7.161.82:8278/SetOne/playlist.m3u8?tid=m02000000000014244954&ct=17982&tsum=2a160ea054855b501a39a31ef6e18cb8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="SUB PREMIUM",FOX-MOVIE-Premium
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="SUB PREMIUM",FOX-MOVIE SD
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="SUB PREMIUM",MOVIE3 CN
 http://hls-ott-zhibo.wasu.tv/live/264/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="SUB PREMIUM",MOVIE4 CN
@@ -1045,6 +1035,71 @@ https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
 
 
+#EXTINF:-1  group-title="Premium Akun",FOX FAMILY
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
+#EXTINF:-1  group-title="Premium Akun",FOX MOVIES
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
+#EXTINF:-1  group-title="Premium Akun",CinemAX
+http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
+#EXTINF:-1  group-title="Premium Akun",HBO SIGNATURE
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nnNzMrW/hbofam.png" group-title="Premium Akun",HBO FAMILY2
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co/FJPtGSG/hbihit.png" group-title="Premium Akun",HBO HITS2
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BTs9vxy/afc.png" group-title="Premium Akun",AFC
+http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
+#EXTINF:-1  group-title="Premium Akun",HBO
+http://209.126.102.141:80/sara123/sara123/3463
+#EXTINF:-1  group-title="Premium Akun",HBO2
+http://209.126.102.141:80/sara123/sara123/3464
+#EXTINF:-1  group-title="Premium Akun",ESPN
+http://209.126.102.141:80/sara123/sara123/3674
+#EXTINF:-1  group-title="Premium Akun",ESPN2
+http://209.126.102.141:80/sara123/sara123/3675
+#EXTINF:-1  group-title="Premium Akun",FOXSPORT1
+http://209.126.102.141:80/sara123/sara123/3693
+#EXTINF:-1  group-title="Premium Akun",FOXsport2
+http://209.126.102.141:80/sara123/sara123/3694
+#EXTINF:-1  group-title="Premium Akun",Foxsport3
+http://209.126.102.141:80/sara123/sara123/3695
+#EXTINF:-1  group-title="Premium Akun",gft
+http://209.126.102.141:80/sara123/sara123/5179
+#EXTINF:-1  group-title="Premium Akun",tre
+http://209.126.102.141:80/sara123/sara123/3687
+#EXTINF:-1  group-title="Premium Akun",fghy
+http://209.126.102.141:80/sara123/sara123/5177
+#EXTINF:-1  group-title="Premium Akun",sss
+http://209.126.102.141:80/sara123/sara123/5122
+#EXTINF:-1  group-title="Premium Akun",bnbn
+p2p://106.186.121.94:8258/560791f10002259d587cb07a546d717c
+#EXTINF:-1  group-title="Premium Akun",tyry
+http://iliketot.dyndns.tv/71f197de056e499a85265c03b44bdab1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1  group-title="Premium Akun",bnc
+http://streamer.in-lan.net.ua:8080/ch0195
+#EXTINF:-1  group-title="Premium Akun",hfgh
+http://209.126.102.141:80/sara123/sara123/3441
+#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 1
+http://live.faucontv.com:8000/Salwa/Salwa/6596
+#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 2
+http://live.faucontv.com:8000/Salwa/Salwa/6597
+#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 3
+http://live.faucontv.com:8000/Salwa/Salwa/6598
+#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 4
+http://live.faucontv.com:8000/Salwa/Salwa/6599
+#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 5
+http://live.faucontv.com:8000/Salwa/Salwa/6600
+#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 6
+http://live.faucontv.com:8000/Salwa/Salwa/6601
+#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 7
+http://live.faucontv.com:8000/Salwa/Salwa/6602
+#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 8
+http://live.faucontv.com:8000/Salwa/Salwa/6603
+#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 9
+http://live.faucontv.com:8000/Salwa/Salwa/6604
+#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 10
+http://live.faucontv.com:8000/Salwa/Salwa/6605
+
 
 #EXTM3U
 #EXTINF:-1  tvg-logo="" group-title="LAIN-LAIN",SSS9
@@ -1134,67 +1189,6 @@ http://109.236.85.100:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:-1  group-title="LAIN-LAIN",RedbulTV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
-
-#EXTINF:-1  group-title="Premium Akun",FOX FAMILY
-http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
-#EXTINF:-1  group-title="Premium Akun",FOX MOVIES
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
-#EXTINF:-1  group-title="Premium Akun",Test
-http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
-#EXTINF:-1  group-title="Premium Akun",Test2
-http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
-#EXTINF:-1  group-title="Premium Akun",Test3
-http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
-#EXTINF:-1  group-title="Premium Akun",HBO
-http://209.126.102.141:80/sara123/sara123/3463
-#EXTINF:-1  group-title="Premium Akun",HBO2
-http://209.126.102.141:80/sara123/sara123/3464
-#EXTINF:-1  group-title="Premium Akun",ESPN
-http://209.126.102.141:80/sara123/sara123/3674
-#EXTINF:-1  group-title="Premium Akun",ESPN2
-http://209.126.102.141:80/sara123/sara123/3675
-#EXTINF:-1  group-title="Premium Akun",FOXSPORT1
-http://209.126.102.141:80/sara123/sara123/3693
-#EXTINF:-1  group-title="Premium Akun",FOXsport2
-http://209.126.102.141:80/sara123/sara123/3694
-#EXTINF:-1  group-title="Premium Akun",Foxsport3
-http://209.126.102.141:80/sara123/sara123/3695
-#EXTINF:-1  group-title="Premium Akun",gft
-http://209.126.102.141:80/sara123/sara123/5179
-#EXTINF:-1  group-title="Premium Akun",tre
-http://209.126.102.141:80/sara123/sara123/3687
-#EXTINF:-1  group-title="Premium Akun",fghy
-http://209.126.102.141:80/sara123/sara123/5177
-#EXTINF:-1  group-title="Premium Akun",sss
-http://209.126.102.141:80/sara123/sara123/5122
-#EXTINF:-1  group-title="Premium Akun",bnbn
-p2p://106.186.121.94:8258/560791f10002259d587cb07a546d717c
-#EXTINF:-1  group-title="Premium Akun",tyry
-http://iliketot.dyndns.tv/71f197de056e499a85265c03b44bdab1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
-#EXTINF:-1  group-title="Premium Akun",bnc
-http://streamer.in-lan.net.ua:8080/ch0195
-#EXTINF:-1  group-title="Premium Akun",hfgh
-http://209.126.102.141:80/sara123/sara123/3441
-#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 1
-http://live.faucontv.com:8000/Salwa/Salwa/6596
-#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 2
-http://live.faucontv.com:8000/Salwa/Salwa/6597
-#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 3
-http://live.faucontv.com:8000/Salwa/Salwa/6598
-#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 4
-http://live.faucontv.com:8000/Salwa/Salwa/6599
-#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 5
-http://live.faucontv.com:8000/Salwa/Salwa/6600
-#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 6
-http://live.faucontv.com:8000/Salwa/Salwa/6601
-#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 7
-http://live.faucontv.com:8000/Salwa/Salwa/6602
-#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 8
-http://live.faucontv.com:8000/Salwa/Salwa/6603
-#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 9
-http://live.faucontv.com:8000/Salwa/Salwa/6604
-#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 10
-http://live.faucontv.com:8000/Salwa/Salwa/6605
 
 
 #EXTINF:-1  group-title="MOVIE ON DEMAND",RUnningMan E476

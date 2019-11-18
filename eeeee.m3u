@@ -212,6 +212,8 @@ http://122.129.115.21:1935/edgedol/_definst_/tao130/playlist.m3u8
 http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",DavinciKids
 http://213.174.8.7:11111/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KIDS",DavinciKids2
+https://kmklivestream-lh.akamaihd.net/i/davinci_ta_geo_id@303520/index_360_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1574134958~acl=%2fi%2f*~data=hdntl~hmac=a6e04fe059a9c4048d13954d86094fc93fb0c4417d6de92eb8230cf335caad9b
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Anime 1
 http://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1_mid.flv
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Larva
@@ -412,7 +414,8 @@ http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",MK TV
 http://stream1.ninmedia.tv/mktv/udp.stream_360p/playlist.m3u8
 
-
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",LOVE NATURE
+https://kmklivestream-lh.akamaihd.net/i/lovenature_ta_geo_id@303520/index_360_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1574129106~acl=%2fi%2f*~data=hdntl~hmac=5cdb0055869b7f580870e3c154d8c3f0a9432afcc0c5df5437b07a35b08a255d
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary
 http://210.210.155.35/qwr9ew/s/s20/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC EARTH

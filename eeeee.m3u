@@ -1135,8 +1135,16 @@ http://109.236.85.100:8081/SilenceTV/live/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
 
-#EXTINF:-1  group-title="Premium Akun",MAXprime
-http://209.126.102.141:80/sara123/sara123/3352
+#EXTINF:-1  group-title="Premium Akun",FOX FAMILY
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
+#EXTINF:-1  group-title="Premium Akun",FOX MOVIES
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
+#EXTINF:-1  group-title="Premium Akun",Test
+http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
+#EXTINF:-1  group-title="Premium Akun",Test2
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
+#EXTINF:-1  group-title="Premium Akun",Test3
+http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
 #EXTINF:-1  group-title="Premium Akun",HBO
 http://209.126.102.141:80/sara123/sara123/3463
 #EXTINF:-1  group-title="Premium Akun",HBO2

@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1  tvg-logo="https://i.ibb.co/L0x4cC6/net.jpg" group-title="STASIUN NASIONAL",NET. TV
 http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1  tvg-logo="https://i.ibb.co/L0x4cC6/net.jpg" group-title="STASIUN NASIONAL",NET. TV(2)
@@ -761,9 +761,9 @@ https://tv.xpeer-cdn.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1  group-title="SPORTS",BeinRUGBY
 https://live.youlive-cdn.com/RugbyWorldCup/chunklist.m3u8
 #EXTINF:-1  group-title="SPORTS",TRUE Premier1HD
-https://live.youlive-cdn.com/02_PremierHD1_480p/chunklist.m3u8
+https://tvrealtime.com/live/BEIN1/playlist.m3u8
 #EXTINF:-1  group-title="SPORTS",TRUE Premier2HD
-https://live.youlive-cdn.com/02_PremierHD2_480p/chunklist.m3u8
+https://tvrealtime.com/live/BEIN2/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ZM3FtZp/bein1.png" group-title="SPORTS",BEIN4 SD
 http://iptv2.premium-stv.com:8888/live/BEIN4/SSMDSHFKod/43.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ZM3FtZp/bein1.png" group-title="SPORTS",BEIN3 SD
@@ -1069,6 +1069,12 @@ http://209.126.102.141:80/sara123/sara123/3693
 http://209.126.102.141:80/sara123/sara123/3694
 #EXTINF:-1  group-title="Premium Akun",[BR]Foxsport3
 http://209.126.102.141:80/sara123/sara123/3695
+#EXTINF:-1  group-title="Premium Akun",Foxsport1
+https://tvrealtime.com/live/FOXSPORT1/playlist.m3u8
+#EXTINF:-1  group-title="Premium Akun",Foxsport2
+https://tvrealtime.com/live/FOXSPORT2/playlist.m3u8
+#EXTINF:-1  group-title="Premium Akun",Foxsport3
+https://tvrealtime.com/live/FOXSPORT3/playlist.m3u8
 #EXTINF:-1  group-title="Premium Akun",FOXPremium ACTION
 http://209.126.102.141:80/sara123/sara123/5179
 #EXTINF:-1  group-title="Premium Akun",FOXPremium Classic SD

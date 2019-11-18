@@ -1053,32 +1053,24 @@ http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B73
 http://209.126.102.141:80/sara123/sara123/3463
 #EXTINF:-1  group-title="Premium Akun",HBO2
 http://209.126.102.141:80/sara123/sara123/3464
-#EXTINF:-1  group-title="Premium Akun",ESPN
+#EXTINF:-1  group-title="Premium Akun",[BR]ESPN
 http://209.126.102.141:80/sara123/sara123/3674
-#EXTINF:-1  group-title="Premium Akun",ESPN2
+#EXTINF:-1  group-title="Premium Akun",[BR]ESPN2
 http://209.126.102.141:80/sara123/sara123/3675
-#EXTINF:-1  group-title="Premium Akun",FOXSPORT1
+#EXTINF:-1  group-title="Premium Akun",[BR]FOXsport1
 http://209.126.102.141:80/sara123/sara123/3693
-#EXTINF:-1  group-title="Premium Akun",FOXsport2
+#EXTINF:-1  group-title="Premium Akun",[BR]FOXsport2
 http://209.126.102.141:80/sara123/sara123/3694
-#EXTINF:-1  group-title="Premium Akun",Foxsport3
+#EXTINF:-1  group-title="Premium Akun",[BR]Foxsport3
 http://209.126.102.141:80/sara123/sara123/3695
-#EXTINF:-1  group-title="Premium Akun",gft
+#EXTINF:-1  group-title="Premium Akun",FOXPremium ACTION
 http://209.126.102.141:80/sara123/sara123/5179
-#EXTINF:-1  group-title="Premium Akun",tre
+#EXTINF:-1  group-title="Premium Akun",FOXPremium Classic SD
 http://209.126.102.141:80/sara123/sara123/3687
-#EXTINF:-1  group-title="Premium Akun",fghy
+#EXTINF:-1  group-title="Premium Akun",FOXPremium Classic
 http://209.126.102.141:80/sara123/sara123/5177
-#EXTINF:-1  group-title="Premium Akun",sss
-http://209.126.102.141:80/sara123/sara123/5122
-#EXTINF:-1  group-title="Premium Akun",bnbn
-p2p://106.186.121.94:8258/560791f10002259d587cb07a546d717c
-#EXTINF:-1  group-title="Premium Akun",tyry
-http://iliketot.dyndns.tv/71f197de056e499a85265c03b44bdab1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1  group-title="Premium Akun",bnc
 http://streamer.in-lan.net.ua:8080/ch0195
-#EXTINF:-1  group-title="Premium Akun",hfgh
-http://209.126.102.141:80/sara123/sara123/3441
 #EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 1
 http://live.faucontv.com:8000/Salwa/Salwa/6596
 #EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 2

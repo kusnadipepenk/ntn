@@ -429,12 +429,6 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
 http://190.2.154.164/TV0685
 #EXTINF:-1  tvg-logo="https://i.ibb.co/CPg9BPY/natgeopeo.png" group-title="KNOWLEDGE",NatGeo-People 
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/CPg9BPY/natgeopeo.png" group-title="KNOWLEDGE",NatGeoPeople SD
-http://190.2.154.164/TV0679
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Tbk2Dsc/hgtv.jpg" group-title="KNOWLEDGE",HGTV
-http://23.237.22.82:8086/udp/127.0.0.1:56069
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Tbk2Dsc/hgtv.jpg" group-title="KNOWLEDGE",HGTV2
-https://cvtv.cvalley.net/hls/HGTVHD/pkgHGTVLo.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/7j39sz1/histo.jpg" group-title="KNOWLEDGE",HISTORY CHANNEL-2
 http://livecdnh1.tvanywhere.ae/hls/h2/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/7j39sz1/histo.jpg" group-title="KNOWLEDGE",HISTORY JAPAN
@@ -459,6 +453,10 @@ http://203.207.56.228/live/iptv019.m3u8
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet UAE
 http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/Tbk2Dsc/hgtv.jpg" group-title="KNOWLEDGE",HGTV
+http://23.237.22.82:8086/udp/127.0.0.1:56069
+#EXTINF:-1  tvg-logo="https://i.ibb.co/Tbk2Dsc/hgtv.jpg" group-title="KNOWLEDGE",HGTV2
+https://cvtv.cvalley.net/hls/HGTVHD/pkgHGTVLo.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",CrimeInvestigation
 http://203.154.243.31:15001
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",LIFETIME

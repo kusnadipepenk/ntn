@@ -1136,8 +1136,8 @@ http://iptv.gdelyn.com:8095/live/GdelynTV/085280958095/11.ts
 http://iptv.gdelyn.com:8095/live/GdelynTV/085280958095/12.ts
 #EXTINF:-1 group-title="LynTV",13
 http://iptv.gdelyn.com:8095/live/GdelynTV/085280958095/13.ts
-#EXTINF:-1 group-title="LynTV",14
-http://iptv.gdelyn.com:8095/live/GdelynTV/085280958095/14.ts
+#EXTINF:-1 group-title="LynTV",FOX MOVIE ID
+http://104.194.8.167/foxmovie.m3u8?tm=1574247985&key=9a615a56f2729bcce484d63a06fd4cdf
 #EXTINF:-1 group-title="LynTV",FOX ID
 http://104.194.8.167/foxhd.m3u8?key=773016b5ebf3935651c9b7830e6b4c90&tm=1574245987
 #EXTINF:-1 group-title="LynTV",HBOFAM ID

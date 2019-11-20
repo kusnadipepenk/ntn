@@ -1140,8 +1140,8 @@ http://iptv.gdelyn.com:8095/live/GdelynTV/085280958095/13.ts
 http://iptv.gdelyn.com:8095/live/GdelynTV/085280958095/14.ts
 #EXTINF:-1 group-title="LynTV",15
 http://iptv.gdelyn.com:8095/live/GdelynTV/085280958095/15.ts
-#EXTINF:-1 group-title="LynTV",17
-http://104.194.8.167/hbofamily.m3u8?key=c6546123939e0e1fb2c28c4ed6a8b142&tm=157424597
+#EXTINF:-1 group-title="LynTV",18
+http://104.194.8.167/hbofamily.m3u8?key=c6546123939e0e1fb2c28c4ed6a8b142&tm=1574245977
 
 
 #EXTM3U

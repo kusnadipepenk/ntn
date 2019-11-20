@@ -1132,7 +1132,16 @@ http://iptv.gdelyn.com:8095/live/GdelynTV/085280958095/9.ts
 http://iptv.gdelyn.com:8095/live/GdelynTV/085280958095/10.ts
 #EXTINF:-1 group-title="LynTV",11
 http://iptv.gdelyn.com:8095/live/GdelynTV/085280958095/11.ts
-
+#EXTINF:-1 group-title="LynTV",12
+http://iptv.gdelyn.com:8095/live/GdelynTV/085280958095/12.ts
+#EXTINF:-1 group-title="LynTV",13
+http://iptv.gdelyn.com:8095/live/GdelynTV/085280958095/13.ts
+#EXTINF:-1 group-title="LynTV",14
+http://iptv.gdelyn.com:8095/live/GdelynTV/085280958095/14.ts
+#EXTINF:-1 group-title="LynTV",15
+http://iptv.gdelyn.com:8095/live/GdelynTV/085280958095/15.ts
+#EXTINF:-1 group-title="LynTV",16
+http://iptv.gdelyn.com:8095/live/GdelynTV/085280958095/16.ts
 
 
 #EXTM3U

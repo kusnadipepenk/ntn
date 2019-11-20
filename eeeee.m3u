@@ -1130,12 +1130,12 @@ http://iptv.gdelyn.com:8095/live/GdelynTV/085280958095/8.ts
 http://peer2.savitar.tv/AMC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAxOSAyOjMzOjE3IFBNJmhhc2hfdmFsdWU9Y1FnWGJMaUd6UHJPZVZId0U0V2xTUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:-1 group-title="LynTV",10
 http://iptv.gdelyn.com:8095/live/GdelynTV/085280958095/10.ts
-#EXTINF:-1 group-title="LynTV",11
-http://iptv.gdelyn.com:8095/live/GdelynTV/085280958095/11.ts
-#EXTINF:-1 group-title="LynTV",12
-http://iptv.gdelyn.com:8095/live/GdelynTV/085280958095/12.ts
-#EXTINF:-1 group-title="LynTV",13
-http://iptv.gdelyn.com:8095/live/GdelynTV/085280958095/13.ts
+#EXTINF:-1 group-title="LynTV",CINEMAX ID
+http://104.194.8.167/cinemax.m3u8?tm=1574248677&key=cf35f318ce93a22d330c38eaab4ce114
+#EXTINF:-1 group-title="LynTV",Warnertv
+http://104.194.8.167/warnatv.m3u8?tm=1574248923&key=7048e75acb141e9ac46614d1d157df53
+#EXTINF:-1 group-title="LynTV",SYFY
+http://104.194.8.167/syfyhd.m3u8?tm=1574248746&key=f09ec2f40848843c9f4e73926f2f74e1
 #EXTINF:-1 group-title="LynTV",FOX MOVIE ID
 http://104.194.8.167/foxmovie.m3u8?tm=1574247985&key=9a615a56f2729bcce484d63a06fd4cdf
 #EXTINF:-1 group-title="LynTV",FOX ID

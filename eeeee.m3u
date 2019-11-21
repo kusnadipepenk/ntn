@@ -574,12 +574,8 @@ http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2
 #EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-19
 http://tx.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-20
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-21
 http://tx.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-0-1.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-22
-http://aldirect.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-23
+#EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-21
 http://cn-gdgz4-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_258376025_4325437.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",Channel 8
 http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
@@ -1264,3 +1260,9 @@ http://
 http://fr11.uploadcenter.com:8080/d/q3awfggfu4wawhvequogx5g7cza5vq5pdiqm7isgqguhyg52ty5sf77hqealmkxv5fvsay45/[drakorkita.com]%20TToN.E25-26.ID.360p.mp4
 #EXTINF:-1 group-title="MOVIE ON DEMAND",Tale OF Nokdu  E12
 http://fr11.uploadcenter.com:8080/d/q3aw5g6fu4wawhvequohd7mejpwoupuznzdmq2wcxpyyon2ucjy54lk3oxbbafi354nypr5v/[drakorkita.com]%20ToN.E23-24.ID.360p.mp4
+#EXTINF:-1  group-title="MOVIE ON DEMAND",====================
+http://
+#EXTINF:-1 group-title="MOVIE ON DEMAND",LEVERAGE E9
+http://fr11.uploadcenter.com:8080/d/q3a7dh6fu4wawhvequoh33gkdxawujp53czxjupyp2pwy42sy3sorwrgyvc4ksn72b5wz3f4/[drakorkita.com]%20Leverage.E09.ID.360p.mp4
+#EXTINF:-1 group-title="MOVIE ON DEMAND",LEVERAGE E10
+http://fr11.uploadcenter.com:8080/d/q3a7fh6fu4wawhvequog77wdlv5pcm65j5nnqqfxdxr4l7bf6mlbuojre76pc6snbv2tfejx/[drakorkita.com]%20Leverage.E10.ID.360p.mp4

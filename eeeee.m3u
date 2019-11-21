@@ -573,6 +573,14 @@ http://aldirect.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-19
 http://tx.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-20
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-21
+http://tx.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-0-1.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-22
+http://aldirect.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-23
+http://cn-gdgz4-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_258376025_4325437.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",Channel 8
 http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/PYX6fWm/cinem.png" group-title="SUB PREMIUM",CINEMAX sd

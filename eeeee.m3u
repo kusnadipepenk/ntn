@@ -1114,18 +1114,18 @@ http://live.faucontv.com:8000/Salwa/Salwa/6604
 #EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 10
 http://live.faucontv.com:8000/Salwa/Salwa/6605
 
-#EXTINF:-1 group-title="LynTV",7
-http://iptv.gdelyn.com:8095/live/GdelynTV/085280958095/7.ts
-#EXTINF:-1 group-title="LynTV",1
-http://iptv.gdelyn.com:8095/live/GdelynTV/085280958095/1.ts
-#EXTINF:-1 group-title="LynTV",2
-http://iptv.gdelyn.com:8095/live/GdelynTV/085280958095/2.ts
-#EXTINF:-1 group-title="LynTV",3
-http://iptv.gdelyn.com:8095/live/GdelynTV/085280958095/3.ts
-#EXTINF:-1 group-title="LynTV",4
-http://iptv.gdelyn.com:8095/live/GdelynTV/085280958095/4.ts
-#EXTINF:-1 group-title="LynTV",5
-http://iptv.gdelyn.com:8095/live/GdelynTV/085280958095/5.ts
+#EXTINF:-1 group-title="LynTV",American Horor
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 group-title="LynTV",FilmRise Classic
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1 group-title="LynTV",FilmRise Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+#EXTINF:-1 group-title="LynTV",FilmRIse Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1 group-title="LynTV",FilMrise Movie
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
+#EXTINF:-1 group-title="LynTV",Hunt Channel
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="LynTV",6
 http://iptv.gdelyn.com:8095/live/GdelynTV/085280958095/6.ts
 #EXTINF:-1 group-title="LynTV",8

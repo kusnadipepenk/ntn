@@ -1,0 +1,90 @@
+
+#EXTM3U
+#EXTINF:-1  tvg-logo="" group-title="LAIN-LAIN",SSS9
+http://122.155.180.8:5021/live/440
+#EXTINF:-1  tvg-logo="" group-title="LAIN-LAIN",MCM (Rusia)
+http://ott-cdn.ucom.am/s49/03.m3u8
+#EXTINF:-1  tvg-logo="" group-title="LAIN-LAIN",FINE LIVING
+http://ott-cdn.ucom.am/s51/03.m3u8
+#EXTINF:-1  tvg-logo="" group-title="LAIN-LAIN",TBU (Rusia)
+http://ott-cdn.ucom.am/s54/03.m3u8
+#EXTINF:-1  tvg-logo="" group-title="LAIN-LAIN",HBO (Rusia)
+http://ott-cdn.ucom.am/s64/03.m3u8
+#EXTINF:-1  tvg-logo="" group-title="LAIN-LAIN",Movie (Rusia)
+http://ott-cdn.ucom.am/s66/03.m3u8
+#EXTINF:-1  tvg-logo="" group-title="LAIN-LAIN",FastBox
+http://ott-cdn.ucom.am/s79/03.m3u8
+#EXTINF:-1  tvg-logo="" group-title="LAIN-LAIN",TV Rusia
+http://ott-cdn.ucom.am/s92/03.m3u8
+#EXTINF:-1  tvg-logo="" group-title="LAIN-LAIN",TV1000
+http://ott-cdn.ucom.am/s91/03.m3u8
+#EXTINF:-1  tvg-logo="" group-title="LAIN-LAIN",Movie2 (Rusia)
+http://ott-cdn.ucom.am/s94/03.m3u8
+#EXTINF:-1  tvg-logo="" group-title="LAIN-LAIN",Music Classic
+http://ott-cdn.ucom.am/s35/03.m3u8
+#EXTINF:-1  tvg-logo="" group-title="LAIN-LAIN",Music
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1  group-title="LAIN-LAIN",TVRusia1
+http://ott-cdn.ucom.am/s10/01.m3u8
+#EXTINF:-1  group-title="LAIN-LAIN",TVRusia-2
+http://ott-cdn.ucom.am/s12/01.m3u8
+#EXTINF:-1  group-title="LAIN-LAIN",Food-TVRusia
+http://ott-cdn.ucom.am/s19/01.m3u8
+#EXTINF:-1  group-title="LAIN-LAIN",TVRusia-3
+http://ott-cdn.ucom.am/s2/01.m3u8
+#EXTINF:-1  group-title="LAIN-LAIN",TVRusia-4
+http://ott-cdn.ucom.am/s12/01.m3u8
+#EXTINF:-1  group-title="LAIN-LAIN",1dfa
+http://210.210.155.69/s/s60/S4/mnf.m3u8
+#EXTINF:-1  group-title="LAIN-LAIN",2dfagadsa
+http://210.210.155.69/s/s61/S4/mnf.m3u8
+#EXTINF:-1  group-title="LAIN-LAIN",FILMY
+http://210.210.155.35/x6bnqe/s/s62/S4/mnf.m3u8
+#EXTINF:-1  group-title="LAIN-LAIN",RAI TV
+http://210.210.155.35/x6bnqe/s/s63/S4/mnf.m3u8
+#EXTINF:-1  group-title="LAIN-LAIN",MNMUSIC
+http://210.210.155.35/x6bnqe/s/s64/S4/mnf.m3u8
+#EXTINF:-1  group-title="LAIN-LAIN",LUXE TV
+http://210.210.155.35/x6bnqe/s/s65/S4/mnf.m3u8
+#EXTINF:-1  group-title="LAIN-LAIN",7sder
+http://210.210.155.35/x6bnqe/s/s70/S4/mnf.m3u8
+#EXTINF:-1  group-title="LAIN-LAIN",TRT WORLD
+http://210.210.155.35/x6bnqe/s/s72/S4/mnf.m3u8
+#EXTINF:-1  group-title="LAIN-LAIN",TELENOVELA
+http://210.210.155.35/x6bnqe/s/s81/S4/mnf.m3u8
+#EXTINF:-1  group-title="LAIN-LAIN",BALI TV
+http://210.210.155.35/x6bnqe/s/s82/S4/mnf.m3u8
+#EXTINF:-1  group-title="LAIN-LAIN",NEWTV
+http://183.230.80.11:80/ysten-business/live/jingsongxy/yst.m3u8
+#EXTINF:-1  group-title="LAIN-LAIN",DCN
+http://video.oct.dc.gov/out/u/21_4.m3u8
+#EXTINF:-1  group-title="LAIN-LAIN",DCC
+http://video.oct.dc.gov/out/u/15_3.m3u8
+#EXTINF:-1  group-title="LAIN-LAIN",MTV
+http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/153/index.m3u8
+#EXTINF:-1  group-title="LAIN-LAIN",M-Channel
+http://iliketot.dyndns.tv:80/97f3052bec96482584c5de84dda0d745.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1  group-title="LAIN-LAIN",CHINA TV
+http://l.cztvcloud.com/channels/lantian/channel05/360p.m3u8
+#EXTINF:-1  group-title="LAIN-LAIN",CBN CH.
+http://42.48.60.248:8082/live/gqts-800k.m3u8
+#EXTINF:-1  group-title="LAIN-LAIN",XITE Music
+http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/chunklist_w770172263.m3u8
+#EXTINF:-1  group-title="LAIN-LAIN",Discovery Investigation
+http://80.80.160.168/live/5/1000000/live.m3u8
+#EXTINF:-1  group-title="LAIN-LAIN",Green Planet
+http://80.80.160.168/live/4/1000000/live.m3u8
+#EXTINF:-1  group-title="LAIN-LAIN",Travel channel
+http://80.80.160.168/live/3/1000000/live.m3u8
+#EXTINF:-1  group-title="LAIN-LAIN",AnimPlanet channel
+http://80.80.160.168/live/1/1000000/live.m3u8
+#EXTINF:-1  group-title="LAIN-LAIN",BYU TV
+http://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
+#EXTINF:-1  group-title="LAIN-LAIN",MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smill:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+#EXTINF:-1  group-title="LAIN-LAIN",Silence TV
+http://109.236.85.100:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1  group-title="LAIN-LAIN",RedbulTV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:-1  group-title="LAIN-LAIN",Reggh
+rtmp://118.97.96.17:1935/discover/natgeowild_4

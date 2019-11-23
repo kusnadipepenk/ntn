@@ -1133,6 +1133,10 @@ http://50.7.161.82:8278/Foxfamily/playlist.m3u8?tid=17460999&tsum=0ff9d1176219ef
 http://50.7.161.82:8278/Hbohd/playlist.m3u8?tid=11736999&tsum=bbed50aebb0a5a902fda10f668d03bd3
 #EXTINF:-1 group-title="LynTV",[MY]HBO SIGNATURE
 http://50.7.161.82:8278/Nbatv/playlist.m3u8?tid=16938999&tsum=5cfe4e21a707b84f67c1a3748d2742a2
+#EXTINF:-1 group-title="LynTV",[MY]Discovery CH
+http://50.7.161.82:8278/Discovery/playlist.m3u8?tid=15768999&tsum=800bce8456006d0d5b2409d52d39079a
+#EXTINF:-1 group-title="LynTV",[MY]National Geographic
+http://50.7.161.82:8278/Natgeo/playlist.m3u8?tid=16137999&tsum=29cd8304ee0b0f4b29c9f0c3c6d5c3ef
 #EXTINF:-1 group-title="LynTV",[MY]Skysport Premier League
 http://185.132.176.172:8278/tiankongepl/playlist.m3u8?tid=11097999&tsum=f3899902c8d48231d9a04dca699ac36e
 #EXTINF:-1 group-title="LynTV",[MY]Skysport FOOTBALL
@@ -1141,6 +1145,10 @@ http://185.132.176.172:8278/tiankongfootball/playlist.m3u8?tid=10107999&tsum=101
 http://185.132.176.172:8278/tiankongarena/playlist.m3u8?tid=15966999&tsum=6aa05edeed91cc3370630a60bb0c0b3e
 
 
+#EXTINF:-1  group-title="Server ASIA",1
+http://104.194.8.167/wpzqfgph.m3u8?tm=1574507122&key=3de1b8f62af629b2289716b158fcdc4c
+#EXTINF:-1, ertrey
+http://104.194.8.167/fvqcokeh.m3u8?tm=1574507131&key=92d9a91415aae23d1e19bc8dc6c2fb3f
 
 #EXTINF:-1  group-title="MOVIE ON DEMAND",RUnningMan E477
 http://fr11.uploadcenter.com:8080/d/q3a4bh6fu4wawhvequohf3mjcmco2aqixuhnt4iwe7mppg5m4fm545j45urdh7readrfjql5/[drakorkita.com]%20RM.E477.ID.360p.mp4

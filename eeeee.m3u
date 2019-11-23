@@ -158,8 +158,6 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/03.m3u8
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p2rYxCW/baby.jpg" group-title="KIDS",BabyTV-UAE
 http://livecdnh1.tvanywhere.ae/hls/baby/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",DISNEY KOREA
-http://122.129.115.21:1935/edgedol/_definst_/tao112/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",DISNEY-CHANELS
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=B15859441EB3E7895A9B03F0B97507D8149507A0&profile=pass
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",DISNEY CHANNEL
@@ -256,8 +254,6 @@ http://210.210.155.66/h/h04/02.m3u8
 http://45.126.83.51/session/8081835c-6ff5-11e9-8f3a-bfbd9127604e/uq2663/h/h08/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="PREMIUM INDONESIA",K-Plus
 http://210.210.155.35/session/f74a7c90-7000-11e9-bce1-800ebf0790ba/uq2663/h/h08/02.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="PREMIUM INDONESIA",KPlus3
-http://210.210.155.66/h/h08/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/jWjxD83/sonson.jpg" group-title="PREMIUM INDONESIA",SonyOne
 http://210.210.155.35/uq2663/h/h143/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/jWjxD83/sonson.jpg" group-title="PREMIUM INDONESIA",SonyOne-3
@@ -280,8 +276,6 @@ http://45.126.83.51/session/4fb462a0-6ff8-11e9-84c1-90fcb976a378/uq2663/h/h37/02
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist_b906000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/56yF6Zx/simin.jpg" group-title="PREMIUM INDONESIA",Sinema Indonesia
 http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",IMC
-http://203.207.56.228/live/iptv035.m3u8
 #EXTINF:-1  group-title="PREMIUM INDONESIA",HOME AND LIVING
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b906000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/fdn5j4V/tic.jpg" group-title="PREMIUM INDONESIA",The Indonesian Channel
@@ -296,25 +290,17 @@ http://210.210.155.35/uq2663/h/h19/02.m3u8
 http://210.210.155.66/h/h141/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN
 http://210.210.155.35/uq2663/h/h141/02.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN3
-http://210.210.155.66/h/h141/02.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1g90zcsomWySb8gLMnKJLuU7-o4qKy5s6" group-title="PREMIUM INDONESIA",SonyChannel-2
 http://210.210.155.35/uq2663/h/h142/02.m3u8
 #EXTINF:-1  group-title="PREMIUM INDONESIA",CELESTIAL MOVIE
 http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1kAAMxtPmEZiIdwPi2TFxdhPlW6f5Dpso" group-title="PREMIUM INDONESIA",CELESTIALMOVIE2
 http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/02.m3u8
-#EXTINF:-1  group-title="PREMIUM INDONESIA",CELESTIAL MOVIE3
-http://210.210.155.69/s/s33/S4/mnf.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vvKpnbc/kixx.jpg" group-title="PREMIUM INDONESIA",KIX
 http://210.210.155.35/session/b32c7bf2-c313-11e8-9362-c81f66f89318/uq2663/h/h07/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vvKpnbc/kixx.jpg" group-title="PREMIUM INDONESIA",KIX(2)
 http://210.210.155.35/uq2663/h/h07/02.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vvKpnbc/kixx.jpg" group-title="PREMIUM INDONESIA",KIX(3)
-http://210.210.155.66/h/h141/07.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/NsvtNb8/mycnema.jpg" group-title="PREMIUM INDONESIA",MY CINEMA
-http://210.210.155.69/s/s31/S4/mnf.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/NsvtNb8/mycnema.jpg" group-title="PREMIUM INDONESIA",MY CINEMA-2
 http://210.210.155.35/session/66fe6876-49f5-11e9-94c5-9ba29f243682/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/PYPLz36/trill.png" group-title="PREMIUM INDONESIA",THRILL
 http://210.210.155.35/session/453c7fb4-6a31-11e9-b1c1-bf03b175abaa/qwr9ew/s/s34/02.m3u8

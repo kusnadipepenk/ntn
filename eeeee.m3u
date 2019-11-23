@@ -407,12 +407,10 @@ http://203.207.56.228/live/iptv001.m3u8
 http://220.158.149.28:9999/live/TV00000000000000000115@HHZT;LIVE
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo
 http://34.69.67.123:8888/tvnow/http://sv5.dailymotion.com.1cdn.host/live/natgeo/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo(H)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/03.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/yR0ZTTB/natgeowild.png" group-title="KNOWLEDGE",Nat-Geo-WILD(h) 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/yR0ZTTB/natgeowild.png" group-title="KNOWLEDGE",Nat-Geo-WILD 
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/yR0ZTTB/natgeowild.png" group-title="KNOWLEDGE",NatGeo-WILD(sd)
-http://190.2.154.164/TV0685
 #EXTINF:-1  tvg-logo="https://i.ibb.co/CPg9BPY/natgeopeo.png" group-title="KNOWLEDGE",NatGeo-People 
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/7j39sz1/histo.jpg" group-title="KNOWLEDGE",HISTORY CHANNEL-2
@@ -509,17 +507,17 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 http://hls-ott-zhibo.wasu.tv/live/264/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="SUB PREMIUM",MOVIE4 CN
 http://hls-ott-zhibo.wasu.tv/live/305/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="SUB PREMIUM",FOX-Action TH
+#EXTINF:-1  tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="SUB PREMIUM",[TH]FOX-Action
 http://iliketot.dyndns.tv/6744e98748214c32912a46d1c7277d55.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
-#EXTINF:-1  tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="SUB PREMIUM",FOX Action
+#EXTINF:-1  tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="SUB PREMIUM",[TH]FOX Action
 http://iliketot.dyndns.tv/206105b34a1c44b886c6cd3c59105803.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTggNDo0Mzo1OCBBTSZoYXNoX3ZhbHVlPW9oSGErRXNZcXAxSlhaRTJoSTdFWnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zbW9uZzExfDgwNXx1cGxheXwxNTMzNzg5ODM4fDE3MS41LjExMS4xMjg=
-#EXTINF:-1  tvg-logo="https://i.ibb.co/1RHVFhx/foxcrime.png" group-title="SUB PREMIUM",FOXCRIME1
+#EXTINF:-1  tvg-logo="https://i.ibb.co/1RHVFhx/foxcrime.png" group-title="SUB PREMIUM",[TH]FOXCRIME1
 http://27.254.149.109:8081/tumlive/Foxcrime/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/1RHVFhx/foxcrime.png" group-title="SUB PREMIUM",FOXCRIME
+#EXTINF:-1  tvg-logo="https://i.ibb.co/1RHVFhx/foxcrime.png" group-title="SUB PREMIUM",[TH]FOXCRIME
 http://iliketot.dyndns.tv:80/48773319e9324602b258e3f1d33ec111.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
-#EXTINF:-1  tvg-logo="https://i.ibb.co/LYVcCX3/foxlife.png" group-title="SUB PREMIUM",FOXLive
+#EXTINF:-1  tvg-logo="https://i.ibb.co/LYVcCX3/foxlife.png" group-title="SUB PREMIUM",[TH]FOXLive
 http://iliketot.dyndns.tv/65f7358b813048a0898f5677e1793cf9.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
-#EXTINF:-1  tvg-logo="https://i.ibb.co/LYVcCX3/foxlife.png" group-title="SUB PREMIUM",FOXLive1
+#EXTINF:-1  tvg-logo="https://i.ibb.co/LYVcCX3/foxlife.png" group-title="SUB PREMIUM",[TH]FOXLive1
 http://27.254.149.109:8081/tumlive/Foxlife/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-1
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1.m3u8
@@ -573,11 +571,11 @@ http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
 https://cvtv.cvalley.net/hls/AEHD/pkgAELo.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="SUB PREMIUM",FOX Family
 http://203.207.56.228/live/iptv035.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="SUB PREMIUM",FOX Family TH
+#EXTINF:-1  tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="SUB PREMIUM",[TH]FOX Family
 http://27.254.149.109:8081/tumlive/Foxfamily/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/JKCy6TJ/fox.png" group-title="SUB PREMIUM",FOX
 http://23.237.22.82:8086/udp/127.0.0.1:56163
-#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",FOX TH
+#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",[TH]FOX
 http://iliketot.dyndns.tv/d0bfb50bee3741a09c53f8099a64ad52.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",MBC MAX(2)
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
@@ -585,7 +583,7 @@ http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/02.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",FXX
 http://23.237.22.82:8086/udp/127.0.0.1:56251
-#EXTINF:-1  tvg-logo="https://i.ibb.co/GVMCyFt/fx.png" group-title="SUB PREMIUM",FX-Asia
+#EXTINF:-1  tvg-logo="https://i.ibb.co/GVMCyFt/fx.png" group-title="SUB PREMIUM",[TH]FX-Asia
 http://iliketot.dyndns.tv:80/2e0e4b05aa6e428593f3b45b710045b7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1  tvg-logo="https://i.ibb.co/tQNt4Bf/star.jpg" group-title="SUB PREMIUM",Starmovies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
@@ -631,9 +629,6 @@ http://122.129.115.21:1935/edgedol/_definst_/tao103/playlist.m3u8
 http://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",TNT
 http://23.237.22.82:8086/udp/127.0.0.1:56261
-#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",Pluto Movie
-http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
 
 
 #EXTM3U
@@ -889,8 +884,6 @@ http://54.180.143.6:9981/stream/channelid/645909077
 http://211.215.40.117:9981/stream/channelid/1045947740
 #EXTINF:-1  group-title="SOUTH KOREA",TVN2
 http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
-#EXTINF:-1  group-title="SOUTH KOREA",TVN
-http://edge.linknetott.swiftserve.com/channelgroup4/cg404production/ch339/03.m3u8
 #EXTINF:-1  group-title="SOUTH KOREA",SKY Korea
 http://122.129.115.21:1935/edgedol/_definst_/tao126/playlist.m3u8
 #EXTINF:-1  group-title="SOUTH KOREA",KBS WORLD

@@ -1106,7 +1106,7 @@ http://50.7.161.82:8278/Drama/playlist.m3u8?tid=18621999&tsum=bdd22fa078875aab46
 #EXTINF:-1 group-title="LynTV",[MY]HGTV
 http://50.7.161.82:8278/Hgtv/playlist.m3u8?tid=15840999&tsum=f1fe7dfecf74ec238942293297adf528
 #EXTINF:-1 group-title="LynTV",[MY]KBS WORLD
-http://50.7.161.82:8278/KBS/playlist.m3u8?tid=12411999&tsum=2c2fd0ee7876d6b8e52187b00919fae2
+http://50.7.161.82:8278/KBS/playlist.m3u8?tid=16173999&tsum=2c2fd0ee7876d6b8e52187b00919fae2
 #EXTINF:-1 group-title="LynTV",[MY]TVN
 http://50.7.161.82:8278/TVN/playlist.m3u8?tid=10314999&tsum=7105511c00cc37b098cba8f8c94cd418
 #EXTINF:-1 group-title="LynTV",[MY]OHk

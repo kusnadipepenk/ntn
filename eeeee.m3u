@@ -1106,11 +1106,11 @@ http://50.7.161.82:8278/Drama/playlist.m3u8?tid=18621999&tsum=bdd22fa078875aab46
 #EXTINF:-1 group-title="LynTV",[MY]HGTV
 http://50.7.161.82:8278/Hgtv/playlist.m3u8?tid=15840999&tsum=f1fe7dfecf74ec238942293297adf528
 #EXTINF:-1 group-title="LynTV",[MY]KBS WORLD
-http://50.7.161.82:8278/KBS/playlist.m3u8?tid=16173999&tsum=2c2fd0ee7876d6b8e52187b00919fae2
+http://50.7.161.82:8278/KBS/playlist.m3u8?tid=11511999&tsum=19f6290139a188db15e467c46375de8b
 #EXTINF:-1 group-title="LynTV",[MY]TVN
-http://50.7.161.82:8278/TVN/playlist.m3u8?tid=10314999&tsum=7105511c00cc37b098cba8f8c94cd418
+http://50.7.161.82:8278/TVN/playlist.m3u8?tid=12852999&tsum=406cf675977b4f45f9bb39f90d73431d
 #EXTINF:-1 group-title="LynTV",[MY]OHk
-http://185.132.176.172:8278/Ohk/playlist.m3u8?tid=12321999&tsum=7e0dbf248b1f0e8b2be4bdce46324e94
+http://185.132.176.172:8278/Ohk/playlist.m3u8?tid=15831999&tsum=42fb24618b91b24964da5e493d67b29b
 #EXTINF:-1 group-title="LynTV",[MY]DisneyXD
 http://198.16.106.58:8278/disneyxd_glo/playlist.m3u8?tid=12870999&tsum=d5fd54903c570574f80da4b6f41721b6
 #EXTINF:-1 group-title="LynTV",[MY]CINEMAX ID
@@ -1120,17 +1120,17 @@ http://104.194.8.167/warnatv.m3u8?tm=1574248923&key=7048e75acb141e9ac46614d1d157
 #EXTINF:-1 group-title="LynTV",[MY]SYFY
 http://198.16.106.58:8278/syfy_glo/playlist.m3u8?tid=10728999&tsum=4c64763b4104d980081cec3ee23a145e
 #EXTINF:-1 group-title="LynTV",[MY]FOX MOVIE ID
-http://50.7.161.82:8278/Foxmovie/playlist.m3u8?tid=17901999&tsum=6b562e11c295fe72687e419509035213
+http://50.7.161.82:8278/Foxmovie/playlist.m3u8?tid=13149999&tsum=22c39f0421e76f5bfd93060f1cf377da
 #EXTINF:-1 group-title="LynTV",FOX ID
 http://50.7.161.82:8278/Foxhd/playlist.m3u8?tid=18675999&tsum=1066341ddaf7cf768922a730ba5cbefc
 #EXTINF:-1 group-title="LynTV",[MY]HBO FAMily ID
-http://50.7.161.82:8278/Hbofamily/playlist.m3u8?tid=17757999&tsum=8d2b5059dc936076e54953b2fc38774c
+http://50.7.161.82:8278/Hbofamily/playlist.m3u8?tid=15228999&tsum=d97d7b78a33f9a4da0024c56600fb936
 #EXTINF:-1 group-title="LynTV",[MY]FOX Action
-http://live.52live.win/atv.php?id=http://50.7.161.82:8278/Foxactionhd/playlist.m3u8&t=1574414802&sign=5e28266e7b3fb9d99aec5a8f1a56d61b
+http://50.7.161.82:8278/Foxactionhd/playlist.m3u8?tid=10305999&tsum=ff5f9e369c4571c5e54b80606d4c6e24
 #EXTINF:-1 group-title="LynTV",[MY]FOX FAMILY
-http://50.7.161.82:8278/Foxfamily/playlist.m3u8?tid=17460999&tsum=0ff9d1176219efd513b538f3f26d1686
+http://50.7.161.82:8278/Foxfamily/playlist.m3u8?tid=11187999&tsum=354e32889646bb2988b7d8106d01a99d
 #EXTINF:-1 group-title="LynTV",[MY]HBO HD
-http://50.7.161.82:8278/Hbohd/playlist.m3u8?tid=11736999&tsum=bbed50aebb0a5a902fda10f668d03bd3
+http://50.7.161.82:8278/Hbohd/playlist.m3u8?tid=11511999&tsum=000c8bde6d9146d1f163c6bd7743afcc
 #EXTINF:-1 group-title="LynTV",[MY]HBO SIGNATURE
 http://50.7.161.82:8278/Nbatv/playlist.m3u8?tid=16938999&tsum=5cfe4e21a707b84f67c1a3748d2742a2
 #EXTINF:-1 group-title="LynTV",[MY]Discovery CH

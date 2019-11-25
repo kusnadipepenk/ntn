@@ -405,8 +405,8 @@ http://210.210.155.35/qwr9ew/s/s20/02.m3u8
 http://203.207.56.228/live/iptv001.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",NAT GEO ASIA
 http://220.158.149.28:9999/live/TV00000000000000000115@HHZT;LIVE
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo
-http://34.69.67.123:8888/tvnow/http://sv5.dailymotion.com.1cdn.host/live/natgeo/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",OCEAN TV
+http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yR0ZTTB/natgeowild.png" group-title="KNOWLEDGE",Nat-Geo-WILD 

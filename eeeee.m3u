@@ -1126,7 +1126,7 @@ http://50.7.161.82:8278/Foxhd/playlist.m3u8?tid=18675999&tsum=1066341ddaf7cf7689
 #EXTINF:-1 group-title="LynTV",[MY]HBO FAMily ID
 http://50.7.161.82:8278/Hbofamily/playlist.m3u8?tid=17757999&tsum=8d2b5059dc936076e54953b2fc38774c
 #EXTINF:-1 group-title="LynTV",[MY]FOX Action
-http://50.7.161.82:8278/Foxactionhd/playlist.m3u8?tid=11106999&tsum=e8cab97bc5931deaaf430600f4d913f4
+http://live.52live.win/atv.php?id=http://50.7.161.82:8278/Foxactionhd/playlist.m3u8&t=1574414802&sign=5e28266e7b3fb9d99aec5a8f1a56d61b
 #EXTINF:-1 group-title="LynTV",[MY]FOX FAMILY
 http://50.7.161.82:8278/Foxfamily/playlist.m3u8?tid=17460999&tsum=0ff9d1176219efd513b538f3f26d1686
 #EXTINF:-1 group-title="LynTV",[MY]HBO HD

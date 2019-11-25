@@ -1103,8 +1103,8 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="LynTV",[MY]HELLO TV
 http://50.7.161.82:8278/Drama/playlist.m3u8?tid=18621999&tsum=bdd22fa078875aab4662342a215ed7f5
-#EXTINF:-1 group-title="LynTV",[MY]HGTV
-http://50.7.161.82:8278/Hgtv/playlist.m3u8?tid=15840999&tsum=f1fe7dfecf74ec238942293297adf528
+#EXTINF:-1 group-title="LynTV",[MY]AFC
+http://50.7.161.82:8278/Afc/playlist.m3u8?tid=11844999&tsum=e7eededa750c12653e1c3c4733948ef8
 #EXTINF:-1 group-title="LynTV",[MY]KBS WORLD
 http://50.7.161.82:8278/KBS/playlist.m3u8?tid=11511999&tsum=19f6290139a188db15e467c46375de8b
 #EXTINF:-1 group-title="LynTV",[MY]TVN
@@ -1116,7 +1116,7 @@ http://198.16.106.58:8278/disneyxd_glo/playlist.m3u8?tid=12870999&tsum=d5fd54903
 #EXTINF:-1 group-title="LynTV",[MY]CINEMAX ID
 http://50.7.161.82:8278/Cinemax/playlist.m3u8?tid=10620999&tsum=e36adcc1ae0096cff169c8849f00e3e5
 #EXTINF:-1 group-title="LynTV",[My]Warnertv
-http://104.194.8.167//wpzqfgph.m3u8?tm=1574660254&key=124c31c887d653d40a338682f54f7600
+http://104.194.8.167/wpzqfgph.m3u8?tm=1574660254&key=124c31c887d653d40a338682f54f7600
 #EXTINF:-1 group-title="LynTV",[MY]SYFY
 http://198.16.106.58:8278/syfy_glo/playlist.m3u8?tid=10728999&tsum=4c64763b4104d980081cec3ee23a145e
 #EXTINF:-1 group-title="LynTV",[MY]FOX MOVIE ID
@@ -1126,7 +1126,7 @@ http://50.7.161.82:8278/Foxhd/playlist.m3u8?tid=18675999&tsum=1066341ddaf7cf7689
 #EXTINF:-1 group-title="LynTV",[MY]HBO FAMily ID
 http://50.7.161.82:8278/Hbofamily/playlist.m3u8?tid=15228999&tsum=d97d7b78a33f9a4da0024c56600fb936
 #EXTINF:-1 group-title="LynTV",[MY]FOX Action
-http://50.7.161.82:8278/Foxactionhd/playlist.m3u8?tid=10305999&tsum=ff5f9e369c4571c5e54b80606d4c6e24
+http://50.7.161.82:8278/Foxactionhd/playlist.m3u8?tid=16587999&tsum=d42e29d3986d03da968dffe58fc6172b
 #EXTINF:-1 group-title="LynTV",[MY]FOX FAMILY
 http://50.7.161.82:8278/Foxfamily/playlist.m3u8?tid=11187999&tsum=354e32889646bb2988b7d8106d01a99d
 #EXTINF:-1 group-title="LynTV",[MY]HBO HD

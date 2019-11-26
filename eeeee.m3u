@@ -1038,60 +1038,7 @@ http://209.126.102.141:80/sara123/sara123/3467
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BTs9vxy/afc.png" group-title="Premium Akun",AFC
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
-#EXTINF:-1  group-title="Premium Akun",HBO
-http://209.126.102.141:80/sara123/sara123/3463
-#EXTINF:-1  group-title="Premium Akun",HBO2
-http://209.126.102.141:80/sara123/sara123/3464
-#EXTINF:-1  group-title="Premium Akun",[BR]ESPN
-http://209.126.102.141:80/sara123/sara123/3674
-#EXTINF:-1  group-title="Premium Akun",[BR]ESPN2
-http://209.126.102.141:80/sara123/sara123/3675
-#EXTINF:-1  group-title="Premium Akun",[BR]FOXsport1
-http://209.126.102.141:80/sara123/sara123/3693
-#EXTINF:-1  group-title="Premium Akun",[BR]FOXsport2
-http://209.126.102.141:80/sara123/sara123/3694
-#EXTINF:-1  group-title="Premium Akun",[BR]Foxsport3
-http://209.126.102.141:80/sara123/sara123/3695
-#EXTINF:-1  group-title="Premium Akun",Foxsport1
-https://tvrealtime.com/live/FOXSPORT1/playlist.m3u8
-#EXTINF:-1  group-title="Premium Akun",Foxsport1 TH
-https://live.dufree4k.net/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1  group-title="Premium Akun",Foxsport2
-https://tvrealtime.com/live/FOXSPORT2/playlist.m3u8
-#EXTINF:-1  group-title="Premium Akun",Foxsport3
-https://tvrealtime.com/live/FOXSPORT3/playlist.m3u8
-#EXTINF:-1 group-title="Premium Akun",PremierHD1
-https://tvrealtime.com/live/BEIN1/playlist.m3u8
-#EXTINF:-1 group-title="Premium Akun",PremierHD2
-https://tvrealtime.com/live/BEIN2/playlist.m3u8
-#EXTINF:-1  group-title="Premium Akun",FOXPremium ACTION
-http://209.126.102.141:80/sara123/sara123/5179
-#EXTINF:-1  group-title="Premium Akun",FOXPremium Classic SD
-http://209.126.102.141:80/sara123/sara123/3687
-#EXTINF:-1  group-title="Premium Akun",FOXPremium Classic
-http://209.126.102.141:80/sara123/sara123/5177
-#EXTINF:-1  group-title="Premium Akun",bnc
-http://streamer.in-lan.net.ua:8080/ch0195
-#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 1
-http://live.faucontv.com:8000/Salwa/Salwa/6596
-#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 2
-http://live.faucontv.com:8000/Salwa/Salwa/6597
-#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 3
-http://live.faucontv.com:8000/Salwa/Salwa/6598
-#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 4
-http://live.faucontv.com:8000/Salwa/Salwa/6599
-#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 5
-http://live.faucontv.com:8000/Salwa/Salwa/6600
-#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 6
-http://live.faucontv.com:8000/Salwa/Salwa/6601
-#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 7
-http://live.faucontv.com:8000/Salwa/Salwa/6602
-#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 8
-http://live.faucontv.com:8000/Salwa/Salwa/6603
-#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 9
-http://live.faucontv.com:8000/Salwa/Salwa/6604
-#EXTINF:-1 group-title="Premium Akun",[AR]beIN SPORT SD 10
-http://live.faucontv.com:8000/Salwa/Salwa/6605
+
 
 #EXTINF:-1 group-title="LynTV",American Horor
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
@@ -1101,8 +1048,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_500
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
 #EXTINF:-1 group-title="LynTV",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="LynTV",[MY]HELLO TV
-http://50.7.161.82:8278/Drama/playlist.m3u8?tid=18621999&tsum=bdd22fa078875aab4662342a215ed7f5
+#EXTINF:-1 group-title="LynTV",[MY]ANIMAL PLANET
+http://50.7.161.82:8278/Animalplanet/playlist.m3u8?tid=12087999&tsum=641c519cfa7a14b0c9e2203ad6effab1
 #EXTINF:-1 group-title="LynTV",[MY]AFC
 http://50.7.161.82:8278/Afc/playlist.m3u8?tid=11844999&tsum=e7eededa750c12653e1c3c4733948ef8
 #EXTINF:-1 group-title="LynTV",[MY]KBS WORLD
@@ -1115,14 +1062,14 @@ http://185.132.176.172:8278/Ohk/playlist.m3u8?tid=15831999&tsum=42fb24618b91b249
 http://198.16.106.58:8278/disneyxd_glo/playlist.m3u8?tid=12870999&tsum=d5fd54903c570574f80da4b6f41721b6
 #EXTINF:-1 group-title="LynTV",[MY]CINEMAX ID
 http://50.7.161.82:8278/Cinemax/playlist.m3u8?tid=10620999&tsum=e36adcc1ae0096cff169c8849f00e3e5
-#EXTINF:-1 group-title="LynTV",[My]Warnertv
-http://104.194.8.167/wpzqfgph.m3u8?tm=1574660254&key=124c31c887d653d40a338682f54f7600
+#EXTINF:-1 group-title="LynTV",[My]NATGEO WILD
+http://50.7.161.82:8278/Natgeowild/playlist.m3u8?tid=13392999&tsum=4c1bf81f282048fb2f729feca926293c
 #EXTINF:-1 group-title="LynTV",[MY]SYFY
 http://198.16.106.58:8278/syfy_glo/playlist.m3u8?tid=10728999&tsum=4c64763b4104d980081cec3ee23a145e
 #EXTINF:-1 group-title="LynTV",[MY]FOX MOVIE ID
 http://50.7.161.82:8278/Foxmovie/playlist.m3u8?tid=13149999&tsum=22c39f0421e76f5bfd93060f1cf377da
 #EXTINF:-1 group-title="LynTV",[My]FOX ID
-http://50.7.161.82:8278/Foxhd/playlist.m3u8?tid=18675999&tsum=1066341ddaf7cf768922a730ba5cbefc
+http://50.7.161.82:8278/Foxhd/playlist.m3u8?tid=12465999&tsum=7e46f4afd1d4b5200ca08b44173f7c97
 #EXTINF:-1 group-title="LynTV",[MY]HBO FAMily ID
 http://50.7.161.82:8278/Hbofamily/playlist.m3u8?tid=15228999&tsum=d97d7b78a33f9a4da0024c56600fb936
 #EXTINF:-1 group-title="LynTV",[MY]FOX Action
@@ -1134,15 +1081,9 @@ http://50.7.161.82:8278/Hbohd/playlist.m3u8?tid=11511999&tsum=000c8bde6d9146d1f1
 #EXTINF:-1 group-title="LynTV",[MY]HBO SIGNATURE
 http://50.7.161.82:8278/Nbatv/playlist.m3u8?tid=16938999&tsum=5cfe4e21a707b84f67c1a3748d2742a2
 #EXTINF:-1 group-title="LynTV",[MY]Discovery CH
-http://50.7.161.82:8278/Discovery/playlist.m3u8?tid=15768999&tsum=800bce8456006d0d5b2409d52d39079a
+http://50.7.161.82:8278/Discovery/playlist.m3u8?tid=11124999&tsum=82d1850204722597fb273ed43b79e2f5
 #EXTINF:-1 group-title="LynTV",[MY]National Geographic
-http://50.7.161.82:8278/Natgeo/playlist.m3u8?tid=16137999&tsum=29cd8304ee0b0f4b29c9f0c3c6d5c3ef
-#EXTINF:-1 group-title="LynTV",[MY]Skysport Premier League
-http://185.132.176.172:8278/tiankongepl/playlist.m3u8?tid=11097999&tsum=f3899902c8d48231d9a04dca699ac36e
-#EXTINF:-1 group-title="LynTV",[MY]Skysport FOOTBALL
-http://185.132.176.172:8278/tiankongfootball/playlist.m3u8?tid=10107999&tsum=1019cc47574187a6f3449c0150a70a60
-#EXTINF:-1 group-title="LynTV",[MY]Skysport ARENA
-http://185.132.176.172:8278/tiankongarena/playlist.m3u8?tid=15966999&tsum=6aa05edeed91cc3370630a60bb0c0b3e
+http://50.7.161.82:8278/Natgeo/playlist.m3u8?tid=13725999&tsum=13a0d8e45e1a921391a56625b0f73e68
 
 
 #EXTINF:-1  group-title="Server ASIA",1

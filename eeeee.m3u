@@ -978,7 +978,15 @@ http://112.175.248.34:1935/ytn/_definst_/ylivehd_20140419_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-ytn-science.jpg" group-title="SOUTH KOREA",YTN Science
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 #EXTINF:-1 group-title="SOUTH KOREA",CGV Korea
-http://211.245.55.198:22514/m2u/239.192.51.7:49220
+http://222.236.107.101:9981/stream/channelid/1241478360
+#EXTINF:-1 group-title="SOUTH KOREA",KBS ntah
+http://222.236.107.101:9981/stream/channelid/331520547
+#EXTINF:-1 group-title="SOUTH KOREA",mplex
+http://222.236.107.101:9981/stream/channelid/590684042
+#EXTINF:-1 group-title="SOUTH KOREA",FOX
+http://222.236.107.101:9981/stream/channelid/1936107632
+#EXTINF:-1 group-title="SOUTH KOREA",Disney Channel
+http://222.236.107.101:9981/stream/channelid/1321617488
 
 
 

@@ -977,7 +977,8 @@ http://112.175.248.34:1935/ytn/_definst_/ylivehd_20140419_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-ytn-science.jpg" group-title="SOUTH KOREA",YTN Science
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
-
+#EXTINF:-1 group-title="SOUTH KOREA",CGV Korea
+http://211.245.55.198:22514/m2u/239.192.67.227:49220
 
 
 #EXTINF:-1  group-title="MALAYSIA",TV7 MY

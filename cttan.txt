@@ -88,3 +88,8 @@ http://109.236.85.100:8081/SilenceTV/live/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1  group-title="LAIN-LAIN",Reggh
 rtmp://118.97.96.17:1935/discover/natgeowild_4
+
+
+bbs in
+http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8
+

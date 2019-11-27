@@ -882,12 +882,18 @@ http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
 
 #EXTINF:-1  group-title="BEIN GROUP",Bein1
 http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/5225
-#EXTINF:-1  group-title="BEIN GROUP",Bein
-#EXTINF:-1  group-title="BEIN GROUP",Bein
-#EXTINF:-1  group-title="BEIN GROUP",Bein
-#EXTINF:-1  group-title="BEIN GROUP",Bein
-#EXTINF:-1  group-title="BEIN GROUP",Bein
-#EXTINF:-1  group-title="BEIN GROUP",Bein
+#EXTINF:-1  group-title="BEIN GROUP",Bein2
+http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/5227
+#EXTINF:-1  group-title="BEIN GROUP",Bein3
+http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/5229
+#EXTINF:-1  group-title="BEIN GROUP",Bein4
+http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/5235
+#EXTINF:-1  group-title="BEIN GROUP",Bein5
+http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/5241
+#EXTINF:-1  group-title="BEIN GROUP",Bein6
+http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/5244
+#EXTINF:-1  group-title="BEIN GROUP",Bein7
+http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/5239
 
 
 #EXTM3U

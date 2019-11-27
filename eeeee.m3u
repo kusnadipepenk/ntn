@@ -992,8 +992,8 @@ http://rtm1mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b764000.m3
 http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MALAYSIA",ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
-#EXTINF:-1  tvg-logo="" group-title="MALAYSIA",ASTRO VANVILE
-http://playbackn18.aotg-video.astro.com.my/CH1/master_VAAN_8_05.m3u8
+#EXTINF:-1  tvg-logo="" group-title="MALAYSIA",ASTRO CITRA
+http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&tsum=4d6f9c9e7b70fd38bc41b5ddd075b526
 #EXTINF:-1  tvg-logo="" group-title="MALAYSIA",ASTRO CERIA
 http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=m02000000000014624840&ct=17950&tsum=1d6ed7be64dc2703ae688a369df440f9
 #EXTINF:-1  tvg-logo="" group-title="MALAYSIA",TV3

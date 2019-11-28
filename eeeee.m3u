@@ -1075,21 +1075,21 @@ http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B73
 
 
 #EXTINF:-1 group-title="LynTV",[MY]ANIMAL PLANET
-http://50.7.161.82:8278/Animalplanet/playlist.m3u8?tid=12087999&tsum=641c519cfa7a14b0c9e2203ad6effab1
+http://50.7.161.82:8278/Animalplanet/playlist.m3u8?tid=14670999&tsum=1154ad908e2b6b2c6e1005126eaf03a8
 #EXTINF:-1 group-title="LynTV",[MY]AFC
-http://50.7.161.82:8278/Afc/playlist.m3u8?tid=11844999&tsum=e7eededa750c12653e1c3c4733948ef8
+http://50.7.161.82:8278/Afc/playlist.m3u8?tid=13500999&tsum=b46619e236912d9985050e463eef16d4
 #EXTINF:-1 group-title="LynTV",[MY]KBS WORLD
 http://50.7.161.82:8278/KBS/playlist.m3u8?tid=11988999&tsum=99f044910271c7e7fcfb3af8e4eaec71
 #EXTINF:-1 group-title="LynTV",[MY]TVN
 http://50.7.161.82:8278/TVN/playlist.m3u8?tid=13995999&tsum=bbc5606f984178c6c7622609bf126a06
 #EXTINF:-1 group-title="LynTV",[MY]OHk
-http://185.132.176.172:8278/Ohk/playlist.m3u8?tid=10764999&tsum=3bb3502d438a6fa09b5e2d6773babe15
+http://185.132.176.172:8278/Ohk/playlist.m3u8?tid=15075999&tsum=0a18384489780f893fc2c675854f2e50
 #EXTINF:-1 group-title="LynTV",[MY]DisneyXD
-http://198.16.106.58:8278/disneyxd_glo/playlist.m3u8?tid=12870999&tsum=d5fd54903c570574f80da4b6f41721b6
+http://198.16.106.58:8278/disneyxd_glo/playlist.m3u8?tid=18684999&tsum=e7b6b8d21a02eaa5827f4f18729e5616
 #EXTINF:-1 group-title="LynTV",[MY]CINEMAX ID
 http://50.7.161.82:8278/Cinemax/playlist.m3u8?tid=18486999&tsum=168d0d5aa9d2c68b063550b784e98afe
 #EXTINF:-1 group-title="LynTV",[My]NATGEO WILD
-http://50.7.161.82:8278/Natgeowild/playlist.m3u8?tid=13392999&tsum=4c1bf81f282048fb2f729feca926293c
+http://50.7.161.82:8278/Natgeowild/playlist.m3u8?tid=12852999&tsum=f926d433721f407799d19d7731dcee77
 #EXTINF:-1 group-title="LynTV",[MY]SYFY
 http://198.16.106.58:8278/syfy_glo/playlist.m3u8?tid=10728999&tsum=4c64763b4104d980081cec3ee23a145e
 #EXTINF:-1 group-title="LynTV",[MY]FOX MOVIE ID
@@ -1107,9 +1107,9 @@ http://50.7.161.82:8278/Hbohd/playlist.m3u8?tid=10035999&tsum=08f6cba78a8c091e33
 #EXTINF:-1 group-title="LynTV",[MY]HBO SIGNATURE
 http://50.7.161.82:8278/Nbatv/playlist.m3u8?tid=16938999&tsum=5cfe4e21a707b84f67c1a3748d2742a2
 #EXTINF:-1 group-title="LynTV",[MY]Discovery CH
-http://50.7.161.82:8278/Discovery/playlist.m3u8?tid=11124999&tsum=82d1850204722597fb273ed43b79e2f5
+http://50.7.161.82:8278/Discovery/playlist.m3u8?tid=16704999&tsum=373b1711d7ae6aca0fee262ce8f6d4c9
 #EXTINF:-1 group-title="LynTV",[MY]National Geographic
-http://50.7.161.82:8278/Natgeo/playlist.m3u8?tid=13725999&tsum=13a0d8e45e1a921391a56625b0f73e68
+http://50.7.161.82:8278/Natgeo/playlist.m3u8?tid=13383999&tsum=7e1cf8dd966ab3ddf106fccf9a5a5d89
 #EXTINF:-1 group-title="LynTV",American Horor
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="LynTV",FilmRise Classic

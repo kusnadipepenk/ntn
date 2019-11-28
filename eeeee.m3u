@@ -900,6 +900,8 @@ http://www.pandar.tv:25461/023084396716/fHELEbn6Rn2obkI/5237
 
 
 #EXTM3U
+#EXTINF:-1  group-title="SOUTH KOREA",Running MAn TV
+https://aldirect.hls.huya.com/huyalive/29359996-2689613128-11551800423652261888-2847687548-10057-A-0-1_1200.m3u8
 #EXTINF:-1  group-title="SOUTH KOREA",KBS Drama
 http://54.180.143.6:9981/stream/channelid/645909077
 #EXTINF:-1  group-title="SOUTH KOREA",SBS MTV

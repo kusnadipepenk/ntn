@@ -1062,8 +1062,8 @@ http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F24
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nnNzMrW/hbofam.png" group-title="Premium Akun",HBO FAMILY2
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nnNzMrW/hbofam.png" group-title="Premium Akun",[BR]HBO FAMILY
-http://209.126.102.141:80/sara123/sara123/5169
+#EXTINF:-1 tvg-logo="" group-title="Premium Akun",HBO
+http://203.153.218.28:9981/stream/channelid/37129950?ticket=D2CF909252119A5520B732C9749C429AA5AF244F&profile=pass
 #EXTINF:-1  group-title="Premium Akun",FOX ACTION
 http://203.207.56.228/live/iptv029.m3u8
 #EXTINF:-1  group-title="Premium Akun",HBO Plus

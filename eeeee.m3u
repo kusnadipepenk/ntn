@@ -1120,10 +1120,26 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1  group-title="Server ASIA",1
-http://104.194.8.167/wpzqfgph.m3u8?tm=1574507122&key=3de1b8f62af629b2289716b158fcdc4c
-#EXTINF:-1, ertrey
-http://104.194.8.167/fvqcokeh.m3u8?tm=1574507131&key=92d9a91415aae23d1e19bc8dc6c2fb3f
+#EXTINF:-1  group-title="TVUSA",ANIMAL PLANET
+http://peer2.savitar.tv/Animal/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAzOjAyOjUzIFBNJmhhc2hfdmFsdWU9ZFJwZUEwR2lJM3dhNlhReVJMRGNEQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:-1  group-title="TVUSA",A&E
+http://peer2.savitar.tv/AE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAzOjAyOjUzIFBNJmhhc2hfdmFsdWU9ZFJwZUEwR2lJM3dhNlhReVJMRGNEQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:-1  group-title="TVUSA",Discovery
+http://peer2.savitar.tv/Discovery/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAzOjAyOjUzIFBNJmhhc2hfdmFsdWU9ZFJwZUEwR2lJM3dhNlhReVJMRGNEQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:-1  group-title="TVUSA",HGTV
+http://peer2.savitar.tv/HGTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAzOjAyOjUzIFBNJmhhc2hfdmFsdWU9ZFJwZUEwR2lJM3dhNlhReVJMRGNEQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:-1  group-title="TVUSA",NatGEO Wild
+http://peer2.savitar.tv/NatGEOWild/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAzOjAyOjUzIFBNJmhhc2hfdmFsdWU9ZFJwZUEwR2lJM3dhNlhReVJMRGNEQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:-1  group-title="TVUSA",AMC
+http://peer2.savitar.tv/AMC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAzOjAyOjUzIFBNJmhhc2hfdmFsdWU9ZFJwZUEwR2lJM3dhNlhReVJMRGNEQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:-1  group-title="TVUSA",FX
+http://peer2.savitar.tv/FX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAzOjAyOjUzIFBNJmhhc2hfdmFsdWU9ZFJwZUEwR2lJM3dhNlhReVJMRGNEQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:-1  group-title="TVUSA",HBO
+http://peer2.savitar.tv/HBO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAzOjAyOjUzIFBNJmhhc2hfdmFsdWU9ZFJwZUEwR2lJM3dhNlhReVJMRGNEQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:-1  group-title="TVUSA",FOOD Network
+http://peer2.savitar.tv/FoodNetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxOSAzOjAyOjUzIFBNJmhhc2hfdmFsdWU9ZFJwZUEwR2lJM3dhNlhReVJMRGNEQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+
+
 
 #EXTINF:-1  group-title="MOVIE ON DEMAND",RUnningMan E477
 http://fr11.uploadcenter.com:8080/d/q3a4bh6fu4wawhvequohf3mjcmco2aqixuhnt4iwe7mppg5m4fm545j45urdh7readrfjql5/[drakorkita.com]%20RM.E477.ID.360p.mp4

@@ -1097,9 +1097,9 @@ http://198.16.106.58:8278/syfy_glo/playlist.m3u8?tid=10728999&tsum=4c64763b4104d
 #EXTINF:-1 group-title="LynTV",[MY]FOX MOVIE ID
 http://50.7.161.82:8278/Foxmovie/playlist.m3u8?tid=11259999&tsum=885fbbe9cd7f0c5e427f381483f89a0f
 #EXTINF:-1 group-title="LynTV",[My]FOX ID
-http://50.7.161.82:8278/Foxhd/playlist.m3u8?tid=12465999&tsum=7e46f4afd1d4b5200ca08b44173f7c97
+http://50.7.161.82:8278/Foxhd/playlist.m3u8?tid=11349999&tsum=cc327868e77ff00c1c841d5731a15f2b
 #EXTINF:-1 group-title="LynTV",[MY]HBO FAMily ID
-http://50.7.161.82:8278/Hbofamily/playlist.m3u8?tid=15210999&tsum=df6cb70191283c08f9d3732991c85c72
+http://50.7.161.82:8278/Hbofamily/playlist.m3u8?tid=15021999&tsum=a476939b0d3bdf26f71302410618d203
 #EXTINF:-1 group-title="LynTV",[MY]FOX Action
 http://50.7.161.82:8278/Foxactionhd/playlist.m3u8?tid=11547999&tsum=ce7ccec9bec3b54c9532941f970dc4b5
 #EXTINF:-1 group-title="LynTV",[MY]FOX FAMILY

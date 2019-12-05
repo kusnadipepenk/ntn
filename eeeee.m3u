@@ -1139,7 +1139,7 @@ https://peer1.ustv.to/Discovery/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU
 #EXTINF:-1  group-title="TVUSA",HGTV
 http://live.savitar.tv/HGTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxOSAxOjA1OjM5IEFNJmhhc2hfdmFsdWU9c2JJYjVEQ2xsWWpBR2pCM3hLUStmdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:-1  group-title="TVUSA",HGTV2
-https://peer3.ustv.to/HGTV/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE5IDg6MDQ6MzEgQU0maGFzaF92YWx1ZT1NSi9qR2oxNzgrRnAxQWxXZzMyREtBPT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
+https://peer1.ustv.to/HGTV/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE5IDg6MDQ6MzEgQU0maGFzaF92YWx1ZT1NSi9qR2oxNzgrRnAxQWxXZzMyREtBPT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 #EXTINF:-1  group-title="TVUSA",NAT GEO
 http://live.savitar.tv/NatGEO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxOSAxOjA1OjM5IEFNJmhhc2hfdmFsdWU9c2JJYjVEQ2xsWWpBR2pCM3hLUStmdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:-1  group-title="TVUSA",NAT GEO2
@@ -1165,27 +1165,27 @@ http://live.savitar.tv/FoodNetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3
 #EXTINF:-1  group-title="TVUSA",ESPN
 http://live.savitar.tv/ESPN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxOSAxOjA1OjM5IEFNJmhhc2hfdmFsdWU9c2JJYjVEQ2xsWWpBR2pCM3hLUStmdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:-1  group-title="TVUSA",ESPN(2)
-https://peer3.ustv.to/ESPN/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE5IDg6MDQ6MzEgQU0maGFzaF92YWx1ZT1NSi9qR2oxNzgrRnAxQWxXZzMyREtBPT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
+https://peer1.ustv.to/ESPN/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE5IDg6MDQ6MzEgQU0maGFzaF92YWx1ZT1NSi9qR2oxNzgrRnAxQWxXZzMyREtBPT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 #EXTINF:-1  group-title="TVUSA",ESPN2
 http://live.savitar.tv/ESPN2/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxOSAxOjA1OjM5IEFNJmhhc2hfdmFsdWU9c2JJYjVEQ2xsWWpBR2pCM3hLUStmdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:-1  group-title="TVUSA",ESPN2(2)
-https://peer3.ustv.to/ESPN2/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE5IDg6MDQ6MzEgQU0maGFzaF92YWx1ZT1NSi9qR2oxNzgrRnAxQWxXZzMyREtBPT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
+https://peer1.ustv.to/ESPN2/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE5IDg6MDQ6MzEgQU0maGFzaF92YWx1ZT1NSi9qR2oxNzgrRnAxQWxXZzMyREtBPT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 #EXTINF:-1  group-title="TVUSA",FS1 SPORT
 http://live.savitar.tv/FS1/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxOSAxOjA1OjM5IEFNJmhhc2hfdmFsdWU9c2JJYjVEQ2xsWWpBR2pCM3hLUStmdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:-1  group-title="TVUSA",FS1 SPORT2
-https://peer3.ustv.to/FS1/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE5IDg6MDQ6MzEgQU0maGFzaF92YWx1ZT1NSi9qR2oxNzgrRnAxQWxXZzMyREtBPT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
+https://peer1.ustv.to/FS1/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE5IDg6MDQ6MzEgQU0maGFzaF92YWx1ZT1NSi9qR2oxNzgrRnAxQWxXZzMyREtBPT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 #EXTINF:-1  group-title="TVUSA",FS2 SPORT
 http://live.savitar.tv/FS2/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxOSAxOjA1OjM5IEFNJmhhc2hfdmFsdWU9c2JJYjVEQ2xsWWpBR2pCM3hLUStmdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:-1  group-title="TVUSA",FS2 SPORT2
-https://peer3.ustv.to/FS2/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE5IDg6MDQ6MzEgQU0maGFzaF92YWx1ZT1NSi9qR2oxNzgrRnAxQWxXZzMyREtBPT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
+https://peer1.ustv.to/FS2/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE5IDg6MDQ6MzEgQU0maGFzaF92YWx1ZT1NSi9qR2oxNzgrRnAxQWxXZzMyREtBPT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 #EXTINF:-1  group-title="TVUSA",Hallmark
 http://live.savitar.tv/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxOSAxOjA1OjM5IEFNJmhhc2hfdmFsdWU9c2JJYjVEQ2xsWWpBR2pCM3hLUStmdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:-1  group-title="TVUSA",Hallmark2
-https://peer3.ustv.to/Hallmark/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE5IDg6MDQ6MzEgQU0maGFzaF92YWx1ZT1NSi9qR2oxNzgrRnAxQWxXZzMyREtBPT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
+https://peer1.ustv.to/Hallmark/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE5IDg6MDQ6MzEgQU0maGFzaF92YWx1ZT1NSi9qR2oxNzgrRnAxQWxXZzMyREtBPT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 #EXTINF:-1  group-title="TVUSA",SYFY
 http://live.savitar.tv/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxOSAxOjA1OjM5IEFNJmhhc2hfdmFsdWU9c2JJYjVEQ2xsWWpBR2pCM3hLUStmdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:-1  group-title="TVUSA",SYFY2
-https://peer3.ustv.to/SYFY/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE5IDg6MDQ6MzEgQU0maGFzaF92YWx1ZT1NSi9qR2oxNzgrRnAxQWxXZzMyREtBPT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
+https://peer1.ustv.to/SYFY/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE5IDg6MDQ6MzEgQU0maGFzaF92YWx1ZT1NSi9qR2oxNzgrRnAxQWxXZzMyREtBPT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 
 #EXTINF:-1 group-title="TEST",Animal Planet
@@ -1220,48 +1220,6 @@ http://200.54.51.206:7500/play/a00i
 http://200.54.51.206:7500/play/a00g
 #EXTINF:-1 group-title="TEST",FOX P SERIES E
 http://200.54.51.206:7500/play/a00h
-#EXTINF:-1 group-title="TEST",FX
-http://200.54.51.206:7500/play/a02v
-#EXTINF:-1 group-title="TEST",FX Movies
-http://200.54.51.206:7500/play/a00d
-#EXTINF:-1 group-title="TEST",Fox Channel
-http://200.54.51.206:7500/play/a01a
-#EXTINF:-1 group-title="TEST",Fox Life
-http://200.54.51.206:7500/play/a01e
-#EXTINF:-1 group-title="TEST",Fox Sports
-http://200.54.51.206:7500/play/a01u
-#EXTINF:-1 group-title="TEST",Fox Sports 2
-http://200.54.51.206:7500/play/a040
-#EXTINF:-1 group-title="TEST",Fox Sports 3
-http://200.54.51.206:7500/play/a041
-#EXTINF:-1 group-title="TEST",HBO
-http://200.54.51.206:7500/play/a02q
-#EXTINF:-1 group-title="TEST",HBO 2
-http://200.54.51.206:7500/play/a00j
-#EXTINF:-1 group-title="TEST",HBO Family
-http://200.54.51.206:7500/play/a00m
-#EXTINF:-1 group-title="TEST",HBO Plus
-http://200.54.51.206:7500/play/a00k
-#EXTINF:-1,History Channel
-http://200.54.51.206:7500/play/a017
-#EXTINF:-1 group-title="TEST",Max Prime
-http://200.54.51.206:7500/play/a00l
-#EXTINF:-1 group-title="TEST",Nat Geo
-http://200.54.51.206:7500/play/a016
-#EXTINF:-1 group-title="TEST",NatGeo Kids
-http://200.54.51.206:7500/play/a01h
-#EXTINF:-1 group-title="TEST",Nick Jr
-http://200.54.51.206:7500/play/a033
-#EXTINF:-1 group-title="TEST",Nickelodeon
-http://200.54.51.206:7500/play/a014
-#EXTINF:-1 group-title="TEST",Sony
-http://200.54.51.206:7500/play/a02s
-#EXTINF:-1 group-title="TEST",Space
-http://200.54.51.206:7500/play/a02u
-#EXTINF:-1 group-title="TEST",TVN
-http://200.54.51.206:7500/play/a009
-#EXTINF:-1 group-title="TEST",Warner
-http://200.54.51.206:7500/play/a01s
 
 
 

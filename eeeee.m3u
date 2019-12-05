@@ -1052,47 +1052,47 @@ https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/02.m3u8
 
 
-#EXTINF:0 group-title="PREMIUM",SBSin
+#EXTINF:-1 group-title="PREMIUM",SBSin
 https://delivery.macan.live/stream/id_sbs/index.m3u8?token=nQOcEMQS
-#EXTINF:0 group-title="PREMIUM",FX
+#EXTINF:-1 group-title="PREMIUM",FX
 https://delivery.macan.live/stream/id_fx/index.m3u8?token=nQOcEMQS
-#EXTINF:0 group-title="PREMIUM",FOXAction Movies
+#EXTINF:-1 group-title="PREMIUM",FOXAction Movies
 https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=nQOcEMQS
-#EXTINF:0 tvg-logo="" group-title="PREMIUM",HBO (Backup)
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM",HBO (Backup)
 https://delivery.macan.live/stream/hbo_backup/index.m3u8?token=nQOcEMQS
-#EXTINF:0 tvg-logo="" group-title="PREMIUM",TVN Drama
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM",TVN Drama
 https://delivery.macan.live/stream/id_tvn/index.m3u8?token=nQOcEMQS
-#EXTINF:0 tvg-logo="" group-title="PREMIUM",NHK World
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM",NHK World
 https://delivery.macan.live/stream/id_nhkworld/index.m3u8?token=nQOcEMQS
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg" group-title="PREMIUM",FOX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg" group-title="PREMIUM",FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_15.png" group-title="PREMIUM",FOX Family Movies
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_15.png" group-title="PREMIUM",FOX Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="PREMIUM",Fox Movies
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="PREMIUM",Fox Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PREMIUM",HBO Family
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PREMIUM",HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="PREMIUM",HBO Hits
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="PREMIUM",HBO Hits
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="PREMIUM",HBO Signature
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="PREMIUM",HBO Signature
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="PREMIUM",Cinemax
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="PREMIUM",Cinemax
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
-#EXTINF:0 tvg-logo="https://www.underconsideration.com/brandnew/archives/animal_planet_2018_logo_before_after.png" group-title="PREMIUM",Animal Planet
+#EXTINF:-1 tvg-logo="https://www.underconsideration.com/brandnew/archives/animal_planet_2018_logo_before_after.png" group-title="PREMIUM",Animal Planet
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/250px-Afc_logo.svg.png" group-title="PREMIUM",Asian Food Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/250px-Afc_logo.svg.png" group-title="PREMIUM",Asian Food Channel
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/60/AXN_2015_logo.png" group-title="PREMIUM",AXN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/60/AXN_2015_logo.png" group-title="PREMIUM",AXN
 http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
-#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/YDsgbyisWWU/maxresdefault.jpg" group-title="PREMIUM",BBC World News
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YDsgbyisWWU/maxresdefault.jpg" group-title="PREMIUM",BBC World News
 http://203.153.218.28:9981/stream/channelid/861591723?ticket=F0599E847F90B5FE81ADFE5AD5296885A461DA19&profile=pass
-#EXTINF:0 tvg-logo="https://www.trailappliances.com/media/wysiwyg/brands/blomberg/Blomberg-logo-colour_500.png" group-title="PREMIUM",Bloomberg International
+#EXTINF:-1 tvg-logo="https://www.trailappliances.com/media/wysiwyg/brands/blomberg/Blomberg-logo-colour_500.png" group-title="PREMIUM",Bloomberg International
 http://203.153.218.28:9981/stream/channelid/78064174?ticket=4490D953FCAC1483DE94BE2C4D1F241E5319BCD8&profile=pass
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="PREMIUM",Blue Ant Extreme
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="PREMIUM",Blue Ant Extreme
 http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
-#EXTINF:0 tvg-logo="https://www.cartoonnetworkeurope.com/img/logo.png" group-title="PREMIUM",Cartoon Network
+#EXTINF:-1 tvg-logo="https://www.cartoonnetworkeurope.com/img/logo.png" group-title="PREMIUM",Cartoon Network
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
-#EXTINF:0 tvg-logo="http://tv.dekagon.id/logo/disney_channel_global.png" group-title="PREMIUM",Disney Channel
+#EXTINF:-1 tvg-logo="http://tv.dekagon.id/logo/disney_channel_global.png" group-title="PREMIUM",Disney Channel
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
 
 

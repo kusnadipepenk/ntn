@@ -1126,7 +1126,8 @@ http://5.79.87.234:8278/Natgeopeople/playlist.m3u8?tid=18153495&tsum=a7369e6299b
 http://5.79.87.234:8278/Animalplanet/playlist.m3u8?tid=18813490&tsum=9c9ab57314910749530a06b63f906fa7
 #EXTINF:-1  group-title="LynTV",Cartoon network
 http://5.79.87.234:8278/Cn/playlist.m3u8?tid=10005734&tsum=3a0e7548757f7af347ad8ef9bc8e4b65
-#EXTINF:-1 group-title="LynTV",[MY]KBS WORLD
+#EXTINF:-1 group-title="LynTV",[MY]KBS WORLDs
+http://lctv.vip/lcitv/vpn.php?id=798495
 http://live.52live.win/atv.php?id=http://50.7.161.82:8278/KBS/playlist.m3u8&t=1575449321&sign=6ac243b4c1af244ab4e262ce23b58921
 #EXTINF:-1 group-title="LynTV",[MY]TVN
 http://live.52live.win/atv.php?id=http://50.7.161.82:8278/Hbohd/playlist.m3u8&t=1575449407&sign=5615a99ec746cc98356c5526185e59a9

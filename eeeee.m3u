@@ -236,6 +236,10 @@ http://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_mid.
 http://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_mid.flv
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Doraemon2
 http://ws.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8_mid.flv
+#EXTINF:-1  tvg-logo="" group-title="KIDS",NIKI
+http://213.174.8.7:9100/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KIDS",DAVINCI
+http://213.174.8.7:11111/index.m3u8
 
 
 

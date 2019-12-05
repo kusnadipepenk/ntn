@@ -1052,16 +1052,6 @@ https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/02.m3u8
 
 
-#EXTINF:-1 group-title="PREMIUM",SBSind
-http://tvku.live:8888/40522278/69075542/874
-#EXTINF:-1 group-title="PREMIUM",FX
-https://delivery.macan.live/stream/id_fx/index.m3u8?token=nQOcEMQS
-#EXTINF:-1 group-title="PREMIUM",FOXAction Movies
-https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=nQOcEMQS
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",HBO (Backup)
-https://delivery.macan.live/stream/hbo_backup/index.m3u8?token=nQOcEMQS
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",TVN Drama
-https://delivery.macan.live/stream/id_tvn/index.m3u8?token=nQOcEMQS
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",NHK World
 https://delivery.macan.live/stream/id_nhkworld/index.m3u8?token=nQOcEMQS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg" group-title="PREMIUM",FOX
@@ -1097,10 +1087,10 @@ http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D
 
 
 
-#EXTINF:-1 group-title="LynTV",[MY]ANIMAL PLANET
-http://live.52live.win/atv.php?id=http://50.7.161.82:8278/Animalplanet/playlist.m3u8&t=1575449397&sign=474ed708e3c500659ff0fffb6b535c6c
+#EXTINF:-1 group-title="LynTV",[MY]ANIMAL PLANETs
+http://50.7.161.82:8278/Animalplanet/playlist.m3u8?t=1575449397&sign=474ed708e3c500659ff0fffb6b535c6c
 #EXTINF:-1 group-title="LynTV",[MY]AFC
-http://live.52live.win/atv.php?id=http://50.7.161.82:8278/Afc/playlist.m3u8&t=1575449360&sign=1a9bda452f10e38eae323e7d2f1c42b5
+http://live.52live.win/atv.php?id=http://50.7.161.82:8278/Afc/playlist.m3u8?t=1575449360&sign=1a9bda452f10e38eae323e7d2f1c42b5
 #EXTINF:-1 group-title="LynTV",[MY]KBS WORLD
 http://live.52live.win/atv.php?id=http://50.7.161.82:8278/KBS/playlist.m3u8&t=1575449321&sign=6ac243b4c1af244ab4e262ce23b58921
 #EXTINF:-1 group-title="LynTV",[MY]TVN

@@ -1127,15 +1127,15 @@ https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="TVUSA",ANIMAL PLANET
 http://live.savitar.tv/Animal/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxOSAxOjA1OjM5IEFNJmhhc2hfdmFsdWU9c2JJYjVEQ2xsWWpBR2pCM3hLUStmdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:-1  group-title="TVUSA",ANIMAL PLANET2
-https://peer3.ustv.to/Animal/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE5IDg6MDQ6MzEgQU0maGFzaF92YWx1ZT1NSi9qR2oxNzgrRnAxQWxXZzMyREtBPT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
+https://peer3.ustv.to/Animal/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDE5IDE6MTU6MDIgQU0maGFzaF92YWx1ZT1xT2tTdkZ4K1piL1p3ZnIyK0toeEx3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 #EXTINF:-1  group-title="TVUSA",A&E
 http://live.savitar.tv/AE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxOSAxOjA1OjM5IEFNJmhhc2hfdmFsdWU9c2JJYjVEQ2xsWWpBR2pCM3hLUStmdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:-1  group-title="TVUSA",A&E2
-https://peer3.ustv.to/AE/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE5IDc6NTc6NTcgQU0maGFzaF92YWx1ZT1ha2hyKzFYQzF6cDdBREwzak8rNWRRPT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
+https://peer3.ustv.to/AE/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDE5IDE6MTU6MDIgQU0maGFzaF92YWx1ZT1xT2tTdkZ4K1piL1p3ZnIyK0toeEx3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 #EXTINF:-1  group-title="TVUSA",Discovery
 http://live.savitar.tv/Discovery/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxOSAxOjA1OjM5IEFNJmhhc2hfdmFsdWU9c2JJYjVEQ2xsWWpBR2pCM3hLUStmdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:-1  group-title="TVUSA",Discovery2
-https://peer3.ustv.to/Discovery/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE5IDg6MDQ6MzEgQU0maGFzaF92YWx1ZT1NSi9qR2oxNzgrRnAxQWxXZzMyREtBPT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
+https://peer1.ustv.to/Discovery/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDE5IDE6MTU6MDIgQU0maGFzaF92YWx1ZT1xT2tTdkZ4K1piL1p3ZnIyK0toeEx3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 #EXTINF:-1  group-title="TVUSA",HGTV
 http://live.savitar.tv/HGTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxOSAxOjA1OjM5IEFNJmhhc2hfdmFsdWU9c2JJYjVEQ2xsWWpBR2pCM3hLUStmdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:-1  group-title="TVUSA",HGTV2
@@ -1143,11 +1143,11 @@ https://peer3.ustv.to/HGTV/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIv
 #EXTINF:-1  group-title="TVUSA",NAT GEO
 http://live.savitar.tv/NatGEO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxOSAxOjA1OjM5IEFNJmhhc2hfdmFsdWU9c2JJYjVEQ2xsWWpBR2pCM3hLUStmdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:-1  group-title="TVUSA",NAT GEO2
-https://peer3.ustv.to/NatGEO/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE5IDg6MDQ6MzEgQU0maGFzaF92YWx1ZT1NSi9qR2oxNzgrRnAxQWxXZzMyREtBPT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
+https://peer3.ustv.to/NatGEO/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDE5IDE6MTU6MDIgQU0maGFzaF92YWx1ZT1xT2tTdkZ4K1piL1p3ZnIyK0toeEx3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 #EXTINF:-1  group-title="TVUSA",NatGEO Wild
 http://live.savitar.tv/NatGEOWild/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxOSAxOjA1OjM5IEFNJmhhc2hfdmFsdWU9c2JJYjVEQ2xsWWpBR2pCM3hLUStmdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:-1  group-title="TVUSA",NatGEO Wild2
-https://peer3.ustv.to/NatGEOWild/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE5IDg6MDQ6MzEgQU0maGFzaF92YWx1ZT1NSi9qR2oxNzgrRnAxQWxXZzMyREtBPT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
+https://peer3.ustv.to/NatGEOWild/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDE5IDE6MTU6MDIgQU0maGFzaF92YWx1ZT1xT2tTdkZ4K1piL1p3ZnIyK0toeEx3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 #EXTINF:-1  group-title="TVUSA",AMC
 http://live.savitar.tv/AMC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxOSAxOjA1OjM5IEFNJmhhc2hfdmFsdWU9c2JJYjVEQ2xsWWpBR2pCM3hLUStmdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:-1  group-title="TVUSA",AMC2
@@ -1159,7 +1159,7 @@ https://peer3.ustv.to/FX/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC
 #EXTINF:-1  group-title="TVUSA",HBO
 http://live.savitar.tv/HBO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxOSAxOjA1OjM5IEFNJmhhc2hfdmFsdWU9c2JJYjVEQ2xsWWpBR2pCM3hLUStmdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:-1  group-title="TVUSA",HBO2
-https://peer3.ustv.to/HBO/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE5IDg6MDQ6MzEgQU0maGFzaF92YWx1ZT1NSi9qR2oxNzgrRnAxQWxXZzMyREtBPT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
+https://peer3.ustv.to/HBO/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDE5IDE6MTU6MDIgQU0maGFzaF92YWx1ZT1xT2tTdkZ4K1piL1p3ZnIyK0toeEx3PT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 #EXTINF:-1  group-title="TVUSA",FOOD Network
 http://live.savitar.tv/FoodNetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxOSAxOjA1OjM5IEFNJmhhc2hfdmFsdWU9c2JJYjVEQ2xsWWpBR2pCM3hLUStmdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:-1  group-title="TVUSA",ESPN

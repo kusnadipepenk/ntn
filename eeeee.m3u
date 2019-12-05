@@ -1052,8 +1052,8 @@ https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/02.m3u8
 
 
-#EXTINF:-1 group-title="PREMIUM",SBSin
-https://delivery.macan.live/stream/id_sbs/index.m3u8?token=nQOcEMQS
+#EXTINF:-1 group-title="PREMIUM",SBSind
+http://tvku.live:8888/40522278/69075542/874
 #EXTINF:-1 group-title="PREMIUM",FX
 https://delivery.macan.live/stream/id_fx/index.m3u8?token=nQOcEMQS
 #EXTINF:-1 group-title="PREMIUM",FOXAction Movies

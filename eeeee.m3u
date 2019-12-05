@@ -497,8 +497,6 @@ http://203.207.56.228/live/iptv006.m3u8
 http://203.207.56.228/live/iptv009.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="SUB PREMIUM",TVN DRAMA
 http://50.7.161.82:8278/TVN/playlist.m3u8?tid=m02000000000012778588&ct=17982&tsum=8d4948e951d52e62699d90039b91c278
-#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",SONY PIX
-http://mu03.amzlive.net:8880/ZYX1M156/stkTYCQUpv/1933
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",SonyOne DRAMA
 http://50.7.161.82:8278/SetOne/playlist.m3u8?tid=m02000000000014244954&ct=17982&tsum=2a160ea054855b501a39a31ef6e18cb8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="SUB PREMIUM",FOX-MOVIE-Premium
@@ -1054,10 +1052,14 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/02.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",NHK World
 https://delivery.macan.live/stream/id_nhkworld/index.m3u8?token=nQOcEMQS
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Action
+http://203.153.218.26:9981/stream/channelid/1764566305?ticket=9469C6E700880D4CC8A909291B3D0A0FCD96B582&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg" group-title="PREMIUM",FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_15.png" group-title="PREMIUM",FOX Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_15.png" group-title="PREMIUM",FOX Family Movies(2)
+http://203.153.218.26:9981/stream/channelid/750664492?ticket=A3D34C2F4D75F25D2022471799701CD0FF7950A4&profile=pass
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="PREMIUM",Fox Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PREMIUM",HBO Family

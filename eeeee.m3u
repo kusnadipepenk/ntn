@@ -1188,8 +1188,8 @@ http://live.savitar.tv/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9M
 https://peer1.ustv.to/SYFY/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE5IDg6MDQ6MzEgQU0maGFzaF92YWx1ZT1NSi9qR2oxNzgrRnAxQWxXZzMyREtBPT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 
-#EXTINF:-1 group-title="TEST",Animal Planet
-http://200.54.51.206:7500/play/a03d
+#EXTINF:-1 group-title="TEST",Aset
+https://delivery.macan.live/stream/id_tvn/index.m3u8?token=mJoFliD6
 #EXTINF:-1 group-title="TEST",Animal Planet
 http://200.54.51.206:7500/play/a01r
 #EXTINF:-1 group-title="TEST",Cinemax

@@ -1066,8 +1066,12 @@ http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626
 http://203.153.218.26:9981/stream/channelid/750664492?ticket=A3D34C2F4D75F25D2022471799701CD0FF7950A4&profile=pass
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="PREMIUM",Fox Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
+#EXTINF:-1 group-title="PREMIUM",HBO
+http://221.127.10.70:9981/stream/channelid/1364224350?ticket=06EC94F70962DA850940C6CF0336215767C0C902&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PREMIUM",HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PREMIUM",HBO Family2
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="PREMIUM",HBO Hits
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="PREMIUM",HBO Signature
@@ -1090,6 +1094,13 @@ http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
 #EXTINF:-1 tvg-logo="http://tv.dekagon.id/logo/disney_channel_global.png" group-title="PREMIUM",Disney Channel
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeowild_big.png" group-title="Knowledge",NatGeo Wild 2
+http://203.153.218.28:9981/stream/channelid/1497533758?ticket=A1217AFD7D4BACB9F66B9B369E8BC5B02FB0CEE4&profile=pass
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Knowledge",Discovery ID
+http://203.153.218.28:9981/stream/channelid/1151931232?ticket=078500147F811BFE771335FA49291072620A412D&profile=pass
+#EXTINF:-1 tvg-logo="http://j2-play.tv/cover/live/doc/natgeowild.png" group-title="Knowledge",National Geographic Wild HD
+http://203.153.218.26:9981/stream/channelid/1461154413?ticket=84E3FAD02054CC6DCF98C4850408B3FD82557CF8&amp;profile=pass
+
 
 
 #EXTINF:-1  group-title="LynTV",HBO HD
@@ -1205,29 +1216,6 @@ https://peer1.ustv.to/Hallmark/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9
 http://live.savitar.tv/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxOSAxOjA1OjM5IEFNJmhhc2hfdmFsdWU9c2JJYjVEQ2xsWWpBR2pCM3hLUStmdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:-1  group-title="TVUSA",SYFY2
 https://peer1.ustv.to/SYFY/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE5IDg6MDQ6MzEgQU0maGFzaF92YWx1ZT1NSi9qR2oxNzgrRnAxQWxXZzMyREtBPT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
-
-
-#EXTINF:0 group-title="useetes",FOX CRIME [HD]
-rtp://@239.1.1.161:8940
-#EXTINF:0  group-title="useetes",FOX MOVIE PREMIUM
-rtp://@239.1.1.11:8040
-#EXTINF:0  group-title="useetes",FOX [HD]
-rtp://@239.1.1.43:8232
-#EXTINF:0  group-title="useetes",FOX MOVIE FAMILY
-rtp://@239.1.1.237:9396
-#EXTINF:0  group-title="useetes",HBO HITS [HD]
-rtp://@239.1.1.215:9264
-#EXTINF:0  group-title="useetes",BIOSKOP INDONESIA
-rtp://@239.1.1.226:9332
-#EXTINF:0  group-title="useetes",ANIMAX
-rtp://@239.1.1.64:8358
-#EXTINF:0 group-title="useetes",TV SERIES - HI INDO
-rtp://@239.1.1.240:9348
-#EXTINF:0 group-title="useetes",TVN
-rtp://@239.1.2.135:8784
-#EXTINF:0 group-title="useetes",WAKUWAKU JAPAN
-rtp://@239.1.2.75:8424
-
 
 
 #EXTINF:-1  group-title="MOVIE ON DEMAND",RUnningMan vvv

@@ -168,7 +168,7 @@ http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
 http://livecdnh3.tvanywhere.ae/hls/boomerang/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMERANG
 http://203.207.56.228/live/iptv026.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KIDS",Cartoon (Rusia)
+#EXTINF:-1  tvg-logo="" group-title="KIDS",Cartoon (Rusia).
 http://ott-cdn.ucom.am/s46/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",KIDS (Rusia)
 http://ott-cdn.ucom.am/s58/03.m3u8
@@ -1188,6 +1188,81 @@ http://live.savitar.tv/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9M
 https://peer3.ustv.to/SYFY/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE5IDg6MDQ6MzEgQU0maGFzaF92YWx1ZT1NSi9qR2oxNzgrRnAxQWxXZzMyREtBPT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 
+#EXTINF:-1 group-title="TEST",Animal Planet
+http://200.54.51.206:7500/play/a03d
+#EXTINF:-1 group-title="TEST",Animal Planet
+http://200.54.51.206:7500/play/a01r
+#EXTINF:-1 group-title="TEST",Cinemax
+http://200.54.51.206:7500/play/a02r
+#EXTINF:-1 group-title="TEST",Discovery Channel
+http://200.54.51.206:7500/play/a01q
+#EXTINF:-1 group-title="TEST",Discovery ID
+http://200.54.51.206:7500/play/a024
+#EXTINF:-1 group-title="TEST",Discovery Kids
+http://200.54.51.206:7500/play/a006
+#EXTINF:-1 group-title="TEST",Discovery Turbo
+http://200.54.51.206:7500/play/a034
+#EXTINF:-1 group-title="TEST",Disney Channel
+http://200.54.51.206:7500/play/a01p
+#EXTINF:-1 group-title="TEST",Disney Jr
+http://200.54.51.206:7500/play/a00n
+#EXTINF:-1 group-title="TEST",Disney XD
+http://200.54.51.206:7500/play/a015
+#EXTINF:-1 group-title="TEST",ESPN
+http://200.54.51.206:7500/play/a01v
+#EXTINF:-1 group-title="TEST",ESPN 2
+http://200.54.51.206:7500/play/a01w
+#EXTINF:-1 group-title="TEST",ESPN 3
+http://200.54.51.206:7500/play/a036
+#EXTINF:-1 group-title="TEST",FOX P ACTION
+http://200.54.51.206:7500/play/a00i
+#EXTINF:-1 group-title="TEST",FOX P MOVIES
+http://200.54.51.206:7500/play/a00g
+#EXTINF:-1 group-title="TEST",FOX P SERIES E
+http://200.54.51.206:7500/play/a00h
+#EXTINF:-1 group-title="TEST",FX
+http://200.54.51.206:7500/play/a02v
+#EXTINF:-1 group-title="TEST",FX Movies
+http://200.54.51.206:7500/play/a00d
+#EXTINF:-1 group-title="TEST",Fox Channel
+http://200.54.51.206:7500/play/a01a
+#EXTINF:-1 group-title="TEST",Fox Life
+http://200.54.51.206:7500/play/a01e
+#EXTINF:-1 group-title="TEST",Fox Sports
+http://200.54.51.206:7500/play/a01u
+#EXTINF:-1 group-title="TEST",Fox Sports 2
+http://200.54.51.206:7500/play/a040
+#EXTINF:-1 group-title="TEST",Fox Sports 3
+http://200.54.51.206:7500/play/a041
+#EXTINF:-1 group-title="TEST",HBO
+http://200.54.51.206:7500/play/a02q
+#EXTINF:-1 group-title="TEST",HBO 2
+http://200.54.51.206:7500/play/a00j
+#EXTINF:-1 group-title="TEST",HBO Family
+http://200.54.51.206:7500/play/a00m
+#EXTINF:-1 group-title="TEST",HBO Plus
+http://200.54.51.206:7500/play/a00k
+#EXTINF:-1,History Channel
+http://200.54.51.206:7500/play/a017
+#EXTINF:-1 group-title="TEST",Max Prime
+http://200.54.51.206:7500/play/a00l
+#EXTINF:-1 group-title="TEST",Nat Geo
+http://200.54.51.206:7500/play/a016
+#EXTINF:-1 group-title="TEST",NatGeo Kids
+http://200.54.51.206:7500/play/a01h
+#EXTINF:-1 group-title="TEST",Nick Jr
+http://200.54.51.206:7500/play/a033
+#EXTINF:-1 group-title="TEST",Nickelodeon
+http://200.54.51.206:7500/play/a014
+#EXTINF:-1 group-title="TEST",Sony
+http://200.54.51.206:7500/play/a02s
+#EXTINF:-1 group-title="TEST",Space
+http://200.54.51.206:7500/play/a02u
+#EXTINF:-1 group-title="TEST",TVN
+http://200.54.51.206:7500/play/a009
+#EXTINF:-1 group-title="TEST",Warner
+http://200.54.51.206:7500/play/a01s
+
 
 
 #EXTINF:-1  group-title="MOVIE ON DEMAND",RUnningMan vvv
@@ -1202,29 +1277,3 @@ http://
 http://fr11.uploadcenter.com:8080/d/q3aypa6fu4wawhvequoh7m6vkb4bd25o2c2df5ilzx4v26u3gmfgj2dfao4mkxmeih3mnjqt/[drakorkita.com]%20Vagabond.E16END.ID.360p.mp4
 #EXTINF:-1 group-title="MOVIE ON DEMAND",VAGABOND E15
 http://fr11.uploadcenter.com:8080/d/q3a3zawfu4wawhvequodf3wbdw7ynopcvb45mlcik46ozlhu3yd6ru7bmwvmmgfe673o5edt/[drakorkita.com]%20Vagabond.E15.ID.360p.mp4
-#EXTINF:-1 group-title="MOVIE ON DEMAND",VAGABOND E14
-http://fr11.uploadcenter.com:8080/d/q3atfgwfu4wawhvequoh336rjutlwqj6nbilzjwhtmgwbcit4jnu2vtzlmzcell4mfpwzrc3/[drakorkita.com]%20Vagabond.E14.ID,360p.mp4
-#EXTINF:-1  group-title="MOVIE ON DEMAND",====================
-http://
-#EXTINF:-1 group-title="MOVIE ON DEMAND",Melted Me Softly  E16
-http://fr11.uploadcenter.com:8080/d/q3a23h6fu4wawhvequog52wsjddgmrvvwmq77a3wv77tvv4hjt5yuesgfjghkucn6z3q6th5/[drakorkita.com]%20MMS.E16END.ID.360p.mp4
-#EXTINF:-1 group-title="MOVIE ON DEMAND",Melted Me Softly  E15
-http://fr11.uploadcenter.com:8080/d/q3axph6fu4wawhvequohbmggcbrudp35hbk2oc24uchivncda3x2sfyftnohgian5toizdp3/[drakorkita.com]%20MMS.E15.ID.360p.mp4
-#EXTINF:-1  group-title="MOVIE ON DEMAND",====================
-http://
-#EXTINF:-1 group-title="MOVIE ON DEMAND",Tale OF Nokdu  E13
-http://fr11.uploadcenter.com:8080/d/q3awfggfu4wawhvequogx5g7cza5vq5pdiqm7isgqguhyg52ty5sf77hqealmkxv5fvsay45/[drakorkita.com]%20TToN.E25-26.ID.360p.mp4
-#EXTINF:-1 group-title="MOVIE ON DEMAND",Tale OF Nokdu  E12
-http://fr11.uploadcenter.com:8080/d/q3aw5g6fu4wawhvequohd7mejpwoupuznzdmq2wcxpyyon2ucjy54lk3oxbbafi354nypr5v/[drakorkita.com]%20ToN.E23-24.ID.360p.mp4
-#EXTINF:-1  group-title="MOVIE ON DEMAND",====================
-http://
-#EXTINF:-1 group-title="MOVIE ON DEMAND",LEVERAGE E13
-http://fr11.uploadcenter.com:8080/d/q3auvbgfu4wawhveqqodpmgrkjrx4k2zsh5vffpicmcjyclr7qodi7dji6e7httxhrrndspc/[drakorkita.com]%20Leverage.E13.ID.360p.mp4
-#EXTINF:-1 group-title="MOVIE ON DEMAND",LEVERAGE E12
-http://fr11.uploadcenter.com:8080/d/q3asdagfu4wawhvequogl2ozc3c727ctptmcpk3fe6atqfblksyvsplt6yofk4jxsxkfyqwm/[drakorkita.com]%20Leverage.E12.ID.360p.mp4
-#EXTINF:-1 group-title="MOVIE ON DEMAND",LEVERAGE E11
-http://fr11.uploadcenter.com:8080/d/q3aspagfu4wawhvequogry65cqbcjedx7dygw4ishouqvnwdmmtj4tnqxuzjmnvdulsohn2z/[drakorkita.com]%20Leverage.E11.ID.360p.mp4
-#EXTINF:-1 group-title="MOVIE ON DEMAND",LEVERAGE E9
-http://fr11.uploadcenter.com:8080/d/q3a7dh6fu4wawhvequoh33gkdxawujp53czxjupyp2pwy42sy3sorwrgyvc4ksn72b5wz3f4/[drakorkita.com]%20Leverage.E09.ID.360p.mp4
-#EXTINF:-1 group-title="MOVIE ON DEMAND",LEVERAGE E10
-http://fr11.uploadcenter.com:8080/d/q3a7fh6fu4wawhvequog77wdlv5pcm65j5nnqqfxdxr4l7bf6mlbuojre76pc6snbv2tfejx/[drakorkita.com]%20Leverage.E10.ID.360p.mp4

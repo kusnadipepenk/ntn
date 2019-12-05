@@ -1207,6 +1207,28 @@ http://live.savitar.tv/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9M
 https://peer1.ustv.to/SYFY/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE5IDg6MDQ6MzEgQU0maGFzaF92YWx1ZT1NSi9qR2oxNzgrRnAxQWxXZzMyREtBPT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
 
 
+#EXTINF:0 group-title="useetes",FOX CRIME [HD]
+rtp://@239.1.1.161:8940
+#EXTINF:0  group-title="useetes",FOX MOVIE PREMIUM
+rtp://@239.1.1.11:8040
+#EXTINF:0  group-title="useetes",FOX [HD]
+rtp://@239.1.1.43:8232
+#EXTINF:0  group-title="useetes",FOX MOVIE FAMILY
+rtp://@239.1.1.237:9396
+#EXTINF:0  group-title="useetes",HBO HITS [HD]
+rtp://@239.1.1.215:9264
+#EXTINF:0  group-title="useetes",BIOSKOP INDONESIA
+rtp://@239.1.1.226:9332
+#EXTINF:0  group-title="useetes",ANIMAX
+rtp://@239.1.1.64:8358
+#EXTINF:0 group-title="useetes",TV SERIES - HI INDO
+rtp://@239.1.1.240:9348
+#EXTINF:0 group-title="useetes",TVN
+rtp://@239.1.2.135:8784
+#EXTINF:0 group-title="useetes",WAKUWAKU JAPAN
+rtp://@239.1.2.75:8424
+
+
 
 #EXTINF:-1  group-title="MOVIE ON DEMAND",RUnningMan vvv
 https://doc-04-60-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/71j97e8qrql9ci1hkh6avch2kucehl1e/1575446400000/13779046776971566100/*/1zdyXNpEGKvhqPcC6Atm0-OT4EYsfVuxi?e=download

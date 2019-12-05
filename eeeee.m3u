@@ -1088,45 +1088,46 @@ http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
 
 
-
-#EXTINF:-1 group-title="LynTV",[MY]ANIMAL PLANETs
-http://50.7.161.82:8278/Animalplanet/playlist.m3u8?t=1575449397&sign=474ed708e3c500659ff0fffb6b535c6c
-#EXTINF:-1 group-title="LynTV",[MY]AFC
-http://live.52live.win/atv.php?id=http://50.7.161.82:8278/Afc/playlist.m3u8?t=1575449360&sign=1a9bda452f10e38eae323e7d2f1c42b5
+#EXTINF:-1  group-title="LynTV",HBO HD
+http://103.89.176.45:8278/Hbohd/playlist.m3u8?tid=16407224&tsum=dd9712c7faad0225ce930d85474c1312
+#EXTINF:-1  group-title="LynTV",HBO HITS
+http://5.79.87.234:8278/Hbohits/playlist.m3u8?tid=10780865&tsum=01ce89f9a4b996cbc64143cb8d260ab7
+#EXTINF:-1  group-title="LynTV",HBO FAMILY
+http://5.79.87.234:8278/Hbofamily/playlist.m3u8?tid=14401495&tsum=44c3dd925e2ec1c5ffea6591caa406be
+#EXTINF:-1  group-title="LynTV",BLUE ANT EXTREME
+http://5.79.87.234:8278/Fxhd/playlist.m3u8?tid=11904908&tsum=0f9459b7f572081436eaffa43ea116bc
+#EXTINF:-1  group-title="LynTV",FOX HD
+http://50.7.92.2:8278/Foxhd/playlist.m3u8?tid=13744395&tsum=fadaaa8eb721bb4688eb22567f7abe61
+#EXTINF:-1  group-title="LynTV",FOX FAMILY HD
+http://50.7.92.2:8278/Foxfamily/playlist.m3u8?tid=13223832&tsum=f0e7b425eeaac4bf9ed874b3d8a5370a
+#EXTINF:-1  group-title="LynTV",FOX ACTION MOVIES HD
+http://5.79.87.234:8278/Foxactionhd/playlist.m3u8?tid=14656802&tsum=8aa51ea6e11aec557ca18b84235ce8cd
+#EXTINF:-1  group-title="LynTV",FOX MOVIES PREMIUM HD
+http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=12222495&tsum=d0d8659db90bff8abea88fe13b4d41ba
+#EXTINF:-1  group-title="LynTV",AXN HD
+http://5.79.87.234:8278/Axn/playlist.m3u8?tid=14693778&tsum=d5fc048f4da1dad2ec58196cdd49119f
+#EXTINF:-1  group-title="LynTV",CINEMAX HD
+http://5.79.87.234:8278/Cinemax/playlist.m3u8?tid=15215624&tsum=ef20b1648c5b79c563f738810afd31de
+#EXTINF:-1  group-title="LynTV",HISTORY HD
+http://5.79.87.234:8278/Historyhd/playlist.m3u8?tid=15639020&tsum=9101398d06962a105c588b78863025c6
+#EXTINF:-1  group-title="LynTV",CRIME INVESTIGATION
+http://5.79.87.234:8278/CI/playlist.m3u8?tid=13764349&tsum=9f320c0c327270a4fa7cb168e7242060
+#EXTINF:-1  group-title="LynTV",DISCOVERY HD
+http://5.79.87.234:8278/Discovery/playlist.m3u8?tid=18298474&tsum=d615ec695c21cffeb6e844eef8e3e1ae
+#EXTINF:-1  group-title="LynTV",NATIONAL GEOGRAPHIC HD
+http://5.79.87.234:8278/Natgeo/playlist.m3u8?tid=17238184&tsum=d383a2404e15bc756f920dca60957594
+#EXTINF:-1  group-title="LynTV",NAT GEO PEOPLE
+http://5.79.87.234:8278/Natgeopeople/playlist.m3u8?tid=18153495&tsum=a7369e6299b1a69199dcde2dfab6aa10
+#EXTINF:-1  group-title="LynTV",ANIMAL PLANET HD
+http://5.79.87.234:8278/Animalplanet/playlist.m3u8?tid=18813490&tsum=9c9ab57314910749530a06b63f906fa7
+#EXTINF:-1  group-title="LynTV",Cartoon network
+http://5.79.87.234:8278/Cn/playlist.m3u8?tid=10005734&tsum=3a0e7548757f7af347ad8ef9bc8e4b65
 #EXTINF:-1 group-title="LynTV",[MY]KBS WORLD
 http://live.52live.win/atv.php?id=http://50.7.161.82:8278/KBS/playlist.m3u8&t=1575449321&sign=6ac243b4c1af244ab4e262ce23b58921
 #EXTINF:-1 group-title="LynTV",[MY]TVN
 http://live.52live.win/atv.php?id=http://50.7.161.82:8278/Hbohd/playlist.m3u8&t=1575449407&sign=5615a99ec746cc98356c5526185e59a9
 #EXTINF:-1 group-title="LynTV",[MY]OHk
 http://live.52live.win/atv.php?id=http://185.132.176.172:8278/Ohk/playlist.m3u8&t=1575449328&sign=1cc1dae0eebf89c4384843a5254ad2fc
-#EXTINF:-1 group-title="LynTV",[MY]HBO HITS
-http://live.52live.win/atv.php?id=http://185.132.176.172:8278/Hbohits/playlist.m3u8&t=1575449402&sign=865f296b6cf16fd83ab1426d8e697a2f
-#EXTINF:-1 group-title="LynTV",[MY]CINEMAX ID
-http://live.52live.win/atv.php?id=http://50.7.161.82:8278/Cinemax/playlist.m3u8&t=1575449992&sign=0ee58ec539ef48873b598963a92110c3
-#EXTINF:-1 group-title="LynTV",[My]NATGEO WILD
-http://live.52live.win/atv.php?id=http://50.7.161.82:8278/Natgeowild/playlist.m3u8&t=1575449392&sign=80ef49e3bcdd60b3b9d607b63424b947
-#EXTINF:-1 group-title="LynTV",[MY]SYFY
-http://live.52live.win/atv.php?id=http://198.16.106.58:8278/syfy_glo/playlist.m3u8&t=1575449368&sign=b4c68f60a1e0237ffb3b65c6e33769be
-#EXTINF:-1 group-title="LynTV",[MY]FOX MOVIE ID
-http://live.52live.win/atv.php?id=http://50.7.161.82:8278/Foxmovie/playlist.m3u8&t=1575449426&sign=776819e8f31f5f3b7a1bf3580e97785c
-#EXTINF:-1 group-title="LynTV",[My]FOX ID
-http://live.52live.win/atv.php?id=http://50.7.161.82:8278/Foxhd/playlist.m3u8&t=1575449422&sign=96595299dda3eda5fdfbb809f1ccc0c9
-#EXTINF:-1 group-title="LynTV",[MY]HBO FAMily ID
-http://live.52live.win/atv.php?id=http://50.7.161.82:8278/Foxfamily/playlist.m3u8&t=1575449435&sign=7a3c0da75b6d330d5c78dedc96bb0ff5
-#EXTINF:-1 group-title="LynTV",[MY]FOX Action
-http://live.52live.win/atv.php?id=http://50.7.161.82:8278/Foxactionhd/playlist.m3u8&t=1575449431&sign=0c4da2d11dad1804cc6172cd5a642974
-#EXTINF:-1 group-title="LynTV",[MY]FOX FAMILY
-http://live.52live.win/atv.php?id=http://50.7.161.82:8278/Hbofamily/playlist.m3u8&t=1575449417&sign=cbb7af7af4a4acb31ff14641b53f192b
-#EXTINF:-1 group-title="LynTV",[MY]HBO HD
-http://live.52live.win/atv.php?id=http://50.7.161.82:8278/Hbohd/playlist.m3u8&t=1575449407&sign=5615a99ec746cc98356c5526185e59a9
-#EXTINF:-1 group-title="LynTV",[MY]HBO SIGNATURE
-http://live.52live.win/atv.php?id=http://50.7.161.82:8278/Nbatv/playlist.m3u8&t=1575449412&sign=17d4dd5c40d8ce454dd5972a4b7f7294
-#EXTINF:-1 group-title="LynTV",[MY]Discovery CH
-http://live.52live.win/atv.php?id=http://50.7.161.82:8278/Discovery/playlist.m3u8&t=1575451032&sign=9d7aa69a9113ae1e73c249e6468fef74
-#EXTINF:-1 group-title="LynTV",[MY]National Geographic
-http://live.52live.win/atv.php?id=http://50.7.161.82:8278/Natgeo/playlist.m3u8&t=1575449385&sign=2fd3d2d6f0dde4613f6139b29207b24a
-#EXTINF:-1 group-title="LynTV",[MY]DISNEYXD
-http://live.52live.win/atv.php?id=http://50.7.161.82:8278/Disneyxd/playlist.m3u8&t=1575451037&sign=5ecac12e9bf68de6ecbe376cfb6e5222
 #EXTINF:-1 group-title="LynTV",American Horor
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="LynTV",FilmRise Classic

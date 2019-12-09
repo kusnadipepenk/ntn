@@ -1108,17 +1108,26 @@ http://203.153.218.28:9981/stream/channelid/1151931232?ticket=078500147F811BFE77
 http://203.153.218.26:9981/stream/channelid/1461154413?ticket=84E3FAD02054CC6DCF98C4850408B3FD82557CF8&amp;profile=pass
 
 
-#EXTINF:-1 tvg-logo="" group-title="Test",11
+#EXTINF:-1 tvg-logo="" group-title="Test",1
 http://23.237.33.155:5023/live/261?pid=DHSHNPQAXTPT@5278FPT&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
-#EXTINF:-1 tvg-logo="" group-title="Test",22
+#EXTINF:-1 tvg-logo="" group-title="Test",2
 http://23.237.33.155:5023/live/95?pid=UEHRQANTWNUC@5420RKJ&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
-#EXTINF:-1 tvg-logo="" group-title="Test",33
+#EXTINF:-1 tvg-logo="" group-title="Test",3
 http://23.237.33.155:5023/live/440?pid=CNQUJWSAJTTB@5127VIG&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
-#EXTINF:-1 tvg-logo="" group-title="Test",44
+#EXTINF:-1 tvg-logo="" group-title="Test",4
 http://23.237.33.155:5023/live/457?pid=MOVITUIKJEDY@5187SWW&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
-#EXTINF:-1 tvg-logo="" group-title="Test",55
+#EXTINF:-1 tvg-logo="" group-title="Test",5
 http://23.237.33.155:5023/live/181?pid=FPOFGFKRPKJF@5655VME&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
-
+#EXTINF:-1 tvg-logo="" group-title="Test",6
+http://104.194.8.167/dawytuoj.m3u8?tm=1575889038&key=909775712dabec5334a8d71ab69d78b4
+#EXTINF:-1 tvg-logo="" group-title="Test",7
+http://104.194.8.167/wpzqfgph.m3u8?tm=1575889325&key=0bd6b9fa5626dac466f6d597c6949b7c
+#EXTINF:-1 tvg-logo="" group-title="Test",8
+http://104.194.8.167/hwqizomi.m3u8?tm=1575889046&key=238f3d089857c9d3f02d977d7733071c
+#EXTINF:-1 tvg-logo="" group-title="Test",9
+http://104.194.8.167/fvqcokeh.m3u8?tm=1575889335&key=1a1cff6d5680a7c18814845afb7c2301
+#EXTINF:-1 tvg-logo="" group-title="Test",10
+http://104.194.8.167/ypzohkym.m3u8?tm=1575889344&key=337180f3bfcabaf8e03e43e10ad971e9
 
 
 

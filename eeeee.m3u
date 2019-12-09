@@ -1108,6 +1108,21 @@ http://203.153.218.28:9981/stream/channelid/1151931232?ticket=078500147F811BFE77
 http://203.153.218.26:9981/stream/channelid/1461154413?ticket=84E3FAD02054CC6DCF98C4850408B3FD82557CF8&amp;profile=pass
 
 
+#EXTINF:-1 tvg-logo="" group-title="Test",11
+http://23.237.33.155:5023/live/261?pid=DHSHNPQAXTPT@5278FPT&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+#EXTINF:-1 tvg-logo="" group-title="Test",22
+http://23.237.33.155:5023/live/95?pid=UEHRQANTWNUC@5420RKJ&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+#EXTINF:-1 tvg-logo="" group-title="Test",33
+http://23.237.33.155:5023/live/440?pid=CNQUJWSAJTTB@5127VIG&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+#EXTINF:-1 tvg-logo="" group-title="Test",44
+http://23.237.33.155:5023/live/457?pid=MOVITUIKJEDY@5187SWW&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+#EXTINF:-1 tvg-logo="" group-title="Test",55
+http://23.237.33.155:5023/live/181?pid=FPOFGFKRPKJF@5655VME&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+
+
+
+
+
 #EXTINF:-1  group-title="LynTV",FOX HD
 http://50.7.161.82:8278/Foxhd/playlist.m3u8?tid=18963999&tsum=9ae08b701b2f9c4f7200577b1f263761
 #EXTINF:-1  group-title="LynTV",FOX FAMILY HD

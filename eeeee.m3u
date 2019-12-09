@@ -755,10 +755,10 @@ https://tv.xpeer-cdn.com/02_epl2_720p/chunklist.m3u8
 https://tv.xpeer-cdn.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1  group-title="SPORTS",BeinRUGBY
 https://live.youlive-cdn.com/RugbyWorldCup/chunklist.m3u8
-#EXTINF:-1  group-title="SPORTS",TRUE Premier1HD
-https://tvrealtime.com/live/BEIN1/playlist.m3u8
-#EXTINF:-1  group-title="SPORTS",TRUE Premier2HD
-https://tvrealtime.com/live/BEIN2/playlist.m3u8
+#EXTINF:-1  group-title="SPORTS",TRUE Premier league1HD
+https://119.59.116.83:8081/4k/t2/playlist.m3u8
+#EXTINF:-1  group-title="SPORTS",TRUE Premier League2HD
+https://119.59.116.83:8081/4k/t1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ZM3FtZp/bein1.png" group-title="SPORTS",BEIN4 SD
 http://iptv2.premium-stv.com:8888/live/BEIN4/SSMDSHFKod/43.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ZM3FtZp/bein1.png" group-title="SPORTS",BEIN3 SD

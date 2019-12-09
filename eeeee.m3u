@@ -415,10 +415,14 @@ http://220.158.149.28:9999/live/TV00000000000000000115@HHZT;LIVE
 http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/03.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",Nat-Geo ID
+http://203.207.56.228/live/iptv035.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yR0ZTTB/natgeowild.png" group-title="KNOWLEDGE",Nat-Geo-WILD 
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/CPg9BPY/natgeopeo.png" group-title="KNOWLEDGE",NatGeo-People 
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/CPg9BPY/natgeopeo.png" group-title="KNOWLEDGE",NatGeo-People-ID
+http://203.207.56.228/live/iptv035.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/7j39sz1/histo.jpg" group-title="KNOWLEDGE",HISTORY CHANNEL-2
 http://livecdnh1.tvanywhere.ae/hls/h2/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/7j39sz1/histo.jpg" group-title="KNOWLEDGE",HISTORY JAPAN
@@ -505,8 +509,8 @@ http://203.207.56.228/live/iptv009.m3u8
 http://50.7.161.82:8278/TVN/playlist.m3u8?tid=m02000000000012778588&ct=17982&tsum=8d4948e951d52e62699d90039b91c278
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",SonyOne DRAMA
 http://50.7.161.82:8278/SetOne/playlist.m3u8?tid=m02000000000014244954&ct=17982&tsum=2a160ea054855b501a39a31ef6e18cb8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="SUB PREMIUM",FOX-MOVIE-Premium
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="SUB PREMIUM",FOX-MOVIE-ID
+http://203.207.56.228/live/iptv034.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="SUB PREMIUM",MOVIE3 CN
 http://hls-ott-zhibo.wasu.tv/live/264/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="SUB PREMIUM",MOVIE4 CN
@@ -673,8 +677,8 @@ http://ws.flv.nimo.tv/live/su1599512427593r490f93a8a500f7d39cbb5ae9d8ea735b_mid.
 #EXTINF:-1  tvg-logo="" group-title="MUSICS",Country MUsic
 http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/index_150_av-p.m3u8?sd=6&rebase=on
 
-#EXTINF:-1  group-title="SPORTS",Dsport
-http://jiocgenhub.jio.ril.com/Dsports_HD/Dsports_HD_400.m3u8
+#EXTINF:-1  group-title="SPORTS",Optus sport
+http://203.207.56.228/live/iptv030.m3u8
 #EXTINF:-1  group-title="SPORTS",ZIGGO sport
 http://95.170.215.118/hls/m3u8/ZIGGO-voetbal.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/wwRP0qz/redb.png" group-title="SPORTS",REDBull Tv
@@ -1110,6 +1114,8 @@ http://50.7.161.82:8278/Foxhd/playlist.m3u8?tid=18963999&tsum=9ae08b701b2f9c4f72
 http://50.7.92.2:8278/Foxfamily/playlist.m3u8?tid=18252999&tsum=62f73818e0bd9ae96618c74e5aad22bc
 #EXTINF:-1  group-title="LynTV",FOX ACTION MOVIES HD
 http://50.7.161.82:8278/Foxactionhd/playlist.m3u8?tid=18495999&tsum=94a02912e35612d8f1c4b21536ac1aff
+#EXTINF:-1  group-title="LynTV",FOX ACTION
+http://203.207.56.228/live/iptv029.m3u8
 #EXTINF:-1  group-title="LynTV",FOX MOVIES PREMIUM HD
 http://50.7.161.82:8278/Foxmovie/playlist.m3u8?tid=16668999&tsum=a4fa0e06bcf592aeb6aea48864ed5204
 #EXTINF:-1 group-title="LynTV",[MY]KBS WORLDs

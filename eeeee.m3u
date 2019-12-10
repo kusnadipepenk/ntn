@@ -886,7 +886,10 @@ https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisport2_1
 http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
 
 
-
+#EXTINF:-1 group-title="BEIN GROUP", Sony Ten 2
+http://163.172.85.133:8080/TenS/1/index.m3u8
+#EXTINF:-1 group-title="BEIN GROUP",Sony Ten 3
+http://163.172.85.133:8080/TenS/3/index.m3u8
 #EXTINF:-1 group-title="BEIN GROUP",bein1turkey
 https://sportbar.biz/lba/123/g5/beinsport1tur.m3u8
 #EXTINF:-1 group-title="BEIN GROUP",bein2turkey

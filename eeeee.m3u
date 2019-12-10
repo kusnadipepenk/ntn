@@ -153,7 +153,7 @@ http://210.210.155.35/session/5a96d1bc-6a30-11e9-afe2-91cea6c769ee/dr9445/h/h02/
 #EXTINF:-1  tvg-logo="https://i.ibb.co/6rTZ2bP/mykids.jpg" group-title="KIDS",MY KIDS
 http://210.210.155.35/x6bnqe/s/s113/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/d0RzNrk/space.png" group-title="KIDS",SPACEToon
-http://210.210.155.35/x6bnqe/s/s80/S4/mnf.m3u8
+http://95.170.215.109/hls/m3u8/Spacetoon-Backup.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/d0RzNrk/space.png" group-title="KIDS",SPACEToon ARB
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/03.m3u8
 #EXTINF:-1  group-title="KIDS",Disney Junior
@@ -204,6 +204,8 @@ http://203.207.56.228/live/iptv014.m3u8
 http://185.176.117.242/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",NICKelodeon
 http://185.176.117.242/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KIDS",NICKelodeon2
+http://95.170.215.118/hls/m3u8/Nickelodeon-JR.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QQFhFrg/nicktoon.png" group-title="KIDS",NICK Junior
 http://203.207.56.228/live/iptv018.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Universal kids

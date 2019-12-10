@@ -204,8 +204,6 @@ http://203.207.56.228/live/iptv014.m3u8
 http://185.176.117.242/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",NICKelodeon
 http://185.176.117.242/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KIDS",NICKelodeon2
-http://95.170.215.118/hls/m3u8/Nickelodeon-JR.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QQFhFrg/nicktoon.png" group-title="KIDS",NICK Junior
 http://203.207.56.228/live/iptv018.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Universal kids
@@ -423,6 +421,8 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/03.m3u8
 http://203.207.56.228/live/iptv039.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yR0ZTTB/natgeowild.png" group-title="KNOWLEDGE",Nat-Geo-WILD 
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/yR0ZTTB/natgeowild.png" group-title="KNOWLEDGE",Nat-Geo-WILD ID
+http://203.207.56.228/live/iptv007.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/CPg9BPY/natgeopeo.png" group-title="KNOWLEDGE",NatGeo-People 
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/CPg9BPY/natgeopeo.png" group-title="KNOWLEDGE",NatGeo-People-ID
@@ -436,7 +436,7 @@ http://livecdnh3.tvanywhere.ae/hls/docubox/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY CHANNEL
 http://83.167.253.110:5000/live/discovery/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY asia
-http://sv5.dailymotion.com.1cdn.host/live/discovery/chunks.m3u8
+http://203.207.56.228/live/iptv010.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY-CHANNEL SD
 http://aldirect.hls.huya.com/huyalive/30765679-2523417602-10837996074740744192-2847699224-10057-A-0-1_1200.m3u8
 #EXTINF:-1  group-title="KNOWLEDGE",Discovery Science
@@ -502,7 +502,7 @@ http://203.207.56.228/live/iptv005.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/nnNzMrW/hbofam.png" group-title="SUB PREMIUM",HBO FAMILY
 http://203.207.56.228/live/iptv004.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/FJPtGSG/hbihit.png" group-title="SUB PREMIUM",HBO HITS
-http://203.207.56.228/live/iptv007.m3u8
+http://203.207.56.228/live/iptv003.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/kXn8ZJ9/hbosignatr.png" group-title="SUB PREMIUM",HBO SIGNATURE
 http://203.207.56.228/live/iptv006.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="SUB PREMIUM",TVN Movies

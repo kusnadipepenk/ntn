@@ -799,8 +799,8 @@ http://wc6.beeyooo.com/11sp.m3u8
 https://ott-live.olympicchannel.com/out/u/OC1_4.m3u8?stime=1554365712&etime=1554366012&m=1552468505
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",RTSH SPORT
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
-#EXTINF:-1  group-title="SPORTS",Chelsea TV
-https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
+#EXTINF:-1  group-title="SPORTS",SONY ESPN
+http://103.118.76.229:1935/tvprogram/SONY-ESPN/playlist.m3u8
 #EXTINF:-1  group-title="SPORTS",Chelsea TV2
 https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/02.m3u8
 #EXTINF:-1  group-title="SPORTS",Dubai Sport

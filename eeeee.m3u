@@ -416,14 +416,14 @@ http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",Nat-Geo ID
-http://203.207.56.228/live/iptv035.m3u8
+http://203.207.56.228/live/iptv039.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yR0ZTTB/natgeowild.png" group-title="KNOWLEDGE",Nat-Geo-WILD 
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/CPg9BPY/natgeopeo.png" group-title="KNOWLEDGE",NatGeo-People 
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/CPg9BPY/natgeopeo.png" group-title="KNOWLEDGE",NatGeo-People-ID
 http://203.207.56.228/live/iptv035.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/7j39sz1/histo.jpg" group-title="KNOWLEDGE",HISTORY CHANNEL-2
+#EXTINF:-1  tvg-logo="https://i.ibb.co/7j39sz1/histo.jpg" group-title="KNOWLEDGE",HISTORY CHANNEL
 http://livecdnh1.tvanywhere.ae/hls/h2/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/7j39sz1/histo.jpg" group-title="KNOWLEDGE",HISTORY JAPAN
 http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8
@@ -443,8 +443,6 @@ http://34.69.67.123:8888/tvnow/http://sv5.dailymotion.com.1cdn.host/live/diy/chu
 http://95.86.32.7:999/food
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
 http://203.207.56.228/live/iptv019.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet(H)
-http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet UAE
 http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Tbk2Dsc/hgtv.jpg" group-title="KNOWLEDGE",HGTV
@@ -1106,6 +1104,8 @@ http://203.153.218.28:9981/stream/channelid/1497533758?ticket=A1217AFD7D4BACB9F6
 http://203.153.218.28:9981/stream/channelid/1151931232?ticket=078500147F811BFE771335FA49291072620A412D&profile=pass
 #EXTINF:-1 tvg-logo="http://j2-play.tv/cover/live/doc/natgeowild.png" group-title="PREMIUM",National Geographic Wild HD
 http://203.153.218.26:9981/stream/channelid/1461154413?ticket=84E3FAD02054CC6DCF98C4850408B3FD82557CF8&amp;profile=pass
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM",Animal Planet(H)
+http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
 
 
 #EXTINF:-1 tvg-logo="" group-title="Test",1

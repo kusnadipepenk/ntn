@@ -890,6 +890,8 @@ https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisport2_1
 http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
 
 
+#EXTINF:-1 group-title="BEIN GROUP",BEIN 1
+http://85.114.142.124:8080/hls/stream10.m3u8
 #EXTINF:-1 group-title="BEIN GROUP", Sony Ten 2
 http://163.172.85.133:8080/TenS/1/index.m3u8
 #EXTINF:-1 group-title="BEIN GROUP",Sony Ten 3
@@ -1059,16 +1061,6 @@ http://112.175.248.34:1935/ytn/_definst_/ylivehd_20140419_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-ytn-science.jpg" group-title="SOUTH KOREA",YTN Science
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
-#EXTINF:-1 group-title="SOUTH KOREA",CGV Korea
-http://222.236.107.101:9981/stream/channelid/1241478360
-#EXTINF:-1 group-title="SOUTH KOREA",KBS ntah
-http://222.236.107.101:9981/stream/channelid/331520547
-#EXTINF:-1 group-title="SOUTH KOREA",mplex
-http://222.236.107.101:9981/stream/channelid/590684042
-#EXTINF:-1 group-title="SOUTH KOREA",FOX
-http://222.236.107.101:9981/stream/channelid/1936107632
-#EXTINF:-1 group-title="SOUTH KOREA",Disney Channel
-http://222.236.107.101:9981/stream/channelid/1321617488
 
 
 
@@ -1174,16 +1166,6 @@ http://23.237.33.155:5023/live/440?pid=CNQUJWSAJTTB@5127VIG&begblock=0&startdela
 http://23.237.33.155:5023/live/457?pid=MOVITUIKJEDY@5187SWW&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
 #EXTINF:-1 tvg-logo="" group-title="Test",5
 http://23.237.33.155:5023/live/181?pid=FPOFGFKRPKJF@5655VME&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
-#EXTINF:-1 tvg-logo="" group-title="Test",6
-http://104.194.8.167/dawytuoj.m3u8?tm=1575889038&key=909775712dabec5334a8d71ab69d78b4
-#EXTINF:-1 tvg-logo="" group-title="Test",7
-http://104.194.8.167/wpzqfgph.m3u8?tm=1575889325&key=0bd6b9fa5626dac466f6d597c6949b7c
-#EXTINF:-1 tvg-logo="" group-title="Test",8
-http://104.194.8.167/hwqizomi.m3u8?tm=1575889046&key=238f3d089857c9d3f02d977d7733071c
-#EXTINF:-1 tvg-logo="" group-title="Test",9
-http://104.194.8.167/fvqcokeh.m3u8?tm=1575889335&key=1a1cff6d5680a7c18814845afb7c2301
-#EXTINF:-1 tvg-logo="" group-title="Test",10
-http://104.194.8.167/ypzohkym.m3u8?tm=1575889344&key=337180f3bfcabaf8e03e43e10ad971e9
 
 
 

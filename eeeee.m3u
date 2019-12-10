@@ -892,22 +892,12 @@ http://163.172.85.133:8080/TenS/1/index.m3u8
 http://163.172.85.133:8080/TenS/3/index.m3u8
 #EXTINF:-1 group-title="BEIN GROUP",bein1turkey
 https://sportbar.biz/lba/123/g5/beinsport1tur.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",bein2turkey
-https://sportbar.biz/lba/123/g9/turbein2sport.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",bein3turkey
-https://sportbar.biz/lba/123/g6/bein3turkey.m3u8
 #EXTINF:-1 group-title="BEIN GROUP",SPORT TV _1
 https://sportbar.biz/lba/123/g6/tv1pt.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",SPORT TV _2
-https://sportbar.biz/lba/123/g1/sport2port.m3u8
 #EXTINF:-1 group-title="BEIN GROUP",SPORT TV _3
 https://sportbar.biz/lba/123/g2/pt3sport.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",SPORT TV _4
-https://sportbar.biz/lba/123/g4/portugalsport4.m3u8
 #EXTINF:-1 group-title="BEIN GROUP",SPORT TV _5
 https://sportbar.biz/lba/123/g8/ptsport5.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",Supersport 2
-https://sportbar.biz/lba/123/g9/ss2al.m3u8
 #EXTINF:-1 group-title="BEIN GROUP",Supersport 3
 https://sportbar.biz/lba/123/g8/albaniasport3.m3u8
 #EXTINF:-1 group-title="BEIN GROUP",Supersport 4

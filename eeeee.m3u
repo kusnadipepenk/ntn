@@ -413,8 +413,6 @@ http://210.210.155.35/qwr9ew/s/s20/02.m3u8
 http://203.207.56.228/live/iptv001.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",NAT GEO ASIA
 http://220.158.149.28:9999/live/TV00000000000000000115@HHZT;LIVE
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",LOVE NATURE
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch368)/Stream(01)/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",Nat-Geo ID
@@ -435,7 +433,7 @@ http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8
 http://livecdnh3.tvanywhere.ae/hls/docubox/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY CHANNEL
 http://83.167.253.110:5000/live/discovery/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY asia
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY ID
 http://203.207.56.228/live/iptv010.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY-CHANNEL SD
 http://aldirect.hls.huya.com/huyalive/30765679-2523417602-10837996074740744192-2847699224-10057-A-0-1_1200.m3u8
@@ -451,8 +449,6 @@ http://203.207.56.228/live/iptv019.m3u8
 http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Tbk2Dsc/hgtv.jpg" group-title="KNOWLEDGE",HGTV
 http://23.237.22.82:8086/udp/127.0.0.1:56069
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Tbk2Dsc/hgtv.jpg" group-title="KNOWLEDGE",HGTV2
-https://cvtv.cvalley.net/hls/HGTVHD/pkgHGTVLo.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",CrimeInvestigation
 http://203.154.243.31:15001
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",LIFETIME
@@ -577,8 +573,6 @@ http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
 #EXTINF:-1  tvg-logo="https://i.ibb.co/jkpXk0p/mgm.jpg" group-title="SUB PREMIUM",MGM Channel
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/nffsTYK/ae.png" group-title="SUB PREMIUM",A&E OK
-https://cvtv.cvalley.net/hls/AEHD/pkgAELo.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="SUB PREMIUM",FOX Family
 http://203.207.56.228/live/iptv035.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="SUB PREMIUM",[TH]FOX Family
@@ -611,8 +605,6 @@ http://80.80.160.168/live/2/1000000/playlist.m3u8
 http://23.237.22.82:8086/udp/127.0.0.1:56067
 #EXTINF:-1  tvg-logo="https://i.ibb.co/j3p5KYK/usa.png" group-title="SUB PREMIUM",USA
 http://23.237.22.82:8086/udp/127.0.0.1:56054
-#EXTINF:-1  tvg-logo="https://i.ibb.co/j3p5KYK/usa.png" group-title="SUB PREMIUM",USA2
-https://cvtv.cvalley.net/hls/USAHD/pkgUSALo.m3u8
 #EXTINF:-1  group-title="SUB PREMIUM",POPTv
 https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master_600.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/SJX3w9x/wow.png" group-title="SUB PREMIUM",WOWOW Japan

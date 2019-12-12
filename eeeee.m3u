@@ -890,6 +890,8 @@ https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisport2_1
 http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
 
 
+#EXTINF:-1 group-title="BEIN GROUP",BEIN
+http://beryantv.com:25461/77892478224654/77892478224654/797
 #EXTINF:-1 group-title="BEIN GROUP",BEIN 1
 http://85.114.142.124:8080/hls/stream10.m3u8
 #EXTINF:-1 group-title="BEIN GROUP", Sony Ten 2

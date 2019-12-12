@@ -882,80 +882,6 @@ https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisport2_1
 http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
 
 
-#EXTINF:-1 group-title="BEIN GROUP",BEIN
-http://beryantv.com:25461/77892478224654/77892478224654/797
-#EXTINF:-1 group-title="BEIN GROUP",BEIN 1
-http://85.114.142.124:8080/hls/stream10.m3u8
-#EXTINF:-1 group-title="BEIN GROUP", Sony Ten 2
-http://163.172.85.133:8080/TenS/1/index.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",Sony Ten 3
-http://163.172.85.133:8080/TenS/3/index.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",bein1turkey
-https://sportbar.biz/lba/123/g5/beinsport1tur.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",SPORT TV _1
-https://sportbar.biz/lba/123/g6/tv1pt.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",SPORT TV _3
-https://sportbar.biz/lba/123/g2/pt3sport.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",SPORT TV _5
-https://sportbar.biz/lba/123/g8/ptsport5.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",Supersport 3
-https://sportbar.biz/lba/123/g8/albaniasport3.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",Supersport 4
-https://sportbar.biz/lba/123/g7/super4sport.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",Digi Sport 1
-https://sportbar.biz/lba/123/g4/ds1ro.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",Digi Sport 2
-https://sportbar.biz/lba/123/g7/digisport2ro.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",sportklub1
-https://sportbar.biz/lba/123/g5/sportklub1rs.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",sportklub2
-https://sportbar.biz/lba/123/g3/sk2serbia.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",sportklub3
-https://sportbar.biz/lba/123/g8/rs3sk.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",Sky Sports Main Event
-https://sportbar.biz/lba/123/g2/maineventss.m3u8
-#EXTINF:-1 group-title="BEIN GROUP" group-title="BEIN GROUP",Sky Sports football
-https://sportbar.biz/lba/123/g9/ssf.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",bt sport 1 https://www.vlcm3u.com
-https://sportbar.biz/lba/123/g2/btuk1.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",bt sport 2
-https://sportbar.biz/lba/123/g3/ukbt2sport.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",bt sport 3
-https://sportbar.biz/lba/123/g4/3btsporteu.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",bt sport ESPN
-https://sportbar.biz/lba/123/g7/btse.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",ARENA SPORT 1
-https://sportbar.biz/lba/123/g6/arena1rs.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",ARENA SPORT 2
-https://sportbar.biz/lba/123/g10/arena2sport.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",ARENA SPORT 4
-https://sportbar.biz/lba/123/g3/arenaserbia4.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",ARENA SPORT 5
-https://sportbar.biz/lba/123/g7/ar5sport.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",Eurosport 1
-https://sportbar.biz/lba/123/g5/eurosport1rus.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",Eurosport 2
-https://sportbar.biz/lba/123/g2/ruseuro2.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",Match
-https://sportbar.biz/lba/123/g2/rusmatchtv.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",Match Fudbal 1
-https://sportbar.biz/lba/123/g6/mfootball1.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",Match Fudbal 2
-https://sportbar.biz/lba/123/g2/rumatchf2.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",sport1ukraine
-https://sportbar.biz/lba/123/g8/sport1ukraine.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",rusfootball
-https://sportbar.biz/lba/123/g3/rusfootball.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",ukrfoot1
-https://sportbar.biz/lba/123/g6/ukrfoot1.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",ukrfoot2
-https://sportbar.biz/lba/123/g1/football2ukraine.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",SETANTA SPORTS
-https://sportbar.biz/lba/123/g8/setantarus.m3u8
-#EXTINF:-1 group-title="BEIN GROUP",SETANTA SPORTS +
-https://sportbar.biz/lba/123/g5/seteurasiaplus.m3u8
-
-
 
 #EXTM3U
 #EXTINF:-1  group-title="SOUTH KOREA",Running MAn TV
@@ -1163,7 +1089,6 @@ http://23.237.33.155:5023/live/181?pid=FPOFGFKRPKJF@5655VME&begblock=0&startdela
 
 
 
-
 #EXTINF:-1  group-title="LynTV",FOX HD
 http://50.7.161.82:8278/Foxhd/playlist.m3u8?tid=18963999&tsum=9ae08b701b2f9c4f7200577b1f263761
 #EXTINF:-1  group-title="LynTV",FOX FAMILY HD
@@ -1190,46 +1115,47 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
 
 
-EXTINF:-1  group-title="TVUSA",A&E
-http://live.savitar.tv/AE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxOSAxOjA1OjM5IEFNJmhhc2hfdmFsdWU9c2JJYjVEQ2xsWWpBR2pCM3hLUStmdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
-#EXTINF:-1  group-title="TVUSA",A&E2
-https://peer2.ustv.to/AE/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOSA5OjUzOjUyIEFNJmhhc2hfdmFsdWU9M0VwS3FZU2xCWU5VSllFNndJWkNIQT09JnZhbGlkbWludXRlcz0zNjAmc3RybV9sZW49MA==
-#EXTINF:-1  group-title="TVUSA",HGTV
-http://live.savitar.tv/HGTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxOSAxOjA1OjM5IEFNJmhhc2hfdmFsdWU9c2JJYjVEQ2xsWWpBR2pCM3hLUStmdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
-#EXTINF:-1  group-title="TVUSA",HGTV2
-https://peer2.ustv.to/HGTV/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOSA5OjUzOjUyIEFNJmhhc2hfdmFsdWU9M0VwS3FZU2xCWU5VSllFNndJWkNIQT09JnZhbGlkbWludXRlcz0zNjAmc3RybV9sZW49MA==
-#EXTINF:-1  group-title="TVUSA",AMC
-http://live.savitar.tv/AMC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxOSAxOjA1OjM5IEFNJmhhc2hfdmFsdWU9c2JJYjVEQ2xsWWpBR2pCM3hLUStmdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
-#EXTINF:-1  group-title="TVUSA",AMC2
-https://peer3.ustv.to/AMC/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE5IDg6MDQ6MzEgQU0maGFzaF92YWx1ZT1NSi9qR2oxNzgrRnAxQWxXZzMyREtBPT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
-#EXTINF:-1  group-title="TVUSA",FX
-http://live.savitar.tv/FX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxOSAxOjA1OjM5IEFNJmhhc2hfdmFsdWU9c2JJYjVEQ2xsWWpBR2pCM3hLUStmdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
-#EXTINF:-1  group-title="TVUSA",FX2
-https://peer2.ustv.to/FX/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOSA5OjUzOjUyIEFNJmhhc2hfdmFsdWU9M0VwS3FZU2xCWU5VSllFNndJWkNIQT09JnZhbGlkbWludXRlcz0zNjAmc3RybV9sZW49MA==
-#EXTINF:-1  group-title="TVUSA",ESPN
-http://live.savitar.tv/ESPN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxOSAxOjA1OjM5IEFNJmhhc2hfdmFsdWU9c2JJYjVEQ2xsWWpBR2pCM3hLUStmdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
-#EXTINF:-1  group-title="TVUSA",ESPN(2)
-https://peer2.ustv.to/ESPN/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOSA5OjUzOjUyIEFNJmhhc2hfdmFsdWU9M0VwS3FZU2xCWU5VSllFNndJWkNIQT09JnZhbGlkbWludXRlcz0zNjAmc3RybV9sZW49MA==
-#EXTINF:-1  group-title="TVUSA",ESPN2
-http://live.savitar.tv/ESPN2/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxOSAxOjA1OjM5IEFNJmhhc2hfdmFsdWU9c2JJYjVEQ2xsWWpBR2pCM3hLUStmdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
-#EXTINF:-1  group-title="TVUSA",ESPN2(2)
-https://peer1.ustv.to/ESPN2/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE5IDg6MDQ6MzEgQU0maGFzaF92YWx1ZT1NSi9qR2oxNzgrRnAxQWxXZzMyREtBPT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
-#EXTINF:-1  group-title="TVUSA",FS1 SPORT
-http://live.savitar.tv/FS1/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxOSAxOjA1OjM5IEFNJmhhc2hfdmFsdWU9c2JJYjVEQ2xsWWpBR2pCM3hLUStmdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
-#EXTINF:-1  group-title="TVUSA",FS1 SPORT2
-https://peer1.ustv.to/FS1/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE5IDg6MDQ6MzEgQU0maGFzaF92YWx1ZT1NSi9qR2oxNzgrRnAxQWxXZzMyREtBPT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
-#EXTINF:-1  group-title="TVUSA",FS2 SPORT
-http://live.savitar.tv/FS2/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxOSAxOjA1OjM5IEFNJmhhc2hfdmFsdWU9c2JJYjVEQ2xsWWpBR2pCM3hLUStmdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
-#EXTINF:-1  group-title="TVUSA",FS2 SPORT2
-https://peer1.ustv.to/FS2/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE5IDg6MDQ6MzEgQU0maGFzaF92YWx1ZT1NSi9qR2oxNzgrRnAxQWxXZzMyREtBPT0mdmFsaWRtaW51dGVzPTM2MCZzdHJtX2xlbj0w
-#EXTINF:-1  group-title="TVUSA",Hallmark
-http://live.savitar.tv/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxOSAxOjA1OjM5IEFNJmhhc2hfdmFsdWU9c2JJYjVEQ2xsWWpBR2pCM3hLUStmdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
-#EXTINF:-1  group-title="TVUSA",Hallmark2
-https://peer2.ustv.to/Hallmark/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOSA5OjUzOjUyIEFNJmhhc2hfdmFsdWU9M0VwS3FZU2xCWU5VSllFNndJWkNIQT09JnZhbGlkbWludXRlcz0zNjAmc3RybV9sZW49MA==
-#EXTINF:-1  group-title="TVUSA",SYFY
-http://live.savitar.tv/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxOSAxOjA1OjM5IEFNJmhhc2hfdmFsdWU9c2JJYjVEQ2xsWWpBR2pCM3hLUStmdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
-#EXTINF:-1  group-title="TVUSA",SYFY2
-https://peer2.ustv.to/FX/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOSA5OjUzOjUyIEFNJmhhc2hfdmFsdWU9M0VwS3FZU2xCWU5VSllFNndJWkNIQT09JnZhbGlkbWludXRlcz0zNjAmc3RybV9sZW49MA==
+#EXTINF:-1 group-title="TVUSA",Bein sports 1 240p
+http://beryantv.com:25461/77892478224654/77892478224654/798
+#EXTINF:-1 group-title="TVUSA",Bein sports 2 240p
+http://beryantv.com:25461/77892478224654/77892478224654/803
+#EXTINF:-1 group-title="TVUSA",Bein sports 3 240p
+http://beryantv.com:25461/77892478224654/77892478224654/808
+#EXTINF:-1 group-title="TVUSA",Bein sports 4 240p
+http://beryantv.com:25461/77892478224654/77892478224654/813
+#EXTINF:-1 group-title="TVUSA",Bein sports 5 360p
+http://beryantv.com:25461/77892478224654/77892478224654/818
+#EXTINF:-1 group-title="TVUSA",Bein sports 6 360p
+http://beryantv.com:25461/77892478224654/77892478224654/823
+#EXTINF:-1 group-title="TVUSA",NETFLIX BOX OFFICE
+http://beryantv.com:25461/77892478224654/77892478224654/875
+#EXTINF:-1 group-title="TVUSA",NETFLIX ACTION 2
+http://beryantv.com:25461/77892478224654/77892478224654/877
+#EXTINF:-1 group-title="TVUSA",NETFLIX ACTION 1
+http://beryantv.com:25461/77892478224654/77892478224654/878
+#EXTINF:-1 group-title="TVUSA",MY-Film-Box
+http://beryantv.com:25461/77892478224654/77892478224654/891
+#EXTINF:-1 group-title="TVUSA",FOX-Action
+http://beryantv.com:25461/77892478224654/77892478224654/892
+#EXTINF:-1 group-title="TVUSA",FOX-Family
+http://beryantv.com:25461/77892478224654/77892478224654/893
+#EXTINF:-1 group-title="TVUSA",FOX
+http://beryantv.com:25461/77892478224654/77892478224654/894
+#EXTINF:-1 group-title="TVUSA",My-Cinema
+http://beryantv.com:25461/77892478224654/77892478224654/895
+#EXTINF:-1 group-title="TVUSA",HBO-1
+http://beryantv.com:25461/77892478224654/77892478224654/896
+#EXTINF:-1 group-title="TVUSA",HBO-2
+http://beryantv.com:25461/77892478224654/77892478224654/897
+#EXTINF:-1 group-title="TVUSA",HBO-3
+http://beryantv.com:25461/77892478224654/77892478224654/898
+#EXTINF:-1 group-title="TVUSA",OSN Movies HD
+http://beryantv.com:25461/77892478224654/77892478224654/884
+#EXTINF:-1 group-title="TVUSA",OSN First Movies HD
+http://beryantv.com:25461/77892478224654/77892478224654/885
+#EXTINF:-1 group-title="TVUSA",OSN First Movies 2 HD
+http://beryantv.com:25461/77892478224654/77892478224654/886
+
 
 
 #EXTINF:-1  group-title="MOVIE ON DEMAND",COCO ep1

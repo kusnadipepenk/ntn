@@ -1083,7 +1083,12 @@ http://23.237.33.155:5023/live/440?pid=CNQUJWSAJTTB@5127VIG&begblock=0&startdela
 http://23.237.33.155:5023/live/457?pid=MOVITUIKJEDY@5187SWW&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
 #EXTINF:-1 tvg-logo="" group-title="Test",5
 http://23.237.33.155:5023/live/181?pid=FPOFGFKRPKJF@5655VME&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
-
+#EXTINF:-1 tvg-logo="" group-title="Test",6
+http://edge.linknetott.swiftserve.com/channelgroup5/cg519production/ch328/02.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Test",7
+http://edge.linknetott.swiftserve.com/channelgroup5/cg527production/ch312/02.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Test",8
+http://edge.linknetott.swiftserve.com/channelgroup2/cg211production/ch309/02.m3u8
 
 
 #EXTINF:-1  group-title="LynTV",FOX HD

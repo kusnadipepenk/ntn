@@ -1026,16 +1026,13 @@ https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/02.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",NHK World
-https://delivery.macan.live/stream/id_nhkworld/index.m3u8?token=nQOcEMQS
+
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Action
 http://203.153.218.26:9981/stream/channelid/1764566305?ticket=9469C6E700880D4CC8A909291B3D0A0FCD96B582&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg" group-title="PREMIUM",FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_15.png" group-title="PREMIUM",FOX Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_15.png" group-title="PREMIUM",FOX Family Movies(2)
-http://203.153.218.26:9981/stream/channelid/750664492?ticket=A3D34C2F4D75F25D2022471799701CD0FF7950A4&profile=pass
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="PREMIUM",Fox Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
 #EXTINF:-1 group-title="PREMIUM",HBO
@@ -1068,10 +1065,10 @@ http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeowild_big.png" group-title="PREMIUM",NatGeo Wild 2
 http://203.153.218.28:9981/stream/channelid/1497533758?ticket=A1217AFD7D4BACB9F66B9B369E8BC5B02FB0CEE4&profile=pass
+#EXTINF:-1 tvg-logo="http://j2-play.tv/cover/live/doc/natgeowild.png" group-title="PREMIUM",National Geographic Wild HD
+http://203.153.218.26:9981/stream/channelid/1461154413?ticket=84E3FAD02054CC6DCF98C4850408B3FD82557CF8&profile=pass
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM",Discovery ID
 http://203.153.218.28:9981/stream/channelid/1151931232?ticket=078500147F811BFE771335FA49291072620A412D&profile=pass
-#EXTINF:-1 tvg-logo="http://j2-play.tv/cover/live/doc/natgeowild.png" group-title="PREMIUM",National Geographic Wild HD
-http://203.153.218.26:9981/stream/channelid/1461154413?ticket=84E3FAD02054CC6DCF98C4850408B3FD82557CF8&amp;profile=pass
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM",Animal Planet(H)
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
 

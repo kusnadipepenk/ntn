@@ -641,9 +641,7 @@ http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8?wmsAuthSign=c2Vy
 #EXTINF:-1  tvg-logo="" group-title="MUSICS",MUSIC NOW
 http://livecdnh1.tvanywhere.ae/hls/music_now/03.m3u8
 #EXTINF:-1  group-title="MUSICS",VH1
-http://185.176.117.242/live/eds/VH1/HLS_encr/VH1.m3u8
-#EXTINF:-1  group-title="MUSICS",VH1xx
-http://content-aapm1.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/d.m3u8
+http://185.176.117.243/live/eds/VH1/HLS_encr/VH1.m3u8
 #EXTINF:-1  group-title="MUSICS",MIX MUSIC
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/chunklist_b846000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/h9QVbpc/pop.png" group-title="MUSICS",POP-Musik
@@ -653,7 +651,7 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1  group-title="MUSICS",HITTV Music
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_2.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/kqffBBK/mtv.png" group-title="MUSICS",MTV-HITS
-http://185.176.117.242/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
+http://185.176.117.243/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/kqffBBK/mtv.png" group-title="MUSICS",MTV 2
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1  tvg-logo="https://i.ibb.co/kqffBBK/mtv.png" group-title="MUSICS",MTV Live
@@ -1091,7 +1089,7 @@ http://43.240.226.40:1935/AppLiveEfarinaTV/efarinatv_360p/index.m3u8
 http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Test",National Geographic HD
 http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Test",National Geographic HD
+#EXTINF:-1 tvg-logo="" group-title="Test",National Geographic
 http://88.119.220.2/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Test",Galaxy1
 http://178.124.183.5/hls/CH_GALAXY/variant.m3u8?version=1
@@ -1100,10 +1098,12 @@ http://178.124.183.5/hls/CH_HISTORY/variant.m3u8?version=1
 #EXTINF:-1 tvg-logo="" group-title="Test",LOVE NATURE
 #EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw2000000/variant.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Test",FOX
-http://178.124.183.5/hls/CH_FOX/variant.m3u8?version=1
+#EXTINF:-1 tvg-logo="" group-title="Test",FOX1
+http://88.119.220.2/live/eds/FOX/HLS_encr/FOX.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Test",FOX Life1
 http://178.124.183.5/hls/CH_FOXL/variant.m3u8?version=1
+#EXTINF:-1 tvg-logo="" group-title="Test",FOX Life2
+http://188.113.190.12/182/tracks-a2/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Test",Sony Channel HD
 http://178.124.183.5/hls/VPRSUR2WN2/variant.m3u8?version=1
 #EXTINF:-1 tvg-logo="" group-title="Test",Sony Sci-Fi
@@ -1112,6 +1112,21 @@ http://178.124.183.5/hls/EDVYQYGHF8/variant.m3u8?version=1
 http://178.124.183.12/hls/EDVYQYGHF8/bw2000000/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Test",Disney XD
 http://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Test",Disney Junior
+http://185.176.117.243/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Test",Nickelodeon
+http://185.176.117.243/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Test",Nicktoons
+http://185.176.117.243/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Test",Nick JR
+http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Test",TV1000
+http://185.176.117.243/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Test",TV1000 Action
+http://185.176.117.243/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Test",TV1000 Premium
+http://185.176.117.243/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
+
 
 
 #EXTINF:-1 group-title="DOBALL CHANNEL",Doball 1

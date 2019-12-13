@@ -1091,6 +1091,38 @@ http://edge.linknetott.swiftserve.com/channelgroup5/cg527production/ch312/02.m3u
 http://edge.linknetott.swiftserve.com/channelgroup2/cg211production/ch309/02.m3u8
 
 
+#EXTINF:-1 group-title="DOBALL CHANNEL",Doball 1
+http://stream.doball.com:8080/hls/ch1.m3u8?feed
+#EXTINF:-1 group-title="DOBALL CHANNEL",Doball 2
+http://stream.doball.com:8080/hls/ch2.m3u8?feed
+#EXTINF:-1 group-title="DOBALL CHANNEL",Doball 3
+http://stream.doball.com:8080/hls/ch3.m3u8?feed
+#EXTINF:-1 group-title="DOBALL CHANNEL",Doball 4
+http://stream.doball.com:8080/hls/ch4.m3u8?feed
+#EXTINF:-1 group-title="DOBALL CHANNEL",Doball 5
+http://stream.doball.com:8080/hls/ch5.m3u8?feed
+#EXTINF:-1 group-title="DOBALL CHANNEL",Doball 6
+http://stream.doball.com:8080/hls/ch6.m3u8?feed
+#EXTINF:-1 group-title="DOBALL CHANNEL",Doball 7
+http://stream.doball.com:8080/hls/ch7.m3u8?feed
+#EXTINF:-1 group-title="DOBALL CHANNEL",Doball 8
+http://stream.doball.com:8080/hls/ch8.m3u8?feed
+#EXTINF:-1 group-title="DOBALL CHANNEL",Doball 9
+http://stream.doball.com:8080/hls/ch9.m3u8?feed
+#EXTINF:-1 group-title="DOBALL CHANNEL",Doball 10
+http://stream.doball.com:8080/hls/ch10.m3u8?feed
+#EXTINF:-1 group-title="DOBALL CHANNEL",Doball 11
+http://stream.doball.com:8080/hls/ch11.m3u8?feed
+#EXTINF:-1 group-title="DOBALL CHANNEL",Doball 12
+http://stream.doball.com:8080/hls/ch12.m3u8?feed
+#EXTINF:-1 group-title="DOBALL CHANNEL",Doball 13
+http://stream.doball.com:8080/hls/ch13.m3u8?feed
+#EXTINF:-1 group-title="DOBALL CHANNEL",Doball 14
+http://stream.doball.com:8080/hls/ch14.m3u8?feed
+#EXTINF:-1 group-title="DOBALL CHANNEL",Doball 15
+http://stream.doball.com:8080/hls/ch15.m3u8?feed
+
+
 #EXTINF:-1  group-title="LynTV",FOX HD
 http://50.7.161.82:8278/Foxhd/playlist.m3u8?tid=18963999&tsum=9ae08b701b2f9c4f7200577b1f263761
 #EXTINF:-1  group-title="LynTV",FOX FAMILY HD
@@ -1115,48 +1147,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_500
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
 #EXTINF:-1 group-title="LynTV",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 group-title="TVUSA",Bein sports 1 240p
-http://beryantv.com:25461/77892478224654/77892478224654/797
-#EXTINF:-1 group-title="TVUSA",Bein sports 2 240p
-http://beryantv.com:25461/77892478224654/77892478224654/802
-#EXTINF:-1 group-title="TVUSA",Bein sports 3 240p
-http://beryantv.com:25461/77892478224654/77892478224654/807
-#EXTINF:-1 group-title="TVUSA",Bein sports 4 240p
-http://beryantv.com:25461/77892478224654/77892478224654/812
-#EXTINF:-1 group-title="TVUSA",Bein sports 5 360p
-http://beryantv.com:25461/77892478224654/77892478224654/817
-#EXTINF:-1 group-title="TVUSA",Bein sports 6 360p
-http://beryantv.com:25461/77892478224654/77892478224654/822
-#EXTINF:-1 group-title="TVUSA",NETFLIX BOX OFFICE
-http://beryantv.com:25461/77892478224654/77892478224654/875
-#EXTINF:-1 group-title="TVUSA",NETFLIX ACTION 2
-http://beryantv.com:25461/77892478224654/77892478224654/877
-#EXTINF:-1 group-title="TVUSA",NETFLIX ACTION 1
-http://beryantv.com:25461/77892478224654/77892478224654/878
-#EXTINF:-1 group-title="TVUSA",MY-Film-Box
-http://beryantv.com:25461/77892478224654/77892478224654/891
-#EXTINF:-1 group-title="TVUSA",FOX-Action
-http://beryantv.com:25461/77892478224654/77892478224654/892
-#EXTINF:-1 group-title="TVUSA",FOX-Family
-http://beryantv.com:25461/77892478224654/77892478224654/893
-#EXTINF:-1 group-title="TVUSA",FOX
-http://beryantv.com:25461/77892478224654/77892478224654/894
-#EXTINF:-1 group-title="TVUSA",My-Cinema
-http://beryantv.com:25461/77892478224654/77892478224654/895
-#EXTINF:-1 group-title="TVUSA",HBO-1
-http://beryantv.com:25461/77892478224654/77892478224654/896
-#EXTINF:-1 group-title="TVUSA",HBO-2
-http://beryantv.com:25461/77892478224654/77892478224654/897
-#EXTINF:-1 group-title="TVUSA",HBO-3
-http://beryantv.com:25461/77892478224654/77892478224654/898
-#EXTINF:-1 group-title="TVUSA",OSN Movies HD
-http://beryantv.com:25461/77892478224654/77892478224654/884
-#EXTINF:-1 group-title="TVUSA",OSN First Movies HD
-http://beryantv.com:25461/77892478224654/77892478224654/885
-#EXTINF:-1 group-title="TVUSA",OSN First Movies 2 HD
-http://beryantv.com:25461/77892478224654/77892478224654/886
 
 
 

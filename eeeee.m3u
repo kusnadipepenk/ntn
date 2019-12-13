@@ -1089,7 +1089,31 @@ http://154.54.220.60:7500/play/a06q?sd=10&rebase=on
 http://43.240.226.40:1935/AppLiveEfarinaTV/efarinatv_360p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Test",8
 http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="Test",National Geographic HD
+http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Test",National Geographic HD
+http://88.119.220.2/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Test",Galaxy
+http://178.124.183.5/hls/CH_GALAXY/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="" group-title="Test",History
+http://178.124.183.5/hls/CH_HISTORY/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="" group-title="Test",LOVE NATURE
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Test",FOX
+http://178.124.183.5/hls/CH_FOX/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="" group-title="Test",FOX
+http://213.252.252.2/live/eds/FOX/HLS_encr/FOX-audio_20000=96000-video=2200000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Test",FOX Life
+http://178.124.183.5/hls/CH_FOXL/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="" group-title="Test",Sony Channel HD
+http://178.124.183.5/hls/VPRSUR2WN2/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="" group-title="Test",Sony Sci-Fi
+http://178.124.183.5/hls/EDVYQYGHF8/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="" group-title="Test",Sony Sci-Fi 
+http://178.124.183.12/hls/EDVYQYGHF8/bw2000000/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Test",Disney XD
+http://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD.m3u8
 
 
 #EXTINF:-1 group-title="DOBALL CHANNEL",Doball 1

@@ -1113,11 +1113,7 @@ http://178.124.183.12/hls/EDVYQYGHF8/bw2000000/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Test",Disney XD
 http://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Test",Disney XDCoba
-#EXT-X-VERSION:5
-#EXT-X-MEDIA:TYPE=AUDIO,URI="Disney_XD-mp4a_96000_rus=6.m3u8",GROUP-ID="audio-AACL-96",LANGUAGE="ru",NAME="Russian",AUTOSELECT=YES,CHANNELS="2"
-#EXT-X-MEDIA:TYPE=AUDIO,URI="Disney_XD-mp4a_96000_eng=5.m3u8",GROUP-ID="audio-AACL-96",LANGUAGE="en",NAME="English",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
-#EXT-X-STREAM-INF:BANDWIDTH=806255,AVERAGE-BANDWIDTH=732959,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=720x576,AUDIO="audio-AACL-96"
-Disney_XD-avc1_600000=9.m3u8
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/disney.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Test",Disney Junior
 http://185.176.117.243/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Test",Nickelodeon

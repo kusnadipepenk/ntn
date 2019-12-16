@@ -1112,8 +1112,8 @@ http://178.124.183.5/hls/EDVYQYGHF8/variant.m3u8?version=1
 http://178.124.183.12/hls/EDVYQYGHF8/bw2000000/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Test",Disney XD
 http://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Test",Disney XDCoba
-https://doc-08-a4-docs.googleusercontent.com/docs/securesc/u24r5okb0rlfr04b8nc0nc811kle9c0f/oj0uqrsqh604sgif47rvm1ams66otjbq/1576224000000/04176364832963441182/04176364832963441182/1Sd1nVjAAL16hpeLUaUIeQzkoaJlPaaQZ?e=download&authuser=0
+#EXTINF:-1 tvg-logo="" URI="Disney_XD-mp4a_96000_eng=5.m3u8" group-title="Test",Disney XDCobax
+http://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD-avc1_1200000=8.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Test",Disney Junior
 http://185.176.117.243/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Test",Nickelodeon

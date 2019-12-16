@@ -1130,15 +1130,8 @@ http://185.176.117.243/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
 #EXTINF: tvg-logo="" group-title="Test",Nicktoons percobaan5
 #EXT-X-VERSION:5
 #EXT-X-MEDIA:TYPE=AUDIO,URI="http://185.176.117.243/live/eds/Nicktoons/HLS_encr/Nicktoons-mp4a_96000_eng=2.m3u8",GROUP-ID="audios",LANGUAGE="en",NAME="English",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
-#EXT-X-STREAM-INF:BANDWIDTH=806255,AVERAGE-BANDWIDTH=732959,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=720x576,AUDIO="audios"
+#EXT-X-STREAM-INF:BANDWIDTH=806255,AVERAGE-BANDWIDTH=732959,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=720x576,AUDIO="http://185.176.117.243/live/eds/Nicktoons/HLS_encr/Nicktoons-mp4a_96000_eng=2.m3u8"
 http://185.176.117.243/live/eds/Nicktoons/HLS_encr/Nicktoons-avc1_600000=8.m3u8
-
-
-#EXTINF: tvg-logo="" group-title="Test",Nicktoons percobaan6
-#EXT-X-VERSION:5
-#EXT-X-MEDIA:TYPE=AUDIO,URI="http://185.176.117.243/live/eds/Nicktoons/HLS_encr/Nicktoons-mp4a_96000_eng=2.m3u8",GROUP-ID="audios",LANGUAGE="en",NAME="English",DEFAULT=YES,CHANNELS="2"
-#EXT-X-STREAM-INF:BANDWIDTH=806255,AVERAGE-BANDWIDTH=732959,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=720x576,AUDIO="audios"
-http://185.176.117.243/live/eds/Nicktoons/HLS_encr/Nicktoons-mp4a_96000_eng=2.m3u8
 
 
 

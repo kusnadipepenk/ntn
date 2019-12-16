@@ -1127,8 +1127,8 @@ http://185.176.117.243/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Test",TV1000 Premium
 http://185.176.117.243/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
 
+#EXTINF: tvg-logo="" group-title="Test",Nicktoons percobaan3
 #EXTM3U
-#EXTINF: tvg-logo="" group-title="Test",Nicktoons percobaan2
 #EXT-X-VERSION:5
 #EXT-X-MEDIA:TYPE=AUDIO,URI="Nicktoons-mp4a_96000_eng=2.m3u8",GROUP-ID="audio-AACL-96",LANGUAGE="en",NAME="English",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
 #EXT-X-MEDIA:TYPE=AUDIO,URI="Nicktoons-mp4a_96000_rus=1.m3u8",GROUP-ID="audio-AACL-96",LANGUAGE="ru",NAME="Russian",AUTOSELECT=YES,CHANNELS="2"

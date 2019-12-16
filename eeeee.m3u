@@ -1118,8 +1118,8 @@ http://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD-avc1_1200000=8.m3u8
 http://185.176.117.243/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Test",Nickelodeon
 http://185.176.117.243/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
-#EXTINF:-1 tvg-logo="" URI="Nicktoons-mp4a_96000_eng=2.m3u8" CODECS="avc1.4d401e,mp4a.40.2" group-title="Test",Nicktoonss
-http://185.176.117.243/live/eds/Nicktoons/HLS_encr/Nicktoons-avc1_600000=8.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Test",Nicktoonss
+http://185.176.117.243/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Test",Nick JR
 http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Test",TV1000

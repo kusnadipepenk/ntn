@@ -479,6 +479,10 @@ http://203.207.56.228/live/iptv033.m3u8
 http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/DLnnhBP/foxcinema.jpg" group-title="SUB PREMIUM",FoX-Cinema
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+#EXTINF:-1  group-title="SUB PREMIUM",&PriveHD
+http://pockettv.xyz/api/zee.m3u8?c=andprivehd
+#EXTINF:-1  group-title="SUB PREMIUM",&FLIXHD
+http://pockettv.xyz/api/zee.m3u8?c=andflixhd
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="SUB PREMIUM",HBO1
 http://95.170.215.118/hls/m3u8/HBO.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="SUB PREMIUM",HBO2
@@ -611,10 +615,6 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master_600.
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
 #EXTINF:-1  group-title="SUB PREMIUM",WAU Rusia
 http://nn2.joj.sk/hls/wau-360.m3u8
-#EXTINF:-1  group-title="SUB PREMIUM",&PriveHD
-http://pockettv.xyz/api/zee.m3u8?c=andprivehd
-#EXTINF:-1  group-title="SUB PREMIUM",&FLIXHD
-http://pockettv.xyz/api/zee.m3u8?c=andflixhd
 #EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",SKY MOVIE
 http://95.170.215.118/hls/m3u8/Sky-MoviesSelect.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",SKY MOVIE COMEDY

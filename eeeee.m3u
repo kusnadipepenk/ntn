@@ -669,6 +669,8 @@ http://ws.flv.nimo.tv/live/su1599512427593r490f93a8a500f7d39cbb5ae9d8ea735b_mid.
 #EXTINF:-1  tvg-logo="" group-title="MUSICS",Country MUsic
 http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/index_150_av-p.m3u8?sd=6&rebase=on
 
+#EXTINF:-1  group-title="SPORTS",SPORTTV 2
+https://sportbar.biz/lba/123/g1/sport2port.m3u8
 #EXTINF:-1  group-title="SPORTS",Optus sport
 http://203.207.56.228/live/iptv030.m3u8
 #EXTINF:-1  group-title="SPORTS",ZIGGO sport
@@ -1130,6 +1132,12 @@ http://185.176.117.243/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
 #EXTINF: tvg-logo="" group-title="Test",Fox percobaan7
 https://doc-0k-a4-docs.googleusercontent.com/docs/securesc/u24r5okb0rlfr04b8nc0nc811kle9c0f/f3digbnf0mipf792669p55r10j2hoo3u/1576483200000/04176364832963441182/04176364832963441182/1v1ddxGBrKZ6NKYtWB5g8BYFKL1WMzyUh?e=download&authuser=0
 
+#EXTINF: tvg-logo="" group-title="Test",yuyu
+http://tvprime.tv:8080/Son1/Son1/122
+#EXTINF: tvg-logo="" group-title="Test",yeye
+http://tvprime.tv:8080/Son1/Son1/121
+#EXTINF: tvg-logo="" group-title="Test",yoyo
+http://tvprime.tv:8080/Son1/Son1/120
 
 
 #EXTINF:-1 group-title="DOBALL CHANNEL",Doball 1

@@ -512,8 +512,6 @@ http://203.207.56.228/live/iptv004.m3u8
 http://203.207.56.228/live/iptv003.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/kXn8ZJ9/hbosignatr.png" group-title="SUB PREMIUM",HBO SIGNATURE
 http://203.207.56.228/live/iptv006.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="SUB PREMIUM",TVN Movies
-http://203.207.56.228/live/iptv009.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="SUB PREMIUM",TVN DRAMA
 http://50.7.161.82:8278/TVN/playlist.m3u8?tid=m02000000000012778588&ct=17982&tsum=8d4948e951d52e62699d90039b91c278
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",SonyOne DRAMA
@@ -695,9 +693,9 @@ http://203.153.218.28:9981/stream/channelid/1151931232?ticket=078500147F811BFE77
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
 
 
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",TVN Drama
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="PREMI2",TVN Drama
 http://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",TVN MOVIES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="PREMI2",TVN MOVIES
 http://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FX.us.png" group-title="PREMI2",FX
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
@@ -755,11 +753,11 @@ https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 https://www.livedoomovie.com/02_SCM_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2016/04/CCTV-6-logo-2016-640x480.png" group-title="PREMI2",中国电影频道
 http://61.58.60.230:9319/live/225.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",FOX-SPORTS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="PREMI2",FOX-SPORTS
 https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",FOX-SPORTS2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="PREMI2",FOX-SPORTS2
 https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",FOX-SPORTS3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="PREMI2",FOX-SPORTS3
 https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",Soccer Channel
 https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8

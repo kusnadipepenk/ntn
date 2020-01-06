@@ -795,12 +795,21 @@ http://ws.flv.nimo.tv/live/su1599512427593r490f93a8a500f7d39cbb5ae9d8ea735b_mid.
 #EXTINF:-1  tvg-logo="" group-title="MUSICS",Country MUsic
 http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/index_150_av-p.m3u8?sd=6&rebase=on
 
+
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_455874997.png" group-title="SPORTS",ST Sports Arena
+http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_ARENA_972_300_320x240_197192/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-1497572737.png group-title="SPORTS",ST Sports Premium
+http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_PREMIUM_980_300_320x240_197232/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-955113695.png" group-title="SPORTS",ST Sports Focus
+http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_FOCUS_970_300_320x240_197186/playlist.m3u8
 #EXTINF:-1  group-title="SPORTS",SPORTTV 2
 https://sportbar.biz/lba/123/g1/sport2port.m3u8
 #EXTINF:-1  group-title="SPORTS",Optus sport
 http://203.207.56.228/live/iptv030.m3u8
 #EXTINF:-1  group-title="SPORTS",ZIGGO sport
 http://95.170.215.118/hls/m3u8/ZIGGO-voetbal.m3u8
+#EXTINF:-1 tvg-logo="http://www.dsport.in/wp-content/uploads/2018/10/NewDSport_White.png" group-title="SPORTS",Discovery Sports
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/wwRP0qz/redb.png" group-title="SPORTS",REDBull Tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1  group-title="SPORTS",RTM SportMalasya 

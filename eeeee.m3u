@@ -445,8 +445,6 @@ https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
 http://aldirect.hls.huya.com/huyalive/30765679-2523417602-10837996074740744192-2847699224-10057-A-0-1_1200.m3u8
 #EXTINF:-1  group-title="KNOWLEDGE",Discovery Science
 http://80.80.160.168/live/9/2500000/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DIY Channel
-http://34.69.67.123:8888/tvnow/http://sv5.dailymotion.com.1cdn.host/live/diy/chunks.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",FOOD
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
@@ -454,9 +452,9 @@ http://203.207.56.228/live/iptv010.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal PlanetS
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Tbk2Dsc/hgtv.jpg" group-title="KNOWLEDGE",HGTV
-http://23.237.22.82:8086/udp/127.0.0.1:56069
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",CrimeInvestigation
-http://203.154.243.31:15001
+https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",LIFETIME
 http://203.154.243.31:15002
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Fine&Living
@@ -763,8 +761,14 @@ https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports.m3u8
 https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",FOX-SPORTS3
 https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMI2",Soccer Channel
+https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMI2",ComedyChannel
+https://liveanevia.mncnow.id/live/eds/ComedyChannel/sa_hls/ComedyChannel.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",Movie Channel
 https://liveanevia.mncnow.id/live/eds/MovieChannel/sa_hls/MovieChannel.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMI2",Vision Prime
+https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_hls/VisionPrime.m3u8
 
 
 #EXTM3U

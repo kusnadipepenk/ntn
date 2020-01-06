@@ -696,8 +696,7 @@ http://203.153.218.28:9981/stream/channelid/1151931232?ticket=078500147F811BFE77
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM",Animal Planet(H)
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" group-title="PREMI2",AMC
-http://84.22.33.254/unicast.amc/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FX.us.png" group-title="PREMI2",FX
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FXMovieChannel.us.png" group-title="PREMI2",FXM
@@ -710,8 +709,6 @@ https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_hls/FOXMoviesPremium.m
 https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_hls/FoxActionMovies.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/FoxCrime.qa.png" group-title="PREMI2",Fox Crime
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/HBO.cz.png" group-title="PREMI2",HBO
-https://livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/HBO.cz.png" group-title="PREMI2",HBO-ID
 https://liveanevia.mncnow.id/live/eds/HBO/sa_hls/HBO.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/HBOFamily.br.png" group-title="PREMI2",HBO Family
@@ -734,14 +731,14 @@ https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 http://84.22.33.254/unicast.scifi/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyPix.in.png" group-title="PREMI2",Sony Pix
 https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sa/StarMovies.sa.png" group-title="PREMI2",Star Movies
-http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1569972488/1378.png" group-title="PREMI2",Sony Movies Christmas
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/The_Works.jpg/375px-The_Works.jpg" group-title="PREMI2",The Works
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="PREMI2",Warner TV
 http://203.154.243.89:11205
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="PREMI2",WarnerTV ID
+https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV.m3u8
 #EXTINF:-1 tvg-logo="https://startimestv.com/Uploads/Picture/2019/08/28/s5d65da8273f5e.jpg" group-title="PREMI2",AMC Series
 http://ms-azure-video.gslb.startimestv.com/live/AMC_MOVIES_990_250_320x240_210828/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://spiintl.com/data/files/zdjecie/11/01/11010bfdfdb06d306b68dc1c27e4f5dde9d67315918a601c7c3fc4aa059e056a.png" group-title="PREMI2",FilmBox ArtHouse

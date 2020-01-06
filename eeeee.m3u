@@ -751,10 +751,6 @@ http://84.22.33.254/unicast.arthouse/index.m3u8
 http://84.22.33.254/unicast.filmboxplus/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/FilmboxExtra.cz.png" group-title="PREMI2",FilmBox Extra
 http://84.22.33.254/unicast.filmboxextrahd/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000140413879/2363d730cb9aebf952ae08af7f29cf9f_400x400.jpeg" group-title="PREMI2",J'Go FMP
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/it/RaiMovie.it.png" group-title="PREMI2",Rai Movie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TF1SeriesFilms.fr.png" group-title="PREMI2",TF1 Séries Films
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="http://www.singteltv.com.sg/_channels/pic_ch573.jpg" group-title="PREMI2",卫视卡式

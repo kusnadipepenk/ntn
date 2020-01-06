@@ -4,7 +4,7 @@ http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/L0x4cC6/net.jpg" group-title="STASIUN NASIONAL",NET. TV(2)
 http://210.210.155.35/session/6141d55e-70a0-11e9-8180-b82a72d63267/qwr9ew/s/s08/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/L0x4cC6/net.jpg" group-title="STASIUN NASIONAL",NET. TV(3)
-http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+https://liveanevia.mncnow.id/live/eds/NetTV/sa_hls/NetTV.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="STASIUN NASIONAL",TRANSTV
 http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="STASIUN NASIONAL",TRANSTV(2)
@@ -697,6 +697,10 @@ http://203.153.218.28:9981/stream/channelid/1151931232?ticket=078500147F811BFE77
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
 
 
+#EXTINF:-1 tvg-logo="" group-title="PREMI2",TVN Drama
+http://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMI2",TVN MOVIES
+http://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FX.us.png" group-title="PREMI2",FX
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FXMovieChannel.us.png" group-title="PREMI2",FXM
@@ -757,6 +761,15 @@ https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 https://www.livedoomovie.com/02_SCM_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2016/04/CCTV-6-logo-2016-640x480.png" group-title="PREMI2",中国电影频道
 http://61.58.60.230:9319/live/225.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMI2",FOX-SPORTS
+https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMI2",FOX-SPORTS2
+https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMI2",FOX-SPORTS3
+https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMI2",Movie Channel
+https://liveanevia.mncnow.id/live/eds/MovieChannel/sa_hls/MovieChannel.m3u8
+
 
 #EXTM3U
 #EXTINF:-1  tvg-logo="" group-title="MUSICS",M Channel
@@ -1159,22 +1172,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/02.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Test",1
-http://23.237.33.155:5023/live/261?pid=DHSHNPQAXTPT@5278FPT&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
-#EXTINF:-1 tvg-logo="" group-title="Test",2
-http://23.237.33.155:5023/live/95?pid=UEHRQANTWNUC@5420RKJ&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
-#EXTINF:-1 tvg-logo="" group-title="Test",3
-http://23.237.33.155:5023/live/440?pid=CNQUJWSAJTTB@5127VIG&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
-#EXTINF:-1 tvg-logo="" group-title="Test",4
-http://23.237.33.155:5023/live/457?pid=MOVITUIKJEDY@5187SWW&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
-#EXTINF:-1 tvg-logo="" group-title="Test",5
-http://23.237.33.155:5023/live/181?pid=FPOFGFKRPKJF@5655VME&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
-#EXTINF:-1 tvg-logo="" group-title="Test",6
-http://154.54.220.60:7500/play/a06q?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="" group-title="Test",7
-http://43.240.226.40:1935/AppLiveEfarinaTV/efarinatv_360p/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Test",8
-http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Test",National Geographic HD
 http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Test",National Geographic
@@ -1214,48 +1211,6 @@ http://185.176.117.243/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
 http://185.176.117.243/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Test",TV1000 Premium
 http://185.176.117.243/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
-
-#EXTINF: tvg-logo="" group-title="Test",Fox percobaan7
-https://doc-0k-a4-docs.googleusercontent.com/docs/securesc/u24r5okb0rlfr04b8nc0nc811kle9c0f/f3digbnf0mipf792669p55r10j2hoo3u/1576483200000/04176364832963441182/04176364832963441182/1v1ddxGBrKZ6NKYtWB5g8BYFKL1WMzyUh?e=download&authuser=0
-
-#EXTINF: tvg-logo="" group-title="Test",yuyu
-http://tvprime.tv:8080/Son1/Son1/122
-#EXTINF: tvg-logo="" group-title="Test",yeye
-http://tvprime.tv:8080/Son1/Son1/121
-#EXTINF: tvg-logo="" group-title="Test",yoyo
-http://tvprime.tv:8080/Son1/Son1/120
-
-
-#EXTINF:-1 group-title="DOBALL CHANNEL",Doball 1
-http://stream.doball.com:8080/hls/ch1.m3u8?feed
-#EXTINF:-1 group-title="DOBALL CHANNEL",Doball 2
-http://stream.doball.com:8080/hls/ch2.m3u8?feed
-#EXTINF:-1 group-title="DOBALL CHANNEL",Doball 3
-http://stream.doball.com:8080/hls/ch3.m3u8?feed
-#EXTINF:-1 group-title="DOBALL CHANNEL",Doball 4
-http://stream.doball.com:8080/hls/ch4.m3u8?feed
-#EXTINF:-1 group-title="DOBALL CHANNEL",Doball 5
-http://stream.doball.com:8080/hls/ch5.m3u8?feed
-#EXTINF:-1 group-title="DOBALL CHANNEL",Doball 6
-http://stream.doball.com:8080/hls/ch6.m3u8?feed
-#EXTINF:-1 group-title="DOBALL CHANNEL",Doball 7
-http://stream.doball.com:8080/hls/ch7.m3u8?feed
-#EXTINF:-1 group-title="DOBALL CHANNEL",Doball 8
-http://stream.doball.com:8080/hls/ch8.m3u8?feed
-#EXTINF:-1 group-title="DOBALL CHANNEL",Doball 9
-http://stream.doball.com:8080/hls/ch9.m3u8?feed
-#EXTINF:-1 group-title="DOBALL CHANNEL",Doball 10
-http://stream.doball.com:8080/hls/ch10.m3u8?feed
-#EXTINF:-1 group-title="DOBALL CHANNEL",Doball 11
-http://stream.doball.com:8080/hls/ch11.m3u8?feed
-#EXTINF:-1 group-title="DOBALL CHANNEL",Doball 12
-http://stream.doball.com:8080/hls/ch12.m3u8?feed
-#EXTINF:-1 group-title="DOBALL CHANNEL",Doball 13
-http://stream.doball.com:8080/hls/ch13.m3u8?feed
-#EXTINF:-1 group-title="DOBALL CHANNEL",Doball 14
-http://stream.doball.com:8080/hls/ch14.m3u8?feed
-#EXTINF:-1 group-title="DOBALL CHANNEL",Doball 15
-http://stream.doball.com:8080/hls/ch15.m3u8?feed
 
 
 #EXTINF:-1  group-title="LynTV",FOX HD

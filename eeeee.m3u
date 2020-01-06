@@ -205,7 +205,7 @@ http://185.176.117.242/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",NICKelodeon
 http://185.176.117.242/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QQFhFrg/nicktoon.png" group-title="KIDS",NICK Junior
-http://203.207.56.228/live/iptv018.m3u8
+http://203.207.56.228/live/iptv019.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Universal kids
 http://23.237.22.82:8086/udp/127.0.0.1:56076
 #EXTINF:-1  tvg-logo="" group-title="KIDS",TOONVerse
@@ -409,14 +409,18 @@ http://stream1.ninmedia.tv/mktv/udp.stream_360p/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary
 http://210.210.155.35/qwr9ew/s/s20/02.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC EARTH
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",ASIAN FOOD CHANNEL
 http://203.207.56.228/live/iptv001.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC LIFE STyle
+http://203.207.56.228/live/iptv018.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC EARTH
+http://203.207.56.228/live/iptv020.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",NAT GEO ASIA
 http://220.158.149.28:9999/live/TV00000000000000000115@HHZT;LIVE
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",Nat-Geo ID
-http://203.207.56.228/live/iptv039.m3u8
+http://203.207.56.228/live/iptv038.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yR0ZTTB/natgeowild.png" group-title="KNOWLEDGE",Nat-Geo-WILD 
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yR0ZTTB/natgeowild.png" group-title="KNOWLEDGE",Nat-Geo-WILD ID
@@ -444,7 +448,7 @@ http://34.69.67.123:8888/tvnow/http://sv5.dailymotion.com.1cdn.host/live/diy/chu
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",FOOD
 http://95.86.32.7:999/food
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
-http://203.207.56.228/live/iptv019.m3u8
+http://203.207.56.228/live/iptv010.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet UAE
 http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Tbk2Dsc/hgtv.jpg" group-title="KNOWLEDGE",HGTV
@@ -513,6 +517,8 @@ http://50.7.161.82:8278/TVN/playlist.m3u8?tid=m02000000000012778588&ct=17982&tsu
 http://50.7.161.82:8278/SetOne/playlist.m3u8?tid=m02000000000014244954&ct=17982&tsum=2a160ea054855b501a39a31ef6e18cb8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="SUB PREMIUM",FOX-MOVIE-ID
 http://203.207.56.228/live/iptv034.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Action-ID
+http://203.207.56.228/live/iptv029.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="SUB PREMIUM",MOVIE3 CN
 http://hls-ott-zhibo.wasu.tv/live/264/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="SUB PREMIUM",MOVIE4 CN
@@ -638,6 +644,8 @@ http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8?wmsAuthSign=c2Vy
  
 
 #EXTM3U
+#EXTINF:-1  tvg-logo="" group-title="MUSICS",M Channel
+http://203.207.56.228/live/iptv014.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MUSICS",MUSIC NOW
 http://livecdnh1.tvanywhere.ae/hls/music_now/03.m3u8
 #EXTINF:-1  group-title="MUSICS",VH1
@@ -1029,6 +1037,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/02.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Action
 http://203.153.218.26:9981/stream/channelid/1764566305?ticket=9469C6E700880D4CC8A909291B3D0A0FCD96B582&profile=pass
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Action ID
+http://203.207.56.228/live/iptv029.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg" group-title="PREMIUM",FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_15.png" group-title="PREMIUM",FOX Family Movies

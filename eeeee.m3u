@@ -24,7 +24,7 @@ http://id6.indostreamingtv.com/live/rcti/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="STASIUN NASIONAL",RCTI3
 https://live.rctiplus.id/rctiplus/rcti_540p.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="STASIUN NASIONAL",SCTV
-http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+https://liveanevia.mncnow.id/live/eds/SCTV/sa_hls/SCTV.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="STASIUN NASIONAL",SCTV tvonlineid
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1KX7m3dyRmjcbxJnJbNZrJ9HQyDf3VUuX" group-title="STASIUN NASIONAL",MNC
@@ -33,8 +33,6 @@ http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=0
 http://id2.indostreamingtv.com/live/event/index.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1KX7m3dyRmjcbxJnJbNZrJ9HQyDf3VUuX" group-title="STASIUN NASIONAL",MNC3
 https://live.rctiplus.id/rctiplus/mnctv_540p.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/sKPrnLk/mcspot.jpg" group-title="STASIUN NASIONAL",MNC SPORT
-http://202.80.222.166/000001/2/ch00000090990000001753/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="STASIUN NASIONAL",INDOSIAR(2)
 http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/02.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="STASIUN NASIONAL",INDOSIAR
@@ -747,6 +745,8 @@ https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2.m3u8
 https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",Soccer Channel
 https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/MNCSports.id.png" group-title="PREMI2",MNC SPORT
+https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",ComedyChannel
 https://liveanevia.mncnow.id/live/eds/ComedyChannel/sa_hls/ComedyChannel.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",Movie Channel
@@ -885,10 +885,14 @@ http://iliketot.dyndns.tv/02cb79ab0b0c418f847148ca9e2baed4.m3u8?wmsAuthSign=c2Vy
 http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT3xx
 http://iliketot.dyndns.tv/443ea6ef1768462aaffdff38ce2a4355.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTggNDo0Mzo1OCBBTSZoYXNoX3ZhbHVlPW9oSGErRXNZcXAxSlhaRTJoSTdFWnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zbW9uZzExfDgwNXx1cGxheXwxNTMzNzg5ODM4fDE3MS41LjExMS4xMjg=
-#EXTINF:-1  group-title="SPORTS",Bein1
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Asia
 https://livedoomovie.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1  group-title="SPORTS",Bein2
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Asia SD
+https://dl.dropbox.com/s/wusxifl4yfnxt0y/Live4.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia
 https://livedoomovie.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia SD
+https://dl.dropbox.com/s/7trldus602grhbm/Live5.m3u8?dl=0
 #EXTINF:-1  group-title="SPORTS",BeinXTRA
 https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/1920x1080_5640800/index.m3u8
 #EXTINF:-1  group-title="SPORTS",TRUEsport1

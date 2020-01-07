@@ -886,23 +886,19 @@ http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT3xx
 http://iliketot.dyndns.tv/443ea6ef1768462aaffdff38ce2a4355.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTggNDo0Mzo1OCBBTSZoYXNoX3ZhbHVlPW9oSGErRXNZcXAxSlhaRTJoSTdFWnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zbW9uZzExfDgwNXx1cGxheXwxNTMzNzg5ODM4fDE3MS41LjExMS4xMjg=
 #EXTINF:-1  group-title="SPORTS",Bein1
-https://tv.xpeer-cdn.com/02_epl1_720p/chunklist.m3u8
+https://livedoomovie.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1  group-title="SPORTS",Bein2
-https://tv.xpeer-cdn.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1  group-title="SPORTS",Bein1q
-https://tv.xpeer-cdn.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1  group-title="SPORTS",BeinRUGBY
-https://live.youlive-cdn.com/RugbyWorldCup/chunklist.m3u8
-#EXTINF:-1  group-title="SPORTS",TRUE Premier league1HD
-https://119.59.116.83:8081/4k/t2/playlist.m3u8
-#EXTINF:-1  group-title="SPORTS",TRUE Premier League2HD
-https://119.59.116.83:8081/4k/t1/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/ZM3FtZp/bein1.png" group-title="SPORTS",BEIN4 SD
-http://iptv2.premium-stv.com:8888/live/BEIN4/SSMDSHFKod/43.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/ZM3FtZp/bein1.png" group-title="SPORTS",BEIN3 SD
-http://iptv2.premium-stv.com:8888/live/BEIN3/0jwkR45MqZ/5.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/ZM3FtZp/bein1.png" group-title="SPORTS",BEIN2 SD
-http://iptv2.premium-stv.com:8888/live/BEIN2/x8ZD4RdhNm/45.ts
+https://livedoomovie.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1  group-title="SPORTS",BeinXTRA
+https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/1920x1080_5640800/index.m3u8
+#EXTINF:-1  group-title="SPORTS",TRUEsport1
+https://livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1  group-title="SPORTS",TRUEsport2
+https://livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1  group-title="SPORTS",TRUEsport3
+https://livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1  group-title="SPORTS",TRUEsport4
+https://livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hHhx3tz/bein2.png" group-title="SPORTS",BEIN(LaLiga)Sports
 http://23.237.22.82:8086/udp/127.0.0.1:56021
 #EXTINF:-1  tvg-logo="https://i.ibb.co/gZfX8CS/bein3.png" group-title="SPORTS",BEIN(HD3)Sports
@@ -921,14 +917,6 @@ http://ott-cdn.ucom.am/s81/03.m3u8
 http://ott-cdn.ucom.am/s82/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/kx5Xj9Q/setanta.jpg" group-title="SPORTS",setanta Kazakstan
 https://sportbar.biz/lba/123/g5/setqz.m3u8
-#EXTINF:-1  group-title="SPORTS",FS1
-http://34.69.67.123:8888/tvnow/http://sv5.dailymotion.com.1cdn.host/live/fs1/chunks.m3u8
-#EXTINF:-1  group-title="SPORTS",FS1 OK
-https://cvtv.cvalley.net/hls/FS1/pkgFS1Lo.m3u8
-#EXTINF:-1  group-title="SPORTS",FS2
-http://34.69.67.123:8888/tvnow/http://sv5.dailymotion.com.1cdn.host/live/fs2/chunks.m3u8
-#EXTINF:-1  group-title="SPORTS",NBCSN
-http://34.69.67.123:8888/tvnow/http://sv5.dailymotion.com.1cdn.host/live/nbcsn/chunks.m3u8
 #EXTINF:-1  group-title="SPORTS",Eleven sport
 http://wc7.beeyooo.com/tv11.m3u8
 #EXTINF:-1  group-title="SPORTS",Eleven sport2

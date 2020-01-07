@@ -739,20 +739,6 @@ https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_142
 http://203.154.243.89:11205
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="PREMI2",WarnerTV ID
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV.m3u8
-#EXTINF:-1 tvg-logo="https://startimestv.com/Uploads/Picture/2019/08/28/s5d65da8273f5e.jpg" group-title="PREMI2",AMC Series
-http://ms-azure-video.gslb.startimestv.com/live/AMC_MOVIES_990_250_320x240_210828/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/zdjecie/11/01/11010bfdfdb06d306b68dc1c27e4f5dde9d67315918a601c7c3fc4aa059e056a.png" group-title="PREMI2",FilmBox ArtHouse
-http://84.22.33.254/unicast.arthouse/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/FilmboxPlus.cz.png" group-title="PREMI2",FilmBox Plus
-http://84.22.33.254/unicast.filmboxplus/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/FilmboxExtra.cz.png" group-title="PREMI2",FilmBox Extra
-http://84.22.33.254/unicast.filmboxextrahd/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TF1SeriesFilms.fr.png" group-title="PREMI2",TF1 Séries Films
-https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-logo="http://www.singteltv.com.sg/_channels/pic_ch573.jpg" group-title="PREMI2",卫视卡式
-https://www.livedoomovie.com/02_SCM_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2016/04/CCTV-6-logo-2016-640x480.png" group-title="PREMI2",中国电影频道
-http://61.58.60.230:9319/live/225.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="PREMI2",FOX-SPORTS
 https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="PREMI2",FOX-SPORTS2
@@ -767,6 +753,21 @@ https://liveanevia.mncnow.id/live/eds/ComedyChannel/sa_hls/ComedyChannel.m3u8
 https://liveanevia.mncnow.id/live/eds/MovieChannel/sa_hls/MovieChannel.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",Vision Prime
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_hls/VisionPrime.m3u8
+#EXTINF:-1 tvg-logo="https://startimestv.com/Uploads/Picture/2019/08/28/s5d65da8273f5e.jpg" group-title="PREMI2",AMC Series
+http://ms-azure-video.gslb.startimestv.com/live/AMC_MOVIES_990_250_320x240_210828/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/zdjecie/11/01/11010bfdfdb06d306b68dc1c27e4f5dde9d67315918a601c7c3fc4aa059e056a.png" group-title="PREMI2",FilmBox ArtHouse
+http://84.22.33.254/unicast.arthouse/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/FilmboxPlus.cz.png" group-title="PREMI2",FilmBox Plus
+http://84.22.33.254/unicast.filmboxplus/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/FilmboxExtra.cz.png" group-title="PREMI2",FilmBox Extra
+http://84.22.33.254/unicast.filmboxextrahd/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TF1SeriesFilms.fr.png" group-title="PREMI2",TF1 Séries Films
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-logo="http://www.singteltv.com.sg/_channels/pic_ch573.jpg" group-title="PREMI2",卫视卡式
+https://www.livedoomovie.com/02_SCM_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2016/04/CCTV-6-logo-2016-640x480.png" group-title="PREMI2",中国电影频道
+http://61.58.60.230:9319/live/225.m3u8
+
 
 
 #EXTM3U

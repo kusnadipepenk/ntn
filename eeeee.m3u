@@ -773,18 +773,10 @@ https://www.livedoomovie.com/02_SCM_720p/chunklist.m3u8
 http://61.58.60.230:9319/live/225.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/uk/TLC.uk.png" group-title="PREMI2",TLC
 https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",UseeSprort1
-https://dl.dropbox.com/s/8x7qc1tax3whh5n/useesport1.m3u8?dl=0
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",UseeSport2
-https://dl.dropbox.com/s/3axc7j7yrf8zhe5/useesport2.m3u8?dl=0
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",Champion1 CH
-https://dl.dropbox.com/s/dss06rzu01t16jh/Champions1.m3u8?dl=0
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",Champion2 CH
-https://dl.dropbox.com/s/x2hmlnojiyox69m/Champions2.m3u8?dl=0
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",Live1
-https://dl.dropbox.com/s/iuv41s0sxrg3mo3/Live1.m3u8?dl=0
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",Live2
-https://dl.dropbox.com/s/l4flpns7pmkzuv5/Live2.m3u8?dl=0
+#EXTINF:-1 tvg-logo="" group-title="PREMI2",FOODRecipy
+https://dl.dropbox.com/s/26tghhn7gim8rx3/Foodrecipy.m3u8?dl=0
+#EXTINF:-1 tvg-logo="" group-title="PREMI2",Tasty
+https://dl.dropbox.com/s/t7kcrn2w3idpg86/Tasty.m3u8?dl=0
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",UseePrime
 https://dl.dropbox.com/s/og0ev43lje9dch9/useeprime.m3u8?dl=0
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",Flik CHannel

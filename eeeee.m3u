@@ -829,6 +829,8 @@ http://pockettv.xyz/api/zee.m3u8?c=9xo
 http://ws.flv.nimo.tv/live/su1599512427593r490f93a8a500f7d39cbb5ae9d8ea735b_mid.flv
 #EXTINF:-1  tvg-logo="" group-title="MUSICS",Country MUsic
 http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/index_150_av-p.m3u8?sd=6&rebase=on
+#EXTINF:-1 tvg-logo="https://commodusprod.hooq.tv/cdnimagesprod/assets/feed/7657074b8f5b.png" group-title="MUSICS",Baeble TV
+https://dl.dropbox.com/s/emp7q8g3tc1kikj/BMusik.m3u8?dl=0
 
 
 #EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_455874997.png" group-title="SPORTS",ST Sports Arena
@@ -1042,7 +1044,12 @@ https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/03.m3u8
 https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisport2_1800/chunklist.m3u8?sd=10&rebase=on
 #EXTINF:-1  group-title="SPORTS",AUTOMOTOTV
 http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsAction.uk.png" group-title="SPORTS",Sky Sports Action
+https://cstream5.com/hls/skysportsaction.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportda.com/wp-content/uploads/2018/09/SKY-SPORT-MAIN-EVENT-HD-636x358.png" group-title="SPORTS",Sky Sports Main Events
+https://cstream5.com/hls/skysports1.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBATV.us.png" group-title="SPORTS",NBA TV
+https://dl.dropbox.com/s/lowsyo1x89xaymt/NBATV.m3u8?dl=0
 
 
 #EXTM3U

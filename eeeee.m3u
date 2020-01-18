@@ -245,7 +245,7 @@ http://213.174.8.7:9100/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",DAVINCI
 http://213.174.8.7:11111/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Dreamworks
-https://cdnmdc2.useetv.com/joss/15/dreamworks/chunklist_w1302594704_b1344100_sleng.m3u8?enc=1tBFRLILCqLIAdAWKxi-uw&exp=1578514845
+https://raw.githubusercontent.com/kusnadipepenk/campeign/master/dreamwks.m3u8
 
 
 

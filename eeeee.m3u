@@ -160,7 +160,7 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/03.m3u8
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p2rYxCW/baby.jpg" group-title="KIDS",BabyTV-UAE
 http://livecdnh1.tvanywhere.ae/hls/baby/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",DISNEY-CHANELS
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",DISNEY-CHANELS id
 https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",DISNEY CHANNEL
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
@@ -170,7 +170,7 @@ http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
 https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMERANGs
 https://livedoomovie.com/02_Boomerang_720p/chunklist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMERANG
+#EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMERANG id
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Cartoon (Rusia).
 http://ott-cdn.ucom.am/s46/03.m3u8
@@ -244,6 +244,8 @@ http://ws.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8_mid.
 http://213.174.8.7:9100/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",DAVINCI
 http://213.174.8.7:11111/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KIDS",Dreamworks
+https://cdnmdc2.useetv.com/joss/15/dreamworks/chunklist_w1302594704_b1344100_sleng.m3u8?enc=1tBFRLILCqLIAdAWKxi-uw&exp=1578514845
 
 
 
@@ -928,7 +930,7 @@ http://iliketot.dyndns.tv/443ea6ef1768462aaffdff38ce2a4355.m3u8?wmsAuthSign=c2Vy
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Asia
 https://livedoomovie.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Asia SD
-https://dl.dropbox.com/s/wusxifl4yfnxt0y/Live4.m3u8?dl=0
+https://cdnjt25.useetv.com/joss/17/bein1/chunklist_w2125625937_b1344100_sleng.m3u8?enc=5UR6vsYr0-dFidE4eS3f4w&exp=1578514503
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia
 https://livedoomovie.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia SD

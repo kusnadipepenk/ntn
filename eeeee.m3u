@@ -204,6 +204,8 @@ https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
 http://185.176.117.242/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",NICKelodeon
 http://185.176.117.242/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KIDS",NICKelodeon stbl
+https://raw.githubusercontent.com/kusnadipepenk/campeign/master/nikoledeon.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QQFhFrg/nicktoon.png" group-title="KIDS",NICK Junior
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Universal kids

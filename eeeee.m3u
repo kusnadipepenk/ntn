@@ -517,7 +517,7 @@ http://50.7.161.82:8278/TVN/playlist.m3u8?tid=m02000000000012778588&ct=17982&tsu
 http://50.7.161.82:8278/SetOne/playlist.m3u8?tid=m02000000000014244954&ct=17982&tsum=2a160ea054855b501a39a31ef6e18cb8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="SUB PREMIUM",FOX-MOVIE-ID
 http://203.207.56.228/live/iptv034.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Action-ID
+#EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",FOX Action-ID
 http://203.207.56.228/live/iptv029.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="SUB PREMIUM",MOVIE3 CN
 http://hls-ott-zhibo.wasu.tv/live/264/index.m3u8

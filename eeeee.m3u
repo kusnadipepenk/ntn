@@ -722,12 +722,16 @@ http://203.154.243.89:11205
 https://raw.githubusercontent.com/kusnadipepenk/campeign/master/warnerl.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXFamilyMovies.id.png" group-title="PREMI2",Fox Family Movies
 https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_hls/FoxFamilyMovies.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXFamilyMovies.id.png" group-title="PREMI2",Fox Family 2
+https://www.livedoomovie.com/02_FoxFamilyHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXMoviesPremium.id.png" group-title="PREMI2",Fox Movies Premium
 https://anevia115.mncnow.id:443/live/eds/FOXMoviesPremium/sa_hls/FOXMoviesPremium.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="PREMI2",Fox ACTION
 https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_hls/FoxActionMovies.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/FoxCrime.qa.png" group-title="PREMI2",Fox Crime
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMI2",REDbyHBO
+https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/HBO.cz.png" group-title="PREMI2",HBO-ID
 https://liveanevia.mncnow.id/live/eds/HBO/sa_hls/HBO.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/HBO.cz.png" group-title="PREMI2",HBO

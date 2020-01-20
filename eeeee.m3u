@@ -753,7 +753,9 @@ https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.
 #EXTINF:-1 tvg-logo="https://mafashortfilm.uk/public/images/mafal.png" group-title="PREMI2",Mafa Short Flim
 https://1043115116.rsc.cdn77.org/LS-PRG-54819-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="PREMI2",Movies Now
-https://timesnow.airtel.tv/live/MN_pull/master.m3u8 
+https://timesnow.airtel.tv/live/MN_pull/chunklist_2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="PREMI2",Movies Now2
+https://timesnow.airtel.tv/live/MNX_pull/chunklist_2.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/ScifiUniversal.pl.png" group-title="PREMI2",Scifi
 http://84.22.33.254/unicast.scifi/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyPix.in.png" group-title="PREMI2",Sony Pix

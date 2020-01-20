@@ -418,8 +418,8 @@ http://203.207.56.228/live/iptv001.m3u8
 http://203.207.56.228/live/iptv018.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC EARTH
 http://203.207.56.228/live/iptv020.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",NAT GEO ASIA
-http://220.158.149.28:9999/live/TV00000000000000000115@HHZT;LIVE
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",NATGEO US
+https://raw.githubusercontent.com/kusnadipepenk/campeign/master/natgeo.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",Nat-Geo ID
@@ -645,13 +645,18 @@ http://iliketot.dyndns.tv/29a09591a6604ff3b798cd7ef809e4bd.m3u8?wmsAuthSign=c2Vy
 http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTggNDo0Mzo1OCBBTSZoYXNoX3ZhbHVlPW9oSGErRXNZcXAxSlhaRTJoSTdFWnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zbW9uZzExfDgwNXx1cGxheXwxNTMzNzg5ODM4fDE3MS41LjExMS4xMjg=
  
  
-
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM",TVSewu Aksi US 
+https://raw.githubusercontent.com/kusnadipepenk/campeign/master/tvsewuact.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM",TV1000 US
+https://raw.githubusercontent.com/kusnadipepenk/campeign/master/tvsewu.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Action
 http://203.153.218.26:9981/stream/channelid/1764566305?ticket=9469C6E700880D4CC8A909291B3D0A0FCD96B582&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Action ID
 http://203.207.56.228/live/iptv029.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg" group-title="PREMIUM",FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg" group-title="PREMIUM",FOX US
+https://raw.githubusercontent.com/kusnadipepenk/campeign/master/fox.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",Fox Movies

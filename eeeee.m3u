@@ -643,8 +643,11 @@ http://23.237.22.82:8086/udp/127.0.0.1:56261
 http://iliketot.dyndns.tv/29a09591a6604ff3b798cd7ef809e4bd.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTggNDo0Mzo1OCBBTSZoYXNoX3ZhbHVlPW9oSGErRXNZcXAxSlhaRTJoSTdFWnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zbW9uZzExfDgwNXx1cGxheXwxNTMzNzg5ODM4fDE3MS41LjExMS4xMjg=
 #EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",STAR CHINA
 http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTggNDo0Mzo1OCBBTSZoYXNoX3ZhbHVlPW9oSGErRXNZcXAxSlhaRTJoSTdFWnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zbW9uZzExfDgwNXx1cGxheXwxNTMzNzg5ODM4fDE3MS41LjExMS4xMjg=
- 
- 
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM",TVSewu Premi
+https://raw.githubusercontent.com/kusnadipepenk/campeign/master/tvsewupremi.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",TVSewu Aksi US 
 https://raw.githubusercontent.com/kusnadipepenk/campeign/master/tvsewuact.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",TV1000 US

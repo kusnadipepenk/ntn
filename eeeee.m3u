@@ -743,7 +743,7 @@ https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbohit.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="PREMI2",HBO Signature
 https://livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="PREMI2",HBO Signature-ID
-https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
+https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbosign.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="PREMI2",Asian Food Network
 https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC.m3u8
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logogrey/grey_logo_galaxy_small1.png" group-title="PREMI2",Galaxy Movie

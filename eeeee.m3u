@@ -1029,7 +1029,7 @@ http://broadcasting.cdn.contentgm.com:8080/footbal_1/video.m3u8?token=8UjWeshNwq
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",EUROSport
 http://212.112.101.69:8081/stream44/output.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",EUROSport SD
-http://190.2.154.164/TV0672
+http://213.174.8.7:8000/play/15/tracks-v1a1/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Viasat Sport
 http://212.112.101.69:8081/stream55/output.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Sports RUSIA

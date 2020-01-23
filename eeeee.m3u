@@ -769,11 +769,11 @@ https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/The_Works.jpg/375px-The_Works.jpg" group-title="PREMI2",The Works
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="PREMI2",FOX-SPORTS
-https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports.m3u8
+https://raw.githubusercontent.com/kusnadipepenk/campeign/master/foxspo.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="PREMI2",FOX-SPORTS2
-https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2.m3u8
+https://raw.githubusercontent.com/kusnadipepenk/campeign/master/foxspo2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="PREMI2",FOX-SPORTS3
-https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3.m3u8
+https://raw.githubusercontent.com/kusnadipepenk/campeign/master/foxspo3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",Soccer Channel
 https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/MNCSports.id.png" group-title="PREMI2",MNC SPORT
@@ -963,18 +963,32 @@ https://livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
 https://livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1  group-title="SPORTS",TRUEsport4
 https://livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/hHhx3tz/bein2.png" group-title="SPORTS",BEIN(LaLiga)Sports
-http://23.237.22.82:8086/udp/127.0.0.1:56021
-#EXTINF:-1  tvg-logo="https://i.ibb.co/gZfX8CS/bein3.png" group-title="SPORTS",BEIN(HD3)Sports
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/ZM3FtZp/bein1.png" group-title="SPORTS",BEIN(HD1)
-http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/ZM3FtZp/bein1.png" group-title="SPORTS",BEIN(HD2)
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/ZM3FtZp/bein1.png" group-title="SPORTS",BEIN(HD4)
-http://95.170.215.101/hls/m3u8/Bein-Sport-HD4.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/ZM3FtZp/bein1.png" group-title="SPORTS",BEIN(HD5)
-http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",True Sport 5
+https://livedoomovie.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZM3FtZp/bein1.png" group-title="SPORTS",beIN Sports 1
+http://iptv.hayat-isp.net:1997/bein-sport1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHhx3tz/bein2.png" group-title="SPORTS",beIN Sports 2
+http://iptv.hayat-isp.net:1997/bein-sport2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZfX8CS/bein3.png" group-title="SPORTS",beIN Sports 3
+http://iptv.hayat-isp.net:1997/bein-sport3HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN Sports 4
+http://iptv.hayat-isp.net:1997/bein-sport4HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN Sports 5
+http://iptv.hayat-isp.net:1997/bein-sport5HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN Sports 6
+http://iptv.hayat-isp.net:1997/bein-sport6HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN Sports 7
+http://iptv.hayat-isp.net:1997/bein-sport7HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN Sports 8
+http://iptv.hayat-isp.net:1997/bein-sport8HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN Sports 9
+http://iptv.hayat-isp.net:1997/bein-sport9HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN Sports 10
+http://iptv.hayat-isp.net:1997/bein-sport10HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN Sports 11
+http://iptv.hayat-isp.net:1997/bein-sport11HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN Sports 12
+http://iptv.hayat-isp.net:1997/bein-sport12HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/kx5Xj9Q/setanta.jpg" group-title="SPORTS",setanta sport
 http://ott-cdn.ucom.am/s81/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/kx5Xj9Q/setanta.jpg" group-title="SPORTS",setanta sport(2)

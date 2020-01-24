@@ -4,7 +4,7 @@ http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/L0x4cC6/net.jpg" group-title="STASIUN NASIONAL",NET. TV(2)
 http://210.210.155.35/session/6141d55e-70a0-11e9-8180-b82a72d63267/qwr9ew/s/s08/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/L0x4cC6/net.jpg" group-title="STASIUN NASIONAL",NET. TV(3)
-https://liveanevia.mncnow.id/live/eds/NetTV/sa_hls/NetTV.m3u8
+https://raw.githubusercontent.com/kusnadipepenk/campeign/master/nettp.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="STASIUN NASIONAL",TRANSTV
 http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="STASIUN NASIONAL",TRANSTV(2)
@@ -24,7 +24,7 @@ http://id6.indostreamingtv.com/live/rcti/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="STASIUN NASIONAL",RCTI3
 https://live.rctiplus.id/rctiplus/rcti_540p.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="STASIUN NASIONAL",SCTV
-https://liveanevia.mncnow.id/live/eds/SCTV/sa_hls/SCTV.m3u8
+https://raw.githubusercontent.com/kusnadipepenk/campeign/master/sctp.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="STASIUN NASIONAL",SCTV tvonlineid
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1KX7m3dyRmjcbxJnJbNZrJ9HQyDf3VUuX" group-title="STASIUN NASIONAL",MNC
@@ -32,7 +32,7 @@ http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=0
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1KX7m3dyRmjcbxJnJbNZrJ9HQyDf3VUuX" group-title="STASIUN NASIONAL",MNC(2)
 http://id2.indostreamingtv.com/live/event/index.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1KX7m3dyRmjcbxJnJbNZrJ9HQyDf3VUuX" group-title="STASIUN NASIONAL",MNC3
-https://live.rctiplus.id/rctiplus/mnctv_540p.m3u8
+https://live.rctiplus.id/rctiplus/mnctv_360p.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="STASIUN NASIONAL",INDOSIAR(2)
 http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/02.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="STASIUN NASIONAL",INDOSIAR

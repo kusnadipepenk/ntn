@@ -711,9 +711,9 @@ http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="PREMI2",TVN Drama
 https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="PREMI2",TVN sbtl
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/lotvn.m3u8
+https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_1000000=6-mp4a_66000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="PREMI2",TVN MOV stbl
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/tvnmov.m3u8
+https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_499968=13-mp4a_66000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="PREMI2",TVN MOVIES2
 https://anevia115.mncnow.id:443/live/eds/tvNMovies/sa_hls/tvNMovies.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FX.us.png" group-title="PREMI2",FX
@@ -725,7 +725,7 @@ https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="PREMI2",Warner TV
 http://203.154.243.89:11205
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="PREMI2",WarnerTV ID
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/warnerl.m3u8
+https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_1000000=16-mp4a_66000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXFamilyMovies.id.png" group-title="PREMI2",Fox Family Movies
 https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_hls/FoxFamilyMovies.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXFamilyMovies.id.png" group-title="PREMI2",Fox Family 2
@@ -751,11 +751,11 @@ https://livedoomovie.com/02_HBOFamily_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="PREMI2",HBO Hits
 https://livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="PREMI2",HBO Hits-perc
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbohit.m3u8
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_499968=12-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="PREMI2",HBO Signature
 https://livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="PREMI2",HBO Signature-ID
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbosign.m3u8
+https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature-avc1_499968=5-mp4a_66000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="PREMI2",Asian Food Network
 https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_499968=5-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logogrey/grey_logo_galaxy_small1.png" group-title="PREMI2",Galaxy Movie
@@ -777,11 +777,11 @@ https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/The_Works.jpg/375px-The_Works.jpg" group-title="PREMI2",The Works
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="PREMI2",FOX-SPORTS
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/foxspo.m3u8
+https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_499968=12-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="PREMI2",FOX-SPORTS2
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/foxspo2.m3u8
+https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_499968=13-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="PREMI2",FOX-SPORTS3
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/foxspo3.m3u8
+https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_499968=12-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",Soccer Channel
 https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/MNCSports.id.png" group-title="PREMI2",MNC SPORT

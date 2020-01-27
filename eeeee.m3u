@@ -441,7 +441,7 @@ http://livecdnh3.tvanywhere.ae/hls/docubox/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY CHANNEL
 http://83.167.253.110:5000/live/discovery/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY ID
-https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_499968=14-mp4a_98800_eng=5.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY-CHANNEL SD
 http://aldirect.hls.huya.com/huyalive/30765679-2523417602-10837996074740744192-2847699224-10057-A-0-1_1200.m3u8
 #EXTINF:-1  group-title="KNOWLEDGE",Discovery Science

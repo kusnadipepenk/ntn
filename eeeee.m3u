@@ -180,6 +180,8 @@ http://ott-cdn.ucom.am/s58/03.m3u8
 http://ott-cdn.ucom.am/s59/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/dfbky5y/miaomi.jpg" group-title="KIDS",Miaomi KIDS
 http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/03.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dfbky5y/miaomi.jpg" group-title="KIDS",Miaomi ID
+https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_hls/MiaoMi-avc1_499968=5-mp4a_98800_eng=6.m3u8
 #EXTINF:-1  group-title="KIDS",KIDS CHANNEL ID.
 https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_hls/KidsChannel-avc1_499968=8-mp4a_98800_eng=5.m3u8
 #EXTINF:-1  group-title="KIDS",ANIMe JePang

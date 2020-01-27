@@ -165,13 +165,13 @@ https://raw.githubusercontent.com/kusnadipepenk/campeign/master/disnchan.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",DISNEY CHANNEL
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Disney
-http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
+http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/Disney_Channel-avc1_600000=8-mp4a_96000_eng=1.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",DisneyXD
 https://raw.githubusercontent.com/kusnadipepenk/campeign/master/disnxd.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMERANGs
 https://livedoomovie.com/02_Boomerang_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMERANG id
-https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang.m3u8
+https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang-avc1_499968=11-mp4a_66000_ind=16.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Cartoon (Rusia).
 http://ott-cdn.ucom.am/s46/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",KIDS (Rusia)
@@ -180,8 +180,8 @@ http://ott-cdn.ucom.am/s58/03.m3u8
 http://ott-cdn.ucom.am/s59/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/dfbky5y/miaomi.jpg" group-title="KIDS",Miaomi KIDS
 http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/03.m3u8
-#EXTINF:-1  group-title="KIDS",KIDS CHANNEL.
-https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_hls/KidsChannel.m3u8
+#EXTINF:-1  group-title="KIDS",KIDS CHANNEL ID.
+https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_hls/KidsChannel-avc1_499968=8-mp4a_98800_eng=5.m3u8
 #EXTINF:-1  group-title="KIDS",ANIMe JePang
 http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
 #EXTINF:-1  group-title="KIDS",Kids Toons
@@ -199,7 +199,7 @@ http://livecdnh3.tvanywhere.ae/hls/duck/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",English Club
 http://livecdnh2.tvanywhere.ae/hls/english_club/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QQFhFrg/nicktoon.png" group-title="KIDS",NICKTOON
-https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
+https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon-avc1_499968=7-mp4a_98800_eng=4.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QQFhFrg/nicktoon.png" group-title="KIDS",NICKTOONs
 http://185.176.117.242/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",NICKelodeon
@@ -207,7 +207,7 @@ http://185.176.117.242/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",NICKelodeon stbl
 https://raw.githubusercontent.com/kusnadipepenk/campeign/master/nikoledeon.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QQFhFrg/nicktoon.png" group-title="KIDS",NICK Junior
-https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr.m3u8
+https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr-avc1_499968=7-mp4a_98800_eng=4.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Universal kids
 http://23.237.22.82:8086/udp/127.0.0.1:56076
 #EXTINF:-1  tvg-logo="" group-title="KIDS",TOONVerse
@@ -423,11 +423,11 @@ https://raw.githubusercontent.com/kusnadipepenk/campeign/master/natgeo.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",Nat-Geo ID
-https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_hls/NatGeoChannel.m3u8
+https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_hls/NatGeoChannel-avc1_499968=13-mp4a_98800_eng=4.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yR0ZTTB/natgeowild.png" group-title="KNOWLEDGE",Nat-Geo-WILD 
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yR0ZTTB/natgeowild.png" group-title="KNOWLEDGE",Nat-Geo-WILD ID
-https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_hls/NatGeoWild.m3u8
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_hls/NatGeoWild-avc1_499968=12-mp4a_98800_eng=5.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/CPg9BPY/natgeopeo.png" group-title="KNOWLEDGE",NatGeo-People 
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/CPg9BPY/natgeopeo.png" group-title="KNOWLEDGE",NatGeo-People-ID
@@ -451,13 +451,13 @@ http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
 http://203.207.56.228/live/iptv010.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal PlanetS
-https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_499968=18-mp4a_98800_eng=3.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Tbk2Dsc/hgtv.jpg" group-title="KNOWLEDGE",HGTV
-https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV-avc1_499968=13-mp4a_98800_eng=3.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",CrimeInvestigation
-https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation.m3u8
+https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation-avc1_499968=9-mp4a_98800_eng=3.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",LIFETIME
-https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
+https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime-avc1_499968=8-mp4a_98800_eng=3.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Fine&Living
 http://70.32.0.9:5000/live/543/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.outdoorchannel.com/network/img/odc/logo.png" group-title="KNOWLEDGE",Outdoor Channel

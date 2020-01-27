@@ -713,7 +713,7 @@ https://raw.githubusercontent.com/kusnadipepenk/campeign/master/tvnmov.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="PREMI2",TVN MOVIES2
 https://anevia115.mncnow.id:443/live/eds/tvNMovies/sa_hls/tvNMovies.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FX.us.png" group-title="PREMI2",FX
-https://www.liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
+https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_499968=13-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FXMovieChannel.us.png" group-title="PREMI2",FXM
 https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="PREMI2",FXAct
@@ -731,7 +731,7 @@ https://anevia115.mncnow.id:443/live/eds/FOXMoviesPremium/sa_hls/FOXMoviesPremiu
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="PREMI2",Fox ACTION
 https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_hls/FoxActionMovies.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/FoxCrime.qa.png" group-title="PREMI2",Fox Crime
-https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
+https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_499968=12-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",REDbyHBO
 https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",CinemAx
@@ -753,7 +753,7 @@ https://livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="PREMI2",HBO Signature-ID
 https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbosign.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="PREMI2",Asian Food Network
-https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC.m3u8
+https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_499968=5-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logogrey/grey_logo_galaxy_small1.png" group-title="PREMI2",Galaxy Movie
 https://dl.dropbox.com/s/8s2jwrvobrtx05m/Galaxy.m3u8?dl=0
 #EXTINF:-1 tvg-logo="http://www.ifilmtv.com/Content/Intro/Layer.png" group-title="PREMI2",Iflim English
@@ -805,7 +805,7 @@ https://www.livedoomovie.com/02_SCM_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2016/04/CCTV-6-logo-2016-640x480.png" group-title="PREMI2",中国电影频道
 http://61.58.60.230:9319/live/225.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/uk/TLC.uk.png" group-title="PREMI2",TLC
-https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
+https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC-avc1_499968=13-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",FOODRecipy
 https://dl.dropbox.com/s/26tghhn7gim8rx3/Foodrecipy.m3u8?dl=0
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",Tasty

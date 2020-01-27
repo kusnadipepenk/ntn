@@ -653,11 +653,11 @@ http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8?wmsAuthSign=c2Vy
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",FoxLife us
 https://raw.githubusercontent.com/kusnadipepenk/campeign/master/foxl.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",TVSewu Aksi US 
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/tvsewuact.m3u8
+http://185.176.117.243/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD-avc1_600000=20-mp4a_96000_eng=6.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",TV1000 US
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/tvsewu.m3u8
+http://185.176.117.243/live/eds/TV1000_SD/HLS_encr/TV1000_SD-avc1_600000=16-mp4a_96000_eng=10.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",TVSewu Premium
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/tvsewupremi.m3u8
+http://185.176.117.243/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-avc1_1000000=9-mp4a_96000_eng=9.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Action
 http://203.153.218.26:9981/stream/channelid/1764566305?ticket=9469C6E700880D4CC8A909291B3D0A0FCD96B582&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Action ID
@@ -665,7 +665,7 @@ http://203.207.56.228/live/iptv029.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg" group-title="PREMIUM",FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg" group-title="PREMIUM",FOX US
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/fox.m3u8
+http://88.119.220.2/live/eds/FOX/HLS_encr/FOX-avc1_600000=3-mp4a_96000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",Fox Movies

@@ -192,8 +192,8 @@ http://210.210.155.35/session/a1b2362c-9d39-11e9-9cda-b82a72d63267/qwr9ew/s/s50/
 http://aldirect.hls.huya.com/huyalive/29106097-2689279974-11550369538117730304-2777027112-10057-A-0-1_1200.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",CARTOON-NETWORK
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
-#EXTINF:-1  tvg-logo="" group-title="KIDS",CARTON NETW
-http://203.207.56.228/live/iptv027.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KIDS",CARTON NETW ID
+https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork-avc1_499968=12-mp4a_98800_ind=16.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",CARTON NETWok
 http://fr-c.movply.stream/hls/Carton_Network.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",DUCK
@@ -837,12 +837,12 @@ https://dl.dropbox.com/s/oafwbt3qfemneyg/sbsin.m3u8?dl=0
 
 
 #EXTM3U
+#EXTINF:-1  tvg-logo="" group-title="MUSICS",Channel[V]
+https://anevia115.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV-avc1_499968=10-mp4a_98800_eng=3.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MUSICS",M Channel
 http://203.207.56.228/live/iptv014.m3u8
-#EXTINF:-1  tvg-logo="" group-title="MUSICS",MUSIC NOW
-http://livecdnh1.tvanywhere.ae/hls/music_now/03.m3u8
 #EXTINF:-1  group-title="MUSICS",VH1
-http://185.176.117.243/live/eds/VH1/HLS_encr/VH1.m3u8
+http://185.176.117.243/live/eds/VH1/HLS_encr/VH1-avc1_600000=6-mp4a_96000_eng=46.m3u8
 #EXTINF:-1  group-title="MUSICS",MIX MUSIC
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/chunklist_b846000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/h9QVbpc/pop.png" group-title="MUSICS",POP-Musik
@@ -852,7 +852,7 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1  group-title="MUSICS",HITTV Music
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_2.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/kqffBBK/mtv.png" group-title="MUSICS",MTV-HITS
-http://185.176.117.243/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
+http://185.176.117.243/live/eds/MTV_Hits/HLS_encr/MTV_Hits-avc1_600000=23-mp4a_96000_eng.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/kqffBBK/mtv.png" group-title="MUSICS",MTV 2
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1  tvg-logo="https://i.ibb.co/kqffBBK/mtv.png" group-title="MUSICS",MTV Live

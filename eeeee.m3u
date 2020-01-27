@@ -4,7 +4,7 @@ http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/L0x4cC6/net.jpg" group-title="STASIUN NASIONAL",NET. TV(2)
 http://210.210.155.35/session/6141d55e-70a0-11e9-8180-b82a72d63267/qwr9ew/s/s08/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/L0x4cC6/net.jpg" group-title="STASIUN NASIONAL",NET. TV(3)
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/nettp.m3u8
+https://liveanevia.mncnow.id/live/eds/NetTV/sa_hls/NetTV-avc1_499968=10-mp4a_98800_eng=5.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="STASIUN NASIONAL",TRANSTV
 http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="STASIUN NASIONAL",TRANSTV(2)
@@ -24,7 +24,7 @@ http://id6.indostreamingtv.com/live/rcti/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="STASIUN NASIONAL",RCTI3
 https://live.rctiplus.id/rctiplus/rcti_540p.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="STASIUN NASIONAL",SCTV
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/sctp.m3u8
+https://liveanevia.mncnow.id/live/eds/SCTV/sa_hls/SCTV-avc1_499968=9-mp4a_98800_eng=5.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="STASIUN NASIONAL",SCTV tvonlineid
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1KX7m3dyRmjcbxJnJbNZrJ9HQyDf3VUuX" group-title="STASIUN NASIONAL",MNC
@@ -161,13 +161,13 @@ http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p2rYxCW/baby.jpg" group-title="KIDS",BabyTV-UAE
 http://livecdnh1.tvanywhere.ae/hls/baby/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",DISNEY-CHANELS id
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/disnchan.m3u8
+https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_499968=4-mp4a_98800_ind=9.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",DISNEY CHANNEL
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Disney
 http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/Disney_Channel-avc1_600000=8-mp4a_96000_eng=1.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",DisneyXD
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/disnxd.m3u8
+https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD-avc1_499968=10-mp4a_98800_ind=16.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMERANGs
 https://livedoomovie.com/02_Boomerang_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMERANG id
@@ -207,7 +207,7 @@ http://185.176.117.242/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",NICKelodeon
 http://185.176.117.242/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",NICKelodeon stbl
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/nikoledeon.m3u8
+http://185.176.117.242/live/eds/Nickelodeon/HLS_encr/Nickelodeon-avc1_600000=13-mp4a_96000_eng=5.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QQFhFrg/nicktoon.png" group-title="KIDS",NICK Junior
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr-avc1_499968=7-mp4a_98800_eng=4.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Universal kids
@@ -421,7 +421,7 @@ http://203.207.56.228/live/iptv018.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC EARTH
 https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth-avc1_499968=12-mp4a_98800_eng=5.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",NATGEO US
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/natgeo.m3u8
+http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD-avc1_1000000=9-mp4a_96000_eng=2.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",Nat-Geo ID

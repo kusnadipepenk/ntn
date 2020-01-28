@@ -1032,7 +1032,7 @@ http://27.254.149.109:8081/tumlive/tsp5/playlist.m3u8
 http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8
 #EXTINF:-1  group-title="SPORTS",TRUESport7
 http://27.254.149.109:8081/tumlive/tsp7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports5.jpg" group-title="SPORTS",TRUESport5 golf
+#EXTINF:-1  group-title="SPORTS",TRUESport5 golf
 https://livedoomovie.com/02_sport5_480p/chunklist.m3u8
 #EXTINF:-1  group-title="SPORTS",TRUESport6ss
 https://livedoomovie.com/02_sport6_480p/chunklist.m3u8

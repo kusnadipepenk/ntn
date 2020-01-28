@@ -419,7 +419,7 @@ http://203.207.56.228/live/iptv018.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC EARTH
 https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth-avc1_499968=12-mp4a_98800_eng=5.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",NATGEO US
-http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD-avc1_1000000=9-mp4a_96000_eng=2.m3u8
+http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD-avc1_1000000=12-mp4a_96000_eng=2.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",Nat-Geo ID
@@ -840,7 +840,7 @@ https://anevia115.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV-avc1_499968=10-mp4
 #EXTINF:-1  tvg-logo="" group-title="MUSICS",M Channel
 http://203.207.56.228/live/iptv014.m3u8
 #EXTINF:-1  group-title="MUSICS",VH1
-http://185.176.117.243/live/eds/VH1/HLS_encr/VH1-avc1_600000=6-mp4a_96000_eng=46.m3u8
+http://185.176.117.243/live/eds/VH1/HLS_encr/VH1.m3u8
 #EXTINF:-1  group-title="MUSICS",MIX MUSIC
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/chunklist_b846000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/h9QVbpc/pop.png" group-title="MUSICS",POP-Musik
@@ -850,7 +850,7 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1  group-title="MUSICS",HITTV Music
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_2.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/kqffBBK/mtv.png" group-title="MUSICS",MTV-HITS
-http://185.176.117.243/live/eds/MTV_Hits/HLS_encr/MTV_Hits-avc1_600000=23-mp4a_96000_eng.m3u8
+http://185.176.117.243/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/kqffBBK/mtv.png" group-title="MUSICS",MTV 2
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1  tvg-logo="https://i.ibb.co/kqffBBK/mtv.png" group-title="MUSICS",MTV Live

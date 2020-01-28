@@ -200,13 +200,11 @@ http://fr-c.movply.stream/hls/Carton_Network.m3u8
 http://livecdnh3.tvanywhere.ae/hls/duck/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",English Club
 http://livecdnh2.tvanywhere.ae/hls/english_club/02.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/QQFhFrg/nicktoon.png" group-title="KIDS",NICKTOON
+#EXTINF:-1  tvg-logo="https://i.ibb.co/QQFhFrg/nicktoon.png" group-title="KIDS",Nickelodeon ID
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon-avc1_499968=7-mp4a_98800_eng=4.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QQFhFrg/nicktoon.png" group-title="KIDS",NICKTOONs
 http://185.176.117.242/live/eds/Nicktoons/HLS_encr/Nicktoons-avc1_600000=11-mp4a_96000_eng=2.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",NICKelodeon
-http://185.176.117.242/live/eds/Nickelodeon/HLS_encr/Nickelodeon-avc1_600000=13-mp4a_96000_eng=5.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KIDS",NICKelodeon stbl
 http://185.176.117.242/live/eds/Nickelodeon/HLS_encr/Nickelodeon-avc1_600000=13-mp4a_96000_eng=5.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QQFhFrg/nicktoon.png" group-title="KIDS",NICK Junior
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr-avc1_499968=7-mp4a_98800_eng=4.m3u8

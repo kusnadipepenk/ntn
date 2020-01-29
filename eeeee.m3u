@@ -774,6 +774,10 @@ https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/The_Works.jpg/375px-The_Works.jpg" group-title="PREMI2",The Works
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.singteltv.com.sg/_channels/pic_ch571.jpg" group-title="PREMI2",SCM 衛視電影
+https://liveanevia.mncnow.id/live/eds/SCM/sa_hls/SCM-avc1_499968=13-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="PREMI2",CElestialMovie
+https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie-avc1_499968=10-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="PREMI2",FOX-SPORTS
 https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_499968=12-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="PREMI2",FOX-SPORTS2

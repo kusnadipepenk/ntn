@@ -165,7 +165,7 @@ https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_49
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",DISNEY CHANNEL
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Disney
-http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/Disney_Channel-avc1_600000=8-mp4a_96000_eng=1.m3u8
+http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",DisneyXD
 https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD-avc1_499968=10-mp4a_98800_ind=16.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMERANGs

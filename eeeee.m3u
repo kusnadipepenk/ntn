@@ -644,15 +644,15 @@ https://raw.githubusercontent.com/kusnadipepenk/campeign/master/foxl.m3u8
 http://185.176.117.243/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD-avc1_600000=20-mp4a_96000_eng=6.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",TV1000 US
 http://185.176.117.243/live/eds/TV1000_SD/HLS_encr/TV1000_SD-avc1_600000=16-mp4a_96000_eng=10.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",TVSewu Premium
+==#EXTINF:-1 tvg-logo="" group-title="PREMIUM",TVSewu Premium
 ==http://185.176.117.243/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8==
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Action
+==#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Action
 ==http://203.153.218.26:9981/stream/channelid/1764566305?ticket=9469C6E700880D4CC8A909291B3D0A0FCD96B582&profile=pass==
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Action ID
+==#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Action ID
 ==http://203.207.56.228/live/iptv029.m3u8==
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg" group-title="PREMIUM",FOX
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg" group-title="PREMIUM",FOX US
+==#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX US
 ==http://88.119.220.2/live/eds/FOX/HLS_encr/FOX.m3u8==
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass

@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="" group-title="Test",National Geographic HD
 http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Test",National Geographic
@@ -39,3 +38,15 @@ http://185.176.117.243/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
 http://185.176.117.243/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Test",TV1000 Premium
 http://185.176.117.243/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
+
+
+#EXTINF:-1 group-title="YAY",PARAMOUNT
+http://srvuhd.top:80/212122/212122/37052
+#EXTINF:-1 group-title="YAY",PARAMOUNT ¹
+http://srvuhd.top:80/212122/212122/37574
+#EXTINF:-1 group-title="YAY",PREMIERE  1 ¹
+http://srvuhd.top:80/212122/212122/37670
+#EXTINF:-1 group-title="YAY",PREMIERE 2
+http://srvuhd.top:80/212122/212122/37090
+#EXTINF:-1 group-title="YAY",HBO
+http://srvuhd.top:80/212122/212122/37119

@@ -644,15 +644,15 @@ https://raw.githubusercontent.com/kusnadipepenk/campeign/master/foxl.m3u8
 http://185.176.117.243/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD-avc1_600000=20-mp4a_96000_eng=6.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",TV1000 US
 http://185.176.117.243/live/eds/TV1000_SD/HLS_encr/TV1000_SD-avc1_600000=16-mp4a_96000_eng=10.m3u8
-==#EXTINF:-1 tvg-logo="" group-title="PREMIUM",TVSewu Premium
+==EXTINF:-1 tvg-logo="" group-title="PREMIUM",TVSewu Premium
 ==http://185.176.117.243/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8==
-==#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Action
+==EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Action
 ==http://203.153.218.26:9981/stream/channelid/1764566305?ticket=9469C6E700880D4CC8A909291B3D0A0FCD96B582&profile=pass==
-==#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Action ID
+==EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Action ID
 ==http://203.207.56.228/live/iptv029.m3u8==
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
-==#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX US
+==EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX US
 ==http://88.119.220.2/live/eds/FOX/HLS_encr/FOX.m3u8==
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
@@ -788,7 +788,7 @@ https://anevia115.mncnow.id:443/live/eds/MovieChannel/sa_hls/MovieChannel.m3u8
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_hls/VisionPrime.m3u8
 #EXTINF:-1 tvg-logo="https://startimestv.com/Uploads/Picture/2019/08/28/s5d65da8273f5e.jpg" group-title="PREMI2",AMC Series
 http://ms-azure-video.gslb.startimestv.com/live/AMC_MOVIES_990_250_320x240_210828/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/zdjecie/11/01/11010bfdfdb06d306b68dc1c27e4f5dde9d67315918a601c7c3fc4aa059e056a.png" group-title="PREMI2",FilmBox ArtHouse
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/FilmBoxArtHouseEn.pl.png" group-title="PREMI2",FilmBox ArtHouse
 http://84.22.33.254/unicast.arthouse/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/FilmboxPlus.cz.png" group-title="PREMI2",FilmBox Plus
 http://84.22.33.254/unicast.filmboxplus/index.m3u8

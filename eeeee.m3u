@@ -1079,8 +1079,6 @@ http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?VIPIPTV
 http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8
 #EXTINF:-1  group-title="SPORTS",MUTV
 https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8
-#EXTINF:-1  group-title="SPORTS",MUTV (2)
-https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/03.m3u8
 #EXTINF:-1  group-title="SPORTS",RAI SPORT HD
 https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisport2_1800/chunklist.m3u8?sd=10&rebase=on
 #EXTINF:-1  group-title="SPORTS",AUTOMOTOTV

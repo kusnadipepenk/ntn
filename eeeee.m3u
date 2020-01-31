@@ -625,16 +625,6 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master_600.
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
 #EXTINF:-1  group-title="SUB PREMIUM",WAU Rusia
 http://nn2.joj.sk/hls/wau-360.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",SKY MOVIE
-http://95.170.215.118/hls/m3u8/Sky-MoviesSelect.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",SKY MOVIE COMEDY
-http://95.170.215.118/hls/m3u8/Sky-MoviesComedy.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",SKY MOVIE Action
-http://95.170.215.118/hls/m3u8/Sky-MoviesAction.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",SKY MOVIE DISNEY
-http://95.170.215.118/hls/m3u8/Sky-MoviesDisney.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",SKY MOVIE Premium
-http://95.170.215.118/hls/m3u8/Sky-MoviesPremie.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4JGSgrT/cgv.jpg" group-title="SUB PREMIUM", CGV-ch Korea
 http://122.129.115.21:1935/edgedol/_definst_/tao103/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",BIGBANG THEORY
@@ -655,15 +645,15 @@ http://185.176.117.243/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD-avc1_
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",TV1000 US
 http://185.176.117.243/live/eds/TV1000_SD/HLS_encr/TV1000_SD-avc1_600000=16-mp4a_96000_eng=10.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",TVSewu Premium
-http://185.176.117.243/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-avc1_1000000=9-mp4a_96000_eng=9.m3u8
+==http://185.176.117.243/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8==
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Action
-http://203.153.218.26:9981/stream/channelid/1764566305?ticket=9469C6E700880D4CC8A909291B3D0A0FCD96B582&profile=pass
+==http://203.153.218.26:9981/stream/channelid/1764566305?ticket=9469C6E700880D4CC8A909291B3D0A0FCD96B582&profile=pass==
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Action ID
-http://203.207.56.228/live/iptv029.m3u8
+==http://203.207.56.228/live/iptv029.m3u8==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg" group-title="PREMIUM",FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg" group-title="PREMIUM",FOX US
-http://88.119.220.2/live/eds/FOX/HLS_encr/FOX-avc1_600000=3-mp4a_96000_eng=2.m3u8
+==http://88.119.220.2/live/eds/FOX/HLS_encr/FOX.m3u8==
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",Fox Movies
@@ -740,15 +730,15 @@ https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
 https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_499968=5-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/HBO.cz.png" group-title="PREMI2",HBO-ID
 https://liveanevia.mncnow.id/live/eds/HBO/sa_hls/HBO.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/HBO.cz.png" group-title="PREMI2",HBO
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/HBO.cz.png" group-title="PREMI2",HBO TH
 https://livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/HBOFamily.br.png" group-title="PREMI2",HBO Family ID
 https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_hls/HBOFamily.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/HBOFamily.br.png" group-title="PREMI2",HBO Family
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/HBOFamily.br.png" group-title="PREMI2",HBO Family TH
 https://livedoomovie.com/02_HBOFamily_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="PREMI2",HBO Hits
 https://livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="PREMI2",HBO Hits-perc
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="PREMI2",HBO Hits ID
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_499968=12-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="PREMI2",HBO Signature
 https://livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
@@ -806,8 +796,6 @@ http://84.22.33.254/unicast.filmboxplus/index.m3u8
 http://84.22.33.254/unicast.filmboxextrahd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TF1SeriesFilms.fr.png" group-title="PREMI2",TF1 Séries Films
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-logo="http://www.singteltv.com.sg/_channels/pic_ch573.jpg" group-title="PREMI2",卫视卡式
-https://www.livedoomovie.com/02_SCM_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2016/04/CCTV-6-logo-2016-640x480.png" group-title="PREMI2",中国电影频道
 http://61.58.60.230:9319/live/225.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/uk/TLC.uk.png" group-title="PREMI2",TLC

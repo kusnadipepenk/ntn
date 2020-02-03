@@ -162,8 +162,6 @@ http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D
 http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMERANGs
 https://livedoomovie.com/02_Boomerang_720p/chunklist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMERANG id
-https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang-avc1_499968=11-mp4a_66000_ind=16.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Cartoon (Rusia).
 http://ott-cdn.ucom.am/s46/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",KIDS (Rusia)
@@ -172,8 +170,6 @@ http://ott-cdn.ucom.am/s58/03.m3u8
 http://ott-cdn.ucom.am/s59/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/dfbky5y/miaomi.jpg" group-title="KIDS",Miaomi KIDS
 http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/03.m3u8
-#EXTINF:-1  group-title="KIDS",KIDS CHANNEL ID.
-https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_hls/KidsChannel-avc1_499968=8-mp4a_98800_eng=5.m3u8
 #EXTINF:-1  group-title="KIDS",ANIMe JePang
 http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
 #EXTINF:-1  group-title="KIDS",Kids Toons
@@ -182,7 +178,7 @@ http://210.210.155.35/session/a1b2362c-9d39-11e9-9cda-b82a72d63267/qwr9ew/s/s50/
 http://aldirect.hls.huya.com/huyalive/29106097-2689279974-11550369538117730304-2777027112-10057-A-0-1_1200.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",CARTOON-NETWORK
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
-EXTINF:-1  tvg-logo="" group-title="KIDS",CARTON NETWok
+#EXTINF:-1  tvg-logo="" group-title="KIDS",CARTON NETWok
 http://fr-c.movply.stream/hls/Carton_Network.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",DUCK
 http://livecdnh3.tvanywhere.ae/hls/duck/03.m3u8
@@ -426,8 +422,6 @@ http://80.80.160.168/live/9/2500000/playlist.m3u8
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
 http://203.207.56.228/live/iptv010.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",LIFETIME
-https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime-avc1_499968=8-mp4a_98800_eng=3.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Fine&Living
 http://70.32.0.9:5000/live/543/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.outdoorchannel.com/network/img/odc/logo.png" group-title="KNOWLEDGE",Outdoor Channel
@@ -670,14 +664,8 @@ https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="PREMI2",Warner TV
 http://203.154.243.89:11205
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="PREMI2",WarnerTV ID
-https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_1000000=16-mp4a_66000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXFamilyMovies.id.png" group-title="PREMI2",Fox Family Movies
-https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_hls/FoxFamilyMovies.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXFamilyMovies.id.png" group-title="PREMI2",Fox Family 2
 https://www.livedoomovie.com/02_FoxFamilyHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="PREMI2",Fox ACTION
-https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_hls/FoxActionMovies.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",REDbyHBO
 https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/HBO.cz.png" group-title="PREMI2",HBO TH

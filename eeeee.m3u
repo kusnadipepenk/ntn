@@ -987,12 +987,6 @@ http://185.246.209.109:8080/GOL_TV/index.m3u8
 http://ppvplug.net:8000/live/eY4V01PRUN/1fKDdTNJxi/50186.m3u8
 #EXTINF:-1  group-title="SPORTS",STAR Sport2
 http://globalbd.mywire.org:8081/globe/starsports2/chunks.m3u8
-#EXTINF:-1  group-title="SPORTS",ADSPORT1(xx)
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?VIPIPTV
-#EXTINF:-1  group-title="SPORTS",ADSPORT2(xx)
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?VIPIPTV
-#EXTINF:-1  group-title="SPORTS",DUBAI SPORT HD
-http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8
 #EXTINF:-1  group-title="SPORTS",MUTV
 https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8
 #EXTINF:-1  group-title="SPORTS",RAI SPORT HD

@@ -862,7 +862,7 @@ http://iliketot.dyndns.tv/443ea6ef1768462aaffdff38ce2a4355.m3u8?wmsAuthSign=c2Vy
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Asia
 https://livedoomovie.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Asia SD
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/bein.m3u8
+https://dl.dropbox.com/s/wusxifl4yfnxt0y/Live4.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia
 https://livedoomovie.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia SD
@@ -947,7 +947,12 @@ https://livedoomovie.com/02_sport6_480p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/37Nsj5m/espn.jpg" group-title="SPORTS",TENIS
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 EXTINF:-1  tvg-logo="https://i.ibb.co/37Nsj5m/espn.jpg" group-title="SPORTS",ESPN2
-
+#EXTINF:-1 group-title="SPORTS",MKC BADMINTON
+https://www.dropbox.com/s/mpur8w7g4kevynb/badminton1.m3u8?dl=1
+#EXTINF:-1 group-title="SPORTS",MKC BADMINTON 2
+https://www.dropbox.com/s/htevkp913kj40de/badminton2.m3u8?dl=1
+#EXTINF:-1 group-title="SPORTS",Fox Sport 2 US
+https://dl.dropbox.com/s/1debsc482y8el17/foxs2.m3u8?dl=0
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",FOOTBALL Channel
 http://ott-cdn.ucom.am/s41/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",FOOTBALL2 Channel

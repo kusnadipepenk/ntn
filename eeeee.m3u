@@ -616,7 +616,7 @@ http://185.176.117.243/live/eds/TV1000_SD/HLS_encr/TV1000_SD-avc1_600000=16-mp4a
 ==http://185.176.117.243/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8==
 ==EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Action
 ==http://203.153.218.26:9981/stream/channelid/1764566305?ticket=9469C6E700880D4CC8A909291B3D0A0FCD96B582&profile=pass==
-EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Action ID
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Action ID
 http://nonton.tvku.live:8888/Rdhok/U.Rdhok/1125
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
@@ -627,7 +627,7 @@ http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",Fox Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",Fox Movies ID
-http://nonton.tvku.live:8888/Rdhok/U.Rdhok/3333
+http://nonton.tvku.live:8888/Rdhok/U.Rdhok/4390
 #EXTINF:-1 group-title="PREMIUM",HBO
 http://nonton.tvku.live:8888/Rdhok/U.Rdhok/4308
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PREMIUM",HBO Family

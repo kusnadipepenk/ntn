@@ -435,8 +435,7 @@ http://ms-azure-video.gslb.startimestv.com/live/SMITHSONIAN_CHANNEL_1166_500_480
 http://ms-azure-video.gslb.startimestv.com/live/LOVE_NATURE_1164_500_480x360_662498/playlist.m3u8
 
 
-#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",KBS WORLD
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/KbsWod.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",The Flash
 https://ws.flv.nimo.tv/live/su1599512427625r1b2b320b004694b1ca38eb84c95aed8a_high.flv
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",S.H.I.E.L.D
@@ -451,15 +450,15 @@ http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 http://51.158.190.97/hls/stream.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",RAI MOVIE
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",WARNER Bross
+==EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",WARNER Bross
 http://203.207.56.228/live/iptv033.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/PMBrmzq/lotus.jpg" group-title="SUB PREMIUM",LOTUS MACAU
 http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/DLnnhBP/foxcinema.jpg" group-title="SUB PREMIUM",FoX-Cinema
-http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
-#EXTINF:-1  group-title="SUB PREMIUM",&PriveHD
+==EXTINF:-1  tvg-logo="https://i.ibb.co/DLnnhBP/foxcinema.jpg" group-title="SUB PREMIUM",FoX-Cinema
+
+==EXTINF:-1  group-title="SUB PREMIUM",&PriveHD
 http://pockettv.xyz/api/zee.m3u8?c=andprivehd
-#EXTINF:-1  group-title="SUB PREMIUM",&FLIXHD
+==EXTINF:-1  group-title="SUB PREMIUM",&FLIXHD
 http://pockettv.xyz/api/zee.m3u8?c=andflixhd
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="SUB PREMIUM",HBO1
 http://95.170.215.118/hls/m3u8/HBO.m3u8
@@ -467,30 +466,26 @@ http://95.170.215.118/hls/m3u8/HBO.m3u8
 http://95.170.215.118/hls/m3u8/HBO-2.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="SUB PREMIUM",HBO3
 http://95.170.215.118/hls/m3u8/HBO-3.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/KF2b185/hbo2.png" group-title="SUB PREMIUM",HBO2-Sp
-http://161.0.157.6/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/KF2b185/hbo2.png" group-title="SUB PREMIUM",HBO2 (2)
+==EXTINF:-1  tvg-logo="https://i.ibb.co/KF2b185/hbo2.png" group-title="SUB PREMIUM",HBO2-Sp
+
+==EXTINF:-1  tvg-logo="https://i.ibb.co/KF2b185/hbo2.png" group-title="SUB PREMIUM",HBO2 (2)
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="SUB PREMIUM",HBO-ASIA
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="SUB PREMIUM",HBO-ASIA(2)
-http://218.202.220.2:5000/nn_live.m3u8?id=HBO
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="SUB PREMIUM",HBO OK
-http://203.207.56.228/live/iptv005.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/nnNzMrW/hbofam.png" group-title="SUB PREMIUM",HBO FAMILY
+==EXTINF:-1  tvg-logo="https://i.ibb.co/nnNzMrW/hbofam.png" group-title="SUB PREMIUM",HBO FAMILY
 http://203.207.56.228/live/iptv004.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/FJPtGSG/hbihit.png" group-title="SUB PREMIUM",HBO HITS
+==EXTINF:-1  tvg-logo="https://i.ibb.co/FJPtGSG/hbihit.png" group-title="SUB PREMIUM",HBO HITS
 http://203.207.56.228/live/iptv003.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/kXn8ZJ9/hbosignatr.png" group-title="SUB PREMIUM",HBO SIGNATURE
+==EXTINF:-1  tvg-logo="https://i.ibb.co/kXn8ZJ9/hbosignatr.png" group-title="SUB PREMIUM",HBO SIGNATURE
 http://203.207.56.228/live/iptv006.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="SUB PREMIUM",TVN DRAMA
+==EXTINF:-1  tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="SUB PREMIUM",TVN DRAMA
 http://50.7.161.82:8278/TVN/playlist.m3u8?tid=m02000000000012778588&ct=17982&tsum=8d4948e951d52e62699d90039b91c278
-#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",SonyOne DRAMA
+==EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",SonyOne DRAMA
 http://50.7.161.82:8278/SetOne/playlist.m3u8?tid=m02000000000014244954&ct=17982&tsum=2a160ea054855b501a39a31ef6e18cb8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="SUB PREMIUM",FOX-MOVIE-ID
-http://203.207.56.228/live/iptv034.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",FOX Action-ID
-http://203.207.56.228/live/iptv029.m3u8
+==EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="SUB PREMIUM",FOX-MOVIE-ID
+
+==EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",FOX Action-ID
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="SUB PREMIUM",MOVIE3 CN
 http://hls-ott-zhibo.wasu.tv/live/264/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="SUB PREMIUM",MOVIE4 CN
@@ -559,16 +554,14 @@ http://cn-gdgz4-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_258376025_4325
 http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/PYX6fWm/cinem.png" group-title="SUB PREMIUM",CINEMAX sd
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
-#EXTINF:-1  tvg-logo="https://i.ibb.co/jkpXk0p/mgm.jpg" group-title="SUB PREMIUM",MGM Channel
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="SUB PREMIUM",FOX Family
+==EXTINF:-1  tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="SUB PREMIUM",FOX Family
 http://203.207.56.228/live/iptv035.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/JKCy6TJ/fox.png" group-title="SUB PREMIUM",FOX
 http://23.237.22.82:8086/udp/127.0.0.1:56163
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",MBC MAX(2)
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",MBC Action
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/02.m3u8
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",FXX
 http://23.237.22.82:8086/udp/127.0.0.1:56251
 #EXTINF:-1  tvg-logo="https://i.ibb.co/tQNt4Bf/star.jpg" group-title="SUB PREMIUM",Starmovies
@@ -577,27 +570,25 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hCH0Vq6/mbc2.jpg" group-title="SUB PREMIUM",MBC2
 http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/6bZSMNB/syfy.jpg" group-title="SUB PREMIUM",SYFY
+==EXTINF:-1  tvg-logo="https://i.ibb.co/6bZSMNB/syfy.jpg" group-title="SUB PREMIUM",SYFY
 http://23.237.22.82:8086/udp/127.0.0.1:56063
-#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",STARZ
+==EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",STARZ
 http://34.69.67.123:8888/tvnow/http://sv5.dailymotion.com.1cdn.host/live/starz/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Fg62c4G/tlc.png" group-title="SUB PREMIUM",TLC CHANNEL
+==EXTINF:-1  tvg-logo="https://i.ibb.co/Fg62c4G/tlc.png" group-title="SUB PREMIUM",TLC CHANNEL
 http://80.80.160.168/live/2/1000000/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",HALLMARK
+==EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",HALLMARK
 http://23.237.22.82:8086/udp/127.0.0.1:56067
-#EXTINF:-1  tvg-logo="https://i.ibb.co/j3p5KYK/usa.png" group-title="SUB PREMIUM",USA
+==EXTINF:-1  tvg-logo="https://i.ibb.co/j3p5KYK/usa.png" group-title="SUB PREMIUM",USA
 http://23.237.22.82:8086/udp/127.0.0.1:56054
-#EXTINF:-1  group-title="SUB PREMIUM",POPTv
+==EXTINF:-1  group-title="SUB PREMIUM",POPTv
 https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master_600.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/SJX3w9x/wow.png" group-title="SUB PREMIUM",WOWOW Japan
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
-#EXTINF:-1  group-title="SUB PREMIUM",WAU Rusia
-http://nn2.joj.sk/hls/wau-360.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4JGSgrT/cgv.jpg" group-title="SUB PREMIUM", CGV-ch Korea
+==EXTINF:-1 tvg-logo="https://i.ibb.co/4JGSgrT/cgv.jpg" group-title="SUB PREMIUM", CGV-ch Korea
 http://122.129.115.21:1935/edgedol/_definst_/tao103/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",BIGBANG THEORY
 http://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",TNT
+==EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",TNT
 http://23.237.22.82:8086/udp/127.0.0.1:56261
 #EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",STAR CHINA MOVIE
 http://iliketot.dyndns.tv/29a09591a6604ff3b798cd7ef809e4bd.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTggNDo0Mzo1OCBBTSZoYXNoX3ZhbHVlPW9oSGErRXNZcXAxSlhaRTJoSTdFWnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zbW9uZzExfDgwNXx1cGxheXwxNTMzNzg5ODM4fDE3MS41LjExMS4xMjg=

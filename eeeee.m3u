@@ -576,7 +576,7 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hCH0Vq6/mbc2.jpg" group-title="SUB PREMIUM",MBC2
 http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
 ==EXTINF:-1  tvg-logo="https://i.ibb.co/6bZSMNB/syfy.jpg" group-title="SUB PREMIUM",SYFY
-http://23.237.22.82:8086/udp/127.0.0.1:56063
+http://iliketot.dyndns.tv/71f197de056e499a85265c03b44bdab1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 ==EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",STARZ
 http://34.69.67.123:8888/tvnow/http://sv5.dailymotion.com.1cdn.host/live/starz/chunks.m3u8
 ==EXTINF:-1  tvg-logo="https://i.ibb.co/Fg62c4G/tlc.png" group-title="SUB PREMIUM",TLC CHANNEL

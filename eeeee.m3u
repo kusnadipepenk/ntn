@@ -188,7 +188,9 @@ http://livecdnh2.tvanywhere.ae/hls/english_club/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QQFhFrg/nicktoon.png" group-title="KIDS",NICKTOONs
 http://185.176.117.242/live/eds/Nicktoons/HLS_encr/Nicktoons-avc1_600000=11-mp4a_96000_eng=2.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",NICKelodeonss
-http://185.176.117.242/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
+http://185.176.117.242/live/eds/Nickelodeon/HLS_encr/Nickelodeon-avc1_600000=18-mp4a_96000_eng=5.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KIDS",NICK Jr
+http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR-avc1_600000=16-mp4a_96000_eng=6.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Universal kids
 http://23.237.22.82:8086/udp/127.0.0.1:56076
 #EXTINF:-1  tvg-logo="" group-title="KIDS",TOONVerse

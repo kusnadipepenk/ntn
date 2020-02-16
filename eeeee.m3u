@@ -160,7 +160,7 @@ http://livecdnh1.tvanywhere.ae/hls/baby/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",DISNEY CHANNEL
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Disney
-http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
+http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/Disney_Channel-avc1_600000=14-mp4a_96000_eng=1.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMERANGs
 https://livedoomovie.com/02_Boomerang_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Cartoon (Rusia).
@@ -409,8 +409,6 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/03.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/CPg9BPY/natgeopeo.png" group-title="KNOWLEDGE",NatGeo-People 
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/03.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/CPg9BPY/natgeopeo.png" group-title="KNOWLEDGE",NatGeo-People-ID
-http://203.207.56.228/live/iptv035.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/7j39sz1/histo.jpg" group-title="KNOWLEDGE",HISTORY CHANNEL
 http://livecdnh1.tvanywhere.ae/hls/h2/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/7j39sz1/histo.jpg" group-title="KNOWLEDGE",HISTORY JAPAN
@@ -865,8 +863,8 @@ https://dl.dropbox.com/s/wusxifl4yfnxt0y/Live4.m3u8?dl=0
 https://livedoomovie.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia SD
 https://dl.dropbox.com/s/7trldus602grhbm/Live5.m3u8?dl=0
-#EXTINF:-1  group-title="SPORTS",BeinXTRA
-https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/1920x1080_5640800/index.m3u8
+#EXTINF:-1  group-title="SPORTS",BeinXTRAp
+http://119.59.116.136:8889/threstr/premierleague/chunks.m3u8
 #EXTINF:-1  group-title="SPORTS",TRUEsport1
 https://livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF:-1  group-title="SPORTS",TRUEsport2

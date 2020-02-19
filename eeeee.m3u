@@ -20,7 +20,7 @@ http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="STASIUN NASIONAL",RCTI tvonlineid
 http://id6.indostreamingtv.com/live/rcti/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="STASIUN NASIONAL",RCTI3
-https://live.rctiplus.id/rctiplus/rcti_540p.m3u8
+https://cdn-livetv1.metube.id/hls/rcti_480/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="STASIUN NASIONAL",SCTV tvonlineid
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1KX7m3dyRmjcbxJnJbNZrJ9HQyDf3VUuX" group-title="STASIUN NASIONAL",MNC

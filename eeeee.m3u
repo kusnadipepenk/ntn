@@ -631,7 +631,7 @@ http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7A
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",Fox Movies ID
 http://nonton.tvku.live:8888/Rdhok/U.Rdhok/978
 #EXTINF:-1 group-title="PREMIUM",HBO
-http://nonton.tvku.live:8888/Rdhok/U.Rdhok/4308
+http://123.30.146.182:8080/hbo/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PREMIUM",HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PREMIUM",HBO Family2

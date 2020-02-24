@@ -589,8 +589,26 @@ http://23.237.22.82:8086/udp/127.0.0.1:56054
 https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master_600.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/SJX3w9x/wow.png" group-title="SUB PREMIUM",WOWOW Japan
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
-==EXTINF:-1 tvg-logo="https://i.ibb.co/4JGSgrT/cgv.jpg" group-title="SUB PREMIUM", CGV-ch Korea
-http://122.129.115.21:1935/edgedol/_definst_/tao103/playlist.m3u8
+#EXTINF:-1 group-title="SUB PREMIUM",FILMBOXEXTRA
+http://ott.artmott.com/FILMBOXEXTRA/tracks-v1a1/mono...
+#EXTINF:-1 group-title="SUB PREMIUM",FILMBOXPLUS
+http://ott.artmott.com/FILMBOXPLUS/tracks-v1a1/mono.m..
+#EXTINF:-1 group-title="SUB PREMIUM",FILMBOXARTHOUSE
+http://ott.artmott.com/FILMBOXARTHOUSE/tracks-v1a1/mo..
+#EXTINF:-1 group-title="SUB PREMIUM",FAST&FUNBOX
+http://ott.artmott.com/FAST&FUNBOX/tracks-v1a1/mo..
+#EXTINF:-1 group-title="SUB PREMIUM",7 HD
+http://ott.artmott.com/7HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SUB PREMIUM",SkyStar
+http://ott.artmott.com/SkyStar/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SUB PREMIUM",SKYACTION
+http://ott.artmott.com/SKYACTION/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SUB PREMIUM",SKYCOMEDY
+http://ott.artmott.com/SKYCOMEDY/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SUB PREMIUM",SKYMAX
+http://ott.artmott.com/SKYMAX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SUB PREMIUM",SKYShqip
+http://ott.artmott.com/SKYShqip/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",BIGBANG THEORY
 http://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
 ==EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",TNT

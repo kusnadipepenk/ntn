@@ -590,13 +590,13 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master_600.
 #EXTINF:-1  tvg-logo="https://i.ibb.co/SJX3w9x/wow.png" group-title="SUB PREMIUM",WOWOW Japan
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
 #EXTINF:-1 group-title="SUB PREMIUM",FILMBOXEXTRA
-http://ott.artmott.com/FILMBOXEXTRA/tracks-v1a1/mono...
+http://ott.artmott.com/FILMBOXEXTRA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SUB PREMIUM",FILMBOXPLUS
-http://ott.artmott.com/FILMBOXPLUS/tracks-v1a1/mono.m..
+http://ott.artmott.com/FILMBOXPLUS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SUB PREMIUM",FILMBOXARTHOUSE
-http://ott.artmott.com/FILMBOXARTHOUSE/tracks-v1a1/mo..
+http://ott.artmott.com/FILMBOXARTHOUSE/tracks-v1a1mono.m3u8
 #EXTINF:-1 group-title="SUB PREMIUM",FAST&FUNBOX
-http://ott.artmott.com/FAST&FUNBOX/tracks-v1a1/mo..
+http://ott.artmott.com/FAST&FUNBOX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SUB PREMIUM",7 HD
 http://ott.artmott.com/7HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SUB PREMIUM",SkyStar

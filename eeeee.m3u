@@ -843,19 +843,19 @@ https://tvae.ercdn.net/adsport5/adsport5_480p.m3u8?v=1541474429
 #EXTINF:-1  group-title="SPORTS",6Adsport
 https://tvae.ercdn.net/adsport6/adsport6_480p.m3u8?v=2107792738
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS",SKYNET1 sport
-http://27.254.149.109:8081/tumlive/SKYNET1/playlist.m3u8
+https://www.livedoomovies.com/03_skynetsport1_480p/chunklist2.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS",SKYNET2 sport
-http://27.254.149.109:8081/tumlive/SKYNET2/playlist.m3u8
+https://www.livedoomovies.com/03_skynetsport2_480p/chunklist2.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS",SKYNET3 sport
-http://27.254.149.109:8081/tumlive/SKYNET3/playlist.m3u8
+https://www.livedoomovies.com/03_skynetsport3_480p/chunklist2.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS",SKYNET4 sport
-http://27.254.149.109:8081/tumlive/SKYNET4/chunks.m3u8
+https://www.livedoomovies.com/03_skynetsport4_480p/chunklist2.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS",SKYNET5 sport
-http://27.254.149.109:8081/tumlive/SKYNET5/chunks.m3u8
+https://www.livedoomovies.com/03_skynetsport5_480p/chunklist2.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS",SKYNET6 sport
-http://27.254.149.109:8081/tumlive/SKYNET6/chunks.m3u8
+https://www.livedoomovies.com/03_skynetsport6_480p/chunklist2.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS",SKYNET7 sport
-http://27.254.149.109:8081/tumlive/SKYNET7/chunks.m3u8
+https://www.livedoomovies.com/03_skynetsport7_480p/chunklist2.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS",SKYNET8 sport
 http://27.254.149.109:8081/tumlive/SKYNETHD/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX SPORT

@@ -255,7 +255,7 @@ http://210.210.155.35/uq2663/h/h143/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/jWjxD83/sonson.jpg" group-title="PREMIUM INDONESIA",SonyOne-3
 http://45.126.83.51/uq2663/h/h143/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/5TDK9V0/mytv.jpg" group-title="PREMIUM INDONESIA",MYTV
-http://210.210.155.66/h/h40/S1/mnf.m3u8
+https://dl.dropbox.com/s/qzl6jtxmhyoyovl/Mytv.m3u8?dl=0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/gwLF0B6/jgo.jpg" group-title="PREMIUM INDONESIA",JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b364000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XpRzLmk/ochan.png" group-title="PREMIUM INDONESIA",O SHOP
@@ -308,6 +308,8 @@ http://210.210.155.35/session/9b11be32-6a30-11e9-9e00-ade6bb5dc228/qwr9ew/s/s32/
 http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/6wtpVFC/110-300astrohello.png" group-title="PREMIUM INDONESIA",Astro Hello
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_03.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM INDONESIA",Ruang trampil
+https://dl.dropbox.com/s/8ih2a47l4xq4p2r/Ruangtrampil2.m3u8?dl=0
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Style TV
 http://210.210.155.35/session/d65d1e28-9d39-11e9-bb4c-b82a72d63267/uq2663/h/h01/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/NCHDgCd/ucan.png" group-title="PREMIUM INDONESIA",U-Channel
@@ -591,10 +593,16 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master_600.
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
 #EXTINF:-1 group-title="SUB PREMIUM",FILMBOXEXTRA
 http://ott.artmott.com/FILMBOXEXTRA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/FilmboxExtra.cz.png" group-title="PREMI2",FilmBox Extra
+http://84.22.33.254/unicast.filmboxextrahd/index.m3u8
 #EXTINF:-1 group-title="SUB PREMIUM",FILMBOXPLUS
 http://ott.artmott.com/FILMBOXPLUS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/FilmboxPlus.cz.png" group-title="PREMI2",FilmBox Plus
+http://84.22.33.254/unicast.filmboxplus/index.m3u8
 #EXTINF:-1 group-title="SUB PREMIUM",FILMBOXARTHOUSE
-http://ott.artmott.com/FILMBOXARTHOUSE/tracks-v1a1mono.m3u8
+http://ott.artmott.com/FILMBOXARTHOUSE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/FilmBoxArtHouseEn.pl.png" group-title="PREMI2",FilmBox ArtHouse
+http://84.22.33.254/unicast.arthouse/index.m3u8
 #EXTINF:-1 group-title="SUB PREMIUM",FAST&FUNBOX
 http://ott.artmott.com/FAST&FUNBOX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SUB PREMIUM",7 HD
@@ -724,12 +732,6 @@ https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 #EXTINF:-1 tvg-logo="https://startimestv.com/Uploads/Picture/2019/08/28/s5d65da8273f5e.jpg" group-title="PREMI2",AMC Series
 http://ms-azure-video.gslb.startimestv.com/live/AMC_MOVIES_990_250_320x240_210828/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/FilmBoxArtHouseEn.pl.png" group-title="PREMI2",FilmBox ArtHouse
-http://84.22.33.254/unicast.arthouse/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/FilmboxPlus.cz.png" group-title="PREMI2",FilmBox Plus
-http://84.22.33.254/unicast.filmboxplus/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/FilmboxExtra.cz.png" group-title="PREMI2",FilmBox Extra
-http://84.22.33.254/unicast.filmboxextrahd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TF1SeriesFilms.fr.png" group-title="PREMI2",TF1 Séries Films
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2016/04/CCTV-6-logo-2016-640x480.png" group-title="PREMI2",中国电影频道
@@ -754,10 +756,7 @@ https://dl.dropbox.com/s/w1lv3vfqkf4tlvc/Smith.m3u8?dl=0
 https://dl.dropbox.com/s/b6fas6znw4nylec/Hore.m3u8?dl=0
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",Love Nature
 https://dl.dropbox.com/s/a6x9ctd9fcbger2/LoveNature.m3u8?dl=0
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",MYTV
-https://dl.dropbox.com/s/qzl6jtxmhyoyovl/Mytv.m3u8?dl=0
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",Ruang trampil
-https://dl.dropbox.com/s/8ih2a47l4xq4p2r/Ruangtrampil2.m3u8?dl=0
+
 
 
 #EXTM3U
@@ -779,6 +778,8 @@ http://185.176.117.243/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1  tvg-logo="https://i.ibb.co/kqffBBK/mtv.png" group-title="MUSICS",MTV Live
 http://23.237.22.82:8086/udp/127.0.0.1:56271
+#EXTINF:-1  tvg-logo="https://i.ibb.co/kqffBBK/mtv.png" group-title="MUSICS",MTV ASIA
+http://iliketot.dyndns.tv/ebce2f5139c54eda8b111e5923af9c9e.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1  group-title="MUSICS",KRAL WORLD
 http://stmpo0wa.rocketcdn.com/kralworldtv_360/chunklist.m3u8
 #EXTINF:-1  group-title="MUSICS",KRAL Akustic

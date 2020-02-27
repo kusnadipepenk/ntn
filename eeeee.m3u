@@ -494,7 +494,7 @@ http://50.7.161.82:8278/TVN/playlist.m3u8?tid=m02000000000012778588&ct=17982&tsu
 ==EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",SonyOne DRAMA
 http://50.7.161.82:8278/SetOne/playlist.m3u8?tid=m02000000000014244954&ct=17982&tsum=2a160ea054855b501a39a31ef6e18cb8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="SUB PREMIUM",FOX-MOVIE
-http://119.59.116.136:8889/threstr/foxmovie/chunks.m3u8
+https://www.doofree88.com/streaming/hd-foxpremium_720/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="SUB PREMIUM",MOVIE3 CN
 http://hls-ott-zhibo.wasu.tv/live/264/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="SUB PREMIUM",MOVIE4 CN
@@ -802,16 +802,16 @@ http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/index_150_av-p.m3u8?sd=6&reb
 https://dl.dropbox.com/s/emp7q8g3tc1kikj/BMusik.m3u8?dl=0
 
 
-#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_455874997.png" group-title="SPORTS",ST Sports Arena
-http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_ARENA_972_650_480x360_197194/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-1497572737.png group-title="SPORTS",ST Sports Premium
-http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_PREMIUM_980_650_480x360_197234/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-955113695.png" group-title="SPORTS",ST Sports Focus
-http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_ARENA_972_650_480x360_197194/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_1802743986.png" group-title="SPORTS",ST SPORTS LIFE 360p
-http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_LIFE_976_650_480x360_197206/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-2080553815.png" group-title="SPORTS",ST WORLD FOOTBALL 360p
-http://ms-azure-video.gslb.startimestv.com/live/ST_WORLD_FOOTBALL_HD_996_650_480x360_210854/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Arena1
+https://www.doofree88.com/streaming/rs-arena1_480/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Arena2
+https://www.doofree88.com/streaming/rs-arena2_480/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Arena3
+https://www.doofree88.com/streaming/rs-arena3_480/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Arena4
+https://www.doofree88.com/streaming/rs-arena4_480/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Arena5
+https://www.doofree88.com/streaming/rs-arena5_480/index.m3u8
 #EXTINF:-1  group-title="SPORTS",SPORTTV 2
 https://sportbar.biz/lba/123/g1/sport2port.m3u8
 #EXTINF:-1  group-title="SPORTS",Optus sport
@@ -897,15 +897,17 @@ https://dl.dropbox.com/s/7trldus602grhbm/Live5.m3u8?dl=0
 #EXTINF:-1  group-title="SPORTS",BeinXTRAp
 http://119.59.116.136:8889/threstr/premierleague/chunks.m3u8
 #EXTINF:-1  group-title="SPORTS",TRUEsport1
-https://livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+https://www.doofree88.com/streaming/hd-tsport1_720/index.m3u8
 #EXTINF:-1  group-title="SPORTS",TRUEsport2
-https://livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+https://www.doofree88.com/streaming/sd-tsport2_480/index.m3u8
 #EXTINF:-1  group-title="SPORTS",TRUEsport3
-https://livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+https://www.doofree88.com/streaming/hd-tsport3_720/index.m3u8
 #EXTINF:-1  group-title="SPORTS",TRUEsport4
-https://livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+https://www.doofree88.com/streaming/hd-tsport4_720/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",True Sport 5
-https://livedoomovie.com/02_sport5_480p/chunklist.m3u8
+https://www.doofree88.com/streaming/sd-tsport5_480/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",True Sport 6
+https://www.doofree88.com/streaming/sd-tsport6_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZM3FtZp/bein1.png" group-title="SPORTS",beIN Sports 1
 http://iptv.hayat-isp.net:1997/bein-sport1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHhx3tz/bein2.png" group-title="SPORTS",beIN Sports 2

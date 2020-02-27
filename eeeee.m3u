@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://i.ibb.co/L0x4cC6/net.jpg" group-title="STASIUN NASIONAL",NET.TV
 http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1  tvg-logo="https://i.ibb.co/L0x4cC6/net.jpg" group-title="STASIUN NASIONAL",NET.TV(2)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/L0x4cC6/net.jpg" group-title="STASIUN NASIONAL",NET.TV2
 http://210.210.155.35/session/6141d55e-70a0-11e9-8180-b82a72d63267/qwr9ew/s/s08/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="STASIUN NASIONAL",TRANSTV
 http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com

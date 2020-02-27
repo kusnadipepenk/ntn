@@ -401,10 +401,6 @@ http://stream1.ninmedia.tv/mktv/udp.stream_360p/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary
 http://210.210.155.35/qwr9ew/s/s20/02.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",ASIAN FOOD CHANNEL
-http://203.207.56.228/live/iptv001.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC LIFE STyle
-http://203.207.56.228/live/iptv018.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",NATGEO US
 http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD-avc1_1000000=12-mp4a_96000_eng=2.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo
@@ -428,13 +424,11 @@ http://80.80.160.168/live/9/2500000/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",FOOD
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
-http://203.207.56.228/live/iptv010.m3u8
+http://84.22.33.254/unicast.animalplanet/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Fine&Living
 http://70.32.0.9:5000/live/543/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.outdoorchannel.com/network/img/odc/logo.png" group-title="KNOWLEDGE",Outdoor Channel
 http://84.22.33.254/unicast.outdoorchannel/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.outdoorchannel.com/network/img/odc/logo.png" group-title="KNOWLEDGE",Outdoor Channel Asia
-https://dl.dropbox.com/s/b0m53oaf0li7fv8/Outdoor.m3u8?dl=0
 #EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/files/console/26ce4687-165d-4cdd-88ac-18277ade9249.png" group-title="KNOWLEDGE",SMITHSONIAN CHANNEL 360p
 http://ms-azure-video.gslb.startimestv.com/live/SMITHSONIAN_CHANNEL_1166_500_480x360_662502/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/files/console/4fd34ff9-da89-49dd-80ec-14f8294b7ef1.png" group-title="KNOWLEDGE",LOVE NATURE 360p

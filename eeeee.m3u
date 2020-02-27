@@ -659,9 +659,9 @@ http://123.30.146.182:8080/foxmovie/video.m3u8
 #EXTINF:-1 group-title="PREMIUM",HBO
 http://123.30.146.182:8080/hbo/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PREMIUM",HBO Family
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
+http://203.153.218.26:9981/stream/channelid/960201661?ticket=75E706237FA41F9E520BA0F00FC5F580D3339AB0&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PREMIUM",HBO Family2
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
+http://203.153.218.26:9981/stream/channelid/960201661?ticket=EF097F66FBB2B38F7498F1DA2B609CEBB1C65DA9&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="PREMIUM",HBO Hits
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="PREMIUM",HBO Signature
@@ -1152,3 +1152,16 @@ http://ok2.se:8000/33d0F7U0vpS8G4gus/4c63F9UXPjSTMeWE0/4828
 http://ok2.se:8000/33d0F7U0vpS8G4gus/4c63F9UXPjSTMeWE0/380
 #EXTINF:-1 group-title="TES",ACTION MAX HD - NEW
 http://ok2.se:8000/33d0F7U0vpS8G4gus/4c63F9UXPjSTMeWE0/383
+
+#EXTINF:0 group-title="TES",Flik
+https://indiku.uk.to/pp/ok.m3u8?ch=flik
+#EXTINF:0 group-title="TES",Galaxy
+https://indiku.uk.to/pp/ok.m3u8?ch=galaxy
+#EXTINF:0 group-title="TES",Hi Indo
+https://indiku.uk.to/pp/ok.m3u8?ch=hiindo
+#EXTINF:0 group-title="TES",History
+https://indiku.uk.to/pp/ok.m3u8?ch=history
+#EXTINF:0 group-title="TES",Insert
+https://indiku.uk.to/pp/ok.m3u8?ch=insert
+#EXTINF:0 group-title="TES",OH!K
+https://indiku.uk.to/pp/ok.m3u8?ch=ohk

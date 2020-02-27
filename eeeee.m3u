@@ -483,10 +483,8 @@ http://50.7.161.82:8278/TVN/playlist.m3u8?tid=m02000000000012778588&ct=17982&tsu
 http://50.7.161.82:8278/SetOne/playlist.m3u8?tid=m02000000000014244954&ct=17982&tsum=2a160ea054855b501a39a31ef6e18cb8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="SUB PREMIUM",FOX-MOVIE
 https://www.doofree88.com/streaming/hd-foxpremium_720/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="SUB PREMIUM",MOVIE3 CN
-http://hls-ott-zhibo.wasu.tv/live/264/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="SUB PREMIUM",MOVIE4 CN
-http://hls-ott-zhibo.wasu.tv/live/305/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="SUB PREMIUM",WarnerTV
+https://www.doofree88.com/streaming/hd-warnertv_720/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="SUB PREMIUM",FOX-Action
 http://119.59.116.136:8889/threstr/foxaction/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="SUB PREMIUM",[TH]FOX-Action

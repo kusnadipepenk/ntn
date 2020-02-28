@@ -649,7 +649,7 @@ http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7A
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",Fox Movies ID
 http://123.30.146.182:8080/foxmovie/video.m3u8
 #EXTINF:-1 group-title="PREMIUM",HBO
-http://123.30.146.182:8080/hbo/video.m3u8
+http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PREMIUM",HBO Family
 http://203.153.218.26:9981/stream/channelid/960201661?ticket=75E706237FA41F9E520BA0F00FC5F580D3339AB0&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PREMIUM",HBO Family2

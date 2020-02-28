@@ -880,8 +880,10 @@ https://dl.dropbox.com/s/wusxifl4yfnxt0y/Live4.m3u8?dl=0
 https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia SD
 https://dl.dropbox.com/s/7trldus602grhbm/Live5.m3u8?dl=0
-#EXTINF:-1  group-title="SPORTS",BeinXTRAp
-http://119.59.116.136:8889/threstr/premierleague/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",BT Sports 1
+https://www.doofree88.com/streaming/uk-btsport1hd_720/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",BT Sports 2
+https://www.doofree88.com/streaming/uk-btsport2hd_720/index.m3u8
 #EXTINF:-1  group-title="SPORTS",TRUEsport1
 https://www.doofree88.com/streaming/hd-tsport1_720/index.m3u8
 #EXTINF:-1  group-title="SPORTS",TRUEsport2
@@ -934,9 +936,6 @@ https://ott-live.olympicchannel.com/out/u/OC1_4.m3u8?stime=1554365712&etime=1554
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 #EXTINF:-1  group-title="SPORTS",SONY ESPN
 http://103.118.76.229:1935/tvprogram/SONY-ESPN/playlist.m3u8
-#EXTINF:-1  group-title="SPORTS",Chelsea TV2
-https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/02.m3u8
-#EXTINF:-1  group-title="SPORTS",Dubai Sport
 #EXTINF:-1  group-title="SPORTS",NEO PRIME
 http://st5.allplay.uz/iptv/68/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="SPORTS",NEO SPORTS
@@ -959,35 +958,14 @@ http://27.254.149.109:8081/tumlive/tsp7/playlist.m3u8
 https://livedoomovie.com/02_sport5_480p/chunklist.m3u8
 #EXTINF:-1  group-title="SPORTS",TRUESport6ss
 https://livedoomovie.com/02_sport6_480p/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/37Nsj5m/espn.jpg" group-title="SPORTS",TENIS
-http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
-
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",FOOTBALL Channel
 http://ott-cdn.ucom.am/s41/03.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",FOOTBALL2 Channel
-http://193.111.244.23:7676/football_3/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",FOOTBALL3 Channel
-http://stream.doball.com:8080/hls/ch1.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",FOOTBALL4 Channel
-http://broadcasting.cdn.contentgm.com:8080/footbal_2/video.m3u8?token=8UjWeshNwq
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",FOOTBALL5 Channel
-http://broadcasting.cdn.contentgm.com:8080/footbal_1/video.m3u8?token=8UjWeshNwq
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",EUROSport
 http://212.112.101.69:8081/stream44/output.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",EUROSport SD
 http://213.174.8.7:8000/play/15/tracks-v1a1/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Viasat Sport
 http://212.112.101.69:8081/stream55/output.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",Sports RUSIA
-http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/206/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",Sports RUSIA2
-http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/529/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",Sports RUSIA3
-http://iptv.armenian-channel.ru:25461/live/www.tv-ip.su/tv-ip.su/40.ts
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",Sports RUSIA4
-http://iptv.armenian-channel.ru:25461/live/www.tv-ip.su/tv-ip.su/39.ts
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",Sports RUSIA5
-http://iptv.armenian-channel.ru:25461/live/www.tv-ip.su/tv-ip.su/38.ts
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",ALLSports
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",IRC Sport
@@ -1008,14 +986,16 @@ http://globalbd.mywire.org:8081/globe/starsports2/chunks.m3u8
 https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8
 #EXTINF:-1  group-title="SPORTS",RAI SPORT HD
 https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisport2_1800/chunklist.m3u8?sd=10&rebase=on
-#EXTINF:-1  group-title="SPORTS",AUTOMOTOTV
-http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsAction.uk.png" group-title="SPORTS",Sky Sports Action
-https://cstream5.com/hls/skysportsaction.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportda.com/wp-content/uploads/2018/09/SKY-SPORT-MAIN-EVENT-HD-636x358.png" group-title="SPORTS",Sky Sports Main Events
-https://cstream5.com/hls/skysports1.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBATV.us.png" group-title="SPORTS",NBA TV
-https://dl.dropbox.com/s/lowsyo1x89xaymt/NBATV.m3u8?dl=0
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsAction.uk.png" group-title="SPORTS",Sky Sports Action
+https://www.doofree88.com/streaming/uk-skysports-action_action_720/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsArena.uk.png" group-title="SPORTS",Sky Sports Arena
+https://www.doofree88.com/streaming/uk-skysports-action_action_720/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsF1.uk.png" group-title="SPORTS",Sky Sports F1
+https://www.doofree88.com/streaming/uk-skysports-f1_720/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" group-title="SPORTS",Sky Sports Main Event
+https://www.doofree88.com/streaming/uk-skysports-mainevent_720/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsMix.uk.png" group-title="SPORTS",Sky Sports Mix
+https://www.doofree88.com/streaming/uk-skysports-mix_480/index.m3u8
 
 
 #EXTM3U

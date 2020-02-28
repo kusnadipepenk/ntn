@@ -634,20 +634,20 @@ http://ott.artmott.com/sci-fi/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
 ==EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Action
 ==http://203.153.218.26:9981/stream/channelid/1764566305?ticket=9469C6E700880D4CC8A909291B3D0A0FCD96B582&profile=pass==
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Action ID
-
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Action
+https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 ==EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX US
 ==http://88.119.220.2/live/eds/FOX/HLS_encr/FOX.m3u8==
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Family Movies ID
-
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Family Movies
+https://www.livedoomovie.com/02_FoxFamilyHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",Fox Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",Fox Movies ID
-http://123.30.146.182:8080/foxmovie/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM",Fox Movies
+https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="PREMIUM",HBO
 http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PREMIUM",HBO Family
@@ -861,15 +861,18 @@ http://27.254.149.109:8081/tumlive/SKYNETHD/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX SPORT
 http://45.58.62.92:8080
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT SD
-http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+==http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT1
 https://www.doofree88.com/streaming/hd-foxsports1_720/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT2 SD
-http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+==http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT2xx
 https://www.doofree88.com/streaming/sd-foxsports2_480/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT3 SD
-http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+==http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT3xx
 https://www.doofree88.com/streaming/sd-foxsports3_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Asia

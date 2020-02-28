@@ -195,12 +195,8 @@ http://185.176.117.242/live/eds/Nickelodeon/HLS_encr/Nickelodeon-avc1_600000=18-
 http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR-avc1_600000=16-mp4a_96000_eng=6.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",
 http://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD-avc1_600000=11-mp4a_96000_eng=5.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KIDS",Universal kids
-http://23.237.22.82:8086/udp/127.0.0.1:56076
-#EXTINF:-1  tvg-logo="" group-title="KIDS",TOONVerse
-http://122.129.115.21:1935/edgedol/_definst_/tao130/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KIDS",SATKids
-http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/DreamWorks.qa.png" group-title="KIDS",DreamWork
+https://dl.dropbox.com/s/9b9z5db065tqods/DreamWork.m3u8?dl=1
 #EXTINF:-1  tvg-logo="" group-title="KIDS",DavinciKids
 http://213.174.8.7:11111/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Anime 1

@@ -1105,4 +1105,16 @@ http://51.52.156.22:8888/http/004
 http://51.52.156.22:8888/http/008
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="UK",gb
 http://51.52.156.22:8888/http/009
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="UK",34
+http://51.52.156.22:8888/http/015
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="UK",sd
+http://51.52.156.22:8888/http/013
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="UK",rt
+http://51.52.156.22:8888/http/012
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="UK",gh
+http://51.52.156.22:8888/http/011
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="UK",bn
+http://51.52.156.22:8888/http/010
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="UK",qw
+http://51.52.156.22:8888/http/003
 

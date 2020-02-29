@@ -164,7 +164,7 @@ http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Disney
 http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/Disney_Channel-avc1_600000=14-mp4a_96000_eng=1.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMERANGs
-https://livedoomovie.com/02_Boomerang_720p/chunklist.m3u8
+https://livedoomovies.com/02_Boomerang_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Cartoon (Rusia).
 http://ott-cdn.ucom.am/s46/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",KIDS (Rusia)
@@ -631,7 +631,7 @@ http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
 ==EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Action
 ==http://203.153.218.26:9981/stream/channelid/1764566305?ticket=9469C6E700880D4CC8A909291B3D0A0FCD96B582&profile=pass==
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Action
-https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_FoxActionHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 ==EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX US
@@ -639,11 +639,11 @@ http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE3414
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Family Movies
-https://www.livedoomovie.com/02_FoxFamilyHD_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_FoxFamilyHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",Fox Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",Fox Movies
-https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_FoxMoviesTH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="PREMIUM",HBO
 http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PREMIUM",HBO Family
@@ -683,23 +683,23 @@ http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572
 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FXMovieChannel.us.png" group-title="PREMI2",FXM
-https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="PREMI2",FXAct
-https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_FoxActionHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="PREMI2",Warner TV
 http://203.154.243.89:11205
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXFamilyMovies.id.png" group-title="PREMI2",Fox Family 2
-https://www.livedoomovie.com/02_FoxFamilyHD_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_FoxFamilyHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",REDbyHBO
-https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/HBO.cz.png" group-title="PREMI2",HBO TH
 https://livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/HBOFamily.br.png" group-title="PREMI2",HBO Family TH
-https://livedoomovie.com/02_HBOFamily_720p/chunklist.m3u8
+https://livedoomovies.com/02_HBOFamily_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="PREMI2",HBO Hits
-https://livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
+https://livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="PREMI2",HBO Signature
-https://livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
+https://livedoomovies.com/02_HBOSignature_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logogrey/grey_logo_galaxy_small1.png" group-title="PREMI2",Galaxy Movie
 https://dl.dropbox.com/s/8s2jwrvobrtx05m/Galaxy.m3u8?dl=0
 #EXTINF:-1 tvg-logo="http://www.ifilmtv.com/Content/Intro/Layer.png" group-title="PREMI2",Iflim English

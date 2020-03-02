@@ -851,15 +851,15 @@ http://27.254.149.109:8081/tumlive/SKYNETHD/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX SPORT
 http://45.58.62.92:8080
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT SD
-https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT1
 https://www.doofree88.com/streaming/hd-foxsports1_720/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT2 SD
-https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT2xx
 https://www.doofree88.com/streaming/sd-foxsports2_480/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT3 SD
-https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT3xx
 https://www.doofree88.com/streaming/sd-foxsports3_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Asia

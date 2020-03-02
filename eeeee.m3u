@@ -1076,28 +1076,29 @@ https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/02.m3u8
 
 
-#EXTINF:-1 group-title="TES",HBO 1 HD
-http://ok2.se:8000/33d0F7U0vpS8G4gus/4c63F9UXPjSTMeWE0/26321
-#EXTINF:-1 group-title="TES",HBO 2 HD
-http://ok2.se:8000/33d0F7U0vpS8G4gus/4c63F9UXPjSTMeWE0/26322
-#EXTINF:-1 group-title="TES",HBO EAST HD - NEW
-http://ok2.se:8000/33d0F7U0vpS8G4gus/4c63F9UXPjSTMeWE0/371
-#EXTINF:-1 group-title="TES",HBO COMEDY HD - NEW
-http://ok2.se:8000/33d0F7U0vpS8G4gus/4c63F9UXPjSTMeWE0/373
-#EXTINF:-1 group-title="TES",HBO FAMILY HD - NEW
-http://ok2.se:8000/33d0F7U0vpS8G4gus/4c63F9UXPjSTMeWE0/4829
-#EXTINF:-1 group-title="TES",HBO SIGNATURE HD - NEW
-http://ok2.se:8000/33d0F7U0vpS8G4gus/4c63F9UXPjSTMeWE0/372
-#EXTINF:-1 group-title="TES",HBO ZONE HD - NEW
-http://ok2.se:8000/33d0F7U0vpS8G4gus/4c63F9UXPjSTMeWE0/4828
-#EXTINF:-1 group-title="TES",CINEMAX EAST HD - NEW
-http://ok2.se:8000/33d0F7U0vpS8G4gus/4c63F9UXPjSTMeWE0/380
-#EXTINF:-1 group-title="TES",ACTION MAX HD - NEW
-http://ok2.se:8000/33d0F7U0vpS8G4gus/4c63F9UXPjSTMeWE0/383
 #EXTINF:-1 group-title="TES",TvN
 http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/57
 #EXTINF:-1 group-title="TES",TvN Movies
 http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/58
+#EXTINF:-1 group-title="TES",Fox
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/55
+#EXTINF:-1 group-title="TES",Fox Action Movies
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/53
+#EXTINF:-1 group-title="TES",Fox Crime
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/54
+#EXTINF:-1 group-title="TES",Fox Movies Premium
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/52
+#EXTINF:-1 group-title="TES",FX
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/59
+#EXTINF:-1 group-title="TES",HBO 
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/56
+#EXTINF:-1 group-title="TES",HBO Family
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/75
+#EXTINF:-1 group-title="TES",HBO Hits
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/92
+#EXTINF:-1 group-title="TES",HGTV
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/64
+
 
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/ITV2.uk.png" group-title="UK",ITV 2

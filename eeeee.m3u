@@ -1094,6 +1094,11 @@ http://ok2.se:8000/33d0F7U0vpS8G4gus/4c63F9UXPjSTMeWE0/4828
 http://ok2.se:8000/33d0F7U0vpS8G4gus/4c63F9UXPjSTMeWE0/380
 #EXTINF:-1 group-title="TES",ACTION MAX HD - NEW
 http://ok2.se:8000/33d0F7U0vpS8G4gus/4c63F9UXPjSTMeWE0/383
+#EXTINF:-1 group-title="TES",TvN
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/57
+#EXTINF:-1 group-title="TES",TvN Movies
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/58
+
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/ITV2.uk.png" group-title="UK",ITV 2
 http://51.52.156.22:8888/http/005
@@ -1121,4 +1126,3 @@ http://51.52.156.22:8888/http/011
 http://51.52.156.22:8888/http/010
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="UK",qw
 http://51.52.156.22:8888/http/003
-

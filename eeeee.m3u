@@ -620,14 +620,14 @@ http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8?wmsAuthSign=c2Vy
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FoxLife us
-http://123.30.146.182:8080/foxlife/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM",Cinemax
+http://160.119.77.50/iptv/hd-cinemax.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",TVSewu Aksi US 
 http://185.176.117.243/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD-avc1_600000=20-mp4a_96000_eng=6.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",TV1000 US
 http://185.176.117.243/live/eds/TV1000_SD/HLS_encr/TV1000_SD-avc1_600000=16-mp4a_96000_eng=10.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",TVSewu Premium
-http://185.176.117.243/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-avc1_1000000=18-mp4a_96000_eng=6.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM",REDbyHBO
+http://160.119.77.50/iptv/sd-redalt.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hr/SciFi.hr.png" group-title="PREMIUM",Scifi
 http://ott.artmott.com/sci-fi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" group-title="PREMIUM",AMC
@@ -638,18 +638,20 @@ http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
 https://www.livedoomovies.com/02_FoxActionHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
-==EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX US
-==http://88.119.220.2/live/eds/FOX/HLS_encr/FOX.m3u8==
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Movies1
-http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX US
+http://160.119.77.50/iptv/sd-foxeng.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Family Movies1
+http://160.119.77.50/iptv/hd-foxfamily.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Family Movies
 https://www.livedoomovies.com/02_FoxFamilyHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",Fox Movies
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
+http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",Fox Movies
 https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="PREMIUM",HBO
 http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
+#EXTINF:-1 group-title="PREMIUM",HBO eng
+http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PREMIUM",HBO Family
 http://203.153.218.26:9981/stream/channelid/960201661?ticket=75E706237FA41F9E520BA0F00FC5F580D3339AB0&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PREMIUM",HBO Family2

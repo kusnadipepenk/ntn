@@ -632,15 +632,15 @@ http://185.176.117.243/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-avc1_10
 http://ott.artmott.com/sci-fi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" group-title="PREMIUM",AMC
 http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
-==EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Action
-==http://203.153.218.26:9981/stream/channelid/1764566305?ticket=9469C6E700880D4CC8A909291B3D0A0FCD96B582&profile=pass==
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Action
+http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Action
 https://www.livedoomovies.com/02_FoxActionHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 ==EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX US
 ==http://88.119.220.2/live/eds/FOX/HLS_encr/FOX.m3u8==
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Family Movies1
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Movies1
 http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Family Movies
 https://www.livedoomovies.com/02_FoxFamilyHD_720p/chunklist.m3u8

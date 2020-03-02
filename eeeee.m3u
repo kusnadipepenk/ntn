@@ -314,6 +314,10 @@ http://210.210.155.35/session/d65d1e28-9d39-11e9-bb4c-b82a72d63267/uq2663/h/h01/
 http://119.235.249.58:1935/uchannel/live/chunklist_w947373967.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/NCHDgCd/ucan.png" group-title="PREMIUM INDONESIA",U-Channel(2)
 http://210.210.155.35/qwr9ew/s/s41/02.m3u8
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",ESL
+http://210.210.155.35/x6bnqe/s/s101/live.m3u8
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",EGG NETWORk
+http://210.210.155.35:80/uq2663/h/h22/index2.m3u8
 
 
 
@@ -652,12 +656,19 @@ https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
 http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
 #EXTINF:-1 group-title="PREMIUM",HBO eng
 http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HiWiJv3.png" group-title="Movies",FOX Family Movies
+#EXTINF:-1 group-title="PREMIUM",======================================
+http://
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://static.iptv-epg.com/id/FOXMovies.id.png" group-title="PREMIUM",FOX
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=397900FDAB149520DA6CD0E3E8F82F901132A27B&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HiWiJv3.png" group-title="PREMIUM",FOX Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sNF44u6.png" group-title="Movies",FOX Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sNF44u6.png" group-title="PREMIUM",FOX Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B39138F5DEF9CCED9C08D27C9766035E330AEBA3&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uk1vfJk.png" group-title="Movies",HBO Family
+#EXTINF:-1 tvg-id="" tvg-name="FOX ACTION" tvg-logo="https://static.iptv-epg.com/id/FOXActionMovies.id.png" group-title="PREMIUM",FOX Movie2
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://static.iptv-epg.com/id/HBO.id.png" group-title="PREMIUM",HBO Family2
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=6A230BCD275160BC241A718EFB00115CB1F94794&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uk1vfJk.png" group-title="PREMIUM",HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="PREMIUM",HBO Hits
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
@@ -679,16 +690,18 @@ http://203.153.218.28:9981/stream/channelid/78064174?ticket=4490D953FCAC1483DE94
 http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
 #EXTINF:-1 tvg-logo="https://www.cartoonnetworkeurope.com/img/logo.png" group-title="PREMIUM",Cartoon Network
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="PREMIUM",Nickelodeon Asia
+http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
 #EXTINF:-1 tvg-logo="http://tv.dekagon.id/logo/disney_channel_global.png" group-title="PREMIUM",Disney Channel
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeowild_big.png" group-title="PREMIUM",NatGeo Wild 2
 http://203.153.218.28:9981/stream/channelid/1497533758?ticket=A1217AFD7D4BACB9F66B9B369E8BC5B02FB0CEE4&profile=pass
-#EXTINF:-1 tvg-logo="http://j2-play.tv/cover/live/doc/natgeowild.png" group-title="PREMIUM",National Geographic Wild HD
-http://203.153.218.26:9981/stream/channelid/1461154413?ticket=84E3FAD02054CC6DCF98C4850408B3FD82557CF8&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="PREMIUM",National Geographic
+http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM",Discovery ID
 http://203.153.218.28:9981/stream/channelid/1151931232?ticket=078500147F811BFE771335FA49291072620A412D&profile=pass
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM",Animal Planet(H)
-http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM",NATGEO PEOPLE
+http://203.153.218.28:9981/stream/channelid/1114683377?ticket=67D9F2B0E165753DAD1C094DE6F1AAC530B98C0D&profile=pass
 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FXMovieChannel.us.png" group-title="PREMI2",FXM

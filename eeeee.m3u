@@ -1098,7 +1098,56 @@ http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/75
 http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/92
 #EXTINF:-1 group-title="TES",HGTV
 http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/64
-
+#EXTINF:-1 group-title="TES",FOX HD (FPT Play)
+http://58.186.77.229:6606/udp/225.1.4.33:30120
+#EXTINF:-1 group-title="TES",FOX MOVIES (HD) (FPT Play)
+http://58.186.77.229:6606/udp/225.1.4.34:30120
+#EXTINF:-1 group-title="TES",FOX SPORTS (HD) (FPT Play)
+http://58.186.77.229:6606/udp/225.1.4.10:30120
+#EXTINF:-1 group-title="TES",FOX SPORTS 2 (FPT Play)
+http://58.186.77.229:6606/udp/225.1.4.11:30120
+#EXTINF:-1 group-title="TES",FOX SPORTS 3 (HD) (FPT Play)
+http://58.186.77.229:6606/udp/225.1.4.12:30120
+#EXTINF:-1 group-title="TES",FRANCE 24 (FPT Play)
+http://58.186.77.229:6606/udp/225.1.4.71:30120
+#EXTINF:-1 group-title="TES",KBS WORLD (FPT Play)
+http://58.186.77.229:6606/udp/225.1.4.69:30120
+#EXTINF:-1 group-title="TES",Asian Food Network (HD 8Mbps)
+http://58.186.77.229:6606/udp/225.1.1.198:30120
+#EXTINF:-1 group-title="TES",[V] HD (HD 4Mbps)
+http://58.186.77.229:6606/udp/225.1.4.30:30120
+#EXTINF:-1 group-title="TES",FOX HD (HD 8Mbps)
+http://58.186.77.229:6606/udp/225.1.1.51:30120
+#EXTINF:-1 group-title="TES",FOX life (HD 8Mbps)
+http://58.186.77.229:6606/udp/225.1.2.237:30120
+#EXTINF:-1 group-title="TES",FOX life (HD 8Mbps)
+http://58.186.77.229:6606/udp/225.1.4.32:30120
+#EXTINF:-1 group-title="TES",FOX MOVIES (HD 8Mbps)
+http://58.186.77.229:6606/udp/225.1.2.239:30120
+#EXTINF:-1 group-title="TES",FOX SPORTS (HD 8Mbps)
+http://58.186.77.229:6606/udp/225.1.2.229:30120
+#EXTINF:-1 group-title="TES",FOX SPORTS 2 (HD 8Mbps)
+http://58.186.77.229:6606/udp/225.1.1.141:30120
+#EXTINF:-1 group-title="TES",FOX SPORTS 3 (HD 8Mbps)
+http://58.186.77.229:6606/udp/225.1.2.242:30120
+#EXTINF:-1 group-title="TES",HBO (HD 8Mbps)
+http://58.186.77.229:6606/udp/225.1.2.233:30120
+#EXTINF:-1 group-title="TES",HBO (HD 11Mbps)
+http://58.186.77.229:6606/udp/225.1.2.102:30120
+#EXTINF:-1 group-title="TES",KIX (HD 8Mbps)
+http://58.186.77.229:6606/udp/225.1.2.144:30120
+#EXTINF:-1 group-title="TES",MAX BY HBO (HD 8Mbps)
+http://58.186.77.229:6606/udp/225.1.2.86:30120
+#EXTINF:-1 group-title="TES",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
+http://58.186.77.229:6606/udp/225.1.2.235:30120
+#EXTINF:-1 group-title="TES",NATIONAL GEOGRAPHIC HD- (HD 8Mbps)
+http://58.186.77.229:6606/udp/225.1.4.31:30120
+#EXTINF:-1 group-title="TES",NHK WORLD JAPAN (HD 8Mbps)
+http://58.186.77.229:6606/udp/225.1.1.47:30120
+#EXTINF:-1 group-title="TES",Outdoor Channel (HD 8Mbps)
+http://58.186.77.229:6606/udp/225.1.2.215:30120
+#EXTINF:-1 group-title="TES",RED BY HBO (HD 8Mbps)
+http://58.186.77.229:6606/udp/225.1.1.93:30120
 
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/ITV2.uk.png" group-title="UK",ITV 2

@@ -259,9 +259,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b364000
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XpRzLmk/ochan.png" group-title="PREMIUM INDONESIA",O SHOP
 http://stream1.ninmedia.tv/oshop/udp.stream_360p/chunklist_w14829653.m3u8
 #EXTINF:-1  group-title="PREMIUM INDONESIA",DIVA(2)
-http://210.210.155.66/h/h11/02.m3u8
-#EXTINF:-1  group-title="PREMIUM INDONESIA",DIVA
-http://45.126.83.51/session/031e33aa-6ff6-11e9-a9ef-850ba0032094/uq2663/h/h11/02.m3u8
+http://45.126.83.51/dr9445/h/h11/02.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=109_MtH3Y5T8d_07P1VVEnD3sAkyX9_go" group-title="PREMIUM INDONESIA",HITS CH
 http://210.210.155.35/uq2663/h/h37/02.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=109_MtH3Y5T8d_07P1VVEnD3sAkyX9_go" group-title="PREMIUM INDONESIA",HITSCh(2)
@@ -275,9 +273,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_
 #EXTINF:-1  tvg-logo="https://i.ibb.co/fdn5j4V/tic.jpg" group-title="PREMIUM INDONESIA",The Indonesian Channel
 http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist.m3u8
 #EXTINF:-1  group-title="PREMIUM INDONESIA",E! Entertainment TV(2)
-http://210.210.155.66/h/h10/02.m3u8
-#EXTINF:-1  group-title="PREMIUM INDONESIA",E! Entertainment TV
-http://45.126.83.51/session/b78b5244-6ff8-11e9-8e33-87a399513499/uq2663/h/h10/02.m3u8
+http://45.126.83.51/dr9445/h/h10/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/0yswGZW/sgem.jpg" group-title="PREMIUM INDONESIA",SONY GEM
 http://210.210.155.35/uq2663/h/h19/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN-2

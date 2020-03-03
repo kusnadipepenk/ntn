@@ -658,6 +658,12 @@ http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
 http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM",======================================
 http://
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM", ?????
+http://221.166.254.223:9981/stream/channelid/1609380545?ticket=BAFD0F9A7D3EEAE0817702E9778AA10C939B534D&profile=pass
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM", SBS
+http://218.52.155.185:9981/stream/channelid/1922914846?ticket=BD824D4C0C3685F60D623B744F3DB7AE0C30CC06&profile=pass
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM", TVN
+http://218.52.155.185:9981/stream/channelid/2025821099?ticket=4A0C66361943773ECE62570B893E72170691155C&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://static.iptv-epg.com/id/FOXMovies.id.png" group-title="PREMIUM",FOX
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=397900FDAB149520DA6CD0E3E8F82F901132A27B&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg" group-title="PREMIUM",FOX2

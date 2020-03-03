@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://i.ibb.co/L0x4cC6/net.jpg" group-title="STASIUN NASIONAL",NET.TV
-http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
+https://delivery.macan.live/stream/id_nettv/index.m3u8?token=gratisan&v=20200202
 #EXTINF:-1  tvg-logo="https://i.ibb.co/L0x4cC6/net.jpg" group-title="STASIUN NASIONAL",NET.TV2
 http://210.210.155.35/session/6141d55e-70a0-11e9-8180-b82a72d63267/qwr9ew/s/s08/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="STASIUN NASIONAL",TRANSTV
@@ -18,7 +18,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1144427985_b192000_sl
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="STASIUN NASIONAL",RCTI
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="STASIUN NASIONAL",RCTI tvonlineid
-http://id6.indostreamingtv.com/live/rcti/index.m3u8
+https://delivery.macan.live/stream/id_rcti/index.m3u8?token=gratisan&v=20200202
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="STASIUN NASIONAL",RCTI3
 https://cdn-livetv1.metube.id/hls/rcti_480/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="STASIUN NASIONAL",SCTV tvonlineid
@@ -1098,28 +1098,44 @@ https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/02.m3u8
 
 
-#EXTINF:-1 group-title="TES",TvN
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/57
-#EXTINF:-1 group-title="TES",TvN Movies
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/58
-#EXTINF:-1 group-title="TES",Fox
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/55
-#EXTINF:-1 group-title="TES",Fox Action Movies
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/53
-#EXTINF:-1 group-title="TES",Fox Crime
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/54
-#EXTINF:-1 group-title="TES",Fox Movies Premium
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/52
-#EXTINF:-1 group-title="TES",FX
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/59
-#EXTINF:-1 group-title="TES",HBO 
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/56
-#EXTINF:-1 group-title="TES",HBO Family
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/75
-#EXTINF:-1 group-title="TES",HBO Hits
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/92
-#EXTINF:-1 group-title="TES",HGTV
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/64
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PptTHGB.png" group-title="TES",Comedy Network
+https://dl.dropbox.com/s/p8pdcmenrwsl4eb/comedynet.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AE7dc43.png" group-title="TES",Usee Sport
+https://dl.dropbox.com/s/ghbo9eb2b0w793i/useesport.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gEwtf1U.png" group-title="TES",Flik
+https://dl.dropbox.com/s/kqcjuyu250vin2n/flik.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FDOdcXd.png" group-title="TES",Galaxy
+https://dl.dropbox.com/s/bf54wwlhsv1xuxg/galaxy.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CfpXcOY.jpg" group-title="TES",Larva
+https://dl.dropbox.com/s/pp78vvb789r4s18/larva.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4vLxUTa.jpg" group-title="TES",Mr. Bean Cartoon
+https://dl.dropbox.com/s/pakwlc9kfak3ea6/beancartoon.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5v1bigC.jpg" group-title="TES",Paw Patrol & Friends
+https://dl.dropbox.com/s/c8bhv2ammbz4z0z/paw.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2x2MJ7b.jpg" group-title="TES",Teen Titans Go!
+https://dl.dropbox.com/s/t96ockwf2kwgkq1/teentitansgo.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sLimTwP.jpg" group-title="TES",Thomas & Friends
+https://dl.dropbox.com/s/4mqo8g8koh3bzwp/thomas.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/leB1pr9.jpg" group-title="TES",Woody Woodpecker
+https://dl.dropbox.com/s/1963ch88mrs8le2/woodywoodpecker.m3u8?dl=0
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/CiXKPwY.gif" group-title="TES",KBS World
+http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=14
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/93lrS7g.jpg" group-title="TES",KBS World 24
+https://dl.dropbox.com/s/6bjy18qs9qzn7e9/kbs24.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CgDSDj3.png" group-title="TES",Oh!K
+https://dl.dropbox.com/s/3y5iapuliwfk8hh/oh%21k.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/670u3yq.png" group-title="TES",SBS IN
+https://dl.dropbox.com/s/oafwbt3qfemneyg/sbsin.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bwf7DIo.png" group-title="TES",JTBC
+https://dl.dropbox.com/s/nvca4s7ylykb2cm/jtbc.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mRNgg80.jpg" group-title="TES",Curious George
+https://dl.dropbox.com/s/9hvjobl263ew0ww/curiougeorge.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fnPuhZz.jpg" group-title="TES",Mr. Bean
+https://dl.dropbox.com/s/q8z7nk3xa6clmv3/bean.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5v1bigC.jpg" group-title="TES",Paw Patrol & Friends
+https://dl.dropbox.com/s/c8bhv2ammbz4z0z/paw.m3u8?dl=0
+#EXTINF:-1 tvg-id="tvN.kr" tvg-logo="https://i.imgur.com/gFJl3Ud.jpg?1" group-title="TES",tvN [SG]
+http://50.7.161.82:8278/TVN/playlist.m3u8?tid=m02000000000012778588&ct=17982&tsum=8d4948e951d52e62699d90039b91c278
 #EXTINF:-1 group-title="TES",FOX HD (FPT Play)
 http://58.186.77.229:6606/udp/225.1.4.33:30120
 #EXTINF:-1 group-title="TES",FOX MOVIES (HD) (FPT Play)
@@ -1134,42 +1150,7 @@ http://58.186.77.229:6606/udp/225.1.4.12:30120
 http://58.186.77.229:6606/udp/225.1.4.71:30120
 #EXTINF:-1 group-title="TES",KBS WORLD (FPT Play)
 http://58.186.77.229:6606/udp/225.1.4.69:30120
-#EXTINF:-1 group-title="TES",Asian Food Network (HD 8Mbps)
-http://58.186.77.229:6606/udp/225.1.1.198:30120
-#EXTINF:-1 group-title="TES",[V] HD (HD 4Mbps)
-http://58.186.77.229:6606/udp/225.1.4.30:30120
-#EXTINF:-1 group-title="TES",FOX HD (HD 8Mbps)
-http://58.186.77.229:6606/udp/225.1.1.51:30120
-#EXTINF:-1 group-title="TES",FOX life (HD 8Mbps)
-http://58.186.77.229:6606/udp/225.1.2.237:30120
-#EXTINF:-1 group-title="TES",FOX life (HD 8Mbps)
-http://58.186.77.229:6606/udp/225.1.4.32:30120
-#EXTINF:-1 group-title="TES",FOX MOVIES (HD 8Mbps)
-http://58.186.77.229:6606/udp/225.1.2.239:30120
-#EXTINF:-1 group-title="TES",FOX SPORTS (HD 8Mbps)
-http://58.186.77.229:6606/udp/225.1.2.229:30120
-#EXTINF:-1 group-title="TES",FOX SPORTS 2 (HD 8Mbps)
-http://58.186.77.229:6606/udp/225.1.1.141:30120
-#EXTINF:-1 group-title="TES",FOX SPORTS 3 (HD 8Mbps)
-http://58.186.77.229:6606/udp/225.1.2.242:30120
-#EXTINF:-1 group-title="TES",HBO (HD 8Mbps)
-http://58.186.77.229:6606/udp/225.1.2.233:30120
-#EXTINF:-1 group-title="TES",HBO (HD 11Mbps)
-http://58.186.77.229:6606/udp/225.1.2.102:30120
-#EXTINF:-1 group-title="TES",KIX (HD 8Mbps)
-http://58.186.77.229:6606/udp/225.1.2.144:30120
-#EXTINF:-1 group-title="TES",MAX BY HBO (HD 8Mbps)
-http://58.186.77.229:6606/udp/225.1.2.86:30120
-#EXTINF:-1 group-title="TES",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
-http://58.186.77.229:6606/udp/225.1.2.235:30120
-#EXTINF:-1 group-title="TES",NATIONAL GEOGRAPHIC HD- (HD 8Mbps)
-http://58.186.77.229:6606/udp/225.1.4.31:30120
-#EXTINF:-1 group-title="TES",NHK WORLD JAPAN (HD 8Mbps)
-http://58.186.77.229:6606/udp/225.1.1.47:30120
-#EXTINF:-1 group-title="TES",Outdoor Channel (HD 8Mbps)
-http://58.186.77.229:6606/udp/225.1.2.215:30120
-#EXTINF:-1 group-title="TES",RED BY HBO (HD 8Mbps)
-http://58.186.77.229:6606/udp/225.1.1.93:30120
+
 
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/ITV2.uk.png" group-title="UK",ITV 2

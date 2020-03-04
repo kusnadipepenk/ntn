@@ -1094,44 +1094,46 @@ https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
 #EXTINF:-1 group-title="Singapore",ASIAN FOOD CHANNEL
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/02.m3u8
+#EXTINF:-1 group-title="Singapore",KBS WOELD
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/KBSWorld.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PptTHGB.png" group-title="TES",Comedy Network
-https://dl.dropbox.com/s/p8pdcmenrwsl4eb/comedynet.m3u8?dl=0
+https://dl.dropbox.com/s/p8pdcmenrwsl4eb/comedynet.m3u8?dl=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AE7dc43.png" group-title="TES",Usee Sport
-https://dl.dropbox.com/s/ghbo9eb2b0w793i/useesport.m3u8?dl=0
+https://dl.dropbox.com/s/ghbo9eb2b0w793i/useesport.m3u8?dl=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gEwtf1U.png" group-title="TES",Flik
-https://dl.dropbox.com/s/kqcjuyu250vin2n/flik.m3u8?dl=0
+https://dl.dropbox.com/s/kqcjuyu250vin2n/flik.m3u8?dl=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FDOdcXd.png" group-title="TES",Galaxy
-https://dl.dropbox.com/s/bf54wwlhsv1xuxg/galaxy.m3u8?dl=0
+https://dl.dropbox.com/s/bf54wwlhsv1xuxg/galaxy.m3u8?dl=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CfpXcOY.jpg" group-title="TES",Larva
-https://dl.dropbox.com/s/pp78vvb789r4s18/larva.m3u8?dl=0
+https://dl.dropbox.com/s/pp78vvb789r4s18/larva.m3u8?dl=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4vLxUTa.jpg" group-title="TES",Mr. Bean Cartoon
-https://dl.dropbox.com/s/pakwlc9kfak3ea6/beancartoon.m3u8?dl=0
+https://dl.dropbox.com/s/pakwlc9kfak3ea6/beancartoon.m3u8?dl=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5v1bigC.jpg" group-title="TES",Paw Patrol & Friends
-https://dl.dropbox.com/s/c8bhv2ammbz4z0z/paw.m3u8?dl=0
+https://dl.dropbox.com/s/c8bhv2ammbz4z0z/paw.m3u8?dl=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2x2MJ7b.jpg" group-title="TES",Teen Titans Go!
-https://dl.dropbox.com/s/t96ockwf2kwgkq1/teentitansgo.m3u8?dl=0
+https://dl.dropbox.com/s/t96ockwf2kwgkq1/teentitansgo.m3u8?dl=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sLimTwP.jpg" group-title="TES",Thomas & Friends
-https://dl.dropbox.com/s/4mqo8g8koh3bzwp/thomas.m3u8?dl=0
+https://dl.dropbox.com/s/4mqo8g8koh3bzwp/thomas.m3u8?dl=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/leB1pr9.jpg" group-title="TES",Woody Woodpecker
-https://dl.dropbox.com/s/1963ch88mrs8le2/woodywoodpecker.m3u8?dl=0
+https://dl.dropbox.com/s/1963ch88mrs8le2/woodywoodpecker.m3u8?dl=1
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/CiXKPwY.gif" group-title="TES",KBS World
 http://gtnsys.iptime.org:9979/url?mode=url&type=KBS&id=14
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/93lrS7g.jpg" group-title="TES",KBS World 24
-https://dl.dropbox.com/s/6bjy18qs9qzn7e9/kbs24.m3u8?dl=0
+https://dl.dropbox.com/s/6bjy18qs9qzn7e9/kbs24.m3u8?dl=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CgDSDj3.png" group-title="TES",Oh!K
-https://dl.dropbox.com/s/3y5iapuliwfk8hh/oh%21k.m3u8?dl=0
+https://dl.dropbox.com/s/3y5iapuliwfk8hh/oh%21k.m3u8?dl=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/670u3yq.png" group-title="TES",SBS IN
-https://dl.dropbox.com/s/oafwbt3qfemneyg/sbsin.m3u8?dl=0
+https://dl.dropbox.com/s/oafwbt3qfemneyg/sbsin.m3u8?dl=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bwf7DIo.png" group-title="TES",JTBC
-https://dl.dropbox.com/s/nvca4s7ylykb2cm/jtbc.m3u8?dl=0
+https://dl.dropbox.com/s/nvca4s7ylykb2cm/jtbc.m3u8?dl=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mRNgg80.jpg" group-title="TES",Curious George
-https://dl.dropbox.com/s/9hvjobl263ew0ww/curiougeorge.m3u8?dl=0
+https://dl.dropbox.com/s/9hvjobl263ew0ww/curiougeorge.m3u8?dl=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fnPuhZz.jpg" group-title="TES",Mr. Bean
-https://dl.dropbox.com/s/q8z7nk3xa6clmv3/bean.m3u8?dl=0
+https://dl.dropbox.com/s/q8z7nk3xa6clmv3/bean.m3u8?dl=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5v1bigC.jpg" group-title="TES",Paw Patrol & Friends
-https://dl.dropbox.com/s/c8bhv2ammbz4z0z/paw.m3u8?dl=0
+https://dl.dropbox.com/s/c8bhv2ammbz4z0z/paw.m3u8?dl=1
 #EXTINF:-1 tvg-id="tvN.kr" tvg-logo="https://i.imgur.com/gFJl3Ud.jpg?1" group-title="TES",tvN [SG]
 http://50.7.161.82:8278/TVN/playlist.m3u8?tid=m02000000000012778588&ct=17982&tsum=8d4948e951d52e62699d90039b91c278
 #EXTINF:-1 group-title="TES",FOX HD (FPT Play)

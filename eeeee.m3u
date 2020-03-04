@@ -314,7 +314,8 @@ http://210.210.155.35/qwr9ew/s/s41/02.m3u8
 http://210.210.155.35/x6bnqe/s/s101/live.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",EGG NETWORk
 http://210.210.155.35:80/uq2663/h/h22/index2.m3u8
-
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",SBSin
+http://210.210.155.35:80/uq2663/h/h28/index2.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/dcCRKCj/iam.jpg" group-title="NINMEDIA",IAM Channel

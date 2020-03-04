@@ -705,6 +705,13 @@ http://203.153.218.28:9981/stream/channelid/1114683377?ticket=67D9F2B0E165753DAD
 http://203.153.218.28:9981/stream/channelid/981299476?ticket=9F67BAE7020396371F181A7F5BFFBF9CB00BBC22&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",TLC
 http://203.153.218.28:9981/stream/channelid/391618553?ticket=78F887BA5B832279E75370788BBE22D4FDD521CB&profile=pass
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM",KBS Drama
+http://122.38.74.172:9981/stream/channelid/1739691468?ticket=835AE532A93BB9B214C16308CDD30482FCEC623D&profile=pass
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM",tvN
+http://122.38.74.172:9981/stream/channelid/1483308629?ticket=7AAB640589172BABF1BF6C55925032100671C506&profile=pass
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM",Dramax
+http://122.38.74.172:9981/stream/channelid/330335261?ticket=20F70049C31EC5B813FB10F489F6611DF7E64AFB&profile=pass
+
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FXMovieChannel.us.png" group-title="PREMI2",FXM
 https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8

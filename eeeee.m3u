@@ -621,39 +621,6 @@ http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8?wmsAuthSign=c2Vy
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",Cinemax
-http://160.119.77.50/iptv/hd-cinemax.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",TVSewu Aksi US 
-http://185.176.117.243/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD-avc1_600000=20-mp4a_96000_eng=6.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",TV1000 US
-http://185.176.117.243/live/eds/TV1000_SD/HLS_encr/TV1000_SD-avc1_600000=16-mp4a_96000_eng=10.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",REDbyHBO
-http://160.119.77.50/iptv/sd-redalt.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hr/SciFi.hr.png" group-title="PREMIUM",Scifi
-http://ott.artmott.com/sci-fi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" group-title="PREMIUM",AMC
-http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Action
-http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Action
-https://www.livedoomovies.com/02_FoxActionHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX US
-http://160.119.77.50/iptv/sd-foxeng.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Family Movies1
-http://160.119.77.50/iptv/hd-foxfamily.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX Family Movies
-https://www.livedoomovies.com/02_FoxFamilyHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",Fox Movies
-http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",Fox Movies
-https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PREMIUM",HBO
-http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
-#EXTINF:-1 group-title="PREMIUM",HBO eng
-http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",======================================
-http://
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg" group-title="PREMIUM",FOX2
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HiWiJv3.png" group-title="PREMIUM",FOX Family Movies
@@ -706,26 +673,42 @@ http://203.153.218.28:9981/stream/channelid/1114683377?ticket=67D9F2B0E165753DAD
 http://203.153.218.28:9981/stream/channelid/981299476?ticket=9F67BAE7020396371F181A7F5BFFBF9CB00BBC22&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",TLC
 http://203.153.218.28:9981/stream/channelid/391618553?ticket=78F887BA5B832279E75370788BBE22D4FDD521CB&profile=pass
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",KBS Drama
-http://203.153.218.28:9981/stream/channelid/1739691468?ticket=835AE532A93BB9B214C16308CDD30482FCEC623D&profile=pass
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",tvNx
-http://203.153.218.28:9981/stream/channelid/1483308629?ticket=7AAB640589172BABF1BF6C55925032100671C506&profile=pass
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",Dramax
-http://203.153.218.28:9981/stream/channelid/330335261?ticket=20F70049C31EC5B813FB10F489F6611DF7E64AFB&profile=pass
+#EXTINF:-1 group-title="TES",KBS WORLD (FPT Play)
+http://58.186.77.229:6606/udp/225.1.4.69:30120
 
 
+#EXTINF:-1 tvg-logo="" group-title="PREMI2",Cinemax
+http://160.119.77.50/iptv/hd-cinemax.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hr/SciFi.hr.png" group-title="PREMI2",Scifi
+http://ott.artmott.com/sci-fi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" group-title="PREMI2",AMC
+http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMI2",FOX US
+http://160.119.77.50/iptv/sd-foxeng.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FXMovieChannel.us.png" group-title="PREMI2",FXM
 https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FXMovieChannel.us.png" group-title="PREMI2",Fox Movies
+http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="PREMI2",FXAct
 https://www.livedoomovies.com/02_FoxActionHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="PREMI2",FOX Action
+http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="PREMI2",Warner TV
 http://203.154.243.89:11205
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXFamilyMovies.id.png" group-title="PREMI2",Fox Family 2
 https://www.livedoomovies.com/02_FoxFamilyHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMI2",FOX Family Movies1
+http://160.119.77.50/iptv/hd-foxfamily.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",REDbyHBO
 https://www.livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMI2",REDbyHBO 2
+http://160.119.77.50/iptv/sd-redalt.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/HBO.cz.png" group-title="PREMI2",HBO TH
 https://livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/HBO.cz.png" group-title="PREMI2",HBO Vi
+http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/HBO.cz.png" group-title="PREMI2",HBO eng
+http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/HBOFamily.br.png" group-title="PREMI2",HBO Family TH
 https://livedoomovies.com/02_HBOFamily_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="PREMI2",HBO Hits
@@ -756,27 +739,8 @@ http://ms-azure-video.gslb.startimestv.com/live/AMC_MOVIES_990_250_320x240_21082
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2016/04/CCTV-6-logo-2016-640x480.png" group-title="PREMI2",中国电影频道
 http://61.58.60.230:9319/live/225.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",FOODRecipy
-https://dl.dropbox.com/s/26tghhn7gim8rx3/Foodrecipy.m3u8?dl=0
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",Tasty
 https://dl.dropbox.com/s/t7kcrn2w3idpg86/Tasty.m3u8?dl=0
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",UseePrime
-https://dl.dropbox.com/s/og0ev43lje9dch9/useeprime.m3u8?dl=0
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",Flik CHannel
-https://dl.dropbox.com/s/p4za9boby6fnz25/Flik.m3u8?dl=0
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",IMC
-https://dl.dropbox.com/s/fg1m1e3kfnbza58/IMC.m3u8?dl=0
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",CitraDrama
-https://dl.dropbox.com/s/2f1e4vq02tpu2pc/Citra%20drama.m3u8?dl=0
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",CitraBioskop
-https://dl.dropbox.com/s/hiiuv6bli6rq1t7/Citra%20Bioskop.m3u8?dl=0
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",SmithSon
-https://dl.dropbox.com/s/w1lv3vfqkf4tlvc/Smith.m3u8?dl=0
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",Horeeee
-https://dl.dropbox.com/s/b6fas6znw4nylec/Hore.m3u8?dl=0
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",Love Nature
-https://dl.dropbox.com/s/a6x9ctd9fcbger2/LoveNature.m3u8?dl=0
-
 
 
 #EXTM3U

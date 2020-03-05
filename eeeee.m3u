@@ -201,7 +201,7 @@ https://dl.dropbox.com/s/9b9z5db065tqods/DreamWork.m3u8?dl=1
 http://213.174.8.7:11111/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Anime 1
 http://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1_mid.flv
-#EXTINF:-1  tvg-logo="" group-title="KIDS",Larva
+#EXTINF:-1  tvg-logo="https://i.imgur.com/CfpXcOY.jpg" group-title="KIDS",Larva
 http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_mid.flv
 #EXTINF:-1  tvg-logo="" group-title="KIDS",NARUTO
 http://ws.flv.nimo.tv/live/su1599512427615r0c4ed6161b23b4d2892824141e30f13b_mid.flv
@@ -673,8 +673,9 @@ http://203.153.218.28:9981/stream/channelid/1114683377?ticket=67D9F2B0E165753DAD
 http://203.153.218.28:9981/stream/channelid/981299476?ticket=9F67BAE7020396371F181A7F5BFFBF9CB00BBC22&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",TLC
 http://203.153.218.28:9981/stream/channelid/391618553?ticket=78F887BA5B832279E75370788BBE22D4FDD521CB&profile=pass
-#EXTINF:-1 group-title="TES",KBS WORLD (FPT Play)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiXKPwY.gif" group-title="TES",KBS WORLD (FPT Play)
 http://58.186.77.229:6606/udp/225.1.4.69:30120
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",Cinemax
@@ -685,6 +686,8 @@ http://ott.artmott.com/sci-fi/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",FOX US
 http://160.119.77.50/iptv/sd-foxeng.stream/playlist.m3u8
+#EXTINF:-1 group-title="PREMI2",FOX HD(FPT Play)
+http://58.186.77.229:6606/udp/225.1.4.33:30120
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FXMovieChannel.us.png" group-title="PREMI2",FXM
 https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FXMovieChannel.us.png" group-title="PREMI2",Fox Movies
@@ -828,12 +831,18 @@ http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
 https://www.doofree88.com/streaming/hd-foxsports1_720/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT2 SD
 http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT2xx
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT2x
 https://www.doofree88.com/streaming/sd-foxsports2_480/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT3 SD
 http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT3xx
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT3x
 https://www.doofree88.com/streaming/sd-foxsports3_480/index.m3u8
+#EXTINF:-1 group-title="SPORTS" group-title="TES",FOX SPORTS(HD) (FPT Play)
+http://58.186.77.229:6606/udp/225.1.4.10:30120
+#EXTINF:-1 group-title="SPORTS" group-title="TES",FOX SPORTS2 (FPT Play)
+http://58.186.77.229:6606/udp/225.1.4.11:30120
+#EXTINF:-1 group-title="SPORTS" group-title="TES",FOX SPORTS3 (FPT Play)
+http://58.186.77.229:6606/udp/225.1.4.12:30120
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Asia
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Asia SD
@@ -1071,21 +1080,21 @@ http://160.119.77.50/iptv/hd-kbsworld.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PptTHGB.png" group-title="TES",Comedy Network
-https://dl.dropbox.com/s/p8pdcmenrwsl4eb/comedynet.m3u8?dl=1
+https://dl.dropbox.com/s/p8pdcmenrwsl4eb/comedynet.m3u8?dl=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AE7dc43.png" group-title="TES",Usee Sport
-https://dl.dropbox.com/s/ghbo9eb2b0w793i/useesport.m3u8?dl=1
+https://dl.dropbox.com/s/ghbo9eb2b0w793i/useesport.m3u8?dl=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gEwtf1U.png" group-title="TES",Flik
-https://dl.dropbox.com/s/kqcjuyu250vin2n/flik.m3u8?dl=1
+https://dl.dropbox.com/s/kqcjuyu250vin2n/flik.m3u8?dl=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FDOdcXd.png" group-title="TES",Galaxy
-https://dl.dropbox.com/s/bf54wwlhsv1xuxg/galaxy.m3u8?dl=1
+https://dl.dropbox.com/s/bf54wwlhsv1xuxg/galaxy.m3u8?dl=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CfpXcOY.jpg" group-title="TES",Larva
-https://dl.dropbox.com/s/pp78vvb789r4s18/larva.m3u8?dl=1
+https://dl.dropbox.com/s/pp78vvb789r4s18/larva.m3u8?dl=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4vLxUTa.jpg" group-title="TES",Mr. Bean Cartoon
-https://dl.dropbox.com/s/pakwlc9kfak3ea6/beancartoon.m3u8?dl=1
+https://dl.dropbox.com/s/pakwlc9kfak3ea6/beancartoon.m3u8?dl=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5v1bigC.jpg" group-title="TES",Paw Patrol & Friends
-https://dl.dropbox.com/s/c8bhv2ammbz4z0z/paw.m3u8?dl=1
+https://dl.dropbox.com/s/c8bhv2ammbz4z0z/paw.m3u8?dl=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2x2MJ7b.jpg" group-title="TES",Teen Titans Go!
-https://dl.dropbox.com/s/t96ockwf2kwgkq1/teentitansgo.m3u8?dl=1
+https://dl.dropbox.com/s/t96ockwf2kwgkq1/teentitansgo.m3u8?dl=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sLimTwP.jpg" group-title="TES",Thomas & Friends
 https://dl.dropbox.com/s/4mqo8g8koh3bzwp/thomas.m3u8?dl=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/leB1pr9.jpg" group-title="TES",Woody Woodpecker
@@ -1108,20 +1117,6 @@ https://dl.dropbox.com/s/q8z7nk3xa6clmv3/bean.m3u8?dl=1
 https://dl.dropbox.com/s/c8bhv2ammbz4z0z/paw.m3u8?dl=1
 #EXTINF:-1 tvg-id="tvN.kr" tvg-logo="https://i.imgur.com/gFJl3Ud.jpg?1" group-title="TES",tvN [SG]
 http://50.7.161.82:8278/TVN/playlist.m3u8?tid=m02000000000012778588&ct=17982&tsum=8d4948e951d52e62699d90039b91c278
-#EXTINF:-1 group-title="TES",FOX HD (FPT Play)
-http://58.186.77.229:6606/udp/225.1.4.33:30120
-#EXTINF:-1 group-title="TES",FOX MOVIES (HD) (FPT Play)
-http://58.186.77.229:6606/udp/225.1.4.34:30120
-#EXTINF:-1 group-title="TES",FOX SPORTS (HD) (FPT Play)
-http://58.186.77.229:6606/udp/225.1.4.10:30120
-#EXTINF:-1 group-title="TES",FOX SPORTS 2 (FPT Play)
-http://58.186.77.229:6606/udp/225.1.4.11:30120
-#EXTINF:-1 group-title="TES",FOX SPORTS 3 (HD) (FPT Play)
-http://58.186.77.229:6606/udp/225.1.4.12:30120
-#EXTINF:-1 group-title="TES",FRANCE 24 (FPT Play)
-http://58.186.77.229:6606/udp/225.1.4.71:30120
-#EXTINF:-1 group-title="TES",KBS WORLD (FPT Play)
-http://58.186.77.229:6606/udp/225.1.4.69:30120
 
 
 

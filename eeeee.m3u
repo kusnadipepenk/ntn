@@ -397,6 +397,12 @@ http://stream1.ninmedia.tv/mktv/udp.stream_360p/playlist.m3u8
 http://210.210.155.35/qwr9ew/s/s20/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth
 http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth2
+http://58.186.77.229:6606/udp/225.1.4.21:30120
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC LifeStyle
+http://58.186.77.229:6606/udp/225.1.4.23:30120
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",ABC Australia
+http://58.186.77.229:6606/udp/225.1.4.19:30120
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",NATGEO US
 http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD-avc1_1000000=12-mp4a_96000_eng=2.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo
@@ -418,15 +424,23 @@ http://84.22.33.254/unicast.discovery/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY-CHANNEL HD
 http://160.119.77.50/iptv/hd-discovery.stream/playlist.m3u8
 #EXTINF:-1  group-title="KNOWLEDGE",Discovery Science
-http://80.80.160.168/live/9/2500000/playlist.m3u8
+http://58.186.77.229:6606/udp/225.1.4.24:30120
+#EXTINF:-1  group-title="KNOWLEDGE",Discovery ASIA
+http://58.186.77.229:6606/udp/225.1.4.25:30120
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Asia Food Channel
+http://58.186.77.229:6606/udp/225.1.4.36:30120
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",FOOD
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
 http://84.22.33.254/unicast.animalplanet/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet2
+http://58.186.77.229:6606/udp/225.1.4.27:30120
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Fine&Living
 http://70.32.0.9:5000/live/543/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.outdoorchannel.com/network/img/odc/logo.png" group-title="KNOWLEDGE",Outdoor Channel
 http://84.22.33.254/unicast.outdoorchannel/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.outdoorchannel.com/network/img/odc/logo.png" group-title="KNOWLEDGE",Outdoor Channel2
+http://58.186.77.229:6606/udp/225.1.4.37:30120
 #EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/files/console/26ce4687-165d-4cdd-88ac-18277ade9249.png" group-title="KNOWLEDGE",SMITHSONIAN CHANNEL 360p
 http://ms-azure-video.gslb.startimestv.com/live/SMITHSONIAN_CHANNEL_1166_500_480x360_662502/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/files/console/4fd34ff9-da89-49dd-80ec-14f8294b7ef1.png" group-title="KNOWLEDGE",LOVE NATURE 360p
@@ -695,6 +709,8 @@ https://www.livedoomovies.com/02_FoxActionHD_720p/chunklist.m3u8
 http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="PREMI2",Warner TV
 http://203.154.243.89:11205
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="PREMI2",WarnerTV2
+http://58.186.77.229:6606/udp/225.1.4.14:30120
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXFamilyMovies.id.png" group-title="PREMI2",Fox Family 2
 https://www.livedoomovies.com/02_FoxFamilyHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",FOX Family Movies1
@@ -744,8 +760,8 @@ https://dl.dropbox.com/s/t7kcrn2w3idpg86/Tasty.m3u8?dl=0
 
 
 #EXTM3U
-#EXTINF:-1  tvg-logo="" group-title="MUSICS",M Channel
-http://203.207.56.228/live/iptv014.m3u8
+#EXTINF:-1  tvg-logo="" group-title="MUSICS",V Channel
+http://58.186.77.229:6606/udp/225.1.4.30:30120
 #EXTINF:-1  group-title="MUSICS",VH1
 http://185.176.117.243/live/eds/VH1/HLS_encr/VH1.m3u8
 #EXTINF:-1  group-title="MUSICS",MIX MUSIC

@@ -6,13 +6,13 @@ http://210.210.155.35/session/6141d55e-70a0-11e9-8180-b82a72d63267/qwr9ew/s/s08/
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="STASIUN NASIONAL",TRANSTV
 http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="STASIUN NASIONAL",TRANSTV(2)
-http://id6.indostreamingtv.com/live/tv33/index.m3u8
+http://210.210.155.35/qwr9ew/s/s100/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="STASIUN NASIONAL",TRANSTV(3)
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1159701384_b384000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D5gBX8N/trans7.jpg" group-title="STASIUN NASIONAL",TRANS7
 http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D5gBX8N/trans7.jpg" group-title="STASIUN NASIONAL",TRANS7 Digital
-http://id2.indostreamingtv.com/live/trans7/index.m3u8
+http://210.210.155.35/qwr9ew/s/s101/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D5gBX8N/trans7.jpg" group-title="STASIUN NASIONAL",TRANS7(3)
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1144427985_b192000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="STASIUN NASIONAL",RCTI
@@ -22,7 +22,7 @@ https://delivery.macan.live/stream/id_rcti/index.m3u8?token=gratisan&v=20200202
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="STASIUN NASIONAL",RCTI3
 https://cdn-livetv1.metube.id/hls/rcti_480/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="STASIUN NASIONAL",SCTV tvonlineid
-http://id1.indostreamingtv.com/live/sctv/index.m3u8
+http://210.210.155.35/qwr9ew/s/s103/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="STASIUN NASIONAL",SCTV
 https://delivery.macan.live/stream/id_sctv/index.m3u8?token=gratisan
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1KX7m3dyRmjcbxJnJbNZrJ9HQyDf3VUuX" group-title="STASIUN NASIONAL",MNC
@@ -133,11 +133,15 @@ http://210.210.155.35/session/37e86e74-568e-11e9-83a5-c81f66f89318/qwr9ew/s/s15/
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2yswB04/voa.jpg" group-title="STASIUN BERITA",VOA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/index_0404_av-p.m3u8?sd=6&rebase=on
 #EXTINF:-1  tvg-logo="https://i.ibb.co/bF6sgWT/dw.png" group-title="STASIUN BERITA",DW News
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
+http://210.210.155.35/qwr9ew/s/s26/02.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",Aljazeera
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+http://210.210.155.35/qwr9ew/s/s17/02.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",TV5
 http://livecdnh1.tvanywhere.ae:80/hls/tv5/03.m3u8
+#EXTINF:-1  group-title="STASIUN BERITA",TV5 Monde
+http://210.210.155.35/qwr9ew/s/s24/02.m3u8
+#EXTINF:-1  group-title="STASIUN BERITA",RT News
+http://210.210.155.35/qwr9ew/s/s23/02.m3u8
 
 
 #EXTM3U
@@ -308,11 +312,11 @@ http://119.235.249.58:1935/uchannel/live/chunklist_w947373967.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/NCHDgCd/ucan.png" group-title="PREMIUM INDONESIA",U-Channel(2)
 http://210.210.155.35/qwr9ew/s/s41/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",ESL
-http://210.210.155.35/x6bnqe/s/s101/live.m3u8
+http://210.210.155.35/x6bnqe/s/s101/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",EGG NETWORk
-http://210.210.155.35:80/uq2663/h/h22/index2.m3u8
+http://210.210.155.35:80/uq2663/h/h22/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",SBSin
-http://210.210.155.35:80/uq2663/h/h28/index2.m3u8
+http://210.210.155.35:80/uq2663/h/h28/02.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/dcCRKCj/iam.jpg" group-title="NINMEDIA",IAM Channel

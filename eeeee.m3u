@@ -227,9 +227,6 @@ http://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_mid.
 http://ws.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8_mid.flv
 #EXTINF:-1  tvg-logo="" group-title="KIDS",NIKI
 http://213.174.8.7:9100/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KIDS",DAVINCI
-http://213.174.8.7:11111/index.m3u8
-
 
 
 
@@ -673,7 +670,7 @@ http://203.153.218.28:9981/stream/channelid/1114683377?ticket=67D9F2B0E165753DAD
 http://203.153.218.28:9981/stream/channelid/981299476?ticket=9F67BAE7020396371F181A7F5BFFBF9CB00BBC22&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",TLC
 http://203.153.218.28:9981/stream/channelid/391618553?ticket=78F887BA5B832279E75370788BBE22D4FDD521CB&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiXKPwY.gif" group-title="TES",KBS WORLD (FPT Play)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiXKPwY.gif" group-title="PREMIUM",KBS WORLD (FPT Play)
 http://58.186.77.229:6606/udp/225.1.4.69:30120
 
 

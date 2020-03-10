@@ -714,6 +714,10 @@ https://kremes.macan.live/stream/hbo_family/chunks.m3u8
 https://kremes.macan.live/stream/hbo_hits/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",NICK Jr
 https://kremes.macan.live/stream/nickjr/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM",DisneyJR
+https://kremes.macan.live/stream/disneyjunior/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM",Bomerang
+https://kremes.macan.live/stream/boomerang/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",CArtoonNet
 https://kremes.macan.live/stream/cartoonnetwork/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",Asian Food Channel

@@ -688,9 +688,24 @@ http://203.153.218.28:9981/stream/channelid/1114683377?ticket=67D9F2B0E165753DAD
 http://203.153.218.28:9981/stream/channelid/981299476?ticket=9F67BAE7020396371F181A7F5BFFBF9CB00BBC22&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",TLC
 http://203.153.218.28:9981/stream/channelid/391618553?ticket=78F887BA5B832279E75370788BBE22D4FDD521CB&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiXKPwY.gif" group-title="PREMIUM",KBS WORLD (FPT Play)
-http://58.186.77.229:6606/udp/225.1.4.69:30120
-
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM",TLC2
+https://kremes.macan.live/stream/tlc/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM",History2
+https://kremes.macan.live/stream/history/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM",HGTV
+https://kremes.macan.live/stream/hgtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM",HBO2
+https://kremes.macan.live/stream/hbo/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX2
+https://kremes.macan.live/stream/fox/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM",TVN2
+https://kremes.macan.live/stream/tvn/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM",TVNMovies
+https://kremes.macan.live/stream/tvn_movies/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM",HBOFAM
+https://kremes.macan.live/stream/hbo_family/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM",HBOHITS
+https://kremes.macan.live/stream/hbo_hits/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",Cinemax

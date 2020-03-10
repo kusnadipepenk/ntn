@@ -688,42 +688,7 @@ http://203.153.218.28:9981/stream/channelid/1114683377?ticket=67D9F2B0E165753DAD
 http://203.153.218.28:9981/stream/channelid/981299476?ticket=9F67BAE7020396371F181A7F5BFFBF9CB00BBC22&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",TLC
 http://203.153.218.28:9981/stream/channelid/391618553?ticket=78F887BA5B832279E75370788BBE22D4FDD521CB&profile=pass
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",TLC2x
-https://kremes.macan.live/stream/tlc/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",History2
-https://kremes.macan.live/stream/history/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",HGTV
-https://kremes.macan.live/stream/hgtv/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",HBO2
-https://kremes.macan.live/stream/hbo/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX2
-https://kremes.macan.live/stream/fox/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",TVN2
-https://kremes.macan.live/stream/tvn/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",TVNMovies
-https://kremes.macan.live/stream/tvn_movies/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOXMOVIEs
-https://kremes.macan.live/stream/foxmoviespremium/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOXACTION
-https://kremes.macan.live/stream/foxactionmovies/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",FOX FAMILY
-https://kremes.macan.live/stream/foxfamilymovies/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",HBOFAM
-https://kremes.macan.live/stream/hbo_family/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",HBOHITS
-https://kremes.macan.live/stream/hbo_hits/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",NICK Jr
-https://kremes.macan.live/stream/nickjr/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",DisneyJR
-https://kremes.macan.live/stream/disneyjunior/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",Bomerang
-https://kremes.macan.live/stream/boomerang/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",CArtoonNet
-https://kremes.macan.live/stream/cartoonnetwork/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",Asian Food Channel
-https://kremes.macan.live/stream/afc/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM",WarnerTV
-https://kremes.macan.live/stream/warnertv/chunks.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",Cinemax

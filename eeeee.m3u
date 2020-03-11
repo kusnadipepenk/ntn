@@ -166,7 +166,7 @@ http://livecdnh1.tvanywhere.ae/hls/baby/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",DISNEY CHANNEL
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Disney
-http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/Disney_Channel-avc1_600000=14-mp4a_96000_eng=1.m3u8
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMERANGs
 https://livedoomovies.com/02_Boomerang_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Cartoon (Rusia).
@@ -184,7 +184,7 @@ http://210.210.155.35/session/a1b2362c-9d39-11e9-9cda-b82a72d63267/qwr9ew/s/s50/
 #EXTINF:-1  group-title="KIDS",Detective COnan
 http://aldirect.hls.huya.com/huyalive/29106097-2689279974-11550369538117730304-2777027112-10057-A-0-1_1200.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",CARTOON-NETWORK
-http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
+http://ott.artmott.com/Cartoonnet/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",CARTON NETWok
 http://fr-c.movply.stream/hls/Carton_Network.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",DUCK
@@ -194,7 +194,7 @@ http://livecdnh2.tvanywhere.ae/hls/english_club/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QQFhFrg/nicktoon.png" group-title="KIDS",NICKTOONs
 http://185.176.117.242/live/eds/Nicktoons/HLS_encr/Nicktoons-avc1_600000=11-mp4a_96000_eng=2.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",NICKelodeonss
-http://185.176.117.242/live/eds/Nickelodeon/HLS_encr/Nickelodeon-avc1_600000=18-mp4a_96000_eng=5.m3u8
+http://ott.artmott.com/Nickelodeon/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",NICK Jr
 http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR-avc1_600000=16-mp4a_96000_eng=6.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",
@@ -407,8 +407,6 @@ http://58.186.77.229:6606/udp/225.1.4.21:30120
 http://58.186.77.229:6606/udp/225.1.4.23:30120
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",ABC Australia
 http://58.186.77.229:6606/udp/225.1.4.19:30120
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",NATGEO US
-http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD-avc1_1000000=12-mp4a_96000_eng=2.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yR0ZTTB/natgeowild.png" group-title="KNOWLEDGE",Nat-Geo-WILD 
@@ -426,11 +424,11 @@ http://83.167.253.110:5000/live/discovery/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY
 http://84.22.33.254/unicast.discovery/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY-CHANNEL HD
-http://160.119.77.50/iptv/hd-discovery.stream/playlist.m3u8
-#EXTINF:-1  group-title="KNOWLEDGE",Discovery Science
-http://58.186.77.229:6606/udp/225.1.4.24:30120
-#EXTINF:-1  group-title="KNOWLEDGE",Discovery ASIA
-http://58.186.77.229:6606/udp/225.1.4.25:30120
+http://ott.artmott.com/DiscoveryCH/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="KNOWLEDGE",Investigation Discovery
+http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="KNOWLEDGE",CrimeInvestigation
+http://ott.artmott.com/CrimeAndInvestigation/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Asia Food Channel
 http://58.186.77.229:6606/udp/225.1.4.36:30120
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",FOOD
@@ -438,7 +436,7 @@ http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
 http://84.22.33.254/unicast.animalplanet/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet2
-http://58.186.77.229:6606/udp/225.1.4.27:30120
+http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Fine&Living
 http://70.32.0.9:5000/live/543/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.outdoorchannel.com/network/img/odc/logo.png" group-title="KNOWLEDGE",Outdoor Channel
@@ -449,6 +447,8 @@ http://58.186.77.229:6606/udp/225.1.4.37:30120
 http://ms-azure-video.gslb.startimestv.com/live/SMITHSONIAN_CHANNEL_1166_500_480x360_662502/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/files/console/4fd34ff9-da89-49dd-80ec-14f8294b7ef1.png" group-title="KNOWLEDGE",LOVE NATURE 360p
 http://ms-azure-video.gslb.startimestv.com/live/LOVE_NATURE_1164_500_480x360_662498/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://fastandfunbox.com/g" group-title="KNOWLEDGE",Fast and Fun Box
+http://ott.artmott.com/FAST&FUNBOX/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",The Flash
@@ -696,7 +696,12 @@ http://203.153.218.28:9981/stream/channelid/981299476?ticket=9F67BAE7020396371F1
 http://203.153.218.28:9981/stream/channelid/391618553?ticket=78F887BA5B832279E75370788BBE22D4FDD521CB&profile=pass
 
 
-
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CBSReality.uk.png" group-title="PREMI2",CBS Reality Int
+http://ott.artmott.com/CBS-Reality/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/hr/Diva.hr.png" group-title="PREMI2",Diva
+http://ott.artmott.com/DIVA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/05/E-Logo_Black.png" group-title="PREMI2",E!
+http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",Cinemax
 http://160.119.77.50/iptv/hd-cinemax.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hr/SciFi.hr.png" group-title="PREMI2",Scifi

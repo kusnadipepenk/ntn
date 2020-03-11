@@ -696,6 +696,8 @@ http://203.153.218.28:9981/stream/channelid/981299476?ticket=9F67BAE7020396371F1
 http://203.153.218.28:9981/stream/channelid/391618553?ticket=78F887BA5B832279E75370788BBE22D4FDD521CB&profile=pass
 
 
+#EXTINF:-1 tvg-logo="" group-title="PREMI2",Ifilm
+https://ch.iptvmate.net/ffc95536a458d2bf5de811c90f2bd863.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CBSReality.uk.png" group-title="PREMI2",CBS Reality Int
 http://ott.artmott.com/CBS-Reality/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/hr/Diva.hr.png" group-title="PREMI2",Diva

@@ -696,12 +696,7 @@ http://203.153.218.28:9981/stream/channelid/981299476?ticket=9F67BAE7020396371F1
 http://203.153.218.28:9981/stream/channelid/391618553?ticket=78F887BA5B832279E75370788BBE22D4FDD521CB&profile=pass
 
 
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",Ifilm
-https://ch.iptvmate.net/ffc95536a458d2bf5de811c90f2bd863.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CBSReality.uk.png" group-title="PREMI2",CBS Reality Int
-http://ott.artmott.com/CBS-Reality/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/hr/Diva.hr.png" group-title="PREMI2",Diva
-http://ott.artmott.com/DIVA/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/05/E-Logo_Black.png" group-title="PREMI2",E!
 http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",Cinemax
@@ -772,6 +767,18 @@ https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 http://61.58.60.230:9319/live/225.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",Tasty
 https://dl.dropbox.com/s/t7kcrn2w3idpg86/Tasty.m3u8?dl=0
+#EXTINF:-1 tvg-logo="" group-title="PREMI2",er
+http://106.122.253.128/hdl0901.plures.net/onlive/26b58652e8e53c35260cd0414e97ca69.flv?wshc_tag=0&wsts_tag=5e69abe8&wsid_tag=704e24f5&wsiphost=ipdbm
+#EXTINF:-1 tvg-logo="" group-title="PREMI2",re
+http://106.122.253.126/hdl0901.plures.net/onlive/500cc65702471834061b9784410db488.flv?wshc_tag=0&wsts_tag=5e69ae16&wsid_tag=704e24f5&wsiphost=ipdbm 
+#EXTINF:-1 tvg-logo="" group-title="PREMI2",hg
+http://106.122.253.38/hdl0901.plures.net/onlive/662b6c6e29b0f52a922ff084fa2a8a02.flv?wshc_tag=0&wsts_tag=5e69ae25&wsid_tag=704e24f5&wsiphost=ipdbm 
+#EXTINF:-1 tvg-logo="" group-title="PREMI2",yuy
+http://61.147.228.19/hdl0901.plures.net/onlive/380742f2931cf56114d1dcfa7bab70d2.flv?wshc_tag=0&wsts_tag=5e69ae30&wsid_tag=704e24f5&wsiphost=ipdbm
+#EXTINF:-1 tvg-logo="" group-title="PREMI2",bg
+http://61.147.228.26/hdl0901.plures.net/onlive/066de0484c8f6691412850bab3087e50.flv?wshc_tag=0&wsts_tag=5e69ae3e&wsid_tag=704e24f5&wsiphost=ipdbm 
+#EXTINF:-1 tvg-logo="" group-title="PREMI2",ik
+http://61.147.228.26/hdl0901.plures.net/onlive/3b80c6dbc6000186efae5bf9126940ab.flv?wshc_tag=0&wsts_tag=5e69a8fe&wsid_tag=704e24f5&wsiphost=ipdbm 
 
 
 #EXTM3U

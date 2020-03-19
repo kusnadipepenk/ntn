@@ -726,7 +726,7 @@ http://160.119.77.50/iptv/hd-foxfamily.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",FX CH
 http://106.122.253.38/hdl0901.plures.net/onlive/811fb8cabff59b134d61e7c2811c0d9b.flv?wshc_tag=0&wsts_tag=5e69b25b&wsid_tag=704e24f5&wsiphost=ipdbm
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",REDbyHBO 2
-https://tv4.chang55.com/live2/tv4ch47.stream/chunks.m3u8
+http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/HBO.cz.png" group-title="PREMI2",HBO TH
 https://tv4.chang55.com/live2/tv4ch25.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/HBO.cz.png" group-title="PREMI2",HBO Vi

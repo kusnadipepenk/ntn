@@ -18,9 +18,9 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1144427985_b192000_sl
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="STASIUN NASIONAL",RCTI
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="STASIUN NASIONAL",RCTI tvonlineid
-https://delivery.macan.live/stream/id_rcti/index.m3u8?token=gratisan&v=20200202
+https://delivery.macan.live/stream/id_rcti/index.m3u8?token=gratisan
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="STASIUN NASIONAL",RCTI3
-https://cdn-livetv1.metube.id/hls/rcti_480/index.m3u8
+https://app-linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="STASIUN NASIONAL",SCTV tvonlineid
 http://210.210.155.35/qwr9ew/s/s103/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="STASIUN NASIONAL",SCTV
@@ -48,7 +48,7 @@ http://202.80.222.174/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=0
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1uNGLnZUnUVO0BuZKQYN-KzIRVb9yXz1x" group-title="STASIUN NASIONAL",GLOBALTV(2)
 https://cdn-livetv1.metube.id/hls/globaltv_240/index.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1uNGLnZUnUVO0BuZKQYN-KzIRVb9yXz1x" group-title="STASIUN NASIONAL",GLOBALTV3
-https://live.rctiplus.id/rctiplus/gtv_540p.m3u8
+https://app-linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8
 #EXTINF:-1  group-title="STASIUN NASIONAL",TV ONE
 http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1  group-title="STASIUN NASIONAL",TV ONE (2)

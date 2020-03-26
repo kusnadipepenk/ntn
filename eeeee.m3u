@@ -741,8 +741,8 @@ http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
 http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/HBOFamily.br.png" group-title="PREMI2",HBO Family TH
 https://livedoomovies.com/02_HBOFamily_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="PREMI2",HBO Hits CH
-http://106.122.253.126/hdl0901.plures.net/onlive/500cc65702471834061b9784410db488.flv?wshc_tag=0&wsts_tag=5e69ae16&wsid_tag=704e24f5&wsiphost=ipdbm 
+#EXTINF:-1 tvg-logo="" group-title="PREMI2",HBO CH
+http://hk.tv0668.com/dl/hk520.php?id=27
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="PREMI2",HBO Signature
 https://livedoomovies.com/02_HBOSignature_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logogrey/grey_logo_galaxy_small1.png" group-title="PREMI2",Galaxy Movie
@@ -772,8 +772,13 @@ http://61.58.60.230:9319/live/225.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",Tasty
 https://dl.dropbox.com/s/t7kcrn2w3idpg86/Tasty.m3u8?dl=0
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",ik
-http://61.147.228.26/hdl0901.plures.net/onlive/3b80c6dbc6000186efae5bf9126940ab.flv?wshc_tag=0&wsts_tag=5e69a8fe&wsid_tag=704e24f5&wsiphost=ipdbm 
-
+http://rokutna.tulix.tv/live/output46578.stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMI2",ES
+http://hk.tv0668.com/dl/hk520.php?id=34
+#EXTINF:-1 tvg-logo="" group-title="PREMI2",ry
+http://hk.tv0668.com/dl/hk520.php?id=30
+#EXTINF:-1 tvg-logo="" group-title="PREMI2",ko
+http://rokutna.tulix.tv/live/firstlight-uk.stream.m3u8 
 
 #EXTM3U
 #EXTINF:-1  tvg-logo="" group-title="MUSICS",V Channel

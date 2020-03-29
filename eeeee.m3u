@@ -474,10 +474,6 @@ http://203.207.56.228/live/iptv033.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/PMBrmzq/lotus.jpg" group-title="SUB PREMIUM",LOTUS MACAU
 http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
 ==EXTINF:-1  tvg-logo="https://i.ibb.co/DLnnhBP/foxcinema.jpg" group-title="SUB PREMIUM",FoX-Cinema
-
-==EXTINF:-1  group-title="SUB PREMIUM",&PriveHD
-http://pockettv.xyz/api/zee.m3u8?c=andprivehd
-==EXTINF:-1  group-title="SUB PREMIUM",&FLIXHD
 http://pockettv.xyz/api/zee.m3u8?c=andflixhd
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="SUB PREMIUM",HBO1
 http://95.170.215.118/hls/m3u8/HBO.m3u8
@@ -497,16 +493,12 @@ http://203.207.56.228/live/iptv004.m3u8
 http://203.207.56.228/live/iptv003.m3u8
 ==EXTINF:-1  tvg-logo="https://i.ibb.co/kXn8ZJ9/hbosignatr.png" group-title="SUB PREMIUM",HBO SIGNATURE
 http://203.207.56.228/live/iptv006.m3u8
-==EXTINF:-1  tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="SUB PREMIUM",TVN DRAMA
-http://edge.linknetott.swiftserve.com/channelgroup4/cg404production/ch339/02.m3u8
-==EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",SonyOne DRAMA
-http://50.7.161.82:8278/SetOne/playlist.m3u8?tid=m02000000000014244954&ct=17982&tsum=2a160ea054855b501a39a31ef6e18cb8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="SUB PREMIUM",FOX-MOVIE
 https://www.doofree88.com/streaming/hd-foxpremium_720/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="SUB PREMIUM",WarnerTV
 https://www.doofree88.com/streaming/hd-warnertv_720/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="SUB PREMIUM",FOX-Action
-http://119.59.116.136:8889/threstr/foxaction/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="PREMI2",FOX Action CH
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="SUB PREMIUM",[TH]FOX-Action
 http://iliketot.dyndns.tv/6744e98748214c32912a46d1c7277d55.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1  tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="SUB PREMIUM",[TH]FOX Action
@@ -527,12 +519,7 @@ http://119.59.116.136:8889/threstr/foxfamily/chunks.m3u8
 http://iliketot.dyndns.tv/d0bfb50bee3741a09c53f8099a64ad52.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GVMCyFt/fx.png" group-title="SUB PREMIUM",[TH]FX-Asia
 http://iliketot.dyndns.tv:80/2e0e4b05aa6e428593f3b45b710045b7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
-#EXTINF:-1  tvg-logo="https://i.ibb.co/PYX6fWm/cinem.png" group-title="SUB PREMIUM",CINEMAX sd
-http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
-==EXTINF:-1  tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="SUB PREMIUM",FOX Family
-http://203.207.56.228/live/iptv035.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/JKCy6TJ/fox.png" group-title="SUB PREMIUM",FOX
-http://23.237.22.82:8086/udp/127.0.0.1:56163
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-1
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-2
@@ -593,14 +580,6 @@ http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
 http://iliketot.dyndns.tv/71f197de056e499a85265c03b44bdab1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 ==EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",STARZ
 http://34.69.67.123:8888/tvnow/http://sv5.dailymotion.com.1cdn.host/live/starz/chunks.m3u8
-==EXTINF:-1  tvg-logo="https://i.ibb.co/Fg62c4G/tlc.png" group-title="SUB PREMIUM",TLC CHANNEL
-http://80.80.160.168/live/2/1000000/playlist.m3u8
-==EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",HALLMARK
-http://23.237.22.82:8086/udp/127.0.0.1:56067
-==EXTINF:-1  tvg-logo="https://i.ibb.co/j3p5KYK/usa.png" group-title="SUB PREMIUM",USA
-http://23.237.22.82:8086/udp/127.0.0.1:56054
-==EXTINF:-1  group-title="SUB PREMIUM",POPTv
-https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master_600.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/SJX3w9x/wow.png" group-title="SUB PREMIUM",WOWOW Japan
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
 #EXTINF:-1 group-title="SUB PREMIUM",FILMBOXEXTRA
@@ -719,8 +698,6 @@ http://61.147.228.19/hdl0901.plures.net/onlive/380742f2931cf56114d1dcfa7bab70d2.
 http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="PREMI2",FXAct/Movies CH
 https://tv4.chang55.com/live2/tv4ch82.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="PREMI2",FOX Action
-http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="PREMI2",Warner TV
 http://203.154.243.89:11205
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",CINEMAX CH

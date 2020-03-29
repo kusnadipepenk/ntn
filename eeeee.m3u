@@ -162,7 +162,7 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p2rYxCW/baby.jpg" group-title="KIDS",Baby TV
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p2rYxCW/baby.jpg" group-title="KIDS",BabyTV-UAE
-http://livecdnh1.tvanywhere.ae/hls/baby/index.m3u8
+http://livecdnh1.tvanywhere.ae/hls/baby/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",DISNEY CHANNEL
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Disney
@@ -419,8 +419,6 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/7j39sz1/histo.jpg" group-title="KNOWLEDGE",HISTORY CHANNEL
 http://livecdnh1.tvanywhere.ae/hls/h2/03.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/7j39sz1/histo.jpg" group-title="KNOWLEDGE",HISTORY JAPAN
-http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/6ZLVKt6/docubo.png" group-title="KNOWLEDGE",DOCUBOX TV
 http://livecdnh3.tvanywhere.ae/hls/docubox/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY CHANNEL

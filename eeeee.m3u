@@ -819,19 +819,19 @@ http://210.210.155.35/uq2663/h/h05/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FightSport(2)
 http://210.210.155.35/session/99f95566-7000-11e9-8e97-9239acfe1a75/uq2663/h/h05/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS",SKYNET1 sport
-https://www.livedoomovies.com/03_skynetsport1_480p/chunklist2.m3u8
+http://27.254.149.109:8081/tumlive/SKYNET1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS",SKYNET2 sport
-https://www.livedoomovies.com/03_skynetsport2_480p/chunklist2.m3u8
+http://27.254.149.109:8081/tumlive/SKYNET2/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS",SKYNET3 sport
-https://www.livedoomovies.com/03_skynetsport3_480p/chunklist2.m3u8
+http://27.254.149.109:8081/tumlive/SKYNET3/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS",SKYNET4 sport
-https://www.livedoomovies.com/03_skynetsport4_480p/chunklist2.m3u8
+http://27.254.149.109:8081/tumlive/SKYNET4/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS",SKYNET5 sport
-https://www.livedoomovies.com/03_skynetsport5_480p/chunklist2.m3u8
+http://27.254.149.109:8081/tumlive/SKYNET5/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS",SKYNET6 sport
-https://www.livedoomovies.com/03_skynetsport6_480p/chunklist2.m3u8
+http://27.254.149.109:8081/tumlive/SKYNET6/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS",SKYNET7 sport
-https://www.livedoomovies.com/03_skynetsport7_480p/chunklist2.m3u8
+http://27.254.149.109:8081/tumlive/SKYNET7/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS",SKYNET8 sport
 http://27.254.149.109:8081/tumlive/SKYNETHD/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX SPORT

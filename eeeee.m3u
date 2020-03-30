@@ -640,7 +640,7 @@ http://203.153.218.28:9981/stream/channelid/1316004766?ticket=6A230BCD275160BC24
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uk1vfJk.png" group-title="PREMIUM",HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="PREMIUM",HBO Hits
-http://203.153.218.28:9981/stream/channelid/2038175895?ticket=6BFD6BDBFA641B9E326D9F96C522A9CA148626C6&profile=pass
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="PREMIUM",HBO Signature
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="PREMIUM",Cinemax
@@ -910,6 +910,10 @@ http://st5.allplay.uz/iptv/24/tracks-v1a1/mono.m3u8
 http://23.237.22.82:8086/udp/127.0.0.1:56052
 #EXTINF:-1  group-title="SPORTS",SONY TENs
 https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
+#EXTINF:-1  group-title="SPORTS",SONY TEN 2
+https://streamer-1.toffeelive.com/live/ten_2_720/index.m3u8
+#EXTINF:-1  group-title="SPORTS",SONY TEN 3
+https://streamer-1.toffeelive.com/live/ten_3_720/index.m3u8
 #EXTINF:-1  group-title="SPORTS",SONY TEN
 http://163.172.85.133:8080/TenS/1/index.m3u8
 #EXTINF:-1  group-title="SPORTS",SONY TEN 1 HD

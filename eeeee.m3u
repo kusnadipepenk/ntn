@@ -517,7 +517,6 @@ http://119.59.116.136:8889/threstr/foxfamily/chunks.m3u8
 http://iliketot.dyndns.tv/d0bfb50bee3741a09c53f8099a64ad52.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GVMCyFt/fx.png" group-title="SUB PREMIUM",[TH]FX-Asia
 http://iliketot.dyndns.tv:80/2e0e4b05aa6e428593f3b45b710045b7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
-
 #EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-1
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-2
@@ -566,8 +565,6 @@ http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",MBC Action
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",FXX
-http://23.237.22.82:8086/udp/127.0.0.1:56251
 #EXTINF:-1  tvg-logo="https://i.ibb.co/tQNt4Bf/star.jpg" group-title="SUB PREMIUM",Starmovies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Z8YSxCB/sstarw.jpg" group-title="SUB PREMIUM",StarWorld
@@ -608,8 +605,6 @@ http://ott.artmott.com/SKYMAX/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/SKYShqip/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",BIGBANG THEORY
 http://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
-==EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",TNT
-http://23.237.22.82:8086/udp/127.0.0.1:56261
 #EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",STAR CHINA MOVIE
 http://iliketot.dyndns.tv/29a09591a6604ff3b798cd7ef809e4bd.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTggNDo0Mzo1OCBBTSZoYXNoX3ZhbHVlPW9oSGErRXNZcXAxSlhaRTJoSTdFWnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zbW9uZzExfDgwNXx1cGxheXwxNTMzNzg5ODM4fDE3MS41LjExMS4xMjg=
 #EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",STAR CHINA
@@ -620,6 +615,10 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflixhd/index.m3
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",STAR WORLD
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",CIBN Holywood
+http://47.240.60.73/Mitv/cibn.php?id=8
+#EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",CIBN Blokbuster
+http://47.240.60.73/Mitv/cibn.php?id=8
 
 
 

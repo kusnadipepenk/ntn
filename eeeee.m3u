@@ -618,8 +618,9 @@ https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",CIBN Holywood
 http://47.240.60.73/Mitv/cibn.php?id=8
 #EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",CIBN Blokbuster
-http://47.240.60.73/Mitv/cibn.php?id=8
-
+http://47.240.60.73/Mitv/cibn.php?id=10
+#EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",CIBN Teather
+http://47.240.60.73/Mitv/cibn.php?id=6 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg" group-title="PREMIUM",FOX2

@@ -485,12 +485,12 @@ http://95.170.215.118/hls/m3u8/HBO-3.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="SUB PREMIUM",HBO-ASIA
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
-==EXTINF:-1  tvg-logo="https://i.ibb.co/nnNzMrW/hbofam.png" group-title="SUB PREMIUM",HBO FAMILY
-http://203.207.56.228/live/iptv004.m3u8
-==EXTINF:-1  tvg-logo="https://i.ibb.co/FJPtGSG/hbihit.png" group-title="SUB PREMIUM",HBO HITS
-http://203.207.56.228/live/iptv003.m3u8
-==EXTINF:-1  tvg-logo="https://i.ibb.co/kXn8ZJ9/hbosignatr.png" group-title="SUB PREMIUM",HBO SIGNATURE
-http://203.207.56.228/live/iptv006.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/nnNzMrW/hbofam.png" group-title="SUB PREMIUM",HBO FAMILY
+http://csrv.me:80/5000740475/fireurl.co/2361
+#EXTINF:-1  tvg-logo="https://i.ibb.co/FJPtGSG/hbihit.png" group-title="SUB PREMIUM",HBO Plus
+http://csrv.me:80/5000740475/fireurl.co/2183
+#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",CinemAX
+http://csrv.me:80/5000740475/fireurl.co/2393
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="SUB PREMIUM",FOX-MOVIE
 https://www.doofree88.com/streaming/hd-foxpremium_720/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="SUB PREMIUM",WarnerTV

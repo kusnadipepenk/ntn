@@ -168,7 +168,7 @@ http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Disney
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMERANGs
-http://livecdnh3.tvanywhere.ae/hls/boomerang/03.m3u8
+http://livecdnh3.tvanywhere.ae/hls/boomerang/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Cartoon (Rusia).
 http://ott-cdn.ucom.am/s46/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",KIDS (Rusia)
@@ -513,6 +513,10 @@ http://27.254.149.109:8081/tumlive/Foxlife/playlist.m3u8
 https://www.doofree88.com/streaming/hd-foxfamily_720/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="SUB PREMIUM",FOX Family
 http://119.59.116.136:8889/threstr/foxfamily/chunks.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",AMC Amerika
+https://proxystream.canais.link:443/proxy.php?url=amc.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",FOX Amerika
+https://proxystream.canais.link:443/proxy.php?url=fox.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",[TH]FOX
 http://iliketot.dyndns.tv/d0bfb50bee3741a09c53f8099a64ad52.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GVMCyFt/fx.png" group-title="SUB PREMIUM",[TH]FX-Asia

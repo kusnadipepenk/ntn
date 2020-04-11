@@ -58,13 +58,15 @@ http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=0
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1ZUCUkvAvWR5qJzRj8HG9wJ40MQ71vi5x" group-title="STASIUN NASIONAL",RTV(2)
 http://210.210.155.35/session/1e1de4c6-6fcd-11e9-834b-b82a72d63267/qwr9ew/s/s12/02.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1YTKkeDncS3PikKrWA8vuK6tdzee9Q7u3" group-title="STASIUN NASIONAL",JTV
-http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://122.248.43.138:1935/ch2/myStream/playlist.m3u8?checkedby:iptvcat.com 
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1YTKkeDncS3PikKrWA8vuK6tdzee9Q7u3" group-title="STASIUN NASIONAL",JTV (2)
 http://210.210.155.35/x6bnqe/s/s90/S4/mnf.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GCkTFqZ/elshin.jpg" group-title="STASIUN NASIONAL",ELSHINTA TV
 http://210.210.155.35/session/743b191e-6fcd-11e9-a2e4-c81f66f89318/qwr9ew/s/s10/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/7VVYNfZ/tvri.jpg" group-title="STASIUN NASIONAL",TVRI
 http://210.210.155.35/qwr9ew/s/s11/02.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/7VVYNfZ/tvri.jpg" group-title="STASIUN NASIONAL",TVRI2
+http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1  tvg-logo="" group-title="STASIUN NASIONAL",TVRI SPORT
 http://210.210.155.35/session/4ef13212-a900-11e9-8ab6-b7d19fbdbf13/qwr9ew/s/s107/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="STASIUN NASIONAL",ANTARA TV
@@ -162,7 +164,7 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p2rYxCW/baby.jpg" group-title="KIDS",Baby TV
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p2rYxCW/baby.jpg" group-title="KIDS",BabyTV-UAE
-http://livecdnh1.tvanywhere.ae/hls/baby/03.m3u8
+http://livecdnh1.tvanywhere.ae/hls/baby/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",DISNEY CHANNEL
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Disney

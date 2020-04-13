@@ -499,18 +499,18 @@ https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
 https://www.doofree88.com/streaming/hd-warnertv_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="SUB PREMIUM",FOX Action CH
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="SUB PREMIUM",[TH]FOX-Action
-http://iliketot.dyndns.tv/6744e98748214c32912a46d1c7277d55.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1  tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="SUB PREMIUM",FOX-Action
+https://cdn-laos.workpoint.news/hd-foxaction_720/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="SUB PREMIUM",[TH]FOX Action
 http://iliketot.dyndns.tv/206105b34a1c44b886c6cd3c59105803.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTggNDo0Mzo1OCBBTSZoYXNoX3ZhbHVlPW9oSGErRXNZcXAxSlhaRTJoSTdFWnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zbW9uZzExfDgwNXx1cGxheXwxNTMzNzg5ODM4fDE3MS41LjExMS4xMjg=
 #EXTINF:-1  tvg-logo="https://i.ibb.co/1RHVFhx/foxcrime.png" group-title="SUB PREMIUM",[TH]FOXCRIME1
-http://27.254.149.109:8081/tumlive/Foxcrime/playlist.m3u8
+https://cdn-laos.workpoint.news/hd-foxcrime_720/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/1RHVFhx/foxcrime.png" group-title="SUB PREMIUM",[TH]FOXCRIME
 http://iliketot.dyndns.tv:80/48773319e9324602b258e3f1d33ec111.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1  tvg-logo="https://i.ibb.co/LYVcCX3/foxlife.png" group-title="SUB PREMIUM",[TH]FOXLive
 http://iliketot.dyndns.tv/65f7358b813048a0898f5677e1793cf9.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1  tvg-logo="https://i.ibb.co/LYVcCX3/foxlife.png" group-title="SUB PREMIUM",[TH]FOXLive1
-http://27.254.149.109:8081/tumlive/Foxlife/playlist.m3u8
+https://cdn-laos.workpoint.news/hd-foxlive_720/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="SUB PREMIUM",[TH]FOX Family
 https://www.doofree88.com/streaming/hd-foxfamily_720/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="SUB PREMIUM",FOX Family

@@ -145,6 +145,8 @@ http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144
 http://210.210.155.35/session/5a96d1bc-6a30-11e9-afe2-91cea6c769ee/dr9445/h/h02/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/6rTZ2bP/mykids.jpg" group-title="KIDS",MY KIDS
 http://210.210.155.35/x6bnqe/s/s113/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KIDS",MY KIDS Stats
+http://210.210.155.35/session/8f57997a-7f8f-11ea-84dd-806b9117222e/uq2663/h/h98/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/d0RzNrk/space.png" group-title="KIDS",SPACEToon
 http://95.170.215.109/hls/m3u8/Spacetoon-Backup.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/d0RzNrk/space.png" group-title="KIDS",SPACEToon ARB

@@ -437,18 +437,18 @@ https://ws.flv.nimo.tv/live/su1599512427614r64c6b58ca12709ecc72d82d4f45a42cf_hig
 https://ws.flv.nimo.tv/live/su1599512427580r629d80fdaf8413c8e7083d1d0cd5fbf5_high.flv
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",RTSH Film
 http://79.106.48.2/live/rtsh_film_ott_p3/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",WIXLAR Movie
-http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",KingdomS Movie
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",24tv Movie
 http://51.158.190.97/hls/stream.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",RAI MOVIE
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?sd=10&rebase=on
-==EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",WARNER Bross
-http://203.207.56.228/live/iptv033.m3u8
+==EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",SonY MOVIE
+http://51.52.156.22:8888/http/009
 #EXTINF:-1  tvg-logo="https://i.ibb.co/PMBrmzq/lotus.jpg" group-title="SUB PREMIUM",LOTUS MACAU
 http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
-==EXTINF:-1  tvg-logo="https://i.ibb.co/DLnnhBP/foxcinema.jpg" group-title="SUB PREMIUM",FoX-Cinema
-http://pockettv.xyz/api/zee.m3u8?c=andflixhd
+#EXTINF:-1  tvg-logo="https://i.ibb.co/DLnnhBP/foxcinema.jpg" group-title="SUB PREMIUM",WarnerTVs
+http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="SUB PREMIUM",HBO1
 http://95.170.215.118/hls/m3u8/HBO.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="SUB PREMIUM",HBO2

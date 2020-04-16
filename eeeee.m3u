@@ -299,84 +299,8 @@ http://210.210.155.35/x6bnqe/s/s101/live.m3u8
 http://210.210.155.35:80/uq2663/h/h22/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",LifeStyle
 http://210.210.155.35:80/uq2663/h/h28/02.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/dcCRKCj/iam.jpg" group-title="NINMEDIA",IAM Channel
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dcCRKCj/iam.jpg" group-title="PREMIUM INDONESIA",IAM Channel
 http://iamchannel.org:1935/tes/1/playlist.m3u8
-#EXTINF:-1  group-title="NINMEDIA",BETV
-http://stream1.ninmedia.tv/betv/rtmp.stream/chunklist_w591468833.m3u8
-#EXTINF:-1  group-title="NINMEDIA",RCTV
-http://stream1.ninmedia.tv/rctv/rtmp.stream/chunklist_w1422395827.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fqr5C2y/inp.png" group-title="NINMEDIA",INSPIRA TV
-http://stream1.ninmedia.tv/inspiratv/udp.stream_360p/chunklist_w1304346582.m3u8
-#EXTINF:-1  group-title="NINMEDIA",BBS TV
-http://ss.bbstv.co.id:1935/bbstv/live1/chunklist_w1044482745.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/KjBhgY8/foodie.png" group-title="NINMEDIA",FOODIE.
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/chunklist_b906000.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",KITANESIA
-http://stream1.ninmedia.tv/kitanesia/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",MALEO
-http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",INSPIRA TV
-http://stream1.ninmedia.tv/inspiratv/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",RAHATV
-http://stream1.ninmedia.tv/rahatv/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",BMW TV
-http://stream1.ninmedia.tv/bmwtv/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",TABALONG TV
-http://stream1.ninmedia.tv/tabalongtv/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",AREK TV SURABAYA
-http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",RUMAH TV
-http://stream2.ninmedia.tv/rumahtv/rtmp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",UATV
-http://stream1.ninmedia.tv/uatv/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",TV DESA
-http://stream1.ninmedia.tv/tvdesa/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",GEMILANG TV
-http://stream1.ninmedia.tv/gemilangtv/rtmp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",SPM TV
-http://stream2.ninmedia.tv/live/spmtv_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",BARAYA TV
-http://stream1.ninmedia.tv/barayatv/rtmp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",RCTV
-http://stream1.ninmedia.tv/rctv/rtmp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",JAMBI TV
-http://stream1.ninmedia.tv/jambitv/rtmp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",RADAR TV LAMPUNG
-http://stream1.ninmedia.tv/radartvlampung/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",PAL TV
-http://stream1.ninmedia.tv/paltv/rtmp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",PON TV
-http://stream1.ninmedia.tv/pontv/rtmp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",OSHOP
-http://stream1.ninmedia.tv/oshop/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",NABAWI TV
-http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",BE-TV
-http://stream1.ninmedia.tv/betv/rtmp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",RBTV
-http://stream1.ninmedia.tv/rbtv/rtmp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",DMI TV
-http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",SALINGSAPA
-http://stream1.ninmedia.tv/salingsapa/rtmp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",NU CHANNEL
-http://stream1.ninmedia.tv/nuchannel/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",PRAJA TV
-http://stream1.ninmedia.tv/prajatv/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",RRI NET
-http://stream1.ninmedia.tv/rrinet/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",GPR TV
-http://stream1.ninmedia.tv/gprtv/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",MI TV
-http://stream2.ninmedia.tv/mitv/rtmp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",TRIBRATA TV
-http://stream1.ninmedia.tv/tribratatv/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",POP MUSIK
-http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",MK TV
-http://stream1.ninmedia.tv/mktv/udp.stream_360p/playlist.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary

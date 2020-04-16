@@ -800,53 +800,6 @@ http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/index_150_av-p.m3u8?sd=6&reb
 https://dl.dropbox.com/s/emp7q8g3tc1kikj/BMusik.m3u8?dl=0
 
 
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png" group-title="SPORTS",True Sport 1
-https://cdn-laos.workpoint.news/hd-tsport1_720/index.m3u8
-#EXTINF:-1 tvg-logo="http://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_original.png" group-title="SPORTS",True Sport 2
-https://cdn-laos.workpoint.news/hd-tsport2_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://tv.mthai.com/app/uploads/2018/06/true-sport3.png" group-title="SPORTS",True Sport 3
-https://cdn-laos.workpoint.news/hd-tsport3_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_original.png" group-title="SPORTS",True Sport 4
-http://160.119.77.50/iptv/hd-tsport4.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png" group-title="SPORTS",True Tennis
-https://cdn-laos.workpoint.news/hd-tennis_720/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="SPORTS",Premier Football 1
-https://cdn-laos.workpoint.news/epl-x1_720/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="SPORTS",Premier Football 2
-https://cdn-laos.workpoint.news/epl-x2_720/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="SPORTS",Premier Football 3
-https://cdn-laos.workpoint.news/epl-x3_720/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="SPORTS",Premier Football 4
-https://cdn-laos.workpoint.news/epl-x4_720/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="SPORTS",Premier Football 5
-https://cdn-laos.workpoint.news/epl-x5_720/index.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsNews.uk.png" group-title="SPORTS",Sky Sports News
-https://cdn-laos.workpoint.news/uk-skysports-news_480/index.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsAction.uk.png" group-title="SPORTS",Sky Sports Action
-https://cdn-laos.workpoint.news/uk-skysports-action_720/index.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsArena.uk.png" group-title="SPORTS",Sky Sports Arena
-https://cdn-laos.workpoint.news/uk-skysports-arena_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsMix.uk.png" group-title="SPORTS",Sky Sports Mix
-https://cdn-laos.workpoint.news/uk-skysports-mix_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsF1.uk.png" group-title="SPORTS",Sky Sports F1
-https://cdn-laos.workpoint.news/uk-skysports-f1_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsCricket.uk.png" group-title="SPORTS",Sky Sports Cricket
-https://cdn-laos.workpoint.news/uk-skysports-cricket_720/index.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png" group-title="SPORTS",Sky Sports EPL
-https://cdn-laos.workpoint.news/uk-skysports-epl_720/index.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsFootball.uk.png" group-title="SPORTS",Sky Sports Football
-https://cdn-laos.workpoint.news/uk-skysports-football_720/index.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" group-title="SPORTS",Sky Sports Main Event
-https://cdn-laos.workpoint.news/uk-skysports-mainevent_720/index.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsGolf.uk.png" group-title="SPORTS",Sky Sports Golf
-https://cdn-laos.workpoint.news/uk-skysports-golf_720/index.m3u8
-#EXTINF:-1  group-title="SPORTS",SPORTTV 2
-https://sportbar.biz/lba/123/g1/sport2port.m3u8
-#EXTINF:-1  group-title="SPORTS",Optus sport
-http://203.207.56.228/live/iptv030.m3u8
-#EXTINF:-1  group-title="SPORTS",ZIGGO sport
-http://95.170.215.118/hls/m3u8/ZIGGO-voetbal.m3u8
-#EXTINF:-1 tvg-logo="http://www.dsport.in/wp-content/uploads/2018/10/NewDSport_White.png" group-title="SPORTS",Discovery Sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/wwRP0qz/redb.png" group-title="SPORTS",REDBull Tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
@@ -1071,31 +1024,6 @@ http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/YTN_KOREAN.png" group-title="한국",YTN Korean
 http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
-
-
-
-#EXTINF:-1  group-title="MALAYSIA",TV7 MY
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUmwQOilFkZJwZFAFwwSJ-8)/dm/3/x6qp6ou/s/live-2.m3u8
-#EXTINF:-1  group-title="MALAYSIA",TV8 MY
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHX2DFo5fvMDBXqL2hPHgoyM)/dm/3/x6qud17/s/live-2.m3u8
-#EXTINF:-1  group-title="MALAYSIA",TV9 MY
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfgrn0AplYMs40iD0JHoJ_o)/dm/3/x6qqja6/s/live-2.m3u8
-#EXTINF:-1  group-title="MALAYSIA",TV1 MY
-http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b764000.m3u8
-#EXTINF:-1  group-title="MALAYSIA",TV2 MalasYa
-http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b764000.m3u8
-#EXTINF:-1  group-title="MALAYSIA",OKEY MalasYa
-http://rtm1mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b764000.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/09dm9kR/awani.jpg" group-title="MALAYSIA",AstroAwani
-http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8
-#EXTINF:-1  tvg-logo="" group-title="MALAYSIA",ASTRO ARENA
-http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
-#EXTINF:-1  tvg-logo="" group-title="MALAYSIA",ASTRO CITRA
-http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&tsum=4d6f9c9e7b70fd38bc41b5ddd075b526
-#EXTINF:-1  tvg-logo="" group-title="MALAYSIA",ASTRO CERIA
-http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=m02000000000014624840&ct=17950&tsum=1d6ed7be64dc2703ae688a369df440f9
-#EXTINF:-1  tvg-logo="" group-title="MALAYSIA",TV3
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHdtDdA2Cz9Umk7Jy_peW6_w)/dm/3/x6qp375/d/live-2.m3u8
 
 
 #EXTINF:-1  group-title="Singapore",CH5

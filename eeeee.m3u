@@ -443,7 +443,7 @@ https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 http://51.158.190.97/hls/stream.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",RAI MOVIE
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?sd=10&rebase=on
-==EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",SonY MOVIE
+#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",SonY MOVIE
 http://51.52.156.22:8888/http/009
 #EXTINF:-1  tvg-logo="https://i.ibb.co/PMBrmzq/lotus.jpg" group-title="SUB PREMIUM",LOTUS MACAU
 http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
@@ -469,8 +469,6 @@ http://csrv.me:80/5000740475/fireurl.co/2183
 http://csrv.me:80/5000740475/fireurl.co/2393
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="SUB PREMIUM",FOX-MOVIE
 https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="SUB PREMIUM",WarnerTV
-https://www.doofree88.com/streaming/hd-warnertv_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="SUB PREMIUM",FOX Action CH
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="SUB PREMIUM",FOX-Action
@@ -490,7 +488,7 @@ https://www.doofree88.com/streaming/hd-foxfamily_720/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="SUB PREMIUM",FOX Family
 http://119.59.116.136:8889/threstr/foxfamily/chunks.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",AMC Amerika
-https://proxystream.canais.link:443/proxy.php?url=amc.m3u8
+http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",FOX Amerika
 https://proxystream.canais.link:443/proxy.php?url=fox.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",[TH]FOX

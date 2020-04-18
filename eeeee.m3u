@@ -211,6 +211,10 @@ http://213.174.8.7:9100/index.m3u8
 
 
 #EXTM3U
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN-2
+http://210.210.155.66/h/h141/02.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN
+http://210.210.155.35/uq2663/h/h141/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/T8fdzXn/blueantx.png" group-title="PREMIUM INDONESIA",BLUEANT EXTREME
 http://210.210.155.35/session/ca6ab734-6a2f-11e9-ae93-9813b3aa7f8f/dr9445/h/h15/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Q8xjNSc/blueantent.png" group-title="PREMIUM INDONESIA",BLUEANT ENTERTAINMENT
@@ -235,8 +239,6 @@ https://dl.dropbox.com/s/qzl6jtxmhyoyovl/Mytv.m3u8?dl=0
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b364000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XpRzLmk/ochan.png" group-title="PREMIUM INDONESIA",O SHOP
 http://stream1.ninmedia.tv/oshop/udp.stream_360p/chunklist_w14829653.m3u8
-#EXTINF:-1  group-title="PREMIUM INDONESIA",DIVA(2)
-http://45.126.83.51/dr9445/h/h11/02.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=109_MtH3Y5T8d_07P1VVEnD3sAkyX9_go" group-title="PREMIUM INDONESIA",HITS CH
 http://210.210.155.35/uq2663/h/h37/02.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=109_MtH3Y5T8d_07P1VVEnD3sAkyX9_go" group-title="PREMIUM INDONESIA",HITSCh(2)
@@ -255,16 +257,8 @@ https://dl.dropbox.com/s/p4za9boby6fnz25/Flik.m3u8?dl=1
 http://210.210.155.69/s/s62/S4/mnf.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/fdn5j4V/tic.jpg" group-title="PREMIUM INDONESIA",The Indonesian Channel
 http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist.m3u8
-#EXTINF:-1  group-title="PREMIUM INDONESIA",E! Entertainment TV(2)
-http://45.126.83.51/dr9445/h/h10/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/0yswGZW/sgem.jpg" group-title="PREMIUM INDONESIA",SONY GEM
 http://210.210.155.35/uq2663/h/h19/02.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN-2
-http://210.210.155.66/h/h141/02.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN
-http://210.210.155.35/uq2663/h/h141/02.m3u8
-#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1g90zcsomWySb8gLMnKJLuU7-o4qKy5s6" group-title="PREMIUM INDONESIA",SonyChannel-2
-http://210.210.155.35/uq2663/h/h142/02.m3u8
 #EXTINF:-1  group-title="PREMIUM INDONESIA",CELESTIAL MOVIE
 http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1kAAMxtPmEZiIdwPi2TFxdhPlW6f5Dpso" group-title="PREMIUM INDONESIA",CELESTIALMOVIE2
@@ -301,16 +295,13 @@ http://210.210.155.35:80/uq2663/h/h22/02.m3u8
 http://210.210.155.35:80/uq2663/h/h28/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/dcCRKCj/iam.jpg" group-title="PREMIUM INDONESIA",IAM Channel
 http://iamchannel.org:1935/tes/1/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM INDONESIA",Tasty
+https://dl.dropbox.com/s/t7kcrn2w3idpg86/Tasty.m3u8?dl=0
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary
 http://210.210.155.35/qwr9ew/s/s20/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth
 https://tv4.chang55.com/live2/tv4ch41.stream/chunks.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC LifeStyle
-http://58.186.77.229:6606/udp/225.1.4.23:30120
-#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",ABC Australia
-http://58.186.77.229:6606/udp/225.1.4.19:30120
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yR0ZTTB/natgeowild.png" group-title="KNOWLEDGE",Nat-Geo-WILD 
@@ -476,7 +467,7 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hCH0Vq6/mbc2.jpg" group-title="SUB PREMIUM",MBC2
 http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/6bZSMNB/syfy.jpg" group-title="SUB PREMIUM",SYFY
-http://iliketot.dyndns.tv/71f197de056e499a85265c03b44bdab1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+http://ott.artmott.com/sci-fi/tracks-v1a1/mono.m3u8
 ==EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",STARZ
 http://34.69.67.123:8888/tvnow/http://sv5.dailymotion.com.1cdn.host/live/starz/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/SJX3w9x/wow.png" group-title="SUB PREMIUM",WOWOW Japan
@@ -586,14 +577,6 @@ http://203.153.218.28:9981/stream/channelid/391618553?ticket=78F887BA5B832279E75
 http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",Cinemax
 http://160.119.77.50/iptv/hd-cinemax.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hr/SciFi.hr.png" group-title="PREMI2",Scifi
-http://ott.artmott.com/sci-fi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" group-title="PREMI2",AMC
-http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",FOX US
-http://160.119.77.50/iptv/sd-foxeng.stream/playlist.m3u8
-#EXTINF:-1 group-title="PREMI2",FOX HD(FPT Play)
-http://58.186.77.229:6606/udp/225.1.4.33:30120
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FXMovieChannel.us.png" group-title="PREMI2",FOX CRIME CH
 http://61.147.228.19/hdl0901.plures.net/onlive/380742f2931cf56114d1dcfa7bab70d2.flv?wshc_tag=0&wsts_tag=5e69ae30&wsid_tag=704e24f5&wsiphost=ipdbm
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FXMovieChannel.us.png" group-title="PREMI2",Fox Movies
@@ -648,8 +631,6 @@ http://ms-azure-video.gslb.startimestv.com/live/AMC_MOVIES_990_250_320x240_21082
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2016/04/CCTV-6-logo-2016-640x480.png" group-title="PREMI2",中国电影频道
 http://61.58.60.230:9319/live/225.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",Tasty
-https://dl.dropbox.com/s/t7kcrn2w3idpg86/Tasty.m3u8?dl=0
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",ik
 http://rokutna.tulix.tv/live/output46578.stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMI2",ES

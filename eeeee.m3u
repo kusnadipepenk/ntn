@@ -303,7 +303,7 @@ https://dl.dropbox.com/s/t7kcrn2w3idpg86/Tasty.m3u8?dl=0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary
 http://210.210.155.35/qwr9ew/s/s20/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth
-https://tv4.chang55.com/live2/tv4ch41.stream/chunks.m3u8
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yR0ZTTB/natgeowild.png" group-title="KNOWLEDGE",Nat-Geo-WILD 
@@ -372,8 +372,8 @@ http://95.170.215.118/hls/m3u8/HBO.m3u8
 http://95.170.215.118/hls/m3u8/HBO-2.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="SUB PREMIUM",HBO3
 http://95.170.215.118/hls/m3u8/HBO-3.m3u8
-==EXTINF:-1  tvg-logo="https://i.ibb.co/KF2b185/hbo2.png" group-title="SUB PREMIUM",HBO2-Sp
-
+#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",KBS WORLD
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b1200000.m3u8
 ==EXTINF:-1  tvg-logo="https://i.ibb.co/KF2b185/hbo2.png" group-title="SUB PREMIUM",HBO2 (2)
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="SUB PREMIUM",HBO-ASIA
@@ -385,35 +385,29 @@ http://csrv.me:80/5000740475/fireurl.co/2183
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",CinemAX
 http://csrv.me:80/5000740475/fireurl.co/2393
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="SUB PREMIUM",FOX-MOVIE
-https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="SUB PREMIUM",FOX Action CH
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="SUB PREMIUM",FOX-Action
 https://cdn-laos.workpoint.news/hd-foxaction_720/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="SUB PREMIUM",[TH]FOX Action
-http://iliketot.dyndns.tv/206105b34a1c44b886c6cd3c59105803.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTggNDo0Mzo1OCBBTSZoYXNoX3ZhbHVlPW9oSGErRXNZcXAxSlhaRTJoSTdFWnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zbW9uZzExfDgwNXx1cGxheXwxNTMzNzg5ODM4fDE3MS41LjExMS4xMjg=
+#EXTINF:-1  tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="SUB PREMIUM",FOX Family
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/1RHVFhx/foxcrime.png" group-title="SUB PREMIUM",[TH]FOXCRIME1
 https://cdn-laos.workpoint.news/hd-foxcrime_720/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/1RHVFhx/foxcrime.png" group-title="SUB PREMIUM",[TH]FOXCRIME
-http://iliketot.dyndns.tv:80/48773319e9324602b258e3f1d33ec111.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+https://livecdn.fptplay.net/foxlive/foxcrimehd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/LYVcCX3/foxlife.png" group-title="SUB PREMIUM",[TH]FOXLive
-http://iliketot.dyndns.tv/65f7358b813048a0898f5677e1793cf9.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/LYVcCX3/foxlife.png" group-title="SUB PREMIUM",[TH]FOXLive1
 https://cdn-laos.workpoint.news/hd-foxlive_720/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="SUB PREMIUM",[TH]FOX Family
-https://www.doofree88.com/streaming/hd-foxfamily_720/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="SUB PREMIUM",FOX Family
-http://119.59.116.136:8889/threstr/foxfamily/chunks.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",AMC Amerika
 http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",FOX Amerika
 https://proxystream.canais.link:443/proxy.php?url=fox.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",[TH]FOX
-http://iliketot.dyndns.tv/d0bfb50bee3741a09c53f8099a64ad52.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",FX
 https://cdn-laos.workpoint.news/hd-fxeng_480/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/GVMCyFt/fx.png" group-title="SUB PREMIUM",[TH]FX-Asia
-http://iliketot.dyndns.tv:80/2e0e4b05aa6e428593f3b45b710045b7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-1
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-2
@@ -732,27 +726,21 @@ http://45.58.62.92:8080
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT SD
 http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT1
-https://www.doofree88.com/streaming/hd-foxsports1_720/index.m3u8
+https://livecdn.fptplay.net/qnetlive/foxsports_1000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT2 SD
 http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT2x
 https://www.doofree88.com/streaming/sd-foxsports2_480/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT2xx
-http://iliketot.dyndns.tv/02cb79ab0b0c418f847148ca9e2baed4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT2yy
+https://livecdn.fptplay.net/qnetlive/foxsports2_1000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT3 SD
 http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT3 yoyo
 https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT3xx
-http://iliketot.dyndns.tv/443ea6ef1768462aaffdff38ce2a4355.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTggNDo0Mzo1OCBBTSZoYXNoX3ZhbHVlPW9oSGErRXNZcXAxSlhaRTJoSTdFWnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zbW9uZzExfDgwNXx1cGxheXwxNTMzNzg5ODM4fDE3MS41LjExMS4xMjg=
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Asia
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Asia SD
-https://dl.dropbox.com/s/wusxifl4yfnxt0y/Live4.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia SD
-https://dl.dropbox.com/s/7trldus602grhbm/Live5.m3u8?dl=0
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",BT Sports 1
 https://www.doofree88.com/streaming/uk-btsport1hd_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",BT Sports 2

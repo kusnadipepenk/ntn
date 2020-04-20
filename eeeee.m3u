@@ -391,11 +391,11 @@ http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="SUB PREMIUM",FOX-Action
 https://cdn-laos.workpoint.news/hd-foxaction_720/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="SUB PREMIUM",FOX Family
-https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b1200000.m3u8
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b1500000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/1RHVFhx/foxcrime.png" group-title="SUB PREMIUM",[TH]FOXCRIME1
 https://cdn-laos.workpoint.news/hd-foxcrime_720/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/1RHVFhx/foxcrime.png" group-title="SUB PREMIUM",[TH]FOXCRIME
-https://livecdn.fptplay.net/foxlive/foxcrimehd_hls.smil/chunklist_b1200000.m3u8
+https://livecdn.fptplay.net/foxlive/foxcrimehd_hls.smil/chunklist_b1500000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/LYVcCX3/foxlife.png" group-title="SUB PREMIUM",[TH]FOXLive
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/LYVcCX3/foxlife.png" group-title="SUB PREMIUM",[TH]FOXLive1

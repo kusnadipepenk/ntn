@@ -214,7 +214,7 @@ http://213.174.8.7:9100/index.m3u8
 
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN-2
-http://210.210.155.66/h/h141/02.m3u8
+http://45.126.83.51/uq2663/h/h141/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN
 http://210.210.155.35/uq2663/h/h141/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/T8fdzXn/blueantx.png" group-title="PREMIUM INDONESIA",BLUEANT EXTREME
@@ -226,15 +226,17 @@ http://210.210.155.35/session/d0b296ce-6a30-11e9-9180-b63a8ba36486/qwr9ew/s/s42/
 #EXTINF:-1  tvg-logo="https://i.ibb.co/VTtxzXm/ciwo.jpg" group-title="PREMIUM INDONESIA",CINEMA WORLD
 http://210.210.155.35/session/4b609526-4bf3-11e9-9bd8-afdb8d9eb786/uq2663/h/h04/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/VTtxzXm/ciwo.jpg" group-title="PREMIUM INDONESIA",CINEMA WORLD(2)
-http://210.210.155.66/h/h04/02.m3u8
+http://45.126.83.51/uq2663/h/h04/01.m3u8
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",KBS WORLD
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="PREMIUM INDONESIA",K+(2)
-http://45.126.83.51/session/8081835c-6ff5-11e9-8f3a-bfbd9127604e/uq2663/h/h08/02.m3u8
+http://45.126.83.51/session/8081835c-6ff5-11e9-8f3a-bfbd9127604e/uq2663/h/h08/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="PREMIUM INDONESIA",K-Plus
 http://210.210.155.35/session/f74a7c90-7000-11e9-bce1-800ebf0790ba/uq2663/h/h08/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/jWjxD83/sonson.jpg" group-title="PREMIUM INDONESIA",SonyOne
 http://210.210.155.35/uq2663/h/h143/02.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/jWjxD83/sonson.jpg" group-title="PREMIUM INDONESIA",SonyOne-3
-http://45.126.83.51/uq2663/h/h143/02.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/jWjxD83/sonson.jpg" group-title="PREMIUM INDONESIA",SonyOne-2
+http://45.126.83.51/uq2663/h/h143/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/5TDK9V0/mytv.jpg" group-title="PREMIUM INDONESIA",MYTV
 https://dl.dropbox.com/s/qzl6jtxmhyoyovl/Mytv.m3u8?dl=0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/gwLF0B6/jgo.jpg" group-title="PREMIUM INDONESIA",JGO
@@ -372,8 +374,6 @@ http://95.170.215.118/hls/m3u8/HBO.m3u8
 http://95.170.215.118/hls/m3u8/HBO-2.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="SUB PREMIUM",HBO3
 http://95.170.215.118/hls/m3u8/HBO-3.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",KBS WORLD
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b1200000.m3u8
 ==EXTINF:-1  tvg-logo="https://i.ibb.co/KF2b185/hbo2.png" group-title="SUB PREMIUM",HBO2 (2)
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="SUB PREMIUM",HBO-ASIA

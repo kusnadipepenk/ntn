@@ -358,12 +358,12 @@ http://79.106.48.2/live/rtsh_film_ott_p3/playlist.m3u8
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",24tv Movie
 http://51.158.190.97/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",RAI MOVIE
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",SonY MOVIE
-http://51.52.156.22:8888/http/009
+#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",MGM Scifi
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",SonY MOVIE
 #EXTINF:-1  tvg-logo="https://i.ibb.co/PMBrmzq/lotus.jpg" group-title="SUB PREMIUM",LOTUS MACAU
 http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",Movies Now
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/DLnnhBP/foxcinema.jpg" group-title="SUB PREMIUM",WarnerTVs
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="SUB PREMIUM",HBO1
@@ -406,48 +406,10 @@ https://proxystream.canais.link:443/proxy.php?url=fox.m3u8
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",FX
 https://cdn-laos.workpoint.news/hd-fxeng_480/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-1
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-2
-http://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-3
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-4
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-5
-http://aldirect.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-6
-http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-7
-http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-8
-http://aldirect.hls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-9
-http://aldirect.hls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-10
-http://aldirect.hls.huya.com/huyalive/94525224-2579672162-11079607570191613952-2789274580-10057-A-0-1.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-11
-http://aldirect.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-12
-http://aldirect.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-13
-http://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-14
-http://aldirect.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-15
-http://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-16
-http://aldirect.hls.huya.com/huyalive/30765679-2554414651-10971127386468253696-3048959632-10057-A-0-1.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-17
-http://aldirect.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-18
-http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-19
-http://tx.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-20
-http://tx.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-0-1.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/44vY7R8/mopie.jpg" group-title="SUB PREMIUM",Movie-21
-http://cn-gdgz4-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_258376025_4325437.m3u8
+#EXTINF:-1 tvg-logo="http://www.ifilmtv.com/Content/Intro/Layer.png" group-title="SUB PREMIUM",Iflim English
+https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",Movie Aneh
+http://rokutna.tulix.tv/live/output46578.stream.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",Channel 8
 http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",MBC MAX(2)
@@ -565,74 +527,6 @@ http://203.153.218.28:9981/stream/channelid/981299476?ticket=9F67BAE7020396371F1
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM",TLC
 http://203.153.218.28:9981/stream/channelid/391618553?ticket=78F887BA5B832279E75370788BBE22D4FDD521CB&profile=pass
 
-
-
-#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/05/E-Logo_Black.png" group-title="PREMI2",E!
-http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",Cinemax
-http://160.119.77.50/iptv/hd-cinemax.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FXMovieChannel.us.png" group-title="PREMI2",FOX CRIME CH
-http://61.147.228.19/hdl0901.plures.net/onlive/380742f2931cf56114d1dcfa7bab70d2.flv?wshc_tag=0&wsts_tag=5e69ae30&wsid_tag=704e24f5&wsiphost=ipdbm
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FXMovieChannel.us.png" group-title="PREMI2",Fox Movies
-http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="PREMI2",FXAct/Movies CH
-https://tv4.chang55.com/live2/tv4ch82.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="PREMI2",Warner TV
-http://203.154.243.89:11205
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",CINEMAX CH
-http://61.147.228.26/hdl0901.plures.net/onlive/066de0484c8f6691412850bab3087e50.flv?wshc_tag=0&wsts_tag=5e69ae3e&wsid_tag=704e24f5&wsiphost=ipdbm 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXFamilyMovies.id.png" group-title="PREMI2",Fox Family CH
-http://106.122.253.38/hdl0901.plures.net/onlive/662b6c6e29b0f52a922ff084fa2a8a02.flv?wshc_tag=0&wsts_tag=5e69ae25&wsid_tag=704e24f5&wsiphost=ipdbm 
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",FOX Family Movies1
-http://160.119.77.50/iptv/hd-foxfamily.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",FX CH
-http://106.122.253.38/hdl0901.plures.net/onlive/811fb8cabff59b134d61e7c2811c0d9b.flv?wshc_tag=0&wsts_tag=5e69b25b&wsid_tag=704e24f5&wsiphost=ipdbm
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",REDbyHBO 2
-http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/HBO.cz.png" group-title="PREMI2",HBO TH
-https://tv4.chang55.com/live2/tv4ch25.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/HBO.cz.png" group-title="PREMI2",HBO Vi
-http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/HBO.cz.png" group-title="PREMI2",HBO eng
-http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/HBOFamily.br.png" group-title="PREMI2",HBO Family TH
-https://livedoomovies.com/02_HBOFamily_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",HBO CH
-http://hk.tv0668.com/dl/hk520.php?id=27
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="PREMI2",HBO Signature
-https://livedoomovies.com/02_HBOSignature_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logogrey/grey_logo_galaxy_small1.png" group-title="PREMI2",Galaxy Movie
-https://dl.dropbox.com/s/8s2jwrvobrtx05m/Galaxy.m3u8?dl=0
-#EXTINF:-1 tvg-logo="http://www.ifilmtv.com/Content/Intro/Layer.png" group-title="PREMI2",Iflim English
-https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://mafashortfilm.uk/public/images/mafal.png" group-title="PREMI2",Mafa Short Flim
-https://1043115116.rsc.cdn77.org/LS-PRG-54819-1/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="PREMI2",Movies Now
-https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="PREMI2",Movies Now2
-https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/ScifiUniversal.pl.png" group-title="PREMI2",Scifi
-http://84.22.33.254/unicast.scifi/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyPix.in.png" group-title="PREMI2",Sony Pix
-https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1569972488/1378.png" group-title="PREMI2",Sony Movies Christmas
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/The_Works.jpg/375px-The_Works.jpg" group-title="PREMI2",The Works
-https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
-#EXTINF:-1 tvg-logo="https://startimestv.com/Uploads/Picture/2019/08/28/s5d65da8273f5e.jpg" group-title="PREMI2",AMC Series
-http://ms-azure-video.gslb.startimestv.com/live/AMC_MOVIES_990_250_320x240_210828/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TF1SeriesFilms.fr.png" group-title="PREMI2",TF1 Séries Films
-https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2016/04/CCTV-6-logo-2016-640x480.png" group-title="PREMI2",中国电影频道
-http://61.58.60.230:9319/live/225.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",ik
-http://rokutna.tulix.tv/live/output46578.stream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",ES
-http://hk.tv0668.com/dl/hk520.php?id=34
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",ry
-http://hk.tv0668.com/dl/hk520.php?id=30
-#EXTINF:-1 tvg-logo="" group-title="PREMI2",ko
-http://rokutna.tulix.tv/live/firstlight-uk.stream.m3u8 
 
 #EXTM3U
 #EXTINF:-1  group-title="Music",[V] Channel

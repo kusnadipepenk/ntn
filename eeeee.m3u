@@ -394,8 +394,6 @@ https://cdn-laos.workpoint.news/hd-foxaction_720/index.m3u8
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b1500000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/1RHVFhx/foxcrime.png" group-title="SUB PREMIUM",[TH]FOXCRIME1
 https://cdn-laos.workpoint.news/hd-foxcrime_720/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/1RHVFhx/foxcrime.png" group-title="SUB PREMIUM",[TH]FOXCRIME
-https://livecdn.fptplay.net/foxlive/foxcrimehd_hls.smil/chunklist_b1500000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/LYVcCX3/foxlife.png" group-title="SUB PREMIUM",[TH]FOXLive
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/LYVcCX3/foxlife.png" group-title="SUB PREMIUM",[TH]FOXLive1
@@ -637,6 +635,8 @@ http://hk.tv0668.com/dl/hk520.php?id=30
 http://rokutna.tulix.tv/live/firstlight-uk.stream.m3u8 
 
 #EXTM3U
+#EXTINF:-1  group-title="Music",[V] Channel
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  group-title="Music",Family Friendly
 https://uni8rtmp.tulix.tv/ffetv/myStream.sdp/chunklist_w357396866.m3u8
 #EXTINF:-1  group-title="Music",M2OTV Music

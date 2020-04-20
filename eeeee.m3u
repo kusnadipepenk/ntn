@@ -620,13 +620,13 @@ http://45.58.62.92:8080
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT SD
 http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT1
-https://livecdn.fptplay.net/qnetlive/foxsports_1000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT2 SD
 http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT2x
 https://www.doofree88.com/streaming/sd-foxsports2_480/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT2yy
-https://livecdn.fptplay.net/qnetlive/foxsports2_1000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT3 SD
 http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT3 yoyo

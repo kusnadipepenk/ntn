@@ -400,8 +400,8 @@ https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b1500000.m3u8
 https://cdn-laos.workpoint.news/hd-foxcrime_720/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/LYVcCX3/foxlife.png" group-title="SUB PREMIUM",[TH]FOXLive
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/LYVcCX3/foxlife.png" group-title="SUB PREMIUM",[TH]FOXLive1
-https://cdn-laos.workpoint.news/hd-foxlive_720/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/LYVcCX3/foxlife.png" group-title="SUB PREMIUM",FOXLive1
+https://bracnet.iptv.jadoodigital.com/live/fox_life/chunks.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",AMC Amerika
 http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",FOX Amerika
@@ -410,6 +410,8 @@ https://proxystream.canais.link:443/proxy.php?url=fox.m3u8
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",FX
 https://cdn-laos.workpoint.news/hd-fxeng_480/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",FX2
+http://111.13.111.192/125.227.198.89:8027
 #EXTINF:-1 tvg-logo="http://www.ifilmtv.com/Content/Intro/Layer.png" group-title="SUB PREMIUM",Iflim English
 https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",Movie Aneh
@@ -832,6 +834,8 @@ https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
 #EXTINF:-1 group-title="Singapore",ASIAN FOOD CHANNEL
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/02.m3u8
+#EXTINF:-1 group-title="Singapore",Astro Warna
+http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
 #EXTINF:-1 group-title="Singapore",KBS WOrLD
 http://160.119.77.50/iptv/hd-kbsworld.stream/playlist.m3u8
 

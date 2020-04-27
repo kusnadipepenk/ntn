@@ -393,6 +393,9 @@ http://ott.artmott.com/FAST&FUNBOX/tracks-v1a1/mono.m3u8
 https://zypelive-lh.akamaihd.net/i/default_1@710958/index_480_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",HOnor TV
 https://a.jsrdn.com/broadcast/d5b48/+0000/low/c.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",NASSA TV
+https://content-auso2.uplynk.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e/e.m3u8?pbs=7a31d3f07d904e2f8102935918979083
+
 
 
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",POP TV

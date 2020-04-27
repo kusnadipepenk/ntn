@@ -582,7 +582,7 @@ http://203.153.218.28:9981/stream/channelid/391618553?ticket=78F887BA5B832279E75
 
 #EXTM3U
 #EXTINF:-1  group-title="Music",[V] Channel
-https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b1200000.m3u8
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  group-title="Music",Family Friendly
 https://uni8rtmp.tulix.tv/ffetv/myStream.sdp/chunklist_w357396866.m3u8
 #EXTINF:-1  group-title="Music",M2OTV Music

@@ -863,26 +863,27 @@ http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/YTN_KOREAN.png" group-title="한국",YTN Korean
 http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
 
-
-#EXTINF:-1  group-title="Singapore",CH5
+#EXTINF:-1  group-title="Singapore/Malasya",TV3
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQjYebjJyxNyK0LholSDZog)/dm/3/x6qp375/d/live-1.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1
+#EXTINF:-1  group-title="Singapore/Malasya",CH5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
-#EXTINF:-1  group-title="Singapore",CH8
+#EXTINF:-1  group-title="Singapore/Malasya",CH8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-#EXTINF:-1  group-title="Singapore",CH U
+#EXTINF:-1  group-title="Singapore/Malasya",CH U
 https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
-#EXTINF:-1  group-title="Singapore",OKTO
+#EXTINF:-1  group-title="Singapore/Malasya",OKTO
 https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
-#EXTINF:-1  group-title="Singapore",SURIA
+#EXTINF:-1  group-title="Singapore/Malasya",SURIA
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
-#EXTINF:-1  group-title="Singapore",VASANTHAM
+#EXTINF:-1  group-title="Singapore/Malasya",VASANTHAM
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
-#EXTINF:-1  group-title="Singapore",CNA
+#EXTINF:-1  group-title="Singapore/Malasya",CNA
 https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
-#EXTINF:-1 group-title="Singapore",ASIAN FOOD CHANNEL
+#EXTINF:-1 group-title="Singapore/Malasya",ASIAN FOOD CHANNEL
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/02.m3u8
-#EXTINF:-1 group-title="Singapore",Astro Warna
+#EXTINF:-1 group-title="Singapore/Malasya",Astro Warna
 http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
-#EXTINF:-1 group-title="Singapore",KBS WOrLD
+#EXTINF:-1 group-title="Singapore/Malasya",KBS WOrLD
 http://160.119.77.50/iptv/hd-kbsworld.stream/playlist.m3u8
 
 

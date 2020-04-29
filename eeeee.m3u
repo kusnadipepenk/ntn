@@ -411,7 +411,9 @@ https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",24tv Movie
 http://51.158.190.97/hls/stream.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",MGM Scifi
-https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",SonY MOVIE
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",SonY MOVIE
+https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/PMBrmzq/lotus.jpg" group-title="SUB PREMIUM",LOTUS MACAU
 http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",Movies Now

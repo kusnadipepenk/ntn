@@ -885,6 +885,8 @@ https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/02.m3u8
 #EXTINF:-1 group-title="Singapore/Malasya",Astro Warna
 http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
+#EXTINF:-1 group-title="Singapore/Malasya",Prima
+http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m70290ab09fb91755596&ct=17945&tsum=8442816d586a19e1894c18f2285e767e
 #EXTINF:-1 group-title="Singapore/Malasya",KBS WOrLD
 http://160.119.77.50/iptv/hd-kbsworld.stream/playlist.m3u8
 

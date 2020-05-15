@@ -420,12 +420,12 @@ http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/DLnnhBP/foxcinema.jpg" group-title="SUB PREMIUM",WarnerTVs
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="SUB PREMIUM",HBO1
-http://95.170.215.118/hls/m3u8/HBO.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="SUB PREMIUM",HBO
+http://bbdd.228888888.xyz:8081/hls/ch310.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="SUB PREMIUM",HBO2
-http://95.170.215.118/hls/m3u8/HBO-2.m3u8
+http://bbdd.228888888.xyz:8081/hls/ch311.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="SUB PREMIUM",HBO3
-http://95.170.215.118/hls/m3u8/HBO-3.m3u8
+http://bbdd.228888888.xyz:8081/hls/ch312.m3u8
 ==EXTINF:-1  tvg-logo="https://i.ibb.co/KF2b185/hbo2.png" group-title="SUB PREMIUM",HBO2 (2)
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="SUB PREMIUM",HBO-ASIA

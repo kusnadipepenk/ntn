@@ -771,7 +771,7 @@ https://livedoomovie.com/02_sport6_480p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",FOOTBALL Channel
 http://ott-cdn.ucom.am/s41/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",EUROSport
-http://212.112.101.69:8081/stream44/output.m3u8
+http://136.243.177.164/EUROSPORT/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",EUROSport SD
 http://213.174.8.7:8000/play/15/tracks-v1a1/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Viasat Sport
@@ -784,8 +784,16 @@ http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",CCTV5 Football
 http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SKY SPort Football
-http://tv.b4ucast.me/tv/3ouTrsbwdQ20180321/chunklist_w223283014_tkaGxzZW5kdGltZT0xNTcxNzE0ODgwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9alVpU2Q4clNyNGpZSnZCeHdULW1DUVpleGswY1VwdXVfVkRrdHhhYWJDaz0=.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",DIEMASPORT1
+http://136.243.177.164/DIEMASPORT1/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",DIEMASPORT2
+http://136.243.177.164/DIEMASPORT2/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",MAXSPORT
+http://136.243.177.164/MAXSPORT1/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",MAXSPORT2
+http://136.243.177.164/MAXSPORT2/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",MAXSPORT3
+http://136.243.177.164/MAXSPORT3/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",GOL TV
 http://185.246.209.109:8080/GOL_TV/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SKY SPort F1

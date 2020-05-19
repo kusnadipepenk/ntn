@@ -14,7 +14,7 @@ http://210.210.155.35/session/ce63989c-7f91-11ea-bf5d-bf109e240bb0/qwr9ew/s/s101
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D5gBX8N/trans7.jpg" group-title="STASIUN NASIONAL",TRANS7(3)
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1144427985_b192000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="STASIUN NASIONAL",RCTI
-https://linier3.rctiplus.id/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_600000=3-mp4a_64000=2.m3u8?auth_key=1589890482-0-0-f391d647a77289d5f2970a076a6f6123
+https://cdn-livetv1.metube.id/hls/rcti_480/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="STASIUN NASIONAL",SCTV
 http://210.210.155.35/session/e663bb86-7f8f-11ea-81c5-b9749125f25a/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1KX7m3dyRmjcbxJnJbNZrJ9HQyDf3VUuX" group-title="STASIUN NASIONAL",MNC(2)
@@ -30,7 +30,7 @@ http://id1.indostreamingtv.com/live/antv/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QNQrm50/antv.png" group-title="STASIUN NASIONAL",ANTV
 http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1uNGLnZUnUVO0BuZKQYN-KzIRVb9yXz1x" group-title="STASIUN NASIONAL",GLOBALTV3
-https://linier3.rctiplus.id/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_600000=4-mp4a_64000=2.m3u8?auth_key=1589890542-0-0-b1c0fcb75378a2e7a1ac13222afbf9b2
+https://cdn-livetv1.metube.id/hls/globaltv_480/index.m3u8
 #EXTINF:-1  group-title="STASIUN NASIONAL",TV ONE (2)
 http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105/02.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1ZUCUkvAvWR5qJzRj8HG9wJ40MQ71vi5x" group-title="STASIUN NASIONAL",RTV
@@ -64,11 +64,13 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w449685739_
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1Yx6l54PwaAnm2d25XMAGJENd81AISjnu" group-title="STASIUN BERITA",KOMPASTV
 http://210.210.155.35/session/b44f53c0-1a28-11ea-980f-a261a2f9ca81/qwr9ew/s/s104/02.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1933FnfQ31OzlfU644rLpVcg_YMmQCySR" group-title="STASIUN BERITA",INews TV
-http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+https://cdn-livetv1.metube.id/hls/inewstv_480/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yBWB003/cnnin.png" group-title="STASIUN BERITA",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1ORGoY9MMi6-DWGqhEjc5dHr2DAqTOBax" group-title="STASIUN BERITA",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
+#EXTINF:-1  group-title="STASIUN BERITA",IDX Channel
+https://cdn-livetv1.metube.id/hls/idxchannel_480/index.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",BERITA SATU WORLD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/chunklist_b906000.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",JAKARTA GLOBE NEWS CHANNEL
@@ -276,10 +278,6 @@ http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
 https://stream.suryaiptv.net/streams/124_.m3u8
 #EXTINF:-1  group-title="PREMIUM INDONESIA",HOME AND LIVING
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b906000.m3u8
-#EXTINF:-1  group-title="PREMIUM INDONESIA",IMC
-https://dl.dropbox.com/s/fg1m1e3kfnbza58/IMC.m3u8?dl=1
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/694086000067235840/j1VRXvlT_400x400.jpg" group-title="PREMIUM INDONESIA",FLIK
-https://dl.dropbox.com/s/p4za9boby6fnz25/Flik.m3u8?dl=1
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925599258s.png" group-title="PREMIUM INDONESIA",Filmy
 http://210.210.155.69/s/s62/S4/mnf.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/fdn5j4V/tic.jpg" group-title="PREMIUM INDONESIA",The Indonesian Channel
@@ -316,6 +314,8 @@ http://119.235.249.58:1935/uchannel/live/chunklist_w947373967.m3u8
 http://210.210.155.35/qwr9ew/s/s41/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Life Channel (Christian)
 https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Life Channel2
+https://cdn-livetv1.metube.id/hls/life.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/dcCRKCj/iam.jpg" group-title="PREMIUM INDONESIA",IAM Channel
 http://iamchannel.org:1935/tes/1/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",ESL

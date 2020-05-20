@@ -766,6 +766,8 @@ https://livedoomovie.com/02_sport5_480p/chunklist.m3u8
 https://livedoomovie.com/02_sport6_480p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",FOOTBALL Channel
 http://ott-cdn.ucom.am/s41/03.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",EUROSport2
+https://cdn-laos.workpoint.news/uk-eurosport_480/index.m3u8 
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",EUROSport
 http://136.243.177.164/EUROSPORT/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",EUROSport SD

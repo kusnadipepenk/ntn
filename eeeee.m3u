@@ -930,133 +930,133 @@ http://51.52.156.22:8888/http/010
 http://51.52.156.22:8888/http/003
 
 
-#EXTINF:-1 group-title="TESTW",中視經典台,
+#EXTINF:-1 group-title="TESTW",中視經典台
 http://198.16.106.58:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
-#EXTINF:-1 group-title="TESTW",大愛台,
+#EXTINF:-1 group-title="TESTW",大愛台
 http://198.16.106.58:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336
-#EXTINF:-1 group-title="TESTW",Natgeo,
+#EXTINF:-1 group-title="TESTW",Natgeo
 http://198.16.106.58:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
-#EXTINF:-1 group-title="TESTW",Natgeowild,
+#EXTINF:-1 group-title="TESTW",Natgeowild
 http://198.16.106.58:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
-#EXTINF:-1 group-title="TESTW",Natpeople,
+#EXTINF:-1 group-title="TESTW",Natpeople
 http://198.16.106.58:8278/natgeopeople_twn/playlist.m3u8?tid=m276f4f18825f17790558&ct=17874&tsum=1d6b4707b3010308c5c9a9d2e8e2c556
-#EXTINF:-1 group-title="TESTW",Discovery,
+#EXTINF:-1 group-title="TESTW",Discovery
 http://198.16.106.58:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
-#EXTINF:-1 group-title="TESTW",Discoturbo,
+#EXTINF:-1 group-title="TESTW",Discoturbo
 http://198.16.106.58:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
-#EXTINF:-1 group-title="TESTW",探索科學台,
+#EXTINF:-1 group-title="TESTW",探索科學台
 http://198.16.106.58:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
-#EXTINF:-1 group-title="TESTW",探索家庭台,
+#EXTINF:-1 group-title="TESTW",探索家庭台
 http://198.16.106.58:8278/discoveryeve_twn/playlist.m3u8?tid=m6376c7d24ec312573043&ct=17877&tsum=14196552a8369d8e160a34dd40b4f4bd
-#EXTINF:-1 group-title="TESTW",罪案偵輯台,
+#EXTINF:-1 group-title="TESTW",罪案偵輯台
 http://198.16.106.58:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
-#EXTINF:-1 group-title="TESTW",History,
+#EXTINF:-1 group-title="TESTW",History
 http://198.16.106.58:8278/history1hd_twn/playlist.m3u8?tid=mb3c9baa1132e10632091&ct=17877&tsum=9a9c281d5d041631087798fa725ed497
-#EXTINF:-1 group-title="TESTW",History 2,
+#EXTINF:-1 group-title="TESTW",History 2
 http://198.16.106.58:8278/history2hd_twn/playlist.m3u8?tid=m6ee31585044116722070&ct=17877&tsum=f8c0d4c91afe878ae92670a427f15300
-#EXTINF:-1 group-title="TESTW",TLC旅遊生活,
+#EXTINF:-1 group-title="TESTW",TLC旅遊生活
 http://198.16.106.58:8278/tlcasia_twn/playlist.m3u8?tid=m4275a6300f1315825317&ct=17874&tsum=40a7698d34b5c229dcb10d0a2b876319
-#EXTINF:-1 group-title="TESTW",動物星球頻道,
+#EXTINF:-1 group-title="TESTW",動物星球頻道
 http://198.16.106.58:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
-#EXTINF:-1 group-title="TESTW",CN卡通頻道,
+#EXTINF:-1 group-title="TESTW",CN卡通頻道
 http://198.16.106.58:8278/momo1_twn/playlist.m3u8?tid=md272f875bb6916787346&ct=17874&tsum=0c38bae20c6db7e76ad1418654c8ccd4
-#EXTINF:-1 group-title="TESTW",迪士尼卡通,
+#EXTINF:-1 group-title="TESTW",迪士尼卡通
 http://198.16.106.58:8278/disneytwn_twn/playlist.m3u8?tid=m215093f0d3d710656413&ct=17899&tsum=cfa7cdeea67a02a00ac9b0bea4776d28
-#EXTINF:-1 group-title="TESTW",momo親子台,
+#EXTINF:-1 group-title="TESTW",momo親子台
 http://198.16.106.58:8278/starfamily/playlist.m3u8?tid=m35569e28d78a&ct=18335&tsum=fb0f65f17e4ceec252f8c5b8a5552119
-#EXTINF:-1 group-title="TESTW",東森幼幼台,
+#EXTINF:-1 group-title="TESTW",東森幼幼台
 http://198.16.106.58:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
-#EXTINF:-1 group-title="TESTW",緯來綜合台,
+#EXTINF:-1 group-title="TESTW",緯來綜合台
 http://198.16.106.58:8278/videolandzhe_twn/playlist.m3u8?tid=me8bac156077117426124&ct=17877&tsum=f5d43c876bab3b4a886b39fc8f7fc653
-#EXTINF:-1 group-title="TESTW",寰宇新聞2台,
+#EXTINF:-1 group-title="TESTW",寰宇新聞2台
 http://198.16.106.58:8278/videolandjapan_twn/playlist.m3u8?tid=mbdf406eb9319&ct=18335&tsum=d056fc7511ef9d3f8e9f0214d26d2c1e
-#EXTINF:-1 group-title="TESTW",來電影台,
+#EXTINF:-1 group-title="TESTW",來電影台
 http://198.16.106.58:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
-#EXTINF:-1 group-title="TESTW",東森洋片台,
+#EXTINF:-1 group-title="TESTW",東森洋片台
 http://198.16.106.58:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
-#EXTINF:-1 group-title="TESTW",好萊塢電影台,
+#EXTINF:-1 group-title="TESTW",好萊塢電影台
 http://198.16.106.58:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
-#EXTINF:-1 group-title="TESTW",CINEMAX,
+#EXTINF:-1 group-title="TESTW",CINEMAX
 http://198.16.106.58:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
-#EXTINF:-1 group-title="TESTW",緯來育樂台,
+#EXTINF:-1 group-title="TESTW",緯來育樂台
 http://198.16.106.58:8278/2acb126c2f/playlist.m3u8?tid=mf53bcfe7a96d&ct=18335&tsum=6513d637d9c20538a421ff5f7e3aaac3
-#EXTINF:-1 group-title="TESTW",緯來體育台,
+#EXTINF:-1 group-title="TESTW",緯來體育台
 http://198.16.106.58:8278/videolandsport_twn/playlist.m3u8?tid=m297afae2173c10027172&ct=17874&tsum=059e8c4d61e754d611ae4903c24be121
-#EXTINF:-1 group-title="TESTW",緯來精采台,
+#EXTINF:-1 group-title="TESTW",緯來精采台
 http://198.16.106.58:8278/videolandspecial_twn/playlist.m3u8?tid=m7ad330f1250511190882&ct=17889&tsum=028edd32d84c9810f126c7167897858a
-#EXTINF:-1 group-title="TESTW",MTV-音樂台,
+#EXTINF:-1 group-title="TESTW",MTV-音樂台
 http://198.16.106.58:8278/mtvtaiwan_twn/playlist.m3u8?tid=m98d3f6cfc30d&ct=18335&tsum=27acc372ac9c5d91e1e3d0210a3cec4e
-#EXTINF:-1 group-title="TESTW",MTV-LIVE,
+#EXTINF:-1 group-title="TESTW",MTV-LIVE
 http://198.16.106.58:8278/mtvlive_twn/playlist.m3u8?tid=md811f71116ba&ct=18335&tsum=015bd1ee2e1cc793c5bf61e08fea5e77
-#EXTINF:-1 group-title="TESTW",FX-HD,
+#EXTINF:-1 group-title="TESTW",FX-HD
 http://198.16.106.58:8278/fxhd_twn/playlist.m3u8?tid=m8498f04c47e518196321&ct=17874&tsum=cf16eabaef6f5f875adb0ddb5f09d0d4
-#EXTINF:-1 group-title="TESTW",FOX-娛樂,
+#EXTINF:-1 group-title="TESTW",FOX-娛樂
 http://198.16.106.58:8278/foxhd_twn/playlist.m3u8?tid=ma917ec9fcbb013975253&ct=17874&tsum=4ef6f5cfc8fa293ad3a1d18f2224120a
-#EXTINF:-1 group-title="TESTW",FOX-警匪,
+#EXTINF:-1 group-title="TESTW",FOX-警匪
 http://198.16.106.58:8278/foxcrime_twn/playlist.m3u8?tid=mad94f360dbc911979092&ct=17874&tsum=f3660d1b5d22dd9e8bfd9e1c13a653fc
-#EXTINF:-1 group-title="TESTW",FOX-動作,
+#EXTINF:-1 group-title="TESTW",FOX-動作
 http://198.16.106.58:8278/foxaction_twn/playlist.m3u8?tid=m2221db510cba10253148&ct=17874&tsum=0248b8358bbfa7ab78a7dbd2faaf4ad1
-#EXTINF:-1 group-title="TESTW",FOX-家庭,
+#EXTINF:-1 group-title="TESTW",FOX-家庭
 http://198.16.106.58:8278/foxfamily_twn/playlist.m3u8?tid=ma0567f6ff31018880325&ct=17874&tsum=2117118a0890ae6db1010482ffd9175f
-#EXTINF:-1 group-title="TESTW",HBO-HD,
+#EXTINF:-1 group-title="TESTW",HBO-HD
 http://198.16.106.58:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
-#EXTINF:-1 group-title="TESTW",HBO-強檔,
+#EXTINF:-1 group-title="TESTW",HBO-強檔
 http://198.16.106.58:8278/hbohits_twn/playlist.m3u8?tid=ma34564be88dc14041284&ct=17874&tsum=4c27530a08ffe34dd956619fd0f36a22
-#EXTINF:-1 group-title="TESTW",HBO-原創,
+#EXTINF:-1 group-title="TESTW",HBO-原創
 http://198.16.106.58:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
-#EXTINF:-1 group-title="TESTW",愛爾達綜合台,
+#EXTINF:-1 group-title="TESTW",愛爾達綜合台
 http://198.16.106.58:8278/eltazhonghe_twn/playlist.m3u8?tid=mc103c8c05141&ct=18335&tsum=53a562eb65370f35b63a332140e2514c
-#EXTINF:-1 group-title="TESTW",愛爾達影劇台,
+#EXTINF:-1 group-title="TESTW",愛爾達影劇台
 http://198.16.106.58:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
-#EXTINF:-1 group-title="TESTW",愛爾達體育1台,
+#EXTINF:-1 group-title="TESTW",愛爾達體育1台
 http://198.16.106.58:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
-#EXTINF:-1 group-title="TESTW",愛爾達體育2台,h
-ttp://198.16.106.58:8278/eltayule_twn/playlist.m3u8?tid=m6f63d67fa19a15132301&ct=17874&tsum=f546d8218edcc15482d3f38619904bdc
-#EXTINF:-1 group-title="TESTW",愛爾達體育3台,
+#EXTINF:-1 group-title="TESTW",愛爾達體育2台
+http://198.16.106.58:8278/eltayule_twn/playlist.m3u8?tid=m6f63d67fa19a15132301&ct=17874&tsum=f546d8218edcc15482d3f38619904bdc
+#EXTINF:-1 group-title="TESTW",愛爾達體育3台
 http://198.16.106.58:8278/eltasports3_twn/playlist.m3u8?tid=m92b67618b700&ct=18335&tsum=bdc6fd47d695d59eed8dd2bf22218b7f
-#EXTINF:-1 group-title="TESTW",FOX體育3台,
+#EXTINF:-1 group-title="TESTW",FOX體育3台
 http://198.16.106.58:8278/foxsport3hd_twn/playlist.m3u8?tid=m5d584d8f204e14267960&ct=17895&tsum=a75615ebe28f1eaa5d552ec102136011
-#EXTINF:-1 group-title="TESTW",ELEVEN SPORTS 1,
+#EXTINF:-1 group-title="TESTW",ELEVEN SPORTS 1
 http://198.16.106.58:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
-#EXTINF:-1 group-title="TESTW",ELEVEN SPORTS 2,
+#EXTINF:-1 group-title="TESTW",ELEVEN SPORTS 2
 http://198.16.106.58:8278/luxetv_twn/playlist.m3u8?tid=m89099e75ab5c&ct=18335&tsum=d0dbd9f22dd13d7b5a1cbc62360f08c4
-#EXTINF:-1 group-title="TESTW",韓國tVN,
+#EXTINF:-1 group-title="TESTW",韓國tVN
 http://198.16.106.58:8278/tvn_twn/playlist.m3u8?tid=m0af8490e6e22&ct=18335&tsum=3ce96443a2a93f93268e2d1d30e3d62a
-#EXTINF:-1 group-title="TESTW",星衛娛樂台,
+#EXTINF:-1 group-title="TESTW",星衛娛樂台
 http://198.16.106.58:8278/starentertainment_twn/playlist.m3u8?tid=m03b7fd7a033016076997&ct=17874&tsum=fe095a1f38d6ea608dc64c6b66e12833
-#EXTINF:-1 group-title="TESTW",美食星球台,
+#EXTINF:-1 group-title="TESTW",美食星球台
 http://198.16.106.58:8278/chinesefoodnetwork/playlist.m3u8?tid=mbc914f8739e615316317&ct=17874&tsum=a3e117776a0b1de55a524a983d08b532
-#EXTINF:-1 group-title="TESTW",亞洲美食台,
+#EXTINF:-1 group-title="TESTW",亞洲美食台
 http://198.16.106.58:8278/asiafood_twn/playlist.m3u8?tid=mce5293d7a7b8&ct=18335&tsum=0db823fbd22661070faa655fa5b48779
-#EXTINF:-1 group-title="TESTW",亞洲旅遊台,
+#EXTINF:-1 group-title="TESTW",亞洲旅遊台
 http://198.16.106.58:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
-#EXTINF:-1 group-title="TESTW",曼迪日本台,
+#EXTINF:-1 group-title="TESTW",曼迪日本台
 http://198.16.106.58:8278/mandijapan_twn/playlist.m3u8?tid=m73455fadd59216060535&ct=17874&tsum=4cb9ddd0c0565e38fc45ee70e42633a8
-#EXTINF:-1 group-title="TESTW",MY-KIDS,
+#EXTINF:-1 group-title="TESTW",MY-KIDS
 http://198.16.106.58:8278/mykids_twn/playlist.m3u8?tid=m4ad7a03977f517262514&ct=17877&tsum=af68298c284254ee5eb9488851a53ae2
-#EXTINF:-1 group-title="TESTW",CBeebies,
+#EXTINF:-1 group-title="TESTW",CBeebies
 http://198.16.106.58:8278/diva_twn/playlist.m3u8?tid=m114792ca4778&ct=18335&tsum=8d6e669a23955ea763734b2e0af3ecee
-#EXTINF:-1 group-title="TESTW",BaBy-TV,
+#EXTINF:-1 group-title="TESTW",BaBy-TV
 http://198.16.106.58:8278/babytv_twn/playlist.m3u8?tid=m7ab1b92a1306&ct=18335&tsum=57086eb57e1cc0c75ba08c75acab2406
-#EXTINF:-1 group-title="TESTW",Boomerang,
+#EXTINF:-1 group-title="TESTW",Boomerang
 http://198.16.106.58:8278/boomerang_twn/playlist.m3u8?tid=m55c8d94d0a1d&ct=18335&tsum=9c11cc1d5fa82c22a0fa40c63d74a697
-#EXTINF:-1 group-title="TESTW",BBC Earth,
+#EXTINF:-1 group-title="TESTW",BBC Earth
 http://198.16.106.58:8278/bbcearthhd/playlist.m3u8?tid=me1cedf047ba218380955&ct=17874&tsum=bd82352683e07a4a7927a793263b91bf
-#EXTINF:-1 group-title="TESTW",BBC Lifestyle,
+#EXTINF:-1 group-title="TESTW",BBC Lifestyle
 http://198.16.106.58:8278/bbcearthlifestyle/playlist.m3u8?tid=m94804f6a21e517822265&ct=17877&tsum=6e6485bd5f12fd54eb0ca9345f2f2d88
-#EXTINF:-1 group-title="TESTW",Outdoor,
+#EXTINF:-1 group-title="TESTW",Outdoor
 http://198.16.106.58:8278/outdoorsports_twn/playlist.m3u8?tid=m72c0ae82a085&ct=18335&tsum=33848b5e420a9a793ca9a39689362411
 #EXTINF:-1 group-title="TESTW",CATCHPLAY 電影台,
 http://198.16.106.58:8278/catchplay_twn/playlist.m3u8?tid=ma51023a5bb5c15986498&ct=17874&tsum=2de38c0bcaece3cb5c50d0d600357cb0
-#EXTINF:-1 group-title="TESTW",SMART知識台,
+#EXTINF:-1 group-title="TESTW",SMART知識台
 http://198.16.106.58:8278/865685b03d/playlist.m3u8?tid=m1d32b57e8e95&ct=18335&tsum=c005629fc09265d17cb8434b1b779ad9
-#EXTINF:-1 group-title="TESTW",Warner TV,
+#EXTINF:-1 group-title="TESTW",Warner TV
 http://198.16.106.58:8278/warnatv_twn/playlist.m3u8?tid=mde44a8138952&ct=18335&tsum=2cfa356a944ea83255784ff966d404af
-#EXTINF:-1 group-title="TESTW",CinemaWorld,
+#EXTINF:-1 group-title="TESTW",CinemaWorld
 http://198.16.106.58:8278/cinemaworld_twn/playlist.m3u8?tid=mc49b804f970c16775887&ct=17874&tsum=891e895480fd5ca337b960d026115460
-#EXTINF:-1 group-title="TESTW",Star Movies,
+#EXTINF:-1 group-title="TESTW",Star Movies
 http://198.16.106.58:8278/6bff18d63e/playlist.m3u8?tid=m5d0687294bc7&ct=18335&tsum=52f1c137409b9c51014621f1e1e21a51
-#EXTINF:-1 group-title="TESTW",日舞電影台,
+#EXTINF:-1 group-title="TESTW",日舞電影台
 http://198.16.106.58:8278/sundance_twn/playlist.m3u8?tid=mfe0bf4686c6d&ct=18335&tsum=14c57b1bfb62b277d396eb3cf14f26c6
-#EXTINF:-1 group-title="TESTW",美亞電影台,
+#EXTINF:-1 group-title="TESTW",美亞電影台
 http://198.16.106.58:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e

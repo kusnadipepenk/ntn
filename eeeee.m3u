@@ -430,7 +430,7 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b1200000.m3u8
 https://bracnet.iptv.jadoodigital.com/live/fox_life/chunks.m3u8
 #EXTINF:-1  tvg-logo="" group-title="HBO/FOX GrUP",FOX Amerika
 https://proxystream.canais.link:443/proxy.php?url=fox.m3u8
-#EXTINF:-1  tvg-logo="" group-title="HBO/FOX GrUPHBO/FOX GrUP",[TH]FOX
+#EXTINF:-1  tvg-logo="" group-title="HBO/FOX GrUP",[TH]FOX
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="HBO/FOX GrUP",FX
 https://cdn-laos.workpoint.news/hd-fxeng_480/index.m3u8

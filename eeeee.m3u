@@ -674,45 +674,33 @@ http://27.254.149.109:8081/tumlive/SKYNETHD/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX SPORT
 http://45.58.62.92:8080
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT SD
-http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
+https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT2 SD
-http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT2x
-https://www.doofree88.com/streaming/sd-foxsports2_480/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT2yy
+https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT2
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT3 SD
-http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
+https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT3 yoyo
 https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Asia
-https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+https://cdn-laos.workpoint.news/epl-bein1_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",BT Sports 1
-https://www.doofree88.com/streaming/uk-btsport1hd_720/index.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",BT Sports 2
-https://www.doofree88.com/streaming/uk-btsport2hd_720/index.m3u8
-#EXTINF:-1  group-title="SPORTS",TRUEsport1
-https://www.doofree88.com/streaming/hd-tsport1_720/index.m3u8
+https://cdn-laos.workpoint.news/epl-bein2_720/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",EPL Sports 1
+https://cdn-laos.workpoint.news/epl-x1_720/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",EPL Sports 2
+https://cdn-laos.workpoint.news/epl-x1_720/index.m3u8
 #EXTINF:-1  group-title="SPORTS",TRUEsport2
-https://www.doofree88.com/streaming/sd-tsport2_480/index.m3u8
-#EXTINF:-1  group-title="SPORTS",TRUEsport3
-https://www.doofree88.com/streaming/hd-tsport3_720/index.m3u8
+https://cdn-laos.workpoint.news/sd-tsport2_480/index.m3u8
 #EXTINF:-1  group-title="SPORTS",TRUEsport4
-https://www.doofree88.com/streaming/hd-tsport4_720/index.m3u8
+https://cdn-laos.workpoint.news/sd-tsport7_480/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",True Sport 5
-https://www.doofree88.com/streaming/sd-tsport5_480/index.m3u8
+https://cdn-laos.workpoint.news/sd-tsport5_480/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",True Sport 6
-https://www.doofree88.com/streaming/sd-tsport6_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZM3FtZp/bein1.png" group-title="SPORTS",beIN Sports 1
-http://iptv.hayat-isp.net:1997/bein-sport1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHhx3tz/bein2.png" group-title="SPORTS",beIN Sports 2
-http://iptv.hayat-isp.net:1997/bein-sport2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gZfX8CS/bein3.png" group-title="SPORTS",beIN Sports 3
-http://iptv.hayat-isp.net:1997/bein-sport3HD/tracks-v1a1/mono.m3u8
+https://cdn-laos.workpoint.news/sd-tsport6_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.liveonlinetv247.com/images/lfctv.png" group-title="SPORTS",Liverpool TV
 http://160.119.77.50/iptv/uk-lfctv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://officialtvstream.net/wp-content/uploads/2015/05/Chelsea-TV1.png" group-title="SPORTS",Chelsea TV
@@ -723,8 +711,6 @@ http://160.119.77.50/iptv/uk-mutv.stream/playlist.m3u8
 http://ott-cdn.ucom.am/s81/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/kx5Xj9Q/setanta.jpg" group-title="SPORTS",setanta sport(2)
 http://ott-cdn.ucom.am/s82/03.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/kx5Xj9Q/setanta.jpg" group-title="SPORTS",setanta Kazakstan
-https://sportbar.biz/lba/123/g5/setqz.m3u8
 #EXTINF:-1  group-title="SPORTS",Eleven sport
 http://wc7.beeyooo.com/tv11.m3u8
 #EXTINF:-1  group-title="SPORTS",Eleven sport2
@@ -753,16 +739,6 @@ http://163.172.85.133:8080/TenS/1/index.m3u8
 http://23.237.22.82:8086/udp/127.0.0.1:56050
 #EXTINF:-1  group-title="SPORTS",REAL MADRID TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-#EXTINF:-1  group-title="SPORTS",TRUESport5
-http://27.254.149.109:8081/tumlive/tsp5/playlist.m3u8
-#EXTINF:-1  group-title="SPORTS",TRUESport6
-http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8
-#EXTINF:-1  group-title="SPORTS",TRUESport7
-http://27.254.149.109:8081/tumlive/tsp7/playlist.m3u8
-#EXTINF:-1  group-title="SPORTS",TRUESport5 golf
-https://livedoomovie.com/02_sport5_480p/chunklist.m3u8
-#EXTINF:-1  group-title="SPORTS",TRUESport6ss
-https://livedoomovie.com/02_sport6_480p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",FOOTBALL Channel
 http://ott-cdn.ucom.am/s41/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",EUROSport2
@@ -799,18 +775,27 @@ http://ppvplug.net:8000/live/eY4V01PRUN/1fKDdTNJxi/50186.m3u8
 http://globalbd.mywire.org:8081/globe/starsports2/chunks.m3u8
 #EXTINF:-1  group-title="SPORTS",MUTV
 https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8
-#EXTINF:-1  group-title="SPORTS",RAI SPORT HD
-https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisport2_1800/chunklist.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsAction.uk.png" group-title="SPORTS",Sky Sports Action
-https://www.doofree88.com/streaming/uk-skysports-action_action_720/index.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsArena.uk.png" group-title="SPORTS",Sky Sports Arena
-https://www.doofree88.com/streaming/uk-skysports-action_action_720/index.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsF1.uk.png" group-title="SPORTS",Sky Sports F1
-https://www.doofree88.com/streaming/uk-skysports-f1_720/index.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" group-title="SPORTS",Sky Sports Main Event
-https://www.doofree88.com/streaming/uk-skysports-mainevent_720/index.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsMix.uk.png" group-title="SPORTS",Sky Sports Mix
-https://www.doofree88.com/streaming/uk-skysports-mix_480/index.m3u8
+#EXTINF:-1 group-title="SPORTS",SKY EPL
+https://cdn-laos.workpoint.news/uk-skysports-epl_720/index.m3u8
+#EXTINF:-1 group-title="SPORTS",SKY NEWS
+https://cdn-laos.workpoint.news/uk-skysports-news_480/index.m3u8
+#EXTINF:-1 group-title="SPORTS",SKY MIX
+https://cdn-laos.workpoint.news/uk-skysports-mix_480/index.m3u8
+#EXTINF:-1 group-title="SPORTS",SKY MAINEVENT
+https://cdn-laos.workpoint.news/uk-skysports-mainevent_720/index.m3u8
+#EXTINF:-1 group-title="SPORTS",SKY GOLD
+https://cdn-laos.workpoint.news/uk-skysports-golf_720/index.m3u8
+#EXTINF:-1 group-title="SPORTS",SKY FOOTBALL
+https://cdn-laos.workpoint.news/uk-skysports-football_720/index.m3u8
+#EXTINF:-1 group-title="SPORTS",SKY F1
+https://cdn-laos.workpoint.news/uk-skysports-f1_720/index.m3u8
+#EXTINF:-1 group-title="SPORTS",SKY Criket
+https://cdn-laos.workpoint.news/uk-skysports-cricket_720/index.m3u8
+#EXTINF:-1 group-title="SPORTS",SKY arena
+https://cdn-laos.workpoint.news/uk-skysports-arena_720/index.m3u8
+#EXTINF:-1 group-title="SPORTS",SKY Action
+https://cdn-laos.workpoint.news/uk-skysports-action_720/index.m3u8
+
 
 
 #EXTM3U

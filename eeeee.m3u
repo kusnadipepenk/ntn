@@ -398,6 +398,45 @@ https://a.jsrdn.com/broadcast/d5b48/+0000/low/c.m3u8
 https://content-auso2.uplynk.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e/e.m3u8?pbs=7a31d3f07d904e2f8102935918979083
 
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="HBO/FOX GrUP",HBO
+http://bbdd.228888888.xyz:8081/hls/ch310.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="HBO/FOX GrUP",HBO2
+http://bbdd.228888888.xyz:8081/hls/ch311.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="HBO/FOX GrUP",HBO3
+http://bbdd.228888888.xyz:8081/hls/ch312.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/KF2b185/hbo2.png" group-title="HBO/FOX GrUP",HBO hit TW
+http://198.16.106.58:8278/hbohits_twn/playlist.m3u8?tid=MEAE4573157945731579&ct=18392&tsum=f86959d8d1d44b2eb9d30f62bdf2835f
+#EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="HBO/FOX GrUP",HBO-ASIA
+http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
+#EXTINF:-1  tvg-logo="https://i.ibb.co/nnNzMrW/hbofam.png" group-title="HBO/FOX GrUP",HBO FAMILY
+http://csrv.me:80/5000740475/fireurl.co/2361
+#EXTINF:-1  tvg-logo="https://i.ibb.co/FJPtGSG/hbihit.png" group-title="HBO/FOX GrUP",HBO Plus
+http://136.243.177.164/HBO/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="HBO/FOX GrUP",CinemAX
+http://136.243.177.164/CINEMAX/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="HBO/FOX GrUP",FOX-MOVIE
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="HBO/FOX GrUP",FOX Action CH
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="HBO/FOX GrUP",FOX-Action
+https://cdn-laos.workpoint.news/hd-foxaction_720/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="HBO/FOX GrUP",FOX Family
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b1000000.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/1RHVFhx/foxcrime.png" group-title="HBO/FOX GrUP",[TH]FOXCRIME1
+https://cdn-laos.workpoint.news/hd-foxcrime_720/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/LYVcCX3/foxlife.png" group-title="HBO/FOX GrUP",[TH]FOXLive
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/LYVcCX3/foxlife.png" group-title="HBO/FOX GrUP",FOXLive1
+https://bracnet.iptv.jadoodigital.com/live/fox_life/chunks.m3u8
+#EXTINF:-1  tvg-logo="" group-title="HBO/FOX GrUP",FOX Amerika
+https://proxystream.canais.link:443/proxy.php?url=fox.m3u8
+#EXTINF:-1  tvg-logo="" group-title="HBO/FOX GrUPHBO/FOX GrUP",[TH]FOX
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1  tvg-logo="" group-title="HBO/FOX GrUP",FX
+https://cdn-laos.workpoint.news/hd-fxeng_480/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="HBO/FOX GrUP",FX2
+http://111.13.111.192/125.227.198.89:8027
+
 
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",POP TV
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
@@ -423,46 +462,6 @@ http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/DLnnhBP/foxcinema.jpg" group-title="SUB PREMIUM",WarnerTVs
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="SUB PREMIUM",HBO
-http://bbdd.228888888.xyz:8081/hls/ch310.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="SUB PREMIUM",HBO2
-http://bbdd.228888888.xyz:8081/hls/ch311.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="SUB PREMIUM",HBO3
-http://bbdd.228888888.xyz:8081/hls/ch312.m3u8
-EXTINF:-1  tvg-logo="https://i.ibb.co/KF2b185/hbo2.png" group-title="SUB PREMIUM",HBO hit TW
-http://198.16.106.58:8278/hbohits_twn/playlist.m3u8?tid=MEAE4573157945731579&ct=18392&tsum=f86959d8d1d44b2eb9d30f62bdf2835f
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="SUB PREMIUM",HBO-ASIA
-http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
-#EXTINF:-1  tvg-logo="https://i.ibb.co/nnNzMrW/hbofam.png" group-title="SUB PREMIUM",HBO FAMILY
-http://csrv.me:80/5000740475/fireurl.co/2361
-#EXTINF:-1  tvg-logo="https://i.ibb.co/FJPtGSG/hbihit.png" group-title="SUB PREMIUM",HBO Plus
-http://136.243.177.164/HBO/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",CinemAX
-http://136.243.177.164/CINEMAX/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="SUB PREMIUM",FOX-MOVIE
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="SUB PREMIUM",FOX Action CH
-http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="SUB PREMIUM",FOX-Action
-https://cdn-laos.workpoint.news/hd-foxaction_720/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="SUB PREMIUM",FOX Family
-https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b1000000.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/1RHVFhx/foxcrime.png" group-title="SUB PREMIUM",[TH]FOXCRIME1
-https://cdn-laos.workpoint.news/hd-foxcrime_720/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/LYVcCX3/foxlife.png" group-title="SUB PREMIUM",[TH]FOXLive
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/LYVcCX3/foxlife.png" group-title="SUB PREMIUM",FOXLive1
-https://bracnet.iptv.jadoodigital.com/live/fox_life/chunks.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",AMC Amerika
-http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",FOX Amerika
-https://proxystream.canais.link:443/proxy.php?url=fox.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",[TH]FOX
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",FX
-https://cdn-laos.workpoint.news/hd-fxeng_480/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",FX2
-http://111.13.111.192/125.227.198.89:8027
 #EXTINF:-1 tvg-logo="http://www.ifilmtv.com/Content/Intro/Layer.png" group-title="SUB PREMIUM",Iflim English
 https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",Movie Aneh

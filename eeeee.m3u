@@ -30,7 +30,7 @@ http://id1.indostreamingtv.com/live/antv/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QNQrm50/antv.png" group-title="STASIUN NASIONAL",ANTV
 http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1uNGLnZUnUVO0BuZKQYN-KzIRVb9yXz1x" group-title="STASIUN NASIONAL",GLOBALTV3
-https://app-linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_1000000=5-mp4a_64000_eng=2.m3u8
+https://app-linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8
 #EXTINF:-1  group-title="STASIUN NASIONAL",TV ONE (2)
 http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105/02.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1ZUCUkvAvWR5qJzRj8HG9wJ40MQ71vi5x" group-title="STASIUN NASIONAL",RTV

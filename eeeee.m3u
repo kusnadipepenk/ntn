@@ -427,7 +427,7 @@ https://cdn-laos.workpoint.news/hd-foxcrime_720/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/LYVcCX3/foxlife.png" group-title="HBO/FOX GrUP",[TH]FOXLive
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/LYVcCX3/foxlife.png" group-title="HBO/FOX GrUP",FOXLive1
-https://bracnet.iptv.jadoodigital.com/live/fox_life/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 #EXTINF:-1  tvg-logo="" group-title="HBO/FOX GrUP",FOX Amerika
 https://proxystream.canais.link:443/proxy.php?url=fox.m3u8
 #EXTINF:-1  tvg-logo="" group-title="HBO/FOX GrUP",[TH]FOX
@@ -476,6 +476,8 @@ http://livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Z8YSxCB/sstarw.jpg" group-title="SUB PREMIUM",StarWorld
 http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/Z8YSxCB/sstarw.jpg" group-title="SUB PREMIUM",StarWorld2
+https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hCH0Vq6/mbc2.jpg" group-title="SUB PREMIUM",MBC2
 http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/6bZSMNB/syfy.jpg" group-title="SUB PREMIUM",SYFY

@@ -749,6 +749,10 @@ https://cdn-laos.workpoint.news/uk-eurosport_480/index.m3u8
 http://136.243.177.164/EUROSPORT/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",EUROSport SD
 http://213.174.8.7:8000/play/15/tracks-v1a1/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",EUROSport2 SD
+http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",EUROSport1 SD
+http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Viasat Sport
 http://212.112.101.69:8081/stream55/output.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",ALLSports

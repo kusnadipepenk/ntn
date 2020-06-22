@@ -410,8 +410,12 @@ http://bbdd.228888888.xyz:8081/hls/ch312.m3u8
 http://198.16.106.58:8278/hbohits_twn/playlist.m3u8?tid=MEAE4573157945731579&ct=18392&tsum=f86959d8d1d44b2eb9d30f62bdf2835f
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="HBO/FOX GrUP",HBO-ASIA
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
-#EXTINF:-1  tvg-logo="https://i.ibb.co/nnNzMrW/hbofam.png" group-title="HBO/FOX GrUP",HBO FAMILY
-http://csrv.me:80/5000740475/fireurl.co/2361
+#EXTINF:-1 tvg-id="HBO.US" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="HBO/FOX GrUP",HBO USA
+http://live.highstream.club/live/HBO/playlist.m3u8
+#EXTINF:-1 tvg-id="HBS.US" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="HBO/FOX GrUP",HBO Signature
+http://live.highstream.club/live/HBOSignature/playlist.m3u8
+#EXTINF:-1 tvg-id="HBZ.US" tvg-logo="https://static.epg.best/us/HBOZone.us.png" group-title="HBO/FOX GrUP",HBO Zone
+http://live.highstream.club/live/HBOZone/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/FJPtGSG/hbihit.png" group-title="HBO/FOX GrUP",HBO Plus
 http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="HBO/FOX GrUP",CinemAX

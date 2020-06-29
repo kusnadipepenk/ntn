@@ -142,8 +142,8 @@ http://210.210.155.35/session/5a96d1bc-6a30-11e9-afe2-91cea6c769ee/dr9445/h/h02/
 http://210.210.155.35/session/8f57997a-7f8f-11ea-84dd-806b9117222e/uq2663/h/h98/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/d0RzNrk/space.png" group-title="KIDS",SPACEToon
 http://95.170.215.109/hls/m3u8/Spacetoon-Backup.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/d0RzNrk/space.png" group-title="KIDS",SPACEToon ARB
-http://livecdnh2.tvanywhere.ae/hls/spacetoon/03.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KIDS",Two KIDS
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 #EXTINF:-1  group-title="KIDS",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p2rYxCW/baby.jpg" group-title="KIDS",Baby TV
@@ -452,6 +452,8 @@ https://ws.flv.nimo.tv/live/su1599512427580r629d80fdaf8413c8e7083d1d0cd5fbf5_hig
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/DLnnhBP/foxcinema.jpg" group-title="SUB PREMIUM",WarnerTVs
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",MovieMIX
+https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",Channel 8
 http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",MBC MAX(2)

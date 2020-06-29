@@ -224,16 +224,6 @@ http://213.174.8.7:9100/index.m3u8
 
 
 #EXTM3U
-#EXTINF:-1  group-title="PREMIUM INDONESIA",FTV
-https://stream.suryaiptv.net/streams/134_.m3u8
-#EXTINF:-1  group-title="PREMIUM INDONESIA",TVP
-https://stream.suryaiptv.net/streams/133_.m3u8
-#EXTINF:-1  group-title="PREMIUM INDONESIA",Drakor Plus
-https://stream.suryaiptv.net/streams/132_.m3u8
-#EXTINF:-1  group-title="PREMIUM INDONESIA",Sinema X Indonesia
-https://stream.suryaiptv.net/streams/114_.m3u8
-#EXTINF:-1  group-title="PREMIUM INDONESIA",M-Cine
-https://stream.suryaiptv.net/streams/135_.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN-2
 http://45.126.83.51/uq2663/h/h141/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN

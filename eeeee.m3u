@@ -437,7 +437,9 @@ https://ws.flv.nimo.tv/live/su1599512427614r64c6b58ca12709ecc72d82d4f45a42cf_hig
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",Sherlock Holmes
 https://ws.flv.nimo.tv/live/su1599512427580r629d80fdaf8413c8e7083d1d0cd5fbf5_high.flv
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",Movies Now
-https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",MnX MoviesNow
+https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/DLnnhBP/foxcinema.jpg" group-title="SUB PREMIUM",WarnerTVs
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",MovieMIX

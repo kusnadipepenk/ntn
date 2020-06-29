@@ -442,34 +442,16 @@ https://cdn-laos.workpoint.news/hd-fxeng_480/index.m3u8
 http://111.13.111.192/125.227.198.89:8027
 
 
-#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",POP TV
-https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",The Flash
 https://ws.flv.nimo.tv/live/su1599512427625r1b2b320b004694b1ca38eb84c95aed8a_high.flv
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",S.H.I.E.L.D
 https://ws.flv.nimo.tv/live/su1599512427614r64c6b58ca12709ecc72d82d4f45a42cf_high.flv
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",Sherlock Holmes
 https://ws.flv.nimo.tv/live/su1599512427580r629d80fdaf8413c8e7083d1d0cd5fbf5_high.flv
-#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",RTSH Film
-http://79.106.48.2/live/rtsh_film_ott_p3/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",KingdomS Movie
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",24tv Movie
-http://51.158.190.97/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",MGM Scifi
-https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",SonY MOVIE
-https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/PMBrmzq/lotus.jpg" group-title="SUB PREMIUM",LOTUS MACAU
-http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/DLnnhBP/foxcinema.jpg" group-title="SUB PREMIUM",WarnerTVs
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
-#EXTINF:-1 tvg-logo="http://www.ifilmtv.com/Content/Intro/Layer.png" group-title="SUB PREMIUM",Iflim English
-https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",Movie Aneh
-http://rokutna.tulix.tv/live/output46578.stream.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",Channel 8
 http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",MBC MAX(2)
@@ -484,56 +466,12 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hCH0Vq6/mbc2.jpg" group-title="SUB PREMIUM",MBC2
 http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/6bZSMNB/syfy.jpg" group-title="SUB PREMIUM",SYFY
-http://ott.artmott.com/sci-fi/tracks-v1a1/mono.m3u8
 ==EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",STARZ
 http://34.69.67.123:8888/tvnow/http://sv5.dailymotion.com.1cdn.host/live/starz/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/SJX3w9x/wow.png" group-title="SUB PREMIUM",WOWOW Japan
-http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
-#EXTINF:-1 group-title="SUB PREMIUM",FILMBOXEXTRA
-http://ott.artmott.com/FILMBOXEXTRA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/FilmboxExtra.cz.png" group-title="SUB PREMIUM",FilmBox Extra
-http://84.22.33.254/unicast.filmboxextrahd/index.m3u8
-#EXTINF:-1 group-title="SUB PREMIUM",FILMBOXPLUS
-http://ott.artmott.com/FILMBOXPLUS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/FilmboxPlus.cz.png" group-title="SUB PREMIUM",FilmBox Plus
-http://84.22.33.254/unicast.filmboxplus/index.m3u8
-#EXTINF:-1 group-title="SUB PREMIUM",FILMBOXARTHOUSE
-http://ott.artmott.com/FILMBOXARTHOUSE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/FilmBoxArtHouseEn.pl.png" group-title="SUB PREMIUM",FilmBox ArtHouse
-http://84.22.33.254/unicast.arthouse/index.m3u8
-#EXTINF:-1 group-title="SUB PREMIUM",FAST&FUNBOX
-http://ott.artmott.com/FAST&FUNBOX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SUB PREMIUM",7 HD
-http://ott.artmott.com/7HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SUB PREMIUM",SkyStar
-http://ott.artmott.com/SkyStar/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SUB PREMIUM",SKYACTION
-http://ott.artmott.com/SKYACTION/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SUB PREMIUM",SKYCOMEDY
-http://ott.artmott.com/SKYCOMEDY/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SUB PREMIUM",SKYMAX
-http://ott.artmott.com/SKYMAX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SUB PREMIUM",SKYShqip
-http://ott.artmott.com/SKYShqip/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",BIGBANG THEORY
-http://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",STAR CHINA MOVIE
-http://iliketot.dyndns.tv/29a09591a6604ff3b798cd7ef809e4bd.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTggNDo0Mzo1OCBBTSZoYXNoX3ZhbHVlPW9oSGErRXNZcXAxSlhaRTJoSTdFWnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zbW9uZzExfDgwNXx1cGxheXwxNTMzNzg5ODM4fDE3MS41LjExMS4xMjg=
-#EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",STAR CHINA
-http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTggNDo0Mzo1OCBBTSZoYXNoX3ZhbHVlPW9oSGErRXNZcXAxSlhaRTJoSTdFWnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zbW9uZzExfDgwNXx1cGxheXwxNTMzNzg5ODM4fDE3MS41LjExMS4xMjg=
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndFlix.in.png" group-title="SUB PREMIUM",&Flix
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndPrive.in.png" group-title="SUB PREMIUM",&Prive
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andprivehd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",STAR WORLD
-https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",CIBN Holywood
-http://47.240.60.73/Mitv/cibn.php?id=8
-#EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",CIBN Blokbuster
-http://47.240.60.73/Mitv/cibn.php?id=10
-#EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",CIBN Teather
-http://47.240.60.73/Mitv/cibn.php?id=6 
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andprivehd/index.m3u8 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg" group-title="PREMIUM",FOX2

@@ -322,8 +322,8 @@ http://210.210.155.35/x6bnqe/s/s60/S4/mnf.m3u8
 http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM INDONESIA",TRT WORLD
 http://210.210.155.35/x6bnqe/s/s72/S4/mnf.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM INDONESIA",NIFTY
-https://livetvhooq.akamaized.net/1648324ea85b498897752a6385bb5e08/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600131~exp=9007200828341122~acl=/1648324ea85b498897752a6385bb5e08/*/profile_0/chunklist.m3u8*~hmac=ef80a6511d587f2eb41ad6648ac462ecb322472d3dfbff48a5e800fe73d24abb
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM INDONESIA",TV CH entahlah
+http://210.210.155.35/x6bnqe/s/s94/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM INDONESIA",FAIL ARMY
 https://livetvhooq.akamaized.net/166d36fe333a41e7846c47c07aa4919c/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599949~exp=9007200828340940~acl=/166d36fe333a41e7846c47c07aa4919c/*/profile_0/chunklist.m3u8*~hmac=f6dc30f96b4ccc9366031d95a30921884645efb4bedd2caf28eadee41e95bfd8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM INDONESIA",AWESOME

@@ -125,8 +125,8 @@ http://210.210.155.35/qwr9ew/s/s26/02.m3u8
 http://210.210.155.35/qwr9ew/s/s17/02.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",TV5
 http://livecdnh1.tvanywhere.ae:80/hls/tv5/03.m3u8
-#EXTINF:-1  group-title="STASIUN BERITA",TV5 Monde
-http://210.210.155.35/qwr9ew/s/s24/02.m3u8
+#EXTINF:-1  group-title="STASIUN BERITA",RAI ITALI
+http://210.210.155.35/x6bnqe/s/s63/S4/mnf.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",RT News
 http://210.210.155.35/qwr9ew/s/s23/02.m3u8
 
@@ -316,12 +316,12 @@ http://210.210.155.35:80/uq2663/h/h22/02.m3u8
 http://210.210.155.35:80/uq2663/h/h28/02.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM INDONESIA",Tasty
 https://dl.dropbox.com/s/t7kcrn2w3idpg86/Tasty.m3u8?dl=0
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM INDONESIA",USEE PHOTO
-https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(4d104b0f-063e-6d0b-a4ae-a4ab13986b71)/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM INDONESIA",USEE PRIME
-https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d749eced-9ed1-00e0-13e3-cf87a17bb412)/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM INDONESIA",RUANG TERAMPIL
-https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048870~exp=9007200826789861~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_1/chunklist.m3u8*~hmac=d953442254a991bd90234bddbdec85c2ebd07648d38983e23e541e31e7993cc9
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM INDONESIA",Dubai TV
+http://210.210.155.35/x6bnqe/s/s60/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM INDONESIA",TeleNovela
+http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM INDONESIA",TRT WORLD
+http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM INDONESIA",NIFTY
 https://livetvhooq.akamaized.net/1648324ea85b498897752a6385bb5e08/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600131~exp=9007200828341122~acl=/1648324ea85b498897752a6385bb5e08/*/profile_0/chunklist.m3u8*~hmac=ef80a6511d587f2eb41ad6648ac462ecb322472d3dfbff48a5e800fe73d24abb
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM INDONESIA",FAIL ARMY

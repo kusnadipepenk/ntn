@@ -556,17 +556,17 @@ http://210.210.155.35/uq2663/h/h05/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FightSport(2)
 http://210.210.155.35/session/99f95566-7000-11e9-8e97-9239acfe1a75/uq2663/h/h05/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS",SKYNET1 sport
-http://27.254.149.109:8081/tumlive/SKYNET1/playlist.m3u8
+https://cdn-laos.workpoint.news/sd-skynetsports1_480/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS",SKYNET2 sport
-http://27.254.149.109:8081/tumlive/SKYNET2/playlist.m3u8
+https://cdn-laos.workpoint.news/sd-skynetsports2_480/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS",SKYNET3 sport
-http://27.254.149.109:8081/tumlive/SKYNET3/playlist.m3u8
+https://cdn-laos.workpoint.news/sd-skynetsports3_480/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS",SKYNET4 sport
-http://27.254.149.109:8081/tumlive/SKYNET4/chunks.m3u8
+https://cdn-laos.workpoint.news/sd-skynetsports4_480/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS",SKYNET5 sport
-http://27.254.149.109:8081/tumlive/SKYNET5/chunks.m3u8
+https://cdn-laos.workpoint.news/sd-skynetsports5_480/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS",SKYNET6 sport
-http://27.254.149.109:8081/tumlive/SKYNET6/chunks.m3u8
+https://cdn-laos.workpoint.news/sd-skynetsports6_480/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS",SKYNET7 sport
 http://27.254.149.109:8081/tumlive/SKYNET7/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vcr6y1h/skynet.png" group-title="SPORTS",SKYNET8 sport

@@ -449,9 +449,9 @@ https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",Channel 8
 http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",MBC MAX(2)
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_5.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",MBC Action
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod_5.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/tQNt4Bf/star.jpg" group-title="SUB PREMIUM",Starmovies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Z8YSxCB/sstarw.jpg" group-title="SUB PREMIUM",StarWorld
@@ -459,7 +459,7 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Z8YSxCB/sstarw.jpg" group-title="SUB PREMIUM",StarWorld2
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hCH0Vq6/mbc2.jpg" group-title="SUB PREMIUM",MBC2
-http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
+https://shls-mbc2-prod.shahid.net/mbc2-prod_5.m3u8
 ==EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",STARZ
 http://34.69.67.123:8888/tvnow/http://sv5.dailymotion.com.1cdn.host/live/starz/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndFlix.in.png" group-title="SUB PREMIUM",&Flix

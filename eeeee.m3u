@@ -456,8 +456,8 @@ https://shls-mbcaction-prod.shahid.net/mbcaction-prod_5.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Z8YSxCB/sstarw.jpg" group-title="SUB PREMIUM",StarWorld
 http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Z8YSxCB/sstarw.jpg" group-title="SUB PREMIUM",StarWorld2
-https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",MBC4
+https://shls-mbc4-prod.shahid.net/mbc4-prod_5.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hCH0Vq6/mbc2.jpg" group-title="SUB PREMIUM",MBC2
 https://shls-mbc2-prod.shahid.net/mbc2-prod_5.m3u8
 ==EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",STARZ

@@ -339,11 +339,11 @@ https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yR0ZTTB/natgeowild.png" group-title="KNOWLEDGE",Nat-Geo-WILD 
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
+https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/CPg9BPY/natgeopeo.png" group-title="KNOWLEDGE",NatGeo-People 
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/03.m3u8
+https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/7j39sz1/histo.jpg" group-title="KNOWLEDGE",HISTORY CHANNEL
-http://livecdnh1.tvanywhere.ae/hls/h2/03.m3u8
+https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/6ZLVKt6/docubo.png" group-title="KNOWLEDGE",DOCUBOX TV
 http://livecdnh3.tvanywhere.ae/hls/docubox/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY CHANNEL

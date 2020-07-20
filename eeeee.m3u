@@ -389,13 +389,13 @@ https://content-auso2.uplynk.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e/e.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="HBO/FOX GrUP",HBO
-http://bbdd.228888888.xyz:8081/hls/ch310.m3u8
+http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="HBO/FOX GrUP",HBO2
-http://bbdd.228888888.xyz:8081/hls/ch311.m3u8
+http://136.243.177.164/HBO2/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="HBO/FOX GrUP",HBO3
-http://bbdd.228888888.xyz:8081/hls/ch312.m3u8
+http://136.243.177.164/HBO3/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/KF2b185/hbo2.png" group-title="HBO/FOX GrUP",HBO hit TW
-http://198.16.106.58:8278/hbohits_twn/playlist.m3u8?tid=MEAE4573157945731579&ct=18392&tsum=f86959d8d1d44b2eb9d30f62bdf2835f
+http://136.243.177.164/CINEMAX/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="HBO/FOX GrUP",HBO-ASIA
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 #EXTINF:-1 tvg-id="HBO.US" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="HBO/FOX GrUP",Warner tv

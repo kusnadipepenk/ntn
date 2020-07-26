@@ -828,4 +828,7 @@ https://watchindia.net:8443/live/78232/32496/2080.m3u8
 https://watchindia.net:8443/live/78232/32496/2082.m3u8
 #EXTINF:-1 group-title="TESTW",Ndfad
 https://watchindia.net:8443/live/78232/32496/784.m3u8
-
+#EXTINF:-1 group-title="TESTW",sdgsd
+https://watchindia.net:8443/live/78232/32496/2088.m3u8
+#EXTINF:-1 group-title="TESTW",fsdg
+https://watchindia.net:8443/live/78232/32496/818.m3u8

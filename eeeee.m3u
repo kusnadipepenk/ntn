@@ -19,6 +19,10 @@ http://210.210.155.35/session/e663bb86-7f8f-11ea-81c5-b9749125f25a/qwr9ew/s/s03/
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1KX7m3dyRmjcbxJnJbNZrJ9HQyDf3VUuX" group-title="STASIUN NASIONAL",MNC 3
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+#EXTINF:-1  tvg-logo="" group-title="STASIUN NASIONAL",MNC sport
+https://live.mncnow.id/mncsports/1002.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1  tvg-logo="" group-title="STASIUN NASIONAL",MNC sport2
+https://live.mncnow.id/mncsports/1002.m3u8?IASHttpSessionId=OTT2864120200731211933095822&ztecid=ch00000090990000001753&bandwidth=491305&ispcode=1&timeformat=local&channel=ch00000090990000001753&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNjYvMjU2Lm0zdTg%3D&zte_bandwidth=1001&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_90.png" group-title="STASIUN NASIONAL",MNC Lifestyle
 http://210.210.155.66/h/h28/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="STASIUN NASIONAL",INDOSIAR(2)
@@ -252,24 +256,10 @@ http://45.126.83.51/session/70890dd8-c9d3-11ea-b6b4-9c15b4da6e2f/uq2663/h/h143/0
 https://dl.dropbox.com/s/qzl6jtxmhyoyovl/Mytv.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TDK9V0/mytv.jpg" group-title="PREMIUM INDONESIA",MY TV(2)
 https://livetvhooq.akamaized.net/b2fec42490a14386ac53eafa47f590a7/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573597923~exp=9007200828338914~acl=/b2fec42490a14386ac53eafa47f590a7/*/profile_0/chunklist.m3u8*~hmac=15a17e5b10bc2f36b6fbe927f137fff5a759fcc501c3d6712d5976a51a9b45ea
-#EXTINF:-1  tvg-logo="https://i.ibb.co/gwLF0B6/jgo.jpg" group-title="PREMIUM INDONESIA",JGO
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b364000.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/XpRzLmk/ochan.png" group-title="PREMIUM INDONESIA",O SHOP
-http://stream1.ninmedia.tv/oshop/udp.stream_360p/chunklist_w14829653.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=109_MtH3Y5T8d_07P1VVEnD3sAkyX9_go" group-title="PREMIUM INDONESIA",HITS CH
 http://210.210.155.35/uq2663/h/h37/02.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=109_MtH3Y5T8d_07P1VVEnD3sAkyX9_go" group-title="PREMIUM INDONESIA",HITSCh(2)
 http://45.126.83.51/session/4fb462a0-6ff8-11e9-84c1-90fcb976a378/uq2663/h/h37/02.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/GCY30fN/hi.jpg" group-title="PREMIUM INDONESIA",Hi
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist_b906000.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/56yF6Zx/simin.jpg" group-title="PREMIUM INDONESIA",Sinema Indonesia
-http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
-#EXTINF:-1  group-title="PREMIUM INDONESIA",HOME AND LIVING
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b906000.m3u8
-#EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925599258s.png" group-title="PREMIUM INDONESIA",Filmy
-http://210.210.155.69/s/s62/S4/mnf.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/fdn5j4V/tic.jpg" group-title="PREMIUM INDONESIA",The Indonesian Channel
-http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/0yswGZW/sgem.jpg" group-title="PREMIUM INDONESIA",SONY GEM
 http://210.210.155.35/uq2663/h/h19/02.m3u8
 #EXTINF:-1  group-title="PREMIUM INDONESIA",CELESTIAL MOVIE
@@ -292,6 +282,16 @@ http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/
 http://210.210.155.35/session/9b11be32-6a30-11e9-9e00-ade6bb5dc228/qwr9ew/s/s32/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ByFQvJQ/zeebioskop.jpg" group-title="PREMIUM INDONESIA",ZEE BIOSKOP-2
 http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/02.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/GCY30fN/hi.jpg" group-title="PREMIUM INDONESIA",Hi
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist_b906000.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/56yF6Zx/simin.jpg" group-title="PREMIUM INDONESIA",Sinema Indonesia
+http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
+#EXTINF:-1  group-title="PREMIUM INDONESIA",HOME AND LIVING
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b906000.m3u8
+#EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925599258s.png" group-title="PREMIUM INDONESIA",Filmy
+http://210.210.155.69/s/s62/S4/mnf.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/fdn5j4V/tic.jpg" group-title="PREMIUM INDONESIA",The Indonesian Channel
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/6wtpVFC/110-300astrohello.png" group-title="PREMIUM INDONESIA",Astro Hello
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_03.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM INDONESIA",Ruang trampil
@@ -328,6 +328,11 @@ http://210.210.155.35/x6bnqe/s/s94/S4/mnf.m3u8
 https://livetvhooq.akamaized.net/166d36fe333a41e7846c47c07aa4919c/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599949~exp=9007200828340940~acl=/166d36fe333a41e7846c47c07aa4919c/*/profile_0/chunklist.m3u8*~hmac=f6dc30f96b4ccc9366031d95a30921884645efb4bedd2caf28eadee41e95bfd8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM INDONESIA",AWESOME
 https://livetvhooq.akamaized.net/e8b42cfc307e44eca6b8d862ce9837ac/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600556~exp=9007200828341547~acl=/e8b42cfc307e44eca6b8d862ce9837ac/*/profile_0/chunklist.m3u8*~hmac=182089422756519616cf1de70220271a75538a091b1d6d386b86bde3f0f2533d
+#EXTINF:-1  tvg-logo="https://i.ibb.co/gwLF0B6/jgo.jpg" group-title="PREMIUM INDONESIA",JGO
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b364000.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/XpRzLmk/ochan.png" group-title="PREMIUM INDONESIA",O SHOP
+http://stream1.ninmedia.tv/oshop/udp.stream_360p/chunklist_w14829653.m3u8
+
 
 
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Arirang Korea

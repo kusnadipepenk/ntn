@@ -818,10 +818,10 @@ http://51.52.156.22:8888/http/013
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="UK",rt
 http://51.52.156.22:8888/http/012
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="UK",gh
-http://122.155.180.8:5021/live/312
+http://51.52.156.22:8888/http/001
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="UK",bn
-http://122.155.180.8:5021/live/310
+http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="UK",qw
-http://122.155.180.8:5021/live/311
+http://51.52.156.22:8888/http/011
 
 

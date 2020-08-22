@@ -559,7 +559,7 @@ http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110236?play_token=k6FBsKC5O0
 #EXTM3U
 #EXTINF:-1 group-title="Music",Karaoke Chanel
 http://zigfreed.ru/IP0/448.m3u8
-#EXTINF:-1 group-title="Music",
+#EXTINF:-1 group-title="Music",music
 http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110270?play_token=k6FBsKC5O0
 #EXTINF:-1 group-title="Music",Music TOp
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8

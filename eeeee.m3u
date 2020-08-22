@@ -559,6 +559,8 @@ http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110236?play_token=k6FBsKC5O0
 #EXTM3U
 #EXTINF:-1 group-title="Music",Karaoke Chanel
 http://zigfreed.ru/IP0/448.m3u8
+#EXTINF:-1 group-title="Music",
+http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110270?play_token=k6FBsKC5O0
 #EXTINF:-1 group-title="Music",Music TOp
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1  group-title="Music",[V] Channel
@@ -583,8 +585,16 @@ https://dl.dropbox.com/s/emp7q8g3tc1kikj/BMusik.m3u8?dl=1
 http://203.154.243.89:1213
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/wwRP0qz/redb.png" group-title="SPORTS",Astro Arena
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Astro Arena
 http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110235?play_token=k6FBsKC5O0
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Astro Supersport
+http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110252?play_token=k6FBsKC5O0
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Astrosupersport2
+http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110253?play_token=k6FBsKC5O0
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Astrosupersport3
+http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110254?play_token=k6FBsKC5O0
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Astrosupersport4
+http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110255?play_token=k6FBsKC5O0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/wwRP0qz/redb.png" group-title="SPORTS",REDBull Tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FightSport
@@ -610,21 +620,21 @@ http://27.254.149.109:8081/tumlive/SKYNETHD/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX SPORT
 http://45.58.62.92:8080
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT SD
-https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
+http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110256?play_token=k6FBsKC5O0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT2 SD
-https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8
+http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110257?play_token=k6FBsKC5O0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT2
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT3 SD
-https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8
+http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110258?play_token=k6FBsKC5O0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT3 yoyo
 https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Asia
-https://cdn-laos.workpoint.news/epl-bein1_720/index.m3u8
+http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110259?play_token=k6FBsKC5O0
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia
-https://cdn-laos.workpoint.news/epl-bein2_720/index.m3u8
+http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110260?play_token=k6FBsKC5O0
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",beIN Xtra
 https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",EPL Sports 1
@@ -682,7 +692,7 @@ http://ott-cdn.ucom.am/s41/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",EUROSport2
 https://cdn-laos.workpoint.news/uk-eurosport_480/index.m3u8 
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",EUROSport
-http://136.243.177.164/EUROSPORT/playlist.m3u8
+http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110261?play_token=k6FBsKC5O0
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",EUROSport SD
 http://213.174.8.7:8000/play/15/tracks-v1a1/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",EUROSport2 SD

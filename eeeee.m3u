@@ -250,6 +250,8 @@ http://210.210.155.35/session/4b609526-4bf3-11e9-9bd8-afdb8d9eb786/uq2663/h/h04/
 http://45.126.83.51/uq2663/h/h04/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",KBS WORLD
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",KBS WORLD2
+http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110198?play_token=k6FBsKC5O0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="PREMIUM INDONESIA",K+
 http://45.126.83.51/session/8081835c-6ff5-11e9-8f3a-bfbd9127604e/uq2663/h/h08/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="PREMIUM INDONESIA",KPlus
@@ -440,8 +442,8 @@ http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110220?play_token=k6FBsKC5O0
 http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110221?play_token=k6FBsKC5O0
 #EXTINF:-1  group-title="KNOWLEDGE",Investigation Discovery
 http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="KNOWLEDGE",CrimeInvestigation
-http://ott.artmott.com/CrimeAndInvestigation/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="KNOWLEDGE",DMAX
+http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110246?play_token=k6FBsKC5O0
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Asia Food Channel
 http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110241?play_token=k6FBsKC5O0
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",FOOD
@@ -565,6 +567,8 @@ https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b450000.m3u8
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/kqffBBK/mtv.png" group-title="Music",MTV NOW
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1  tvg-logo="https://i.ibb.co/kqffBBK/mtv.png" group-title="Music",MTV
+http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110248?play_token=k6FBsKC5O0
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg" group-title="Music",9XO
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/9XO-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="http://spiintl.com/data/files/kcfinderUploadDir/images/logo/360TuneBox-logo.png" group-title="Music",360 Tunebox

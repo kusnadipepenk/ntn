@@ -228,6 +228,8 @@ http://213.174.8.7:9100/index.m3u8
 
 
 #EXTM3U
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",ohk
+http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110200?play_token=k6FBsKC5O0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",TVNMovies
 http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110205?play_token=k6FBsKC5O0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",TVN

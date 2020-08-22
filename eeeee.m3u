@@ -150,12 +150,12 @@ http://210.210.155.35/uq2663/h/h97/index.m3u8
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 #EXTINF:-1  group-title="KIDS",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/03.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/p2rYxCW/baby.jpg" group-title="KIDS",Baby TV
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KIDS",Disney Junior ENG
+http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110230?play_token=k6FBsKC5O0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p2rYxCW/baby.jpg" group-title="KIDS",BabyTV-UAE
 http://livecdnh1.tvanywhere.ae/hls/baby/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",DISNEY CHANNEL
-http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
+http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110231?play_token=k6FBsKC5O0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Disney
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMERANGs
@@ -179,7 +179,7 @@ http://aldirect.hls.huya.com/huyalive/29106097-2689279974-11550369538117730304-2
 #EXTINF:-1  tvg-logo="" group-title="KIDS",CARTOON-NETWORK
 http://ott.artmott.com/Cartoonnet/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",CARTON NETWok
-http://fr-c.movply.stream/hls/Carton_Network.m3u8
+http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110232?play_token=k6FBsKC5O0
 #EXTINF:-1  tvg-logo="" group-title="KIDS",DUCK
 http://livecdnh3.tvanywhere.ae/hls/duck/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",English Club
@@ -187,11 +187,11 @@ http://livecdnh2.tvanywhere.ae/hls/english_club/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QQFhFrg/nicktoon.png" group-title="KIDS",NICKTOONs
 http://185.176.117.242/live/eds/Nicktoons/HLS_encr/Nicktoons-avc1_600000=11-mp4a_96000_eng=2.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",NICKelodeonss
-http://ott.artmott.com/Nickelodeon/tracks-v1a1/mono.m3u8
+http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110233?play_token=k6FBsKC5O0
 #EXTINF:-1  tvg-logo="" group-title="KIDS",NICK Jr
-http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR-avc1_600000=16-mp4a_96000_eng=6.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KIDS",
-http://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD-avc1_600000=11-mp4a_96000_eng=5.m3u8
+http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110234?play_token=k6FBsKC5O0
+#EXTINF:-1  tvg-logo="" group-title="KIDS",DisneyXD
+http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110229?play_token=k6FBsKC5O0
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/DreamWorks.qa.png" group-title="KIDS",DreamWork
 https://dl.dropbox.com/s/9b9z5db065tqods/DreamWork.m3u8?dl=1
 #EXTINF:-1  tvg-logo="" group-title="KIDS",DavinciKids
@@ -228,6 +228,10 @@ http://213.174.8.7:9100/index.m3u8
 
 
 #EXTM3U
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",TVNMovies
+http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110205?play_token=k6FBsKC5O0
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",TVN
+http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110201?play_token=k6FBsKC5O0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN-2
 http://45.126.83.51/uq2663/h/h141/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN
@@ -344,7 +348,7 @@ http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7A
 #EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://static.iptv-epg.com/id/FOXMovies.id.png" group-title="PREMIUM",FOX movie3
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=397900FDAB149520DA6CD0E3E8F82F901132A27B&profile=pass
 #EXTINF:-1 group-title="PREMIUM",HBO HD
-http://203.153.218.28:9981/stream/channelid/37129950?ticket=DBCF024D9A3E4F58C90E2EBA7BB30FB700306650&profile=pass
+http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110203?play_token=k6FBsKC5O0
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://static.iptv-epg.com/id/HBO.id.png" group-title="PREMIUM",HBO Family2
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=6A230BCD275160BC241A718EFB00115CB1F94794&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uk1vfJk.png" group-title="PREMIUM",HBO Family
@@ -354,7 +358,7 @@ http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="PREMIUM",HBO Signature
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="PREMIUM",Cinemax
-http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
+http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110204?play_token=k6FBsKC5O0
 #EXTINF:-1 tvg-logo="https://www.underconsideration.com/brandnew/archives/animal_planet_2018_logo_before_after.png" group-title="PREMIUM",Animal Planet
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/250px-Afc_logo.svg.png" group-title="PREMIUM",Asian Food Channel
@@ -374,7 +378,7 @@ http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817AD
 #EXTINF:-1 tvg-logo="http://tv.dekagon.id/logo/disney_channel_global.png" group-title="PREMIUM",Disney Channel
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeowild_big.png" group-title="PREMIUM",NatGeo Wild 2
-http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941F9938AD9373C4B849363BA&profile=pass
+http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110217?play_token=k6FBsKC5O0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="PREMIUM",National Geographic
 http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PREMIUM",Discovery ID
@@ -419,7 +423,7 @@ https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/CPg9BPY/natgeopeo.png" group-title="KNOWLEDGE",NatGeo-People 
 https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/7j39sz1/histo.jpg" group-title="KNOWLEDGE",HISTORY CHANNEL
-https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110222?play_token=k6FBsKC5O0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/6ZLVKt6/docubo.png" group-title="KNOWLEDGE",DOCUBOX TV
 http://livecdnh3.tvanywhere.ae/hls/docubox/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY CHANNEL
@@ -427,11 +431,11 @@ https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY ASIA
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY-CHANNEL HD
-http://ott.artmott.com/DiscoveryCH/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY-CHANNEL RUS
-http://136.243.177.164/DISCOVERYCHANNEL/playlist.m3u8
+http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110219?play_token=k6FBsKC5O0
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY-Asia2
+http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110220?play_token=k6FBsKC5O0
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/DiscoveryScience.au.png" group-title="KNOWLEDGE",Discovery Science
-http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
+http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110221?play_token=k6FBsKC5O0
 #EXTINF:-1  group-title="KNOWLEDGE",Investigation Discovery
 http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="KNOWLEDGE",CrimeInvestigation
@@ -439,13 +443,13 @@ http://ott.artmott.com/CrimeAndInvestigation/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Asia Food Channel
 http://58.186.77.229:6606/udp/225.1.4.36:30120
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",FOOD
-http://5.135.92.133:52841/out/u/502_1.m3u8
+http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110240?play_token=k6FBsKC5O0
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",AFN
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b450000.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",AnimalPlanet RUS ENG
-http://136.243.177.164/ANIMALPLANET/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",AnimalPlanetENG
+http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110223?play_token=k6FBsKC5O0
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Fine&Living
 http://70.32.0.9:5000/live/543/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.outdoorchannel.com/network/img/odc/logo.png" group-title="KNOWLEDGE",Outdoor Channel
@@ -543,7 +547,9 @@ http://34.69.67.123:8888/tvnow/http://sv5.dailymotion.com.1cdn.host/live/starz/c
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndFlix.in.png" group-title="SUB PREMIUM",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndPrive.in.png" group-title="SUB PREMIUM",&Prive
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8 
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndPrive.in.png" group-title="SUB PREMIUM",Hello MYS
+http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110236?play_token=k6FBsKC5O0
 
 
 #EXTM3U
@@ -571,8 +577,8 @@ https://dl.dropbox.com/s/emp7q8g3tc1kikj/BMusik.m3u8?dl=1
 http://203.154.243.89:1213
 
 
-
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/wwRP0qz/redb.png" group-title="SPORTS",Astro Arena
+http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110235?play_token=k6FBsKC5O0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/wwRP0qz/redb.png" group-title="SPORTS",REDBull Tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FightSport

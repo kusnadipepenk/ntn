@@ -539,7 +539,7 @@ https://shls-mbcmax-prod.shahid.net/mbcmax-prod_5.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",MBC Action
 https://shls-mbcaction-prod.shahid.net/mbcaction-prod_5.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/tQNt4Bf/star.jpg" group-title="SUB PREMIUM",Starmovies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
+http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Z8YSxCB/sstarw.jpg" group-title="SUB PREMIUM",StarWorld
 http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",MBC4

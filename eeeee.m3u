@@ -228,11 +228,11 @@ http://213.174.8.7:9100/index.m3u8
 
 
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",ohk
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",ohk
 http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110200?play_token=k6FBsKC5O0
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",TVNMovies
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",TVNMovies
 http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110205?play_token=k6FBsKC5O0
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",TVN
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",TVN
 http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110201?play_token=k6FBsKC5O0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN-2
 http://45.126.83.51/uq2663/h/h141/01.m3u8
@@ -638,17 +638,17 @@ http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110260?play_token=k6FBsKC5O0
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",beIN Xtra
 https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",EPL Sports 1
-https://cdn-laos.workpoint.news/epl-x1_720/index.m3u8
+http://139.99.17.52:8081/liveorigin/epl-1_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",EPL Sports 2
-https://cdn-laos.workpoint.news/epl-x2_720/index.m3u8
+http://139.99.17.52:8081/liveorigin/epl-2_720/playlist.m3u8
 #EXTINF:-1  group-title="SPORTS",TRUEsport2
 https://cdn-laos.workpoint.news/sd-tsport2_480/index.m3u8
 #EXTINF:-1  group-title="SPORTS",TRUEsport4
 https://cdn-laos.workpoint.news/sd-tsport7_480/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",True Sport 5
-https://cdn-laos.workpoint.news/sd-tsport5_480/index.m3u8
+http://139.99.17.52:8081/liveorigin/sd-tsport2_480/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",True Sport 6
-https://cdn-laos.workpoint.news/sd-tsport6_480/index.m3u8
+http://139.99.17.52:8081/liveorigin/sd-tsport6_480/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.liveonlinetv247.com/images/lfctv.png" group-title="SPORTS",Liverpool TV
 http://160.119.77.50/iptv/uk-lfctv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://officialtvstream.net/wp-content/uploads/2015/05/Chelsea-TV1.png" group-title="SPORTS",Chelsea TV

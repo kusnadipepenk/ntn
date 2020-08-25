@@ -136,8 +136,6 @@ http://210.210.155.35/qwr9ew/s/s23/02.m3u8
 
 
 #EXTM3U
-#EXTINF:-1  group-title="KIDS",GOSPEL CARTOON
-http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
 #EXTINF:-1  tvg-logo="https://i.ibb.co/wyrQfKC/animax.jpg" group-title="KIDS",ANIMAX
 http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/JBh6DYD/aniplus.jpg" group-title="KIDS",ANIPLUS
@@ -152,8 +150,8 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 http://103.47.132.165/PLTV/88888888/224/3221227539/2.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Disney Junior ENG
 http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110230?play_token=k6FBsKC5O0
-#EXTINF:-1  tvg-logo="https://i.ibb.co/p2rYxCW/baby.jpg" group-title="KIDS",BabyTV-UAE
-http://livecdnh1.tvanywhere.ae/hls/baby/02.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/p2rYxCW/baby.jpg" group-title="KIDS",BabyTV
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",DISNEY CHANNEL
 http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110231?play_token=k6FBsKC5O0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Disney
@@ -184,12 +182,10 @@ http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110232?play_token=k6FBsKC5O0
 http://livecdnh3.tvanywhere.ae/hls/duck/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",English Club
 http://livecdnh2.tvanywhere.ae/hls/english_club/02.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/QQFhFrg/nicktoon.png" group-title="KIDS",NICKTOONs
-http://185.176.117.242/live/eds/Nicktoons/HLS_encr/Nicktoons-avc1_600000=11-mp4a_96000_eng=2.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KIDS",NICKelodeonss
-http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110233?play_token=k6FBsKC5O0
-#EXTINF:-1  tvg-logo="" group-title="KIDS",NICK Jr
-http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110234?play_token=k6FBsKC5O0
+#EXTINF:-1 tvg-id="NIC.US" tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="KIDS",Nick
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="NJR.US" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="KIDS",Nick Jr
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1  tvg-logo="" group-title="KIDS",DisneyXD
 http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110229?play_token=k6FBsKC5O0
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/DreamWorks.qa.png" group-title="KIDS",DreamWork
@@ -632,9 +628,9 @@ http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110258?play_token=k6FBsKC5O0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT3 yoyo
 https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Asia
-http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110259?play_token=k6FBsKC5O0
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia
-http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110260?play_token=k6FBsKC5O0
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",beIN Xtra
 https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",EPL Sports 1
@@ -649,12 +645,14 @@ https://cdn-laos.workpoint.news/sd-tsport7_480/index.m3u8
 http://139.99.17.52:8081/liveorigin/sd-tsport2_480/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",True Sport 6
 http://139.99.17.52:8081/liveorigin/sd-tsport6_480/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.liveonlinetv247.com/images/lfctv.png" group-title="SPORTS",Liverpool TV
-http://160.119.77.50/iptv/uk-lfctv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://officialtvstream.net/wp-content/uploads/2015/05/Chelsea-TV1.png" group-title="SPORTS",Chelsea TV
-http://160.119.77.50/iptv/uk-chelseatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.manutd.com/AssetPicker/images/0/0/7/70/476872/MUTV-LightBG1515755997863.png" group-title="SPORTS",Man U TV
-http://160.119.77.50/iptv/uk-mutv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd1.png" group-title="SPORTS",Premier League 1
+http://203.150.107.30:8081/tested2iptv/core101/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd2.png" group-title="SPORTS",Premier League 2
+http://203.150.107.30:8081/tested2iptv/core102/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd3.png" group-title="SPORTS",Premier League 3
+http://203.150.107.30:8081/tested2iptv/core103/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd4.png" group-title="SPORTS",Premier League 4
+https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/kx5Xj9Q/setanta.jpg" group-title="SPORTS",setanta sport
 http://ott-cdn.ucom.am/s81/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/kx5Xj9Q/setanta.jpg" group-title="SPORTS",setanta sport(2)

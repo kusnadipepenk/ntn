@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="COBA2",TVN
+http://tvku.live:8888/Nayra/160190/767.m3u8
+#EXTINF:-1 group-title="COBA2",TVN movies
+http://tvku.live:8888/Nayra/160190/927.m3u8

@@ -1,15 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="COBA2",ServerID: HBO Family HD
-http://nonton.site:8888/live/333/333/4830.m3u8
-#EXTINF:-1 group-title="COBA2",ServerID: HBO HD 
-http://nonton.site:8888/live/333/333/4828.m3u8
-#EXTINF:-1 group-title="COBA2",ServerID: HBO Hits HD
-http://nonton.site:8888/live/333/333/4829.m3u8
-#EXTINF:-1 group-title="COBA2",ServerID: HBO Signature HD
-http://nonton.site:8888/live/333/333/4831.m3u8
-#EXTINF:-1 group-title="COBA2",ServerID: Nick JR ID
+#EXTINF:-1 group-title="COBA2",Galaxy
+http://tvku.live:8888/Nayra/160190/29604.m3u8
+#EXTINF:-1 group-title="COBA2",HBO Family
+http://nonton.site:8888/live/Nayra/160190/26598.m3u8
+#EXTINF:-1 group-title="COBA2",HBO
+http://nonton.site:8888/live/Nayra/160190/26595.m3u8
+#EXTINF:-1 group-title="COBA2",HBO Hits
+http://nonton.site:8888/live/Nayra/160190/26596.m3u8
+#EXTINF:-1 group-title="COBA2",SHBO Signature
+http://nonton.site:8888/live/Nayra/160190/26597.m3u8
+#EXTINF:-1 group-title="COBA2",Nick JR ID
 http://nonton.site:8888/live/333/333/14165.m3u8
-#EXTINF:-1 group-title="COBA2",ServerID: Spacetoon
+#EXTINF:-1 group-title="COBA2",Spacetoon
 http://nonton.site:8888/live/333/333/3603.m3u8
 #EXTINF:-1 group-title="COBA2",Bioskop Indonesia
 http://nonton.site:8888/live/333/333/908.m3u8

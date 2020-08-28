@@ -16,7 +16,7 @@ https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="STASIUN NASIONAL",SCTV
 http://103.47.132.165/PLTV/88888888/224/3221227227/2.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1KX7m3dyRmjcbxJnJbNZrJ9HQyDf3VUuX" group-title="STASIUN NASIONAL",MNC(2)
-https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
+https://chama.ml/channelgratisan-MNCTV
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1KX7m3dyRmjcbxJnJbNZrJ9HQyDf3VUuX" group-title="STASIUN NASIONAL",MNC 3
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
 #EXTINF:-1  tvg-logo="" group-title="STASIUN NASIONAL",MNC sport
@@ -227,9 +227,9 @@ http://213.174.8.7:9100/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",ohk
 http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110200?play_token=k6FBsKC5O0
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",TVNMovies
-http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110205?play_token=k6FBsKC5O0
+https://chama.ml/channelgratisan-TVNMOVIES
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",TVN
-http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110201?play_token=k6FBsKC5O0
+https://chama.ml/channelgratisan-TVN
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN-2
 http://45.126.83.51/uq2663/h/h141/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN

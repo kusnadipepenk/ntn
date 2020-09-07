@@ -53,7 +53,7 @@ http://tvku.live:8888/live/Nayra/160190/287.m3u8
 http://Gooooooggllee.com
 #EXTM3U
 #EXTINF:0 group-title="COBA2",HBOFam
-https://chama.ml/channelgratisan-HBOFAMILY
+http://14.164.59.44:37788/rtp/232.84.3.200:11122
 #EXTINF:0 group-title="COBA2",HBOHitz
 https://chama.ml/channelgratisan-HBOHITZ
 #EXTINF:0 group-title="COBA2",RED

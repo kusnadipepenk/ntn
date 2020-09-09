@@ -431,7 +431,7 @@ https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",MnX MoviesNow
 https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",Romedy Now
-https://timesnow.airtel.tv/live/RN_pull/master.m3u
+https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/DLnnhBP/foxcinema.jpg" group-title="SUB PREMIUM",WarnerTVs
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",MovieMIX

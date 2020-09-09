@@ -379,7 +379,7 @@ https://content-auso2.uplynk.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e/e.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="HBO/FOX GrUP",HBO
 http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="HBO/FOX GrUP",HBO2
-http://136.243.177.164/HBO2/playlist.m3u8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/44.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="HBO/FOX GrUP",HBO3
 http://136.243.177.164/HBO3/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/KF2b185/hbo2.png" group-title="HBO/FOX GrUP",HBO hit TW
@@ -456,6 +456,10 @@ http://34.69.67.123:8888/tvnow/http://sv5.dailymotion.com.1cdn.host/live/starz/c
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndPrive.in.png" group-title="SUB PREMIUM",&Prive
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndFlix.in.png" group-title="SUB PREMIUM",&Flix2
+http://iptv.kitv.live:1935/live/Shari/MTV-P/40.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",MN+
+http://iptv.kitv.live:1935/live/Shari/MTV-P/38.m3u8 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndPrive.in.png" group-title="SUB PREMIUM",Hello MYS
 http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110236?play_token=k6FBsKC5O0
 

@@ -287,17 +287,17 @@ http://210.210.155.35/session/9b11be32-6a30-11e9-9e00-ade6bb5dc228/qwr9ew/s/s32/
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ByFQvJQ/zeebioskop.jpg" group-title="PREMIUM INDONESIA",ZEE BIOSKOP-2
 http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GCY30fN/hi.jpg" group-title="PREMIUM INDONESIA",Hi
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist_b906000.m3u8
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/56yF6Zx/simin.jpg" group-title="PREMIUM INDONESIA",Sinema Indonesia
-http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227233/2.m3u8
 #EXTINF:-1  group-title="PREMIUM INDONESIA",HOME AND LIVING
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b906000.m3u8
-#EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925599258s.png" group-title="PREMIUM INDONESIA",Filmy
-http://210.210.155.69/s/s62/S4/mnf.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/fdn5j4V/tic.jpg" group-title="PREMIUM INDONESIA",The Indonesian Channel
-http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM INDONESIA",Ruang trampil
-https://dl.dropbox.com/s/8ih2a47l4xq4p2r/Ruangtrampil2.m3u8?dl=0
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM INDONESIA",ID KU
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(9c829723-9b34-49fd-bce4-53efa462576b)/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM INDONESIA",Ruang Trampil
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(f7350a6d-a73b-124e-a604-fefb0d1c8e01)/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Style TV
 http://210.210.155.35/session/d65d1e28-9d39-11e9-bb4c-b82a72d63267/uq2663/h/h01/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/NCHDgCd/ucan.png" group-title="PREMIUM INDONESIA",U-Channel

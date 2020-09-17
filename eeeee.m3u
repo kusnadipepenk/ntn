@@ -501,8 +501,8 @@ http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110252?play_token=k6FBsKC5O0
 http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110253?play_token=k6FBsKC5O0
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Astrosupersport3
 http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110254?play_token=k6FBsKC5O0
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",Astrosupersport4
-http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110255?play_token=k6FBsKC5O0
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",CCTV5
+http://220.158.149.14:9999/live/TV00000000000000000104@HHZT;LIVE
 #EXTINF:-1  tvg-logo="https://i.ibb.co/wwRP0qz/redb.png" group-title="SPORTS",REDBull Tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FightSport

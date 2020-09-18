@@ -336,10 +336,6 @@ http://livecdnh3.tvanywhere.ae/hls/docubox/03.m3u8
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY ASIA
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b450000.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY-CHANNEL HD
-http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110219?play_token=k6FBsKC5O0
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY-Asia2
-http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110220?play_token=k6FBsKC5O0
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/DiscoveryScience.au.png" group-title="KNOWLEDGE",Discovery Science
 http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110221?play_token=k6FBsKC5O0
 #EXTINF:-1  group-title="KNOWLEDGE",Investigation Discovery

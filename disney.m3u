@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="COBA2",Galaxy
-http://tvku.live:8888/live/Nayra/160190/29604.m3u8
+#EXTINF:-1 group-title="COBA2",Galaxyhisto
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 #EXTINF:-1 group-title="COBA2",HBO Family
 http://tvku.live:8888/live/Nayra/160190/26598.m3u8
 #EXTINF:-1 group-title="COBA2",HBO

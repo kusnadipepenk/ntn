@@ -148,8 +148,6 @@ http://210.210.155.35/uq2663/h/h97/index.m3u8
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 #EXTINF:-1  group-title="KIDS",Disney Junior
 http://103.47.132.165/PLTV/88888888/224/3221227539/2.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KIDS",Disney Junior ENG
-http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110230?play_token=k6FBsKC5O0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p2rYxCW/baby.jpg" group-title="KIDS",BabyTV
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",DISNEY CHANNEL
@@ -157,7 +155,7 @@ http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110231?play_token=k6FBsKC5O0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Disney
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMERANGs
-http://livecdnh3.tvanywhere.ae/hls/boomerang/02.m3u8
+https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMERANG-2
 https://livecdn.fptplay.net/qnetlive/boomerang_1000.stream/chunklist.m3u8 
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Cartoon (Rusia).
@@ -176,8 +174,6 @@ http://210.210.155.35/session/a1b2362c-9d39-11e9-9cda-b82a72d63267/qwr9ew/s/s50/
 http://aldirect.hls.huya.com/huyalive/29106097-2689279974-11550369538117730304-2777027112-10057-A-0-1_1200.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",CARTOON-NETWORK
 http://ott.artmott.com/Cartoonnet/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KIDS",CARTON NETWok
-http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110232?play_token=k6FBsKC5O0
 #EXTINF:-1  tvg-logo="" group-title="KIDS",DUCK
 http://livecdnh3.tvanywhere.ae/hls/duck/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",English Club

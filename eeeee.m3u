@@ -315,15 +315,13 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary
 http://210.210.155.35/qwr9ew/s/s20/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b1200000.m3u8
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yR0ZTTB/natgeowild.png" group-title="KNOWLEDGE",Nat-Geo-WILD 
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/CPg9BPY/natgeopeo.png" group-title="KNOWLEDGE",NatGeo-People 
 http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110242?play_token=k6FBsKC5O0
-#EXTINF:-1  tvg-logo="https://i.ibb.co/7j39sz1/histo.jpg" group-title="KNOWLEDGE",HISTORY CHANNEL
-http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110222?play_token=k6FBsKC5O0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/6ZLVKt6/docubo.png" group-title="KNOWLEDGE",DOCUBOX TV
 http://livecdnh3.tvanywhere.ae/hls/docubox/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY CHANNEL
@@ -334,18 +332,10 @@ https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b450000.m3
 http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110221?play_token=k6FBsKC5O0
 #EXTINF:-1  group-title="KNOWLEDGE",Investigation Discovery
 http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="KNOWLEDGE",DMAX
-http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110246?play_token=k6FBsKC5O0
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Asia Food Channel
-http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110241?play_token=k6FBsKC5O0
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",FOOD
-http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110240?play_token=k6FBsKC5O0
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",AFN
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b450000.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",AnimalPlanetENG
-http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110223?play_token=k6FBsKC5O0
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Fine&Living
 http://70.32.0.9:5000/live/543/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.outdoorchannel.com/network/img/odc/logo.png" group-title="KNOWLEDGE",Outdoor Channel
@@ -356,14 +346,7 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b450000.m3u8
 http://ms-azure-video.gslb.startimestv.com/live/SMITHSONIAN_CHANNEL_1166_500_480x360_662502/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/files/console/4fd34ff9-da89-49dd-80ec-14f8294b7ef1.png" group-title="KNOWLEDGE",LOVE NATURE 360p
 http://ms-azure-video.gslb.startimestv.com/live/LOVE_NATURE_1164_500_480x360_662498/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://fastandfunbox.com/g" group-title="KNOWLEDGE",Fast and Fun Box
-http://ott.artmott.com/FAST&FUNBOX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",GOD TV
-https://zypelive-lh.akamaihd.net/i/default_1@710958/index_480_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",HOnor TV
-https://a.jsrdn.com/broadcast/d5b48/+0000/low/c.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",NASSA TV
-https://content-auso2.uplynk.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e/e.m3u8?pbs=7a31d3f07d904e2f8102935918979083
+
 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="HBO/FOX GrUP",HBO
@@ -395,7 +378,7 @@ http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="HBO/FOX GrUP",FOX-Action
 http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28670?play_token=wIFd4zLxUR&token=QhVcUhcJRggXXQUAAgMGAlcEAQJRVgZTVgcMUVcBVlUOBwRVAVlVBVBGGURBEkJRAFtpWgVEXlFdUgJRSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBZCxsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 #EXTINF:-1  tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="HBO/FOX GrUP",FOX Family
-https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b1000000.m3u8
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/1RHVFhx/foxcrime.png" group-title="HBO/FOX GrUP",[TH]FOXCRIME1
 https://cdn-laos.workpoint.news/hd-foxcrime_720/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/LYVcCX3/foxlife.png" group-title="HBO/FOX GrUP",[TH]FOXLive

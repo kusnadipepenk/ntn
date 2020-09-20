@@ -151,7 +151,7 @@ http://103.47.132.165/PLTV/88888888/224/3221227539/2.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Disney Junior ENG
 http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110230?play_token=k6FBsKC5O0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p2rYxCW/baby.jpg" group-title="KIDS",BabyTV
-https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b1200000.m3u8
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",DISNEY CHANNEL
 http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110231?play_token=k6FBsKC5O0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Disney
@@ -246,8 +246,6 @@ http://210.210.155.35/session/4b609526-4bf3-11e9-9bd8-afdb8d9eb786/uq2663/h/h04/
 http://45.126.83.51/uq2663/h/h04/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",KBS WORLD
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",KBS WORLD2
-http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110198?play_token=k6FBsKC5O0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="PREMIUM INDONESIA",K+
 http://45.126.83.51/session/8081835c-6ff5-11e9-8f3a-bfbd9127604e/uq2663/h/h08/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="PREMIUM INDONESIA",KPlus
@@ -375,9 +373,9 @@ https://content-auso2.uplynk.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e/e.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="HBO/FOX GrUP",HBO
 http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="HBO/FOX GrUP",HBO2
-http://iptv.kitv.live:1935/live/Shari/MTV-P/44.m3u8
+http://195.154.184.150:25461/KLp1VrQ0Ig/9UE8tQL5Wf/34793?play_token=cZNK0pfRz6&token=QhVcUhcJRggXBQxSB1UBBFFXAwcCBQEHUFUDB1IGU1hfBQJXBVlVAQVGGURBEkJRAFtpWgVEXlBRUwxSSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlFRChsWQw0FRggXVQdQClESGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBXBgdWFBoRAgkRDREWTENcQC84GxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRABRAwNXFEs=
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="HBO/FOX GrUP",HBOa
-https://jiocdn.fun/jio/jiotv/liv99.php?c=HBO_HD&q=1200&e=.m3u8
+http://iptv.mirrorace.net/?channelid=833
 #EXTINF:-1  tvg-logo="https://i.ibb.co/KF2b185/hbo2.png" group-title="HBO/FOX GrUP",HBO hit TW
 http://136.243.177.164/CINEMAX/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="HBO/FOX GrUP",HBO-ASIA
@@ -394,10 +392,12 @@ http://136.243.177.164/HBO/playlist.m3u8
 http://136.243.177.164/CINEMAX/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="HBO/FOX GrUP",FOX-MOVIE
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="HBO/FOX GrUP",FOX-MOVIE2
+http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28676?play_token=99tSHQmz6a&token=QhVcUhcJRggXVlFVUVQHUFUOD1JVA1RXVVABBFBUAwcOAgAGV1JTAVFGGURBEkJRAFtpWgVEXlFdUgJXSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBZDxsWQw0FRggXUQZQAEQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRABeBgFDGhRQDhMKFxcdF1tELztDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XUwFSCRYc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="HBO/FOX GrUP",FOX Action CH
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="HBO/FOX GrUP",FOX-Action
-https://cdn-laos.workpoint.news/hd-foxaction_720/index.m3u8
+http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28670?play_token=wIFd4zLxUR&token=QhVcUhcJRggXXQUAAgMGAlcEAQJRVgZTVgcMUVcBVlUOBwRVAVlVBVBGGURBEkJRAFtpWgVEXlFdUgJRSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBZCxsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 #EXTINF:-1  tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="HBO/FOX GrUP",FOX Family
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b1000000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/1RHVFhx/foxcrime.png" group-title="HBO/FOX GrUP",[TH]FOXCRIME1

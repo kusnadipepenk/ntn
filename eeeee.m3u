@@ -88,7 +88,7 @@ http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/HhJ5Gyn/bbc.png" group-title="STASIUN BERITA",BBC WORLD
 http://ott-cdn.ucom.am/s24/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/HhJ5Gyn/bbc.png" group-title="STASIUN BERITA",BBC WORLD(2)
-http://ott-cdn.ucom.am/s24/03.m3u8
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/HhJ5Gyn/bbc.png" group-title="STASIUN BERITA",BBC NEWS
 http://27.254.149.109:8081/tumlive/BBC/playlist.m3u8?190.2.154.164/TV0624
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hK7YYg4/cnn.jpg" group-title="STASIUN BERITA",CNN WORLD
@@ -437,8 +437,14 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/40.m3u8
 http://62.210.82.206:25461/pGCRFg3CE2/cR26N4XcVr/34478?play_token=vRkKehJUOG&token=QhVcUhcJRggXUwQDAgRUVVkDAQRQUQdTVgFWUFUGUAIMUg0LU1ZWC1ZGGURBEkJRAFtpWgVEXlBRUAJRSkAXElxFa1oAQ14QB1wBVwFQEhhDQl9eBEReUlBdAFhfVVRWDRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",MN+
 http://iptv.kitv.live:1935/live/Shari/MTV-P/38.m3u8 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndPrive.in.png" group-title="SUB PREMIUM",Hello MYS
-http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110236?play_token=k6FBsKC5O0
+#EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",Filmbox1
+http://84.22.43.246:8000/play/a08d
+#EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",Filmbox2
+http://84.22.43.246:8000/play/a08b
+#EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",Filmbox3
+http://84.22.43.246:8000/play/a08c
+#EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",Filmbox4
+http://84.22.43.246:8000/play/a08e
 
 
 #EXTM3U
@@ -622,12 +628,12 @@ https://cdn-laos.workpoint.news/uk-skysports-golf_720/index.m3u8
 https://cdn-laos.workpoint.news/uk-skysports-football_720/index.m3u8
 #EXTINF:-1 group-title="SPORTS",SKY F1
 https://cdn-laos.workpoint.news/uk-skysports-f1_720/index.m3u8
-#EXTINF:-1 group-title="SPORTS",SKY Criket
-https://cdn-laos.workpoint.news/uk-skysports-cricket_720/index.m3u8
+#EXTINF:-1 group-title="SPORTS",SKY Criketw
+http://103.135.208.14/live/ibox/bd/59.m3u8
 #EXTINF:-1 group-title="SPORTS",SKY arena
-https://cdn-laos.workpoint.news/uk-skysports-arena_720/index.m3u8
+http://103.135.208.14/live/ibox/bd/58.m3u8
 #EXTINF:-1 group-title="SPORTS",SKY Action
-https://cdn-laos.workpoint.news/uk-skysports-action_720/index.m3u8
+http://103.135.208.14/live/ibox/bd/57.m3u8
 
 
 

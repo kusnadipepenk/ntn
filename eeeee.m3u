@@ -227,13 +227,13 @@ https://chama.ml/channelgratisan-TVNMOVIES
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",TVN
 https://chama.ml/channelgratisan-TVN
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN-2
-http://45.126.83.51/uq2663/h/h141/01.m3u8
+http://45.126.83.51/uq2663/h/h141/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN
 http://210.210.155.35/uq2663/h/h141/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/T8fdzXn/blueantx.png" group-title="PREMIUM INDONESIA",BLUEANT EXTREME
 http://210.210.155.35/session/ca6ab734-6a2f-11e9-ae93-9813b3aa7f8f/dr9445/h/h15/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Q8xjNSc/blueantent.png" group-title="PREMIUM INDONESIA",BLUEANT ENTERTAINMENT
-http://45.126.83.51/session/e9b257c8-6a2f-11e9-a76f-b3759a40e2c1/dr9445/h/h16/02.m3u8
+http://210.210.155.35/session/e9b257c8-6a2f-11e9-a76f-b3759a40e2c1/dr9445/h/h16/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/52RHTMt/lbs.jpg" group-title="PREMIUM INDONESIA",LBS TV (K-DRAMA)
 http://210.210.155.35/session/d0b296ce-6a30-11e9-9180-b63a8ba36486/qwr9ew/s/s42/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/VTtxzXm/ciwo.jpg" group-title="PREMIUM INDONESIA",CINEMA WORLD
@@ -425,8 +425,8 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
 https://shls-mbc4-prod.shahid.net/mbc4-prod_5.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hCH0Vq6/mbc2.jpg" group-title="SUB PREMIUM",MBC2
 https://shls-mbc2-prod.shahid.net/mbc2-prod_5.m3u8
-==EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",STARZ
-http://34.69.67.123:8888/tvnow/http://sv5.dailymotion.com.1cdn.host/live/starz/chunks.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",TV1000 action
+http://live-ng-01.more.tv/hls/TV1000_Action_HD/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndFlix.in.png" group-title="SUB PREMIUM",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndPrive.in.png" group-title="SUB PREMIUM",&Prive

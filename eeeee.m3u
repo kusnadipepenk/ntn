@@ -427,10 +427,12 @@ https://shls-mbc4-prod.shahid.net/mbc4-prod_5.m3u8
 https://shls-mbc2-prod.shahid.net/mbc2-prod_5.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",TV1000 action
 http://live-ng-01.more.tv/hls/TV1000_Action_HD/index_1.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",&picture
+https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndFlix.in.png" group-title="SUB PREMIUM",&Flix
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndPrive.in.png" group-title="SUB PREMIUM",&Prive
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndFlix.in.png" group-title="SUB PREMIUM",&Flix2
 http://iptv.kitv.live:1935/live/Shari/MTV-P/40.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndFlix.in.png" group-title="SUB PREMIUM",&Flix3

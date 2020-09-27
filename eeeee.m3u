@@ -517,7 +517,7 @@ https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",beIN Xtra
-https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
+https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",EPL Sports 1
 http://139.99.17.52:8081/liveorigin/epl-1_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",EPL Sports 2
@@ -530,14 +530,6 @@ https://cdn-laos.workpoint.news/sd-tsport7_480/index.m3u8
 http://139.99.17.52:8081/liveorigin/sd-tsport2_480/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",True Sport 6
 http://139.99.17.52:8081/liveorigin/sd-tsport6_480/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd1.png" group-title="SPORTS",Premier League 1
-http://203.150.107.30:8081/tested2iptv/core101/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd2.png" group-title="SPORTS",Premier League 2
-http://203.150.107.30:8081/tested2iptv/core102/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd3.png" group-title="SPORTS",Premier League 3
-http://203.150.107.30:8081/tested2iptv/core103/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd4.png" group-title="SPORTS",Premier League 4
-https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/kx5Xj9Q/setanta.jpg" group-title="SPORTS",setanta sport
 http://ott-cdn.ucom.am/s81/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/kx5Xj9Q/setanta.jpg" group-title="SPORTS",setanta sport(2)
@@ -553,9 +545,9 @@ http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 #EXTINF:-1  group-title="SPORTS",SONY ESPN
 http://103.118.76.229:1935/tvprogram/SONY-ESPN/playlist.m3u8
 #EXTINF:-1  group-title="SPORTS",NEO PRIME
-http://st5.allplay.uz/iptv/68/tracks-v1a1/mono.m3u8
+http://st5.allplay.uz/iptv/68/tracks-v2a1/mono.m3u8
 #EXTINF:-1  group-title="SPORTS",NEO SPORTS
-http://st5.allplay.uz/iptv/24/tracks-v1a1/mono.m3u8
+http://st5.allplay.uz/iptv/24/tracks-v2a1/mono.m3u8
 #EXTINF:-1  group-title="SPORTS",NBA
 http://23.237.22.82:8086/udp/127.0.0.1:56052
 #EXTINF:-1  group-title="SPORTS",SONY TENs
@@ -572,10 +564,6 @@ http://23.237.22.82:8086/udp/127.0.0.1:56050
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",FOOTBALL Channel
 http://ott-cdn.ucom.am/s41/03.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",EUROSport2
-https://cdn-laos.workpoint.news/uk-eurosport_480/index.m3u8 
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",EUROSport
-http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110261?play_token=k6FBsKC5O0
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",EUROSport SD
 http://213.174.8.7:8000/play/15/tracks-v1a1/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",EUROSport2 SD
@@ -604,32 +592,6 @@ http://136.243.177.164/MAXSPORT2/playlist.m3u8
 http://136.243.177.164/MAXSPORT3/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",GOL TV
 http://185.246.209.109:8080/GOL_TV/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SKY SPort F1
-http://ppvplug.net:8000/live/eY4V01PRUN/1fKDdTNJxi/50186.m3u8
-#EXTINF:-1  group-title="SPORTS",SKY sport EPL
-http://185.39.10.20:8081/live/skyepllsh.m3u8?e=1594005579&st=v-X32uGljig4Wozo9B3W9g
-#EXTINF:-1  group-title="SPORTS",MUTV
-https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8
-#EXTINF:-1 group-title="SPORTS",SKY EPL
-https://cdn-laos.workpoint.news/uk-skysports-epl_720/index.m3u8
-#EXTINF:-1 group-title="SPORTS",SKY NEWS
-https://cdn-laos.workpoint.news/uk-skysports-news_480/index.m3u8
-#EXTINF:-1 group-title="SPORTS",SKY MIX
-https://cdn-laos.workpoint.news/uk-skysports-mix_480/index.m3u8
-#EXTINF:-1 group-title="SPORTS",SKY MAINEVENT
-https://cdn-laos.workpoint.news/uk-skysports-mainevent_720/index.m3u8
-#EXTINF:-1 group-title="SPORTS",SKY GOLD
-https://cdn-laos.workpoint.news/uk-skysports-golf_720/index.m3u8
-#EXTINF:-1 group-title="SPORTS",SKY FOOTBALL
-https://cdn-laos.workpoint.news/uk-skysports-football_720/index.m3u8
-#EXTINF:-1 group-title="SPORTS",SKY F1
-https://cdn-laos.workpoint.news/uk-skysports-f1_720/index.m3u8
-#EXTINF:-1 group-title="SPORTS",SKY Criketw
-http://103.135.208.14/live/ibox/bd/59.m3u8
-#EXTINF:-1 group-title="SPORTS",SKY arena
-http://103.135.208.14/live/ibox/bd/58.m3u8
-#EXTINF:-1 group-title="SPORTS",SKY Action
-http://103.135.208.14/live/ibox/bd/57.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

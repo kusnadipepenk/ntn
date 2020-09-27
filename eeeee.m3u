@@ -6,11 +6,11 @@ http://210.210.155.35/session/6141d55e-70a0-11e9-8180-b82a72d63267/qwr9ew/s/s08/
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="STASIUN NASIONAL",TRANSTV
 http://210.210.155.35/session/374c42b0-7f91-11ea-93d1-aea98b62ba73/x6bnqe/s/s252/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="STASIUN NASIONAL",TRANSTV(3)
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1159701384_b384000_sleng.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D5gBX8N/trans7.jpg" group-title="STASIUN NASIONAL",TRANS7
 http://210.210.155.35/session/ce63989c-7f91-11ea-bf5d-bf109e240bb0/qwr9ew/s/s101/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D5gBX8N/trans7.jpg" group-title="STASIUN NASIONAL",TRANS7(3)
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1144427985_b192000_sleng.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="STASIUN NASIONAL",RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="STASIUN NASIONAL",SCTV
@@ -74,11 +74,11 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b2800
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1ORGoY9MMi6-DWGqhEjc5dHr2DAqTOBax" group-title="STASIUN BERITA",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",IDX Channel
-https://cdnmdc2.useetv.com/joss/14/idx/chunklist_w1347672527_b684100_sleng_4791.m3u8
+https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",BERITA SATU WORLD
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/chunklist_b906000.m3u8
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/chunklist.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",JAKARTA GLOBE NEWS CHANNEL
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b906000.m3u8
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",TV PARLEMEN
 http://iptv.didanurwanda.com/channel/live/tvr-parlemen.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",TVRI PAPUA

@@ -12,7 +12,7 @@ https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 #EXTINF:0 group-title="COBA2",HBOFam
 http://14.164.59.44:37788/rtp/232.84.3.200:11122
 #EXTINF:0 group-title="COBA2",HBOHitz
-https://chama.ml/channelgratisan-HBOHITZ
+https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbo.m3u8
 #EXTINF:0 group-title="COBA2",RED
 https://chama.ml/channelgratisan-RED
 #EXTINF:0 group-title="COBA2",HBOSIGN

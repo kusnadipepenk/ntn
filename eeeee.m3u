@@ -133,6 +133,8 @@ http://livecdnh1.tvanywhere.ae:80/hls/tv5/03.m3u8
 http://210.210.155.35/x6bnqe/s/s63/S4/mnf.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",RT News
 http://210.210.155.35/qwr9ew/s/s23/02.m3u8
+#EXTINF:-1  group-title="STASIUN BERITA",DW
+http://198.98.55.16/crtv.php?id=14
 
 
 #EXTM3U
@@ -151,7 +153,7 @@ http://103.47.132.165/PLTV/88888888/224/3221227539/2.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p2rYxCW/baby.jpg" group-title="KIDS",BabyTV
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",DISNEY CHANNEL
-http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110231?play_token=k6FBsKC5O0
+http://198.98.55.16/crtv.php?id=5
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Disney
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMERANGs
@@ -308,6 +310,8 @@ http://210.210.155.35/x6bnqe/s/s101/live.m3u8
 http://210.210.155.35:80/uq2663/h/h22/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",LifeStyle
 http://210.210.155.35:80/uq2663/h/h28/02.m3u8
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",TVEdukasi
+http://185.238.0.145:1313/c/max/tvedukasi-sd.m3u8
 
 
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Arirang Korea
@@ -385,6 +389,8 @@ https://proxystream.canais.link:443/proxy.php?url=fox.m3u8
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="HBO/FOX GrUP",FX2
 http://111.13.111.192/125.227.198.89:8027
+#EXTINF:-1  tvg-logo="" group-title="HBO/FOX GrUP",ChineMovie
+http://198.98.55.16/crtv.php?id=19
 
 
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",The Flash

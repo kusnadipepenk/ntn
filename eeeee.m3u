@@ -431,6 +431,12 @@ https://darmowa-tv.ws/run/co.m3u8?sid=57304801&id=4195&q=tv
 https://darmowa-tv.ws/run/co.m3u8?sid=D91EDD46&id=4194&q=tvhd
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",mm
 https://darmowa-tv.ws/run/co.m3u8?sid=9AAC4ED2&id=17550&q=tvhd
+#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",bbb
+https://darmowa-tv.ws/run/co.m3u8?sid=31E93CE1&id=11644&q=tvhd
+#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",ddd
+https://darmowa-tv.ws/run/co.m3u8?sid=27C47133&id=13105&q=tvhd
+#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",qqq
+https://darmowa-tv.ws/run/co.m3u8?sid=F5357911&id=11633&q=tvhd
 
 
 #EXTM3U

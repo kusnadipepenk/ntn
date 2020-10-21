@@ -421,6 +421,16 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v3a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndFlix.in.png" group-title="SUB PREMIUM",&Flix3
 http://62.210.82.206:25461/pGCRFg3CE2/cR26N4XcVr/34478?play_token=vRkKehJUOG&token=QhVcUhcJRggXUwQDAgRUVVkDAQRQUQdTVgFWUFUGUAIMUg0LU1ZWC1ZGGURBEkJRAFtpWgVEXlBRUAJRSkAXElxFa1oAQ14QB1wBVwFQEhhDQl9eBEReUlBdAFhfVVRWDRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",ee
+https://darmowa-tv.ws/run/co.m3u8?sid=B9EFC54E&id=10259&q=tvhd
+#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",rr
+https://darmowa-tv.ws/run/co.m3u8?sid=C708000D&id=4196&q=tvhd
+#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",hh
+https://darmowa-tv.ws/run/co.m3u8?sid=57304801&id=4195&q=tv
+#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",bb
+https://darmowa-tv.ws/run/co.m3u8?sid=D91EDD46&id=4194&q=tvhd
+#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",mm
+https://darmowa-tv.ws/run/co.m3u8?sid=9AAC4ED2&id=17550&q=tvhd
 
 
 #EXTM3U

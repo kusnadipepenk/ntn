@@ -431,6 +431,8 @@ https://darmowa-tv.ws/run/co.m3u8?sid=57304801&id=4195&q=tv
 https://darmowa-tv.ws/run/co.m3u8?sid=D91EDD46&id=4194&q=tvhd
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",mm
 https://darmowa-tv.ws/run/co.m3u8?sid=9AAC4ED2&id=17550&q=tvhd
+#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",HGTV
+https://s.shidurlive.com/app/18464/chunklist.m3u8?h=pBwvlT5nhDSIoT41-o61Tg&e=1603404463
 
 
 
@@ -464,11 +466,11 @@ http://203.154.243.89:1213
 
 
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",11sport
-https://darmowa-tv.ws/run/co.m3u8?sid=31E93CE1&id=11644&q=tv
+https://darmowa-tv.ws/run/co.m3u8?sid=31E93CE1&id=11644&q=tvhd
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",11sport2
-https://darmowa-tv.ws/run/co.m3u8?sid=27C47133&id=13105&q=tv
+https://darmowa-tv.ws/run/co.m3u8?sid=27C47133&id=13105&q=tvsd
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",11sport3
-https://darmowa-tv.ws/run/co.m3u8?sid=F5357911&id=11633&q=tv
+https://darmowa-tv.ws/run/co.m3u8?sid=F5357911&id=11633&q=tvsd
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",CCTV5
 http://220.158.149.14:9999/live/TV00000000000000000104@HHZT;LIVE
 #EXTINF:-1  tvg-logo="https://i.ibb.co/wwRP0qz/redb.png" group-title="SPORTS",REDBull Tv

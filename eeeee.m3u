@@ -391,6 +391,8 @@ http://111.13.111.192/125.227.198.89:8027
 http://198.98.55.16/crtv.php?id=19
 
 
+#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",DubaiOne
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1300000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",24Box TV
 http://51.158.190.97/hls/stream.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",Black CInema

@@ -317,7 +317,7 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary
 http://210.210.155.35/qwr9ew/s/s20/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth
-https://www.livedoomovie.com/02_BBCEARTH_720p/chunklist.m3u8
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yR0ZTTB/natgeowild.png" group-title="KNOWLEDGE",Nat-Geo-WILD 

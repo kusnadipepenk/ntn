@@ -148,14 +148,16 @@ http://210.210.155.35/session/8f57997a-7f8f-11ea-84dd-806b9117222e/uq2663/h/h98/
 http://210.210.155.35/uq2663/h/h97/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",baby KIDS
 http://185.238.0.145:1313/c/alt/babyfirst.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KIDS",Miaomi
+https://www.livedoomovie.com/02_Miao_Mi_720p/chunklist.m3u8
 #EXTINF:-1  group-title="KIDS",Disney Junior
 http://103.47.132.165/PLTV/88888888/224/3221227539/2.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p2rYxCW/baby.jpg" group-title="KIDS",BabyTV
-https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b450000.m3u8
+https://www.livedoomovie.com/02_Baby_TV_HD_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",DISNEY CHANNEL
 http://198.98.55.16/crtv.php?id=5
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Disney
-http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMERANGs
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMERANG-2
@@ -175,17 +177,15 @@ http://210.210.155.35/session/a1b2362c-9d39-11e9-9cda-b82a72d63267/qwr9ew/s/s50/
 #EXTINF:-1  group-title="KIDS",Detective COnan
 http://aldirect.hls.huya.com/huyalive/29106097-2689279974-11550369538117730304-2777027112-10057-A-0-1_1200.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",CARTOON-NETWORK
-http://ott.artmott.com/Cartoonnet/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KIDS",DUCK
-http://livecdnh3.tvanywhere.ae/hls/duck/03.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KIDS",English Club
+https://www.livedoomovie.com/02_CartoonNetwork_720p/chunklist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KIDS",NIckjr
+https://www.livedoomovie.com/02_Nick_Jr_720p/chunklist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KIDS",NIck
 http://livecdnh2.tvanywhere.ae/hls/english_club/02.m3u8
 #EXTINF:-1 tvg-id="NIC.US" tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="KIDS",Nick
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="NJR.US" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="KIDS",Nick Jr
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1  tvg-logo="" group-title="KIDS",DisneyXD
-http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110229?play_token=k6FBsKC5O0
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/DreamWorks.qa.png" group-title="KIDS",DreamWork
 https://dl.dropbox.com/s/9b9z5db065tqods/DreamWork.m3u8?dl=1
 #EXTINF:-1  tvg-logo="" group-title="KIDS",DavinciKids
@@ -317,27 +317,27 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary
 http://210.210.155.35/qwr9ew/s/s20/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist.m3u8
+https://www.livedoomovie.com/02_BBCEARTH_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b450000.m3u8
+https://www.livedoomovie.com/02_NatGeoHD_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yR0ZTTB/natgeowild.png" group-title="KNOWLEDGE",Nat-Geo-WILD 
-https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+https://www.livedoomovie.com/02_NatGeoWild_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/CPg9BPY/natgeopeo.png" group-title="KNOWLEDGE",NatGeo-People 
-http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110242?play_token=k6FBsKC5O0
+https://www.livedoomovie.com/02_NatPeopleHD_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/6ZLVKt6/docubo.png" group-title="KNOWLEDGE",DOCUBOX TV
 http://livecdnh3.tvanywhere.ae/hls/docubox/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY CHANNEL
-https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b450000.m3u8
+https://www.livedoomovie.com/02_DiscoveryChannel/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY ASIA
-https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b450000.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/DiscoveryScience.au.png" group-title="KNOWLEDGE",Discovery Science
-http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110221?play_token=k6FBsKC5O0
-#EXTINF:-1  group-title="KNOWLEDGE",Investigation Discovery
-http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
+https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",Hostory
+https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:-1  group-title="KNOWLEDGE",H2
+https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",AFN
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
-https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b450000.m3u8
+https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Fine&Living
 http://70.32.0.9:5000/live/543/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.outdoorchannel.com/network/img/odc/logo.png" group-title="KNOWLEDGE",Outdoor Channel
@@ -360,7 +360,7 @@ http://iptv.mirrorace.net/?channelid=833
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="HBO/FOX GrUP",HBO-ASIA
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 #EXTINF:-1 tvg-id="HBO.US" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="HBO/FOX GrUP",Warner tv
-https://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/playlist.m3u8
+https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="HBS.US" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="HBO/FOX GrUP",HBO Signature
 http://live.highstream.club/live/HBOSignature/playlist.m3u8
 #EXTINF:-1 tvg-id="HBZ.US" tvg-logo="https://static.epg.best/us/HBOZone.us.png" group-title="HBO/FOX GrUP",HBO Zone
@@ -371,22 +371,28 @@ http://136.243.177.164/HBO/playlist.m3u8
 http://136.243.177.164/CINEMAX/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="HBO/FOX GrUP",FOX-MOVIE
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="HBO/FOX GrUP",FOX-MOVIE1
+https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="HBO/FOX GrUP",FOX-MOVIE2
 http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28676?play_token=99tSHQmz6a&token=QhVcUhcJRggXVlFVUVQHUFUOD1JVA1RXVVABBFBUAwcOAgAGV1JTAVFGGURBEkJRAFtpWgVEXlFdUgJXSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBZDxsWQw0FRggXUQZQAEQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRABeBgFDGhRQDhMKFxcdF1tELztDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XUwFSCRYc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="HBO/FOX GrUP",FOX Action CH
-http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="HBO/FOX GrUP",FOX-Action
 http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28670?play_token=wIFd4zLxUR&token=QhVcUhcJRggXXQUAAgMGAlcEAQJRVgZTVgcMUVcBVlUOBwRVAVlVBVBGGURBEkJRAFtpWgVEXlFdUgJRSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBZCxsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 #EXTINF:-1  tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="HBO/FOX GrUP",FOX Family
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="HBO/FOX GrUP",FOX Family2
+https://www.livedoomovie.com/02_FoxFamilyHD_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/LYVcCX3/foxlife.png" group-title="HBO/FOX GrUP",[TH]FOXLive
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1  tvg-logo="" group-title="HBO/FOX GrUP",FOX Amerika
-https://proxystream.canais.link:443/proxy.php?url=fox.m3u8
+#EXTINF:-1  tvg-logo="" group-title="HBO/FOX GrUP",FOXlife
+https://www.livedoomovie.com/02_FOX_Life_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="HBO/FOX GrUP",[TH]FOX
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
+https://www.livedoomovie.com/02_FoxThai_720p/chunklist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="HBO/FOX GrUP",Foxcrime
+https://www.livedoomovie.com/02_FoxCrimeHD_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="HBO/FOX GrUP",FX2
-http://111.13.111.192/125.227.198.89:8027
+https://www.livedoomovie.com/02_FXThailand_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="HBO/FOX GrUP",ChineMovie
 http://198.98.55.16/crtv.php?id=19
 #EXTINF:-1  tvg-logo="" group-title="HBO/FOX GrUP",55

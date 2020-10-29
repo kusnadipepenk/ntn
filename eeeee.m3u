@@ -146,10 +146,6 @@ http://210.210.155.35/session/5a96d1bc-6a30-11e9-afe2-91cea6c769ee/dr9445/h/h02/
 http://210.210.155.35/session/8f57997a-7f8f-11ea-84dd-806b9117222e/uq2663/h/h98/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/d0RzNrk/space.png" group-title="KIDS",Lernings
 http://210.210.155.35/uq2663/h/h97/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KIDS",baby KIDS
-http://185.238.0.145:1313/c/alt/babyfirst.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KIDS",Miaomi
-https://www.livedoomovie.com/02_Miao_Mi_720p/chunklist.m3u8
 #EXTINF:-1  group-title="KIDS",Disney Junior
 http://103.47.132.165/PLTV/88888888/224/3221227539/2.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p2rYxCW/baby.jpg" group-title="KIDS",BabyTV

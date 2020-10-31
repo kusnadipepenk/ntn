@@ -166,16 +166,14 @@ http://ott-cdn.ucom.am/s58/03.m3u8
 http://ott-cdn.ucom.am/s59/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/dfbky5y/miaomi.jpg" group-title="KIDS",Miaomi KIDS
 http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/03.m3u8
-#EXTINF:-1  group-title="KIDS",ANIMe JePang
-http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
 #EXTINF:-1  group-title="KIDS",Kids Toons
 http://210.210.155.35/session/a1b2362c-9d39-11e9-9cda-b82a72d63267/qwr9ew/s/s50/02.m3u8
 #EXTINF:-1  group-title="KIDS",Detective COnan
 http://aldirect.hls.huya.com/huyalive/29106097-2689279974-11550369538117730304-2777027112-10057-A-0-1_1200.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",CARTOON-NETWORK
-https://www.livedoomovie.com/02_CartoonNetwork_720p/chunklist.m3u8
+https://oxoo.lk21tvonlineid.com/m3u/cartoonnetwork.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",NIckjr
-https://www.livedoomovie.com/02_Nick_Jr_720p/chunklist.m3u8
+https://oxoo.lk21tvonlineid.com/m3u/nickjr.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",NIck
 http://livecdnh2.tvanywhere.ae/hls/english_club/02.m3u8
 #EXTINF:-1 tvg-id="NIC.US" tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="KIDS",Nick
@@ -183,7 +181,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c
 #EXTINF:-1 tvg-id="NJR.US" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="KIDS",Nick Jr
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/DreamWorks.qa.png" group-title="KIDS",DreamWork
-https://dl.dropbox.com/s/9b9z5db065tqods/DreamWork.m3u8?dl=1
+https://oxoo.lk21tvonlineid.com/m3u/dreamworks.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",DavinciKids
 http://213.174.8.7:11111/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Anime 1
@@ -218,6 +216,8 @@ http://213.174.8.7:9100/index.m3u8
 
 
 #EXTM3U
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",IMC
+https://oxoo.lk21tvonlineid.com/m3u/imc.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",TVN
 https://oxoo.lk21tvonlineid.com/m3u/tvn.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",TVNMovies
@@ -229,7 +229,7 @@ http://103.130.186.138:8800/oxygenplay/sinemaindonesia/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Sinemaindonesia-X
 http://103.130.186.138:8800/oxygenplay/sinemaindonesia-x/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN-2
-http://45.126.83.51/uq2663/h/h141/02.m3u8
+https://oxoo.lk21tvonlineid.com/m3u/axn.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN
 http://210.210.155.35/uq2663/h/h141/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/T8fdzXn/blueantx.png" group-title="PREMIUM INDONESIA",BLUEANT EXTREME
@@ -242,6 +242,10 @@ http://210.210.155.35/session/d0b296ce-6a30-11e9-9180-b63a8ba36486/qwr9ew/s/s42/
 http://210.210.155.35/session/4b609526-4bf3-11e9-9bd8-afdb8d9eb786/uq2663/h/h04/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/VTtxzXm/ciwo.jpg" group-title="PREMIUM INDONESIA",CINEMA WORLD(2)
 http://45.126.83.51/uq2663/h/h04/01.m3u8
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Galaxy
+https://oxoo.lk21tvonlineid.com/m3u/galaxy.m3u8
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",ChineseDrama
+https://oxoo.lk21tvonlineid.com/m3u/chinesedrama.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",KBS WORLD
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="PREMIUM INDONESIA",K+
@@ -310,6 +314,10 @@ http://210.210.155.35:80/uq2663/h/h22/02.m3u8
 http://210.210.155.35:80/uq2663/h/h28/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",TVEdukasi
 http://185.238.0.145:1313/c/max/tvedukasi-sd.m3u8
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",BioskopIndonesia
+https://oxoo.lk21tvonlineid.com/m3u/bioskopindonesia.m3u8
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Flik
+https://oxoo.lk21tvonlineid.com/m3u/flik.m3u8
 
 
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Arirang Korea
@@ -329,9 +337,9 @@ http://livecdnh3.tvanywhere.ae/hls/docubox/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY CHANNEL
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY ASIA
-https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
+https://oxoo.lk21tvonlineid.com/m3u/disco.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",Hostory
-https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
+https://oxoo.lk21tvonlineid.com/m3u/history.m3u8
 #EXTINF:-1  group-title="KNOWLEDGE",H2
 https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",AFN
@@ -524,8 +532,16 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein1
+https://oxoo.lk21tvonlineid.com/m3u/bein1.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein2
+https://oxoo.lk21tvonlineid.com/m3u/bein2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",beIN Xtra
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Champion1
+https://oxoo.lk21tvonlineid.com/m3u/champion1.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Champion2
+https://oxoo.lk21tvonlineid.com/m3u/champion2.m3u8
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",BTsport2
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",BTsport1

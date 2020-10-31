@@ -317,9 +317,9 @@ https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yR0ZTTB/natgeowild.png" group-title="KNOWLEDGE",Nat-Geo-WILD 
-https://www.livedoomovie.com/02_NatGeoWild_720p/chunklist.m3u8
+http://54.37.82.205:8081/liveorigin/hd-natgeowild_720/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/CPg9BPY/natgeopeo.png" group-title="KNOWLEDGE",NatGeo-People 
-https://www.livedoomovie.com/02_NatPeopleHD_720p/chunklist.m3u8
+http://54.37.82.205:8081/liveorigin/hd-natgeo_720/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/6ZLVKt6/docubo.png" group-title="KNOWLEDGE",DOCUBOX TV
 http://livecdnh3.tvanywhere.ae/hls/docubox/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY CHANNEL
@@ -499,11 +499,11 @@ http://210.210.155.35/uq2663/h/h05/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FightSport(2)
 http://210.210.155.35/session/99f95566-7000-11e9-8e97-9239acfe1a75/uq2663/h/h05/02.m3u8
 #EXTINF:0 group-title="SPORTS",FOXSPORT1
-http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28675?play_token=wIFd4zLxUR&token=QhVcUhcJRggXXQUAAgMGAlcEAQJRVgZTVgcMUVcBVlUOBwRVAVlVBVBGGURBEkJRAFtpWgVEXlFdUgJRSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBZCxsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+http://54.37.82.205:8081/liveorigin/hd-foxsports1_720/playlist.m3u8
 #EXTINF:0 group-title="SPORTS",FOXSPORT2
-http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28674?play_token=wIFd4zLxUR&token=QhVcUhcJRggXXQUAAgMGAlcEAQJRVgZTVgcMUVcBVlUOBwRVAVlVBVBGGURBEkJRAFtpWgVEXlFdUgJRSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBZCxsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+http://54.37.82.205:8081/liveorigin/sd-foxsports2_480/playlist.m3u8
 #EXTINF:0 group-title="SPORTS",FOXSPORT3
-http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28673?play_token=wIFd4zLxUR&token=QhVcUhcJRggXXQUAAgMGAlcEAQJRVgZTVgcMUVcBVlUOBwRVAVlVBVBGGURBEkJRAFtpWgVEXlFdUgJRSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBZCxsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+http://54.37.82.205:8081/liveorigin/sd-foxsports3_480/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX SPORT
 http://45.58.62.92:8080
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT1
@@ -536,6 +536,20 @@ https://www.livedoomovies.com/02_PremierHD3_480p/chunklist.m3u8
 https://www.livedoomovies.com/02_PremierHD4_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",EPL Sports 5
 https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Truesport1
+http://54.37.82.205:8081/liveorigin/sd-tsport1_480/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Truesport2
+http://54.37.82.205:8081/liveorigin/sd-tsport2_480/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Truesport3
+http://54.37.82.205:8081/liveorigin/sd-tsport3_480/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Truesport4
+http://54.37.82.205:8081/liveorigin/sd-tsport4_480/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Truesport5
+http://54.37.82.205:8081/liveorigin/sd-tsport5_480/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Truesport7
+http://54.37.82.205:8081/liveorigin/sd-tsport7_480/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Truesport6
+http://54.37.82.205:8081/liveorigin/sd-tsport6_480/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",DIEMASPORT1
 http://136.243.177.164/DIEMASPORT1/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",DIEMASPORT2

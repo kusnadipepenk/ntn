@@ -431,10 +431,6 @@ https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
 https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/DLnnhBP/foxcinema.jpg" group-title="SUB PREMIUM",tetes
-https://oxoo.lk21tvonlineid.com/m3u/flik.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Z8YSxCB/sstarw.jpg" group-title="SUB PREMIUM",StarWorld
-http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",TV1000 action
 http://live-ng-01.more.tv/hls/TV1000_Action_HD/index_1.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",&picture
@@ -494,9 +490,9 @@ http://5.135.92.133:42692/out/u/683_2.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",11sport
 https://darmowa-tv.ws/run/co.m3u8?sid=31E93CE1&id=11644&q=tvhd
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",11sport2
-https://darmowa-tv.ws/run/co.m3u8?sid=27C47133&id=13105&q=tvsd
+https://darmowa-tv.ws/run/co.m3u8?sid=27C47133&id=13105&q=tvhd
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",11sport3
-https://darmowa-tv.ws/run/co.m3u8?sid=F5357911&id=11633&q=tvsd
+https://darmowa-tv.ws/run/co.m3u8?sid=F5357911&id=11633&q=tvhd
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",CCTV5
 http://220.158.149.14:9999/live/TV00000000000000000104@HHZT;LIVE
 #EXTINF:-1  tvg-logo="https://i.ibb.co/wwRP0qz/redb.png" group-title="SPORTS",REDBull Tv
@@ -544,6 +540,10 @@ https://oxoo.lk21tvonlineid.com/m3u/champion2.m3u8
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",BTsport1
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Sportstv
+http://45.134.21.230/hls/T1.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeinSport
+http://45.134.21.230/hls/T2.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Liverpooltv
 https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",MU-TV

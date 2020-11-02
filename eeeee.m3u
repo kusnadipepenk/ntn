@@ -181,7 +181,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b26947
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/DreamWorks.qa.png" group-title="KIDS",DreamWork
 https://oxoo.lk21tvonlineid.com/m3u/dreamworks.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",DavinciKids
-http://213.174.8.7:11111/index.m3u8
+https://oxoo.lk21tvonlineid.com/m3u/davinci.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Anime 1
 http://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1_mid.flv
 #EXTINF:-1  tvg-logo="https://i.imgur.com/CfpXcOY.jpg" group-title="KIDS",Larva
@@ -342,6 +342,8 @@ https://oxoo.lk21tvonlineid.com/m3u/history.m3u8
 https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",AFN
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",AFN2
+https://oxoo.lk21tvonlineid.com/m3u/afn.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
 https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Fine&Living

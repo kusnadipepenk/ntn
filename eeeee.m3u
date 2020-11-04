@@ -219,7 +219,7 @@ https://oxoo.lk21tvonlineid.com/m3u/imc.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",TVN
 https://oxoo.lk21tvonlineid.com/m3u/tvn.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",TVNmovies
-https://oxoo.lk21tvonlineid.com/m3u/tvnmovies.m3u8
+http://thepwfamily.com/stream/tvnmovies.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",MATRIXTV
 http://103.130.186.138:8800/oxygenplay/matrixtv/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",SinemaIndonesia
@@ -243,11 +243,13 @@ http://45.126.83.51/uq2663/h/h04/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Galaxy
 https://oxoo.lk21tvonlineid.com/m3u/galaxy.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",WarnerTV
-https://oxoo.lk21tvonlineid.com/m3u/warner.m3u8
+http://thepwfamily.com/stream/warner.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",ChineseDrama
 https://oxoo.lk21tvonlineid.com/m3u/chinesedrama.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",KBS WORLD
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",KBS WORLD2
+http://thepwfamily.com/stream/kbsworld.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="PREMIUM INDONESIA",K+
 http://45.126.83.51/uq2663/h/h08/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/jWjxD83/sonson.jpg" group-title="PREMIUM INDONESIA",SonyOne
@@ -340,8 +342,8 @@ https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b450000.m3u8
 https://oxoo.lk21tvonlineid.com/m3u/disco.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",History
 https://oxoo.lk21tvonlineid.com/m3u/history.m3u8
-#EXTINF:-1  group-title="KNOWLEDGE",H2
-https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:-1  group-title="KNOWLEDGE",HGTV
+http://thepwfamily.com/stream/hgtv.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",AFN
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",AFN2

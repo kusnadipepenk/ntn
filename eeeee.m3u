@@ -320,6 +320,8 @@ http://185.238.0.145:1313/c/max/tvedukasi-sd.m3u8
 https://oxoo.lk21tvonlineid.com/m3u/bioskopindonesia.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Flik
 https://oxoo.lk21tvonlineid.com/m3u/flik.m3u8
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",HALLYPOP
+https://hallypop-stirr.amagi.tv/playlist480p.m3u8
 
 
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Arirang Korea
@@ -343,6 +345,7 @@ https://oxoo.lk21tvonlineid.com/m3u/disco.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",History
 https://oxoo.lk21tvonlineid.com/m3u/history.m3u8
 #EXTINF:-1  group-title="KNOWLEDGE",HGTV
+http://185.238.0.145:1313/c/ku/see/d.php?a=26e104754d63adb5a0f6ce026be7182b&b=15&c=hgtv&d=b684100
 https://oxoo.lk21tvonlineid.com/m3u/hgtv.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",AFN
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b1200000.m3u8
@@ -544,6 +547,8 @@ https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 https://oxoo.lk21tvonlineid.com/m3u/champion1.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Champion2
 https://oxoo.lk21tvonlineid.com/m3u/champion2.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Champion3
+http://185.238.0.145:1313/c/ku/see/f.php?a=af4f00ca48321fb026865c5a1772dafd&b=geo_6786&c=360p
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",BTsport2
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",BTsport1

@@ -361,8 +361,8 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b1200000.m3u8
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/files/console/26ce4687-165d-4cdd-88ac-18277ade9249.png" group-title="KNOWLEDGE",SMITHSONIAN CHANNEL 360p
 http://ms-azure-video.gslb.startimestv.com/live/SMITHSONIAN_CHANNEL_1166_500_480x360_662502/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/files/console/4fd34ff9-da89-49dd-80ec-14f8294b7ef1.png" group-title="KNOWLEDGE",LOVE NATURE 360p
-http://ms-azure-video.gslb.startimestv.com/live/LOVE_NATURE_1164_500_480x360_662498/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/files/console/4fd34ff9-da89-49dd-80ec-14f8294b7ef1.png" group-title="KNOWLEDGE",LOVE NATURE
+http://185.238.0.145:1313/c/ku/see/f.php?a=0b94ce08688c6389ce7b68c52ce3f8c7&b=geo_6635&c=720p
 
 
 

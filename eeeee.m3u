@@ -514,7 +514,12 @@ https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport3.jpg",FOX Sport 3 (TH)
 https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
-
+#EXTINF:-1 group-title="SPORTS",FOXSPORT1 yusi
+https://oxoo.lk21tvonlineid.com/m3u/foxsport1.m3u8
+#EXTINF:-1 group-title="SPORTS",FOXSPORT2 yusi
+https://oxoo.lk21tvonlineid.com/m3u/foxsport2.m3u8
+#EXTINF:-1 group-title="SPORTS",FOXSPORT3 yusi
+https://oxoo.lk21tvonlineid.com/m3u/foxsport3.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FightSport
 http://210.210.155.35/uq2663/h/h05/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FightSport(2)

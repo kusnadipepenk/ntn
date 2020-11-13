@@ -218,8 +218,10 @@ http://213.174.8.7:9100/index.m3u8
 https://oxoo.lk21tvonlineid.com/m3u/imc.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",TVN
 https://oxoo.lk21tvonlineid.com/m3u/tvn.m3u8
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",TVNVid
+http://185.238.0.145:1313/c/ku/see/f.php?a=7f687767ccf20fcea1c9dc4a5adc2326&b=geo_6362&c=720p
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",TVNmovies
-https://oxoo.lk21tvonlineid.com/m3u/tvnmovies.m3u8
+http://185.238.0.145:1313/c/ku/see/d.php?a=e634d2e5a52687128135405dcec2a585&b=15&c=tvnmovies&d=b684100
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",MATRIXTV
 http://103.130.186.138:8800/oxygenplay/matrixtv/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",SinemaIndonesia

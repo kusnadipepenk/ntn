@@ -144,26 +144,24 @@ http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144
 http://210.210.155.35/session/5a96d1bc-6a30-11e9-afe2-91cea6c769ee/dr9445/h/h02/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",MY KIDS
 http://210.210.155.35/session/8f57997a-7f8f-11ea-84dd-806b9117222e/uq2663/h/h98/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KIDS",SpaceToon
+http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/d0RzNrk/space.png" group-title="KIDS",Lernings
 http://210.210.155.35/uq2663/h/h97/index.m3u8
-#EXTINF:-1  group-title="KIDS",Disney Junior
-http://103.47.132.165/PLTV/88888888/224/3221227539/2.m3u8
+#EXTINF:-1  group-title="KIDS",Horee
+http://185.238.0.145:1313/c/ku/see/f.php?a=0428be7495f8f382d0943cdd4738ffbb&b=geo_7052&c=480p
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p2rYxCW/baby.jpg" group-title="KIDS",BabyTV
 https://www.livedoomovie.com/02_Baby_TV_HD_720p/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",DISNEY CHANNEL
-http://198.98.55.16/crtv.php?id=5
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",ZOOMMOO
+http://185.238.0.145:1313/c/ku/see/f.php?a=90fd25a243f6d14c4b3df082cdc8da66&b=geo_6433&c=480p
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Disney
 https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMERANGs
 https://oxoo.lk21tvonlineid.com/m3u/boomerang.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMERANG-2
 https://livecdn.fptplay.net/qnetlive/boomerang_1000.stream/chunklist.m3u8 
-#EXTINF:-1  tvg-logo="" group-title="KIDS",Cartoon (Rusia).
-http://ott-cdn.ucom.am/s46/03.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KIDS",KIDS (Rusia)
-http://ott-cdn.ucom.am/s58/03.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KIDS",TIJI KIDS (Rusia)
-http://ott-cdn.ucom.am/s59/03.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KIDS",DuckTV
+http://185.238.0.145:1313/c/ku/see/d.php?a=72b6581acc839b106bc92eb8b21d6313a&b=14&c=ducktv&d=b684100
 #EXTINF:-1  tvg-logo="https://i.ibb.co/dfbky5y/miaomi.jpg" group-title="KIDS",Miaomi KIDS
 http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/03.m3u8
 #EXTINF:-1  group-title="KIDS",Kids Toons
@@ -172,6 +170,8 @@ http://210.210.155.35/session/a1b2362c-9d39-11e9-9cda-b82a72d63267/qwr9ew/s/s50/
 http://aldirect.hls.huya.com/huyalive/29106097-2689279974-11550369538117730304-2777027112-10057-A-0-1_1200.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",CARTOON-NETWORK
 https://oxoo.lk21tvonlineid.com/m3u/cartoonnetwork.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KIDS",NickeLodeon
+http://185.238.0.145:1313/c/ku/see/d.php?a=f19b88e6cb8cb067565bb3880b2fb3e1&b=14&c=nickelodeon&d=b684100
 #EXTINF:-1  tvg-logo="" group-title="KIDS",NIckjr
 https://oxoo.lk21tvonlineid.com/m3u/nickjr.m3u8
 #EXTINF:-1 tvg-id="NIC.US" tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="KIDS",Nick
@@ -182,6 +182,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b26947
 https://oxoo.lk21tvonlineid.com/m3u/dreamworks.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",DavinciKids
 https://oxoo.lk21tvonlineid.com/m3u/davinci.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KIDS",Cartoon (Rusia).
+http://ott-cdn.ucom.am/s46/03.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KIDS",KIDS (Rusia)
+http://ott-cdn.ucom.am/s58/03.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KIDS",TIJI KIDS (Rusia)
+http://ott-cdn.ucom.am/s59/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Anime 1
 http://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1_mid.flv
 #EXTINF:-1  tvg-logo="https://i.imgur.com/CfpXcOY.jpg" group-title="KIDS",Larva
@@ -629,8 +635,12 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 
 
-#EXTINF:-1  group-title="Singapore/Malasya",TV3
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQjYebjJyxNyK0LholSDZog)/dm/3/x6qp375/d/live-1.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1
+#EXTINF:-1  group-title="Singapore/Malasya",Heloo
+https://185.238.0.145:1313/c/my/hello-sd.m3u8
+#EXTINF:-1 group-title="Singapore/Malasya",OKEYTV
+https://185.238.0.145:1313/c/my/tvokey-sd.m3u8
+#EXTINF:-1 group-title="Singapore/Malasya",RTMsports
+https://185.238.0.145:1313/c/my/rtmsports-sd.m3u8
 #EXTINF:-1  group-title="Singapore/Malasya",CH5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 #EXTINF:-1  group-title="Singapore/Malasya",CH8
@@ -651,8 +661,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/02.m3u8
 http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
 #EXTINF:-1 group-title="Singapore/Malasya",Prima
 http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m70290ab09fb91755596&ct=17945&tsum=8442816d586a19e1894c18f2285e767e
-#EXTINF:-1 group-title="Singapore/Malasya",OKEYTV
-https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b464000.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/ITV2.uk.png" group-title="UK",ITV 2

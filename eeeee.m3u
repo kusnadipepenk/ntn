@@ -642,11 +642,11 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 
 #EXTINF:-1  group-title="Singapore/Malasya",Heloo
-https://185.238.0.145:1313/c/my/hello-sd.m3u8
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_03.m3u8
 #EXTINF:-1 group-title="Singapore/Malasya",OKEYTV
-https://185.238.0.145:1313/c/my/tvokey-sd.m3u8
+http://185.238.0.145:1313/c/my/tvokey-sd.m3u8
 #EXTINF:-1 group-title="Singapore/Malasya",RTMsports
-https://185.238.0.145:1313/c/my/rtmsports-sd.m3u8
+http://185.238.0.145:1313/c/my/rtmsports-sd.m3u8
 #EXTINF:-1  group-title="Singapore/Malasya",CH5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 #EXTINF:-1  group-title="Singapore/Malasya",CH8

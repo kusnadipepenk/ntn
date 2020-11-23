@@ -173,15 +173,15 @@ https://oxoo.lk21tvonlineid.com/m3u/cartoonnetwork.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",NickeLodeon
 http://185.238.0.145:1313/c/ku/see/d.php?a=f19b88e6cb8cb067565bb3880b2fb3e1&b=14&c=nickelodeon&d=b684100
 #EXTINF:-1  tvg-logo="" group-title="KIDS",NIckjr
-https://oxoo.lk21tvonlineid.com/m3u/nickjr.m3u8
+http://185.238.0.145:1313/c/ku/see/d.php?a=913c4858c66af34fc5575fcb46f3fecb&b=14&c=nickjr&d=b684100
 #EXTINF:-1 tvg-id="NIC.US" tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="KIDS",Nick
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="NJR.US" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="KIDS",Nick Jr
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/DreamWorks.qa.png" group-title="KIDS",DreamWork
-https://oxoo.lk21tvonlineid.com/m3u/dreamworks.m3u8
+http://185.238.0.145:1313/c/ku/see/d.php?a=def4a8e6dcb356771aef3c3ac472f905&b=15&c=dreamworks&d=b684100
 #EXTINF:-1  tvg-logo="" group-title="KIDS",DavinciKids
-https://oxoo.lk21tvonlineid.com/m3u/davinci.m3u8
+http://185.238.0.145:1313/c/ku/see/f.php?a=6828f61cee49c7a4da0f9c1d3e03b857&b=geo_6549&c=480p
 #EXTINF:-1 tvg-id="POP.UK" tvg-logo="http://static.epg.best/gb/Pop.uk.png" group-title="KIDS",Pop UK
 https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PMX.UK" tvg-logo="https://static.epg.best/gb/POPMax.uk.png" group-title="KIDS",POP Max

@@ -259,7 +259,7 @@ http://185.238.0.145:1313/c/ku/see/d.php?a=e91c148e4a522735af840d330b2c4c9e&b=15
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",WarnerTV
 http://185.238.0.145:1313/c/ku/see/d.php?a=1660885848050e9ca9746ddd54e2de25&b=15&c=warner&d=b684100
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",ChineseDrama
-https://oxoo.lk21tvonlineid.com/m3u/chinesedrama.m3u8
+http://185.238.0.145:1313/c/ku/see/d.php?a=1d3695a412cba1dcf01226acc9770409&b=14&c=chinesedrama&d=b894100
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",KBS WORLD
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",KBS WORLD2
@@ -301,7 +301,7 @@ http://210.210.155.35/session/9b11be32-6a30-11e9-9e00-ade6bb5dc228/qwr9ew/s/s32/
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ByFQvJQ/zeebioskop.jpg" group-title="PREMIUM INDONESIA",ZEE BIOSKOP-2
 http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GCY30fN/hi.jpg" group-title="PREMIUM INDONESIA",Hi
-https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/index.m3u8
+http://185.238.0.145:1313/c/max/hi-sd.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/56yF6Zx/simin.jpg" group-title="PREMIUM INDONESIA",Bisnet Adventure.
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:-1  group-title="PREMIUM INDONESIA",HOME AND LIVING
@@ -331,15 +331,16 @@ http://210.210.155.35:80/uq2663/h/h28/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",TVEdukasi
 http://185.238.0.145:1313/c/max/tvedukasi-sd.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",BioskopIndonesia
-https://oxoo.lk21tvonlineid.com/m3u/bioskopindonesia.m3u8
+http://185.238.0.145:1313/c/ku/see/d.php?a=1c7cd47eb6d44a98d7dfb408ac93346b&b=14&c=bioskopindonesia&d=b894100
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Flik
-http://185.238.0.145:1313/c/ku/see/d.php?a=974a977ed8c481816eab7f4fdf6cfc2d&b=15&c=flik&d=b684100
+http://185.238.0.145:1313/c/ku/see/d.php?a=974a977ed8c481816eab7f4fdf6cfc2d&b=15&c=flik&d=b894100
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",HALLYPOP
 https://hallypop-stirr.amagi.tv/playlist480p.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",CitraBioskop
-http://185.238.0.145:1313/c/ku/see/f.php?a=55479c55ebd1efd3ff125f1337100388&b=geo_6684&c=720p
+http://185.238.0.145:1313/c/ku/see/f.php?a=55479c55ebd1efd3ff125f1337100388&b=geo_6684&c=480p
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",CitraEntertainment
-http://185.238.0.145:1313/c/ku/see/f.php?a=ab73f542b6d60c4de151800b8abc0a6c&b=7352&c=720p
+http://185.238.0.145:1313/c/ku/see/f.php?a=ab73f542b6d60c4de151800b8abc0a6c&b=7352&c=480p
+
 
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8

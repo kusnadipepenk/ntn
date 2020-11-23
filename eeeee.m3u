@@ -227,11 +227,9 @@ http://213.174.8.7:9100/index.m3u8
 
 #EXTM3U
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",IMC
-https://oxoo.lk21tvonlineid.com/m3u/imc.m3u8
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",TVN
-https://oxoo.lk21tvonlineid.com/m3u/tvn.m3u8
+http://185.238.0.145:1313/c/ku/see/d.php?a=601dd4047a1b7be8c6d9896b80447d5c&b=14&c=imc&d=b684100
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",TVNVid
-http://185.238.0.145:1313/c/ku/see/f.php?a=7f687767ccf20fcea1c9dc4a5adc2326&b=geo_6362&c=720p
+http://185.238.0.145:1313/c/ku/see/f.php?a=7f687767ccf20fcea1c9dc4a5adc2326&b=geo_6362&c=480p
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",TVNmovies
 http://185.238.0.145:1313/c/ku/see/d.php?a=e634d2e5a52687128135405dcec2a585&b=15&c=tvnmovies&d=b684100
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",MATRIXTV
@@ -255,11 +253,11 @@ http://210.210.155.35/session/4b609526-4bf3-11e9-9bd8-afdb8d9eb786/uq2663/h/h04/
 #EXTINF:-1  tvg-logo="https://i.ibb.co/VTtxzXm/ciwo.jpg" group-title="PREMIUM INDONESIA",CINEMA WORLD(2)
 http://45.126.83.51/uq2663/h/h04/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Galaxy
-https://oxoo.lk21tvonlineid.com/m3u/galaxy.m3u8
+http://185.238.0.145:1313/c/ku/see/d.php?a=e03239b27e34a5f7f3bde739459dd537&b=15&c=galaxy&d=b684100
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",GalaxyPremium
 http://185.238.0.145:1313/c/ku/see/d.php?a=e91c148e4a522735af840d330b2c4c9e&b=15&c=galaxypremium&d=b684100
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",WarnerTV
-https://oxoo.lk21tvonlineid.com/m3u/warner.m3u8
+http://185.238.0.145:1313/c/ku/see/d.php?a=1660885848050e9ca9746ddd54e2de25&b=15&c=warner&d=b684100
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",ChineseDrama
 https://oxoo.lk21tvonlineid.com/m3u/chinesedrama.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",KBS WORLD
@@ -335,7 +333,7 @@ http://185.238.0.145:1313/c/max/tvedukasi-sd.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",BioskopIndonesia
 https://oxoo.lk21tvonlineid.com/m3u/bioskopindonesia.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Flik
-https://oxoo.lk21tvonlineid.com/m3u/flik.m3u8
+http://185.238.0.145:1313/c/ku/see/d.php?a=974a977ed8c481816eab7f4fdf6cfc2d&b=15&c=flik&d=b684100
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",HALLYPOP
 https://hallypop-stirr.amagi.tv/playlist480p.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",CitraBioskop

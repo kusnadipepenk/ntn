@@ -148,8 +148,10 @@ http://210.210.155.35/session/8f57997a-7f8f-11ea-84dd-806b9117222e/uq2663/h/h98/
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/d0RzNrk/space.png" group-title="KIDS",Lernings
 http://210.210.155.35/uq2663/h/h97/index.m3u8
-#EXTINF:-1  group-title="KIDS",Horee
+#EXTINF:-1  group-title="KIDS",Horee HipHIp
 http://185.238.0.145:1313/c/ku/see/f.php?a=0428be7495f8f382d0943cdd4738ffbb&b=geo_7052&c=480p
+#EXTINF:-1  group-title="KIDS",Horeee
+http://185.238.0.145:1313/c/ku/see/f.php?a=5e62d03aec0d17facfc5355dd90d441c&b=geo_6397&c=480p
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p2rYxCW/baby.jpg" group-title="KIDS",BabyTV
 https://www.livedoomovie.com/02_Baby_TV_HD_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",ZOOMMOO
@@ -353,21 +355,21 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo2
 http://185.238.0.145:1313/c/ku/see/d.php?a=f91c676cbee8fc9aa708334fcf26d981&b=15&c=natgeo&d=b894100
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yR0ZTTB/natgeowild.png" group-title="KNOWLEDGE",Nat-Geo-WILD 
-http://185.238.0.145:1313/c/ku/see/d.php?a=757a717ee2ade661c665276734c83b16&b=15&c=natgeowild&d=b894100
+http://thepwfamily.com/stream/natgeowild.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/CPg9BPY/natgeopeo.png" group-title="KNOWLEDGE",NatGeo-People 
 http://185.238.0.145:1313/c/ku/see/d.php?a=d41f2ddc7d689c014ccbe5a65d05578a&b=15&c=natgeopeople&d=b894100
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY CHANNEL
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY ASIA
-https://oxoo.lk21tvonlineid.com/m3u/disco.m3u8
+http://185.238.0.145:1313/c/ku/see/d.php?a=d78acd9cad41bf3b3a0aaa3b4b106c4e&b=15&c=disco&d=b684100
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",History
-http://185.238.0.145:1313/c/ku/see/d.php?a=3cd15f8f2940aff879df34df4e5c2cd1&b=15&c=history&d=b894100
+http://185.238.0.145:1313/c/ku/see/d.php?a=3cd15f8f2940aff879df34df4e5c2cd1&b=15&c=history&d=b684100
 #EXTINF:-1  group-title="KNOWLEDGE",HGTV
-http://185.238.0.145:1313/c/ku/see/d.php?a=26e104754d63adb5a0f6ce026be7182b&b=15&c=hgtv&d=b684100
+http://thepwfamily.com/stream/hgtv.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",AFN
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",AFN2
-https://oxoo.lk21tvonlineid.com/m3u/afn.m3u8
+http://thepwfamily.com/stream/afc.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
 https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Fine&Living
@@ -532,11 +534,11 @@ https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport3.jpg",FOX Sport 3 (TH)
 https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS",FOXSPORT1 yusi
-https://oxoo.lk21tvonlineid.com/m3u/foxsport1.m3u8
+http://thepwfamily.com/stream/foxsport1.m3u8
 #EXTINF:-1 group-title="SPORTS",FOXSPORT2 yusi
-https://oxoo.lk21tvonlineid.com/m3u/foxsport2.m3u8
+http://thepwfamily.com/stream/foxsport2.m3u8
 #EXTINF:-1 group-title="SPORTS",FOXSPORT3 yusi
-https://oxoo.lk21tvonlineid.com/m3u/foxsport3.m3u8
+http://thepwfamily.com/stream/foxsport3.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FightSport
 http://210.210.155.35/uq2663/h/h05/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FightSport(2)
@@ -560,21 +562,17 @@ https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein1
-https://oxoo.lk21tvonlineid.com/m3u/bein1.m3u8
+http://thepwfamily.com/stream/bein1.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein2
-https://oxoo.lk21tvonlineid.com/m3u/bein2.m3u8
+http://thepwfamily.com/stream/bein2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",beIN Xtra
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",Champion1
-https://oxoo.lk21tvonlineid.com/m3u/champion1.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",Champion2
-https://oxoo.lk21tvonlineid.com/m3u/champion2.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Champion3
-http://185.238.0.145:1313/c/ku/see/f.php?a=af4f00ca48321fb026865c5a1772dafd&b=geo_6786&c=720p
+http://185.238.0.145:1313/c/ku/see/f.php?a=af4f00ca48321fb026865c5a1772dafd&b=geo_6786&c=480p
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Champion1a
-http://185.238.0.145:1313/c/ku/see/f.php?a=f72f78a365657d56853b6867fb37dc3c&b=geo_6685&c=720p
+http://185.238.0.145:1313/c/ku/see/f.php?a=f72f78a365657d56853b6867fb37dc3c&b=geo_6685&c=480p
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Champion2b
-http://185.238.0.145:1313/c/ku/see/f.php?a=1458c6647dbf7cca56dff7bfe0576ebb&b=geo_6686&c=720p
+http://185.238.0.145:1313/c/ku/see/f.php?a=1458c6647dbf7cca56dff7bfe0576ebb&b=geo_6686&c=480p
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",BTsports2
 http://185.238.0.145:1313/c/dolive/g/btsport2-hd.m3u8
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",BTsport1

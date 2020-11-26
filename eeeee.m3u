@@ -355,7 +355,7 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo2
 http://185.238.0.145:1313/c/ku/see/d.php?a=f91c676cbee8fc9aa708334fcf26d981&b=15&c=natgeo&d=b894100
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yR0ZTTB/natgeowild.png" group-title="KNOWLEDGE",Nat-Geo-WILD 
-http://thepwfamily.com/stream/natgeowild.m3u8
+http://185.238.0.145:1313/c/ku/see/d.php?a=757a717ee2ade661c665276734c83b16&b=15&c=natgeowild&d=b684100
 #EXTINF:-1  tvg-logo="https://i.ibb.co/CPg9BPY/natgeopeo.png" group-title="KNOWLEDGE",NatGeo-People 
 http://185.238.0.145:1313/c/ku/see/d.php?a=d41f2ddc7d689c014ccbe5a65d05578a&b=15&c=natgeopeople&d=b894100
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY CHANNEL

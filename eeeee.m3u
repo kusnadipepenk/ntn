@@ -331,9 +331,9 @@ http://210.210.155.35:80/uq2663/h/h28/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",TVEdukasi
 http://185.238.0.145:1313/c/max/tvedukasi-sd.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",BioskopIndonesia
-http://185.238.0.145:1313/c/ku/see/d.php?a=1c7cd47eb6d44a98d7dfb408ac93346b&b=14&c=bioskopindonesia&d=b894100
+http://185.238.0.145:1313/c/ku/see/d.php?a=1c7cd47eb6d44a98d7dfb408ac93346b&b=14&c=bioskopindonesia&d=b684100
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Flik
-http://185.238.0.145:1313/c/ku/see/d.php?a=974a977ed8c481816eab7f4fdf6cfc2d&b=15&c=flik&d=b894100
+http://185.238.0.145:1313/c/ku/see/d.php?a=974a977ed8c481816eab7f4fdf6cfc2d&b=15&c=flik&d=b684100
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",HALLYPOP
 https://hallypop-stirr.amagi.tv/playlist480p.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",CitraBioskop

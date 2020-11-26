@@ -365,7 +365,7 @@ http://185.238.0.145:1313/c/ku/see/d.php?a=d78acd9cad41bf3b3a0aaa3b4b106c4e&b=15
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",History
 http://185.238.0.145:1313/c/ku/see/d.php?a=3cd15f8f2940aff879df34df4e5c2cd1&b=15&c=history&d=b684100
 #EXTINF:-1  group-title="KNOWLEDGE",HGTV
-http://thepwfamily.com/stream/hgtv.m3u8
+http://185.238.0.145:1313/c/ku/see/d.php?a=26e104754d63adb5a0f6ce026be7182b&b=15&c=hgtv&d=b684100
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",AFN
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",AFN2
@@ -407,10 +407,6 @@ http://136.243.177.164/CINEMAX/playlist.m3u8
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="HBO/FOX GrUP",FOX-MOVIE1
 https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="HBO/FOX GrUP",FOX-MOVIE2
-http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28676?play_token=99tSHQmz6a&token=QhVcUhcJRggXVlFVUVQHUFUOD1JVA1RXVVABBFBUAwcOAgAGV1JTAVFGGURBEkJRAFtpWgVEXlFdUgJXSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBZDxsWQw0FRggXUQZQAEQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRABeBgFDGhRQDhMKFxcdF1tELztDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XUwFSCRYc
-#EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="HBO/FOX GrUP",FOX-MOVIE3
-http://54.37.82.205:8081/liveorigin/hd-foxpremium_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="HBO/FOX GrUP",FOX Action CH
 https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="HBO/FOX GrUP",FOX-Action

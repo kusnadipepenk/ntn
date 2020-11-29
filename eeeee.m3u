@@ -389,19 +389,9 @@ http://185.238.0.145:1313/c/ku/see/f.php?a=0b94ce08688c6389ce7b68c52ce3f8c7&b=ge
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="HBO/FOX GrUP",HBO
 http://136.243.177.164/HBO/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="HBO/FOX GrUP",HBO2
-http://195.154.184.150:25461/KLp1VrQ0Ig/9UE8tQL5Wf/34793?play_token=cZNK0pfRz6&token=QhVcUhcJRggXBQxSB1UBBFFXAwcCBQEHUFUDB1IGU1hfBQJXBVlVAQVGGURBEkJRAFtpWgVEXlBRUwxSSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlFRChsWQw0FRggXVQdQClESGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBXBgdWFBoRAgkRDREWTENcQC84GxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRABRAwNXFEs=
-#EXTINF:-1  tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="HBO/FOX GrUP",HBOa
-http://iptv.mirrorace.net/?channelid=833
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="HBO/FOX GrUP",HBO-ASIA
-http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 #EXTINF:-1 tvg-id="HBO.US" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="HBO/FOX GrUP",Warner tv
 https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="HBS.US" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="HBO/FOX GrUP",HBO Signature
-http://live.highstream.club/live/HBOSignature/playlist.m3u8
-#EXTINF:-1 tvg-id="HBZ.US" tvg-logo="https://static.epg.best/us/HBOZone.us.png" group-title="HBO/FOX GrUP",HBO Zone
-http://live.highstream.club/live/HBOZone/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/FJPtGSG/hbihit.png" group-title="HBO/FOX GrUP",HBO Plus
+#EXTINF:-1  tvg-logo="" group-title="HBO/FOX GrUP",HBO Plus
 http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="HBO/FOX GrUP",CinemAX
 http://136.243.177.164/CINEMAX/playlist.m3u8
@@ -411,8 +401,6 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b450000.m3u8
 https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="HBO/FOX GrUP",FOX Action CH
 https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="HBO/FOX GrUP",FOX-Action
-http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28670?play_token=wIFd4zLxUR&token=QhVcUhcJRggXXQUAAgMGAlcEAQJRVgZTVgcMUVcBVlUOBwRVAVlVBVBGGURBEkJRAFtpWgVEXlFdUgJRSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBZCxsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 #EXTINF:-1  tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="HBO/FOX GrUP",FOX Family
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b500000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="HBO/FOX GrUP",FOX Family2
@@ -429,12 +417,6 @@ https://www.livedoomovie.com/02_FoxCrimeHD_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_FXThailand_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="HBO/FOX GrUP",ChineMovie
 http://198.98.55.16/crtv.php?id=19
-#EXTINF:-1  tvg-logo="" group-title="HBO/FOX GrUP",55
-http://vp2p2s.my6868.cc/50004/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="HBO/FOX GrUP",rr
-http://vp2p2s.my6868.cc/50005/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="HBO/FOX GrUP",wef
-http://vp2p2s.my6868.cc/20414/index.m3u8
 
 
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",DubaiOne

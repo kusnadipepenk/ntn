@@ -50,11 +50,9 @@ http://210.210.155.35/session/743b191e-6fcd-11e9-a2e4-c81f66f89318/qwr9ew/s/s10/
 #EXTINF:-1  tvg-logo="https://i.ibb.co/7VVYNfZ/tvri.jpg" group-title="STASIUN NASIONAL",TVRI
 http://210.210.155.35/qwr9ew/s/s11/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/7VVYNfZ/tvri.jpg" group-title="STASIUN NASIONAL",TVRI2
-http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://202.80.222.130/000001/2/ch14041511560872104862/1002.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1  tvg-logo="" group-title="STASIUN NASIONAL",TVRI SPORT
 http://210.210.155.35/session/4ef13212-a900-11e9-8ab6-b7d19fbdbf13/qwr9ew/s/s107/02.m3u8
-#EXTINF:-1  tvg-logo="" group-title="STASIUN NASIONAL",ANTARA TV
-https://t4-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/antaratv_all/skrz1j8exe/antaratv_576p/chunks.m3u8
 #EXTINF:-1  tvg-logo="" group-title="STASIUN NASIONAL",MolaSport
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/04.m3u8
 
@@ -76,6 +74,7 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklis
 #EXTINF:-1  group-title="STASIUN BERITA",IDX Channel
 http://185.238.0.145:1313/c/alt/idx-sd.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",BERITASATU WORLD
+http
 #EXTINF:-1  group-title="STASIUN BERITA",The Indonesian Chanel
 http://185.238.0.145:1313/c/max/tic-sd.m3u8
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/chunklist.m3u8

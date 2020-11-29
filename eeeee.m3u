@@ -144,7 +144,7 @@ http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144
 #EXTINF:-1  tvg-logo="https://i.ibb.co/JBh6DYD/aniplus.jpg" group-title="KIDS",ANIPLUS
 http://210.210.155.35/session/5a96d1bc-6a30-11e9-afe2-91cea6c769ee/dr9445/h/h02/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",MY KIDS
-http://210.210.155.35/session/8f57997a-7f8f-11ea-84dd-806b9117222e/uq2663/h/h98/index.m3u8
+http://210.210.155.35/uq2663/h/h98/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",SpaceToon
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/d0RzNrk/space.png" group-title="KIDS",Lernings
@@ -238,9 +238,11 @@ http://185.238.0.145:1313/c/ku/see/d.php?a=e634d2e5a52687128135405dcec2a585&b=15
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",MATRIXTV
 http://103.130.186.138:8800/oxygenplay/matrixtv/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",SinemaIndonesia
-http://103.130.186.138:8800/oxygenplay/sinemaindonesia/index.m3u8
+http://185.238.0.145:1313/c/g/sinemaindonesia.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Sinemaindonesia-X
-http://103.130.186.138:8800/oxygenplay/sinemaindonesia-x/index.m3u8
+http://185.238.0.145:1313/c/g/oxygenplay/sinemaindonesia-x.m3u8
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",DrakorPlus
+http://185.238.0.145:1313/c/g/drakorplus.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN-2
 http://45.126.83.51/uq2663/h/h141/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN

@@ -146,6 +146,8 @@ http://210.210.155.35/session/5a96d1bc-6a30-11e9-afe2-91cea6c769ee/dr9445/h/h02/
 http://210.210.155.35/uq2663/h/h98/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",SpaceToon
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KIDS",DuniaAnak
+http://185.238.0.145:1313/c/ku/see/d.php?a=352b1a859489df76c74fb7e0b41362ef&b=14&c=duniaanak&d=b684100
 #EXTINF:-1  tvg-logo="https://i.ibb.co/d0RzNrk/space.png" group-title="KIDS",Lernings
 http://210.210.155.35/uq2663/h/h97/index.m3u8
 #EXTINF:-1  group-title="KIDS",Horee HipHIp
@@ -184,12 +186,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b26947
 http://185.238.0.145:1313/c/ku/see/d.php?a=def4a8e6dcb356771aef3c3ac472f905&b=15&c=dreamworks&d=b684100
 #EXTINF:-1  tvg-logo="" group-title="KIDS",DavinciKids
 http://185.238.0.145:1313/c/ku/see/f.php?a=6828f61cee49c7a4da0f9c1d3e03b857&b=geo_6549&c=480p
-#EXTINF:-1 tvg-id="POP.UK" tvg-logo="http://static.epg.best/gb/Pop.uk.png" group-title="KIDS",Pop UK
-https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="PMX.UK" tvg-logo="https://static.epg.best/gb/POPMax.uk.png" group-title="KIDS",POP Max
-https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TPO.UK" tvg-logo="https://static.epg.best/gb/Tinypop.uk.png" group-title="KIDS",Tiny Pop
-https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Cartoon (Rusia).
 http://ott-cdn.ucom.am/s46/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",KIDS (Rusia)
@@ -274,6 +270,8 @@ http://210.210.155.35/uq2663/h/h143/02.m3u8
 http://45.126.83.51/session/70890dd8-c9d3-11ea-b6b4-9c15b4da6e2f/uq2663/h/h143/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TDK9V0/mytv.jpg" group-title="PREMIUM INDONESIA",MY TV
 http://210.210.155.35/qwr9ew/s/s46/02.m3u8
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Lifetime
+http://185.238.0.145:1313/c/ku/see/d.php?a=79f3a982fd2496a50c5ec8f88e9b608f&b=14&c=lifetime&d=b684100
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=109_MtH3Y5T8d_07P1VVEnD3sAkyX9_go" group-title="PREMIUM INDONESIA",HITS CH
 http://210.210.155.35/uq2663/h/h37/02.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=109_MtH3Y5T8d_07P1VVEnD3sAkyX9_go" group-title="PREMIUM INDONESIA",HITSCh(2)

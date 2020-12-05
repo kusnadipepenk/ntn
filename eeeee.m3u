@@ -500,11 +500,11 @@ https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport3.jpg",FOX Sport 3 (TH)
 https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS",FOXSPORT1 yusi
-http://thepwfamily.com/stream/foxsport1.m3u8
+https://cdnmdc1.useetv.com/dass/15/foxsport1/chunklist_w478388508_b684100_sleng_90945.m3u8
 #EXTINF:-1 group-title="SPORTS",FOXSPORT2 yusi
-http://thepwfamily.com/stream/foxsport2.m3u8
+https://cdnbal1.useetv.com/dass/15/foxsport2/chunklist_w356031347_b684100_sleng_424675.m3u8
 #EXTINF:-1 group-title="SPORTS",FOXSPORT3 yusi
-http://thepwfamily.com/stream/foxsport3.m3u8
+https://cdnmdc1.useetv.com/dass/15/foxsport3/chunklist_w1036403467_b684100_sleng_enc=dZVe0sRkRgVGf8sNJE0QRg.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FightSport
 http://210.210.155.35/uq2663/h/h05/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FightSport(2)
@@ -524,7 +524,7 @@ https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein1
-http://thepwfamily.com/stream/bein1.m3u8
+https://cdnmdc1.useetv.com/dass/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein2
 http://thepwfamily.com/stream/bein2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",beIN Xtra

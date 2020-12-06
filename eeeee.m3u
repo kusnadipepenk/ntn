@@ -481,14 +481,14 @@ https://dl.dropbox.com/s/emp7q8g3tc1kikj/BMusik.m3u8?dl=1
 http://203.154.243.89:1213
 
 
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",Sport1
-http://5.135.92.133:42692/out/u/683_2.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",11sport
-https://darmowa-tv.ws/run/co.m3u8?sid=31E93CE1&id=11644&q=tvhd
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",11sport2
-https://darmowa-tv.ws/run/co.m3u8?sid=27C47133&id=13105&q=tvhd
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",11sport3
-https://darmowa-tv.ws/run/co.m3u8?sid=F5357911&id=11633&q=tvhd
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeinARB
+http://13.69.174.251/hls/index5.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeinARb
+http://13.69.174.251/hls/index4.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeinaRB
+http://13.69.174.251/hls/index3.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeinArB
+http://13.69.174.251/hls/index2.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",CCTV5
 http://220.158.149.14:9999/live/TV00000000000000000104@HHZT;LIVE
 #EXTINF:-1  tvg-logo="https://i.ibb.co/wwRP0qz/redb.png" group-title="SPORTS",REDBull Tv
@@ -523,8 +523,8 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein1t
-https://cdnmdc1.useetv.com/dass/15/bein1/chunklist_w569980004_b684100_sleng.m3u8?enc=s0kUt6Guh4KDF-wYLykbZg&id=MDg2MDAwZGZmMWQ5MzgzYmJlMzZmMGU2NzUyZGZiYjI=&exp=1607301938
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein1
+https://cdnmdc1.useetv.com/dass/15/bein1/chunklist_w569980004_b684100_sleng_.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein2
 http://thepwfamily.com/stream/bein2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",beIN Xtra

@@ -523,8 +523,8 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein1ts
-https://cdnmdc1.useetv.com/dass/15/bein1/chunklist_.b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8?id=MDg2MDAwZGZmMWQ5MzgzYmJlMzZmMGU2NzUyZGZiYjI=&exp=1607301938
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein1t
+https://cdnmdc1.useetv.com/dass/15/bein1/chunklist_w569980004_b684100_sleng.m3u8?enc=s0kUt6Guh4KDF-wYLykbZg&id=MDg2MDAwZGZmMWQ5MzgzYmJlMzZmMGU2NzUyZGZiYjI=&exp=1607301938
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein2
 http://thepwfamily.com/stream/bein2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",beIN Xtra

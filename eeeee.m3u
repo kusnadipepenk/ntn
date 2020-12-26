@@ -352,6 +352,8 @@ http://185.238.0.145:1313/c/ku/see/d.php?a=d41f2ddc7d689c014ccbe5a65d05578a&b=15
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY ASIA
 http://185.238.0.145:1313/c/ku/see/d.php?a=d78acd9cad41bf3b3a0aaa3b4b106c4e&b=15&c=disco&d=b684100
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DMAX
+http://185.238.0.145:1313/c/g/dmax-sd.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",History
 http://185.238.0.145:1313/c/ku/see/d.php?a=3cd15f8f2940aff879df34df4e5c2cd1&b=15&c=history&d=b684100
 #EXTINF:-1  group-title="KNOWLEDGE",HGTV

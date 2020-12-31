@@ -228,8 +228,8 @@ http://213.174.8.7:9100/index.m3u8
 http://185.238.0.145:1313/c/ku/see/d.php?a=601dd4047a1b7be8c6d9896b80447d5c&b=14&c=imc&d=b684100
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",TVNVid
 https://streaming.useetv.com/joss/15/tvn/chunklist_w981342205_b684100_sleng.m3u8?enc=7RzL2XL_2HA93UXHvAC5fA&exp=1609388066
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",TVNmovie
-https://streaming.useetv.com/joss/15/tvnmovies/chunklist_w238424013_b684100_sleng.m3u8?enc=vyZLLe4pm77GVzsdaJeZCQ&exp=1609383453
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",TVNmovies
+https://streaming.useetv.com/dass/15/tvnmovies/chunklist_w238424013_b684100_sleng_.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",MATRIXTV
 http://103.130.186.138:8800/oxygenplay/matrixtv/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",SinemaIndonesia

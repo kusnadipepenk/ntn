@@ -330,6 +330,8 @@ https://hallypop-stirr.amagi.tv/playlist480p.m3u8
 http://185.238.0.145:1313/c/ku/see/f.php?a=55479c55ebd1efd3ff125f1337100388&b=geo_6684&c=480p
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",CitraEntertainment
 http://185.238.0.145:1313/c/ku/see/f.php?a=ab73f542b6d60c4de151800b8abc0a6c&b=7352&c=480p
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Coba
+https://kusnadipepenk.github.io/campeign/tvn.m3u8
 
 
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Arirang Korea

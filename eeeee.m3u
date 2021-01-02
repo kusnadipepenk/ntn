@@ -151,13 +151,13 @@ http://185.238.0.145:1313/c/ku/see/d.php?a=352b1a859489df76c74fb7e0b41362ef&b=14
 #EXTINF:-1  tvg-logo="https://i.ibb.co/d0RzNrk/space.png" group-title="KIDS",Lernings
 http://210.210.155.35/uq2663/h/h97/index.m3u8
 #EXTINF:-1  group-title="KIDS",Horee HipHIp
-http://185.238.0.145:1313/c/ku/see/f.php?a=0428be7495f8f382d0943cdd4738ffbb&b=geo_7052&c=480p
+http://185.238.0.145:1313/c/ku/see/i.php?a=hiphip-horee&b=geo_7052&c=480p
 #EXTINF:-1  group-title="KIDS",Horeee
-http://185.238.0.145:1313/c/ku/see/f.php?a=5e62d03aec0d17facfc5355dd90d441c&b=geo_6397&c=480p
+http://185.238.0.145:1313/c/ku/see/i.php?a=horee&b=geo_6397&c=480p
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p2rYxCW/baby.jpg" group-title="KIDS",BabyTV
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",ZOOMMOO
-http://185.238.0.145:1313/c/ku/see/f.php?a=90fd26a243f6d14c4b3df082cdc8da66&b=geo_6533&c=480p
+http://185.238.0.145:1313/c/ku/see/i.php?a=zoomoo&b=geo_6533&c=480p
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Disney
 https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMERANGs
@@ -227,7 +227,7 @@ http://213.174.8.7:9100/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",IMC
 http://185.238.0.145:1313/c/ku/see/d.php?a=601dd4047a1b7be8c6d9896b80447d5c&b=14&c=imc&d=b684100
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",TVNVid
-https://streaming.useetv.com/joss/15/tvn/chunklist_w981342205_b684100_sleng.m3u8?enc=7RzL2XL_2HA93UXHvAC5fA&exp=1609388066
+http://185.238.0.145:1313/c/ku/see/i.php?a=tvnid&b=geo_6362&c=480p
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",TVNmovies
 https://streaming.useetv.com/dass/15/tvnmovies/chunklist_w238424013_b684100_sleng_.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",MATRIXTV
@@ -373,9 +373,9 @@ http://185.238.0.145:1313/c/ku/see/d.php?a=2f94a90ca788e63de2cd3b8d2bf558c0&b=14
 #EXTINF:-1 tvg-logo="https://www.outdoorchannel.com/network/img/odc/logo.png" group-title="KNOWLEDGE",OUTDOOR CHANNEL2
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/files/console/26ce4687-165d-4cdd-88ac-18277ade9249.png" group-title="KNOWLEDGE",SMITHSONIAN CH
-http://185.238.0.145:1313/c/ku/see/f.php?a=034e2db715b4e796a5e72861ce06963a&b=geo_6550&c=480p
+http://185.238.0.145:1313/c/ku/see/i.php?a=smithsonian&b=geo_6550&c=480p
 #EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/files/console/4fd34ff9-da89-49dd-80ec-14f8294b7ef1.png" group-title="KNOWLEDGE",LOVE NATURE
-http://185.238.0.145:1313/c/ku/see/f.php?a=0b94ce08688c6389ce7b68c52ce3f8c7&b=geo_6635&c=480p
+http://185.238.0.145:1313/c/ku/see/i.php?a=lovenature&b=geo_6635&c=480p
 
 
 
@@ -536,11 +536,11 @@ http://185.238.0.145:1313/c/ku/see/d.php?a=8492a79c13ef3e4c30f1872d75fd8e81&b=15
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",beIN Xtra
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Champion3
-http://185.238.0.145:1313/c/ku/see/f.php?a=af4f00ca48321fb026865c5a1772dafd&b=geo_6786&c=480p
+http://185.238.0.145:1313/c/ku/see/i.php?a=championtv3&b=geo_6786&c=480p
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Champion1
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=08b00412925ca3fc9f19ad97fc52af0e&b=15&c=champion1&d=b684100
+http://185.238.0.145:1313/c/ku/see/i.php?a=08b00412925ca3fc9f19ad97fc52af0e&b=15&c=champion1&d=b684100
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Champion2
-http://185.238.0.145:1313/c/ku/see/d.m3u8?a=7f1e60a81b19143d67fa4a3d71c9e6c7&b=15&c=champion2&d=b684100
+http://185.238.0.145:1313/c/ku/see/i.php?a=7f1e60a81b19143d67fa4a3d71c9e6c7&b=15&c=champion2&d=b684100
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",BTsports2
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",BTsport1

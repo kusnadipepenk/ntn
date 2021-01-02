@@ -340,6 +340,8 @@ http://210.210.155.35/qwr9ew/s/s20/02.m3u8
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth2
+http://185.238.0.145:1313/c/pre/bbcearth-sd.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo2
@@ -361,19 +363,19 @@ http://185.238.0.145:1313/c/ku/see/h.php?a=hgtv&b=15&c=hgtv&d=b894100
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",AFN
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",AFN2
-http://thepwfamily.com/stream/afc.m3u8
+http://185.238.0.145:1313/c/ku/see/h.php?a=afc&b=14&c=afc&d=b684100
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Fine&Living
 http://70.32.0.9:5000/live/543/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.outdoorchannel.com/network/img/odc/logo.png" group-title="KNOWLEDGE",Outdoor Channel
-http://185.238.0.145:1313/c/ku/see/d.php?a=2f94a90ca788e63de2cd3b8d2bf558c0&b=14&c=outdoor&d=b684100
+http://185.238.0.145:1313/c/ku/see/h.php?a=outdoor&b=14&c=outdoor&d=b684100
 #EXTINF:-1 tvg-logo="https://www.outdoorchannel.com/network/img/odc/logo.png" group-title="KNOWLEDGE",OUTDOOR CHANNEL2
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/files/console/26ce4687-165d-4cdd-88ac-18277ade9249.png" group-title="KNOWLEDGE",SMITHSONIAN CH
 http://185.238.0.145:1313/c/ku/see/i.php?a=smithsonian&b=geo_6550&c=480p
 #EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/files/console/4fd34ff9-da89-49dd-80ec-14f8294b7ef1.png" group-title="KNOWLEDGE",LOVE NATURE
-http://185.238.0.145:1313/c/ku/see/i.php?a=lovenature&b=geo_6635&c=480p
+http://185.238.0.145:1313/c/ku/see/i.php?a=love-nature&b=geo_6635&c=480p
 
 
 

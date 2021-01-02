@@ -253,13 +253,13 @@ http://210.210.155.35/session/4b609526-4bf3-11e9-9bd8-afdb8d9eb786/uq2663/h/h04/
 #EXTINF:-1  tvg-logo="https://i.ibb.co/VTtxzXm/ciwo.jpg" group-title="PREMIUM INDONESIA",CINEMA WORLD(2)
 http://45.126.83.51/uq2663/h/h04/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Galaxy
-http://185.238.0.145:1313/c/ku/see/d.php?a=e03239b27e34a5f7f3bde739459dd537&b=15&c=galaxy&d=b684100
+http://185.238.0.145:1313/c/ku/see/h.php?a=galaxy&b=15&c=galaxy&d=b684100
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",GalaxyPremium
-http://185.238.0.145:1313/c/ku/see/d.php?a=e91c148e4a522735af840d330b2c4c9e&b=15&c=galaxypremium&d=b684100
+http://185.238.0.145:1313/c/ku/see/h.php?a=galaxypremium&b=15&c=galaxypremium&d=b684100
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",WarnerTV
-http://185.238.0.145:1313/c/ku/see/d.php?a=1660885848050e9ca9746ddd54e2de25&b=15&c=warner&d=b684100
+http://185.238.0.145:1313/c/ku/see/h.php?a=warner&b=15&c=warner&d=b684100
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",ChineseDrama
-http://185.238.0.145:1313/c/ku/see/d.php?a=1d3695a412cba1dcf01226acc9770409&b=14&c=chinesedrama&d=b894100
+http://185.238.0.145:1313/c/ku/see/h.php?a=chinesedrama&b=14&c=chinesedrama&d=b894100
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",KBS WORLD
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="PREMIUM INDONESIA",K+
@@ -271,7 +271,7 @@ http://45.126.83.51/session/70890dd8-c9d3-11ea-b6b4-9c15b4da6e2f/uq2663/h/h143/0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TDK9V0/mytv.jpg" group-title="PREMIUM INDONESIA",MY TV
 http://210.210.155.35/qwr9ew/s/s46/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Lifetime
-http://185.238.0.145:1313/c/ku/see/d.php?a=79f3a982fd2496a50c5ec8f88e9b608f&b=14&c=lifetime&d=b684100
+http://185.238.0.145:1313/c/ku/see/h.php?a=lifetime&b=14&c=lifetime&d=b684100
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=109_MtH3Y5T8d_07P1VVEnD3sAkyX9_go" group-title="PREMIUM INDONESIA",HITS CH
 http://210.210.155.35/uq2663/h/h37/02.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=109_MtH3Y5T8d_07P1VVEnD3sAkyX9_go" group-title="PREMIUM INDONESIA",HITSCh(2)
@@ -321,17 +321,15 @@ http://210.210.155.35:80/uq2663/h/h28/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",TVEdukasi
 http://185.238.0.145:1313/c/max/tvedukasi-sd.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",BioskopIndonesia
-http://185.238.0.145:1313/c/ku/see/d.php?a=1c7cd47eb6d44a98d7dfb408ac93346b&b=14&c=bioskopindonesia&d=b684100
+http://185.238.0.145:1313/c/ku/see/h.php?a=bioskopindonesia&b=14&c=bioskopindonesia&d=b684100
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Flik
-http://185.238.0.145:1313/c/ku/see/d.php?a=974a977ed8c481816eab7f4fdf6cfc2d&b=15&c=flik&d=b684100
+http://185.238.0.145:1313/c/ku/see/h.php?a=flik&b=15&c=flik&d=b684100
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",HALLYPOP
 https://hallypop-stirr.amagi.tv/playlist480p.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",CitraBioskop
-http://185.238.0.145:1313/c/ku/see/f.php?a=55479c55ebd1efd3ff125f1337100388&b=geo_6684&c=480p
+http://185.238.0.145:1313/c/ku/see/i.php?a=citrabioskop&b=geo_6684&c=480p
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",CitraEntertainment
-http://185.238.0.145:1313/c/ku/see/f.php?a=ab73f542b6d60c4de151800b8abc0a6c&b=7352&c=480p
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Coba
-https://kusnadipepenk.github.io/campeign/tvn.m3u8
+http://185.238.0.145:1313/c/ku/see/i.php?a=citraenternainmen&b=7352&c=480p
 
 
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Arirang Korea
@@ -345,21 +343,21 @@ https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo2
-http://185.238.0.145:1313/c/ku/see/d.php?a=f91c676cbee8fc9aa708334fcf26d981&b=15&c=natgeo&d=b894100
+http://185.238.0.145:1313/c/ku/see/h.php?a=natgeo&b=15&c=natgeo&d=b894100
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yR0ZTTB/natgeowild.png" group-title="KNOWLEDGE",Nat-Geo-WILD 
-http://185.238.0.145:1313/c/ku/see/d.php?a=757a717ee2ade661c665276734c83b16&b=15&c=natgeowild&d=b684100
+http://185.238.0.145:1313/c/ku/see/h.php?a=natgeowild&b=15&c=natgeowild&d=b684100
 #EXTINF:-1  tvg-logo="https://i.ibb.co/CPg9BPY/natgeopeo.png" group-title="KNOWLEDGE",NatGeo-People 
-http://185.238.0.145:1313/c/ku/see/d.php?a=d41f2ddc7d689c014ccbe5a65d05578a&b=15&c=natgeopeople&d=b894100
+http://185.238.0.145:1313/c/ku/see/h.php?a=natgeopeople&b=15&c=natgeopeople&d=b894100
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY CHANNEL
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY ASIA
-http://185.238.0.145:1313/c/ku/see/d.php?a=d78acd9cad41bf3b3a0aaa3b4b106c4e&b=15&c=disco&d=b684100
+http://185.238.0.145:1313/c/ku/see/h.php?a=disco&b=15&c=disco&d=b684100
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DMAX
 http://185.238.0.145:1313/c/g/dmax-sd.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",History
-http://185.238.0.145:1313/c/ku/see/d.php?a=3cd15f8f2940aff879df34df4e5c2cd1&b=15&c=history&d=b684100
+http://185.238.0.145:1313/c/ku/see/h.php?a=history&b=15&c=history&d=b684100
 #EXTINF:-1  group-title="KNOWLEDGE",HGTV
-https://streaming.useetv.com/joss/15/hgtv/chunklist_w549804626_b684100_sleng.m3u8?enc=LPLbeOKkU0xS_wAy1NtQuw&exp=1609381771
+http://185.238.0.145:1313/c/ku/see/h.php?a=hgtv&b=15&c=hgtv&d=b894100
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",AFN
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",AFN2
@@ -437,8 +435,6 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v3a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndPrive.in.png" group-title="SUB PREMIUM",&Prive
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v3a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndFlix.in.png" group-title="SUB PREMIUM",&Flix3
-http://62.210.82.206:25461/pGCRFg3CE2/cR26N4XcVr/34478?play_token=vRkKehJUOG&token=QhVcUhcJRggXUwQDAgRUVVkDAQRQUQdTVgFWUFUGUAIMUg0LU1ZWC1ZGGURBEkJRAFtpWgVEXlBRUAJRSkAXElxFa1oAQ14QB1wBVwFQEhhDQl9eBEReUlBdAFhfVVRWDRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",Holiwudaction
 http://203.154.177.124:8899/live/ch7/chunks.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",MBC
@@ -506,11 +502,11 @@ https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport3.jpg",FOX Sport 3 (TH)
 https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS",FOXSPORT1 yusi
-http://185.238.0.145:1313/c/ku/see/d.php?a=4938af744b253b57bcf6f33d3dbf2f38&b=15&c=foxsport1&d=b684100
+http://185.238.0.145:1313/c/ku/see/h.php?a=foxsport1&b=15&c=foxsport1&d=b684100
 #EXTINF:-1 group-title="SPORTS",FOXSPORT2 yusi
-http://185.238.0.145:1313/c/ku/see/d.php?a=9ca5d4a6246ad7c88e8663da026f1cbd&b=15&c=foxsport2&d=b684100
+http://185.238.0.145:1313/c/ku/see/h.php?a=foxsport2&b=15&c=foxsport2&d=b684100
 #EXTINF:-1 group-title="SPORTS",FOXSPORT3 yusi
-http://185.238.0.145:1313/c/ku/see/d.php?a=c372de9c52ad3489a20563ceca0ffb48&b=15&c=foxsport3&d=b684100
+http://185.238.0.145:1313/c/ku/see/h.php?a=foxsport3&b=15&c=foxsport3&d=b684100
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FightSport
 http://210.210.155.35/uq2663/h/h05/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FightSport(2)
@@ -530,17 +526,17 @@ https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein1
-https://cdnmdc1.useetv.com/dass/15/bein1/chunklist_w569980004_b684100_sleng_.m3u8
+http://185.238.0.145:1313/c/ku/see/h.php?a=bein1&b=15&c=bein1&d=b684100
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein2u
-http://185.238.0.145:1313/c/ku/see/d.php?a=8492a79c13ef3e4c30f1872d75fd8e81&b=15&c=bein2&d=b684100
+http://185.238.0.145:1313/c/ku/see/h.php?a=bein2&b=15&c=bein2&d=b684100
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",beIN Xtra
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Champion3
 http://185.238.0.145:1313/c/ku/see/i.php?a=championtv3&b=geo_6786&c=480p
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Champion1
-http://185.238.0.145:1313/c/ku/see/i.php?a=08b00412925ca3fc9f19ad97fc52af0e&b=15&c=champion1&d=b684100
+http://185.238.0.145:1313/c/ku/see/h.php?a=champion1&b=15&c=champion1&d=b684100
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Champion2
-http://185.238.0.145:1313/c/ku/see/i.php?a=7f1e60a81b19143d67fa4a3d71c9e6c7&b=15&c=champion2&d=b684100
+http://185.238.0.145:1313/c/ku/see/h.php?a=champion2&b=15&c=champion2&d=b684100
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",BTsports2
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",BTsport1

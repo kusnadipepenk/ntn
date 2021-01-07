@@ -225,7 +225,7 @@ http://213.174.8.7:9100/index.m3u8
 
 #EXTM3U
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",IMC
-http://185.238.0.145:1313/c/ku/see/d.php?a=601dd4047a1b7be8c6d9896b80447d5c&b=14&c=imc&d=b684100
+http://185.238.0.145:1313/c/ku/see/h.php?a=imc&b=14&c=imc&d=b684100
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",TVNV
 http://185.238.0.145:1313/c/ku/see/h.php?a=tvn&b=15&c=tvn&d=b894100
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",TVNmovies
@@ -245,7 +245,7 @@ http://210.210.155.35/session/4b609526-4bf3-11e9-9bd8-afdb8d9eb786/uq2663/h/h04/
 #EXTINF:-1  tvg-logo="https://i.ibb.co/VTtxzXm/ciwo.jpg" group-title="PREMIUM INDONESIA",CINEMA WORLD(2)
 http://45.126.83.51/uq2663/h/h04/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Galaxy
-http://185.238.0.145:1313/c/ku/see/h.php?a=galaxy&b=15&c=galaxy&d=b894100
+http://185.238.0.145:1313/c/ku/see/h.php?a=galaxy-&b=15&c=galaxy&d=b894100
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",GalaxyPremium
 http://185.238.0.145:1313/c/ku/see/h.php?a=galaxypremium&b=15&c=galaxypremium&d=b894100
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",WarnerTV
@@ -337,7 +337,7 @@ http://185.238.0.145:1313/c/pre/bbcearth-sd.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo2
-http://185.238.0.145:1313/c/ku/see/h.php?a=natgeo&b=15&c=natgeo&d=b894100
+http://185.238.0.145:1313/c/ku/see/h.php?a=natgeo-&b=15&c=natgeo&d=b894100
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yR0ZTTB/natgeowild.png" group-title="KNOWLEDGE",Nat-Geo-WILD 
 http://185.238.0.145:1313/c/ku/see/h.php?a=natgeowild&b=15&c=natgeowild&d=b894100
 #EXTINF:-1  tvg-logo="https://i.ibb.co/CPg9BPY/natgeopeo.png" group-title="KNOWLEDGE",NatGeo-People 
@@ -355,7 +355,7 @@ http://185.238.0.145:1313/c/ku/see/h.php?a=hgtv&b=15&c=hgtv&d=b894100
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",AFN
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",AFN2
-http://185.238.0.145:1313/c/ku/see/h.php?a=afc&b=14&c=afc&d=b684100
+http://185.238.0.145:1313/c/ku/see/h.php?a=afc-&b=14&c=afc&d=b684100
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Fine&Living

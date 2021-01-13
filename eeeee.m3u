@@ -161,8 +161,6 @@ http://185.238.0.145:1313/c/ku/see/i.php?a=zoomoo&b=geo_6533&c=480p
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Disney
 https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMERANGs
-https://oxoo.lk21tvonlineid.com/m3u/boomerang.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMERANG-2
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b450000.m3u8 
 #EXTINF:-1  tvg-logo="" group-title="KIDS",DuckTV
 http://185.238.0.145:1313/c/ku/see/d.m3u8?a=72b6581acc839b106bc92e8b21d6313a&b=14&c=ducktv&d=b684100
@@ -170,10 +168,8 @@ http://185.238.0.145:1313/c/ku/see/d.m3u8?a=72b6581acc839b106bc92e8b21d6313a&b=1
 http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/03.m3u8
 #EXTINF:-1  group-title="KIDS",Kids Toons
 http://210.210.155.35/session/a1b2362c-9d39-11e9-9cda-b82a72d63267/qwr9ew/s/s50/02.m3u8
-#EXTINF:-1  group-title="KIDS",Detective COnan
-http://aldirect.hls.huya.com/huyalive/29106097-2689279974-11550369538117730304-2777027112-10057-A-0-1_1200.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",CARTOON-NETWORK
-https://oxoo.lk21tvonlineid.com/m3u/cartoonnetwork.m3u8
+http://185.238.0.145:1313/c/ku/see/h.php?a=cartoonnetwork&b=14&c=cartoonnetwork&d=b684100
 #EXTINF:-1  tvg-logo="" group-title="KIDS",NickeLodeon
 http://185.238.0.145:1313/c/ku/see/d.php?a=f19b88e6cb8cb067565bb3880b2fb3e1&b=14&c=nickelodeon&d=b684100
 #EXTINF:-1  tvg-logo="" group-title="KIDS",NIckjr
@@ -185,41 +181,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b26947
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/DreamWorks.qa.png" group-title="KIDS",DreamWork
 http://185.238.0.145:1313/c/ku/see/d.php?a=def4a8e6dcb356771aef3c3ac472f905&b=15&c=dreamworks&d=b684100
 #EXTINF:-1  tvg-logo="" group-title="KIDS",DavinciKids
-http://185.238.0.145:1313/c/ku/see/f.php?a=6828f61cee49c7a4da0f9c1d3e03b857&b=geo_6549&c=480p
+http://185.238.0.145:1313/c/ku/see/i.php?a=davinci&b=geo_6549&c=480p
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Cartoon (Rusia).
 http://ott-cdn.ucom.am/s46/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",KIDS (Rusia)
 http://ott-cdn.ucom.am/s58/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",TIJI KIDS (Rusia)
 http://ott-cdn.ucom.am/s59/03.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KIDS",Anime 1
-http://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1_mid.flv
-#EXTINF:-1  tvg-logo="https://i.imgur.com/CfpXcOY.jpg" group-title="KIDS",Larva
-http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_mid.flv
-#EXTINF:-1  tvg-logo="" group-title="KIDS",NARUTO
-http://ws.flv.nimo.tv/live/su1599512427615r0c4ed6161b23b4d2892824141e30f13b_mid.flv
-#EXTINF:-1  tvg-logo="" group-title="KIDS",DisneyCartoon
-http://ws.flv.nimo.tv/live/su1599512427594r0f36e55ce92a8530ce0317fc4afb9837_mid.flv
-#EXTINF:-1  tvg-logo="" group-title="KIDS",Pokemon
-http://ws.flv.nimo.tv/live/su1599512427623r60a0f49359ab5ea619b0e2a4e448d9af_mid.flv
-#EXTINF:-1  tvg-logo="" group-title="KIDS",DragonBall
-http://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_mid.flv
-#EXTINF:-1  tvg-logo="" group-title="KIDS",Punch
-http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_mid.flv
-#EXTINF:-1  tvg-logo="" group-title="KIDS",Conan1
-http://ws.flv.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388_mid.flv
-#EXTINF:-1  tvg-logo="" group-title="KIDS",Conan2
-http://ws.flv.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e_mid.flv
-#EXTINF:-1  tvg-logo="" group-title="KIDS",OnePiece2
-http://ws.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede_mid.flv
-#EXTINF:-1  tvg-logo="" group-title="KIDS",TomAndJerry
-http://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_mid.flv
-#EXTINF:-1  tvg-logo="" group-title="KIDS",Doraemon1
-http://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_mid.flv
-#EXTINF:-1  tvg-logo="" group-title="KIDS",Doraemon2
-http://ws.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8_mid.flv
-#EXTINF:-1  tvg-logo="" group-title="KIDS",NIKI
-http://213.174.8.7:9100/index.m3u8
+
 
 
 
@@ -252,6 +221,8 @@ http://185.238.0.145:1313/c/ku/see/h.php?a=galaxypremium&b=15&c=galaxypremium&d=
 http://185.238.0.145:1313/c/ku/see/h.php?a=warner&b=15&c=warner&d=b894100
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",ChineseDrama
 http://185.238.0.145:1313/c/ku/see/h.php?a=chinesedrama&b=14&c=chinesedrama&d=b894100
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",KBS WORLD1
+http://185.238.0.145:1313/c/ku/see/h.php?a=kbsworld&b=15&c=kbsworld&d=b894100
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",KBS WORLD
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="PREMIUM INDONESIA",K+

@@ -314,18 +314,6 @@ https://www.livedoomovie.com/02_FXThailand_720p/chunklist.m3u8
 http://198.98.55.16/crtv.php?id=19
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SUB PREMIUM",HBOOo
-https://dl.dropbox.com/s/mz1iezbism3zjy6/hbo.m3u8?dl=1
-#EXTINF:-1 group-title="SUB PREMIUM" tvg-logo="http://cekker.masuk.web.id/logo/hbofam.png", HBO Family
-https://dl.dropbox.com/s/epjbhhbgl8dmtdt/family.m3u8?dl=1
-#EXTINF:-1 group-title="SUB PREMIUM" tvg-logo="http://cekker.masuk.web.id/logo/hbosig.png", HBO Signature
-https://www.dropbox.com/s/dllbdpdkssknyjp/HBOSIGX.m3u8?dl=1
-#EXTINF:-1 group-title="SUB PREMIUM" tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png", Cinemax by HBO
-https://dl.dropbox.com/s/lopcwe16r7c6flw/cinemax.m3u8?dl=1
-#EXTINF:-1 group-title="SUB PREMIUM" tvg-logo="https://macan.live/img/red_hbo.png", RED by HBO
-https://dl.dropbox.com/s/w1sroagglp9ebkv/red.m3u8?dl=1
-#EXTINF:-1 group-title="SUB PREMIUM" tvg-logo="http://cekker.masuk.web.id/logo/hbohits4.png", HBO Hits
-https://www.dropbox.com/s/y1p3h8qlgfvctx8/HBOHITSS.m3u8?dl=1
 #EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",DubaiOne
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1300000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",24Box TV

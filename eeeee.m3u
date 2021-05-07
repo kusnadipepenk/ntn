@@ -206,7 +206,9 @@ http://210.210.155.35/uq2663/h/h19/02.m3u8
 #EXTINF:-1  group-title="PREMIUM INDONESIA",CELESTIAL MOVIE
 http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1kAAMxtPmEZiIdwPi2TFxdhPlW6f5Dpso" group-title="PREMIUM INDONESIA",CELESTIALMOVIE2
-http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/02.m3u8
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1  group-title="PREMIUM INDONESIA",CELESTIAL Classic MOVIE
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vvKpnbc/kixx.jpg" group-title="PREMIUM INDONESIA",KIX
 http://210.210.155.35/session/b32c7bf2-c313-11e8-9362-c81f66f89318/uq2663/h/h07/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vvKpnbc/kixx.jpg" group-title="PREMIUM INDONESIA",KIX(2)
@@ -312,7 +314,19 @@ https://www.livedoomovie.com/02_FXThailand_720p/chunklist.m3u8
 http://198.98.55.16/crtv.php?id=19
 
 
-#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",DubaiOne
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SUB PREMIUM",HBOOo
+https://dl.dropbox.com/s/mz1iezbism3zjy6/hbo.m3u8?dl=1
+#EXTINF:-1 group-title="SUB PREMIUM" tvg-logo="http://cekker.masuk.web.id/logo/hbofam.png", HBO Family
+https://dl.dropbox.com/s/epjbhhbgl8dmtdt/family.m3u8?dl=1
+#EXTINF:-1 group-title="SUB PREMIUM" tvg-logo="http://cekker.masuk.web.id/logo/hbosig.png", HBO Signature
+https://www.dropbox.com/s/dllbdpdkssknyjp/HBOSIGX.m3u8?dl=1
+#EXTINF:-1 group-title="SUB PREMIUM" tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png", Cinemax by HBO
+https://dl.dropbox.com/s/lopcwe16r7c6flw/cinemax.m3u8?dl=1
+#EXTINF:-1 group-title="SUB PREMIUM" tvg-logo="https://macan.live/img/red_hbo.png", RED by HBO
+https://dl.dropbox.com/s/w1sroagglp9ebkv/red.m3u8?dl=1
+#EXTINF:-1 group-title="SUB PREMIUM" tvg-logo="http://cekker.masuk.web.id/logo/hbohits4.png", HBO Hits
+https://www.dropbox.com/s/y1p3h8qlgfvctx8/HBOHITSS.m3u8?dl=1
+#EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",DubaiOne
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1300000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",24Box TV
 http://51.158.190.97/hls/stream.m3u8
@@ -322,8 +336,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u
 https://ws.flv.nimo.tv/live/su1599512427625r1b2b320b004694b1ca38eb84c95aed8a_high.flv
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",S.H.I.E.L.D
 https://ws.flv.nimo.tv/live/su1599512427614r64c6b58ca12709ecc72d82d4f45a42cf_high.flv
-#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",Sherlock Holmes
-https://ws.flv.nimo.tv/live/su1599512427580r629d80fdaf8413c8e7083d1d0cd5fbf5_high.flv
+#EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",BOO
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SUB PREMIUM",MnX MoviesNow

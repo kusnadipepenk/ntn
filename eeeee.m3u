@@ -265,16 +265,18 @@ http://185.238.0.145:1313/c/pre/bbcearth-sd.m3u8
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY CHANNEL
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b450000.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY CH ASIA
-http://185.238.0.145:1313/c/ku/see/h.php?a=disco&b=15&c=disco&d=b894100
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY
+http://89.216.39.29:13006
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERYscience
 http://185.238.0.145:1313/c/g/discoveryscience-sd.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DMAX
-http://185.238.0.145:1313/c/g/dmax-sd.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",History
+http://89.216.39.29:13007
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",AFN
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b450000.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet MY
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Fine&Living
 http://70.32.0.9:5000/live/543/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.outdoorchannel.com/network/img/odc/logo.png" group-title="KNOWLEDGE",OUTDOOR CHANNEL2
@@ -310,8 +312,10 @@ https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b450000.m3u8
 https://www.livedoomovie.com/02_FoxCrimeHD_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",FX2
 https://www.livedoomovie.com/02_FXThailand_720p/chunklist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="MOVIES",ChineMovie
-http://198.98.55.16/crtv.php?id=19
+#EXTINF:-1  tvg-logo="" group-title="MOVIES",FoxMOVIE
+http://89.216.39.29:13008
+#EXTINF:-1  tvg-logo="" group-title="MOVIES",DIVA
+http://89.216.39.29:13012
 
 
 #EXTINF:-1 tvg-logo="" group-title="SUB PREMIUM",DubaiOne

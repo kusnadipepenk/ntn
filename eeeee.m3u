@@ -263,14 +263,18 @@ https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist.m3u8
 http://185.238.0.145:1313/c/pre/bbcearth-sd.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b450000.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo People
+https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeopeople&bandwidth=b894100&sync=0
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild
+https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeowild&bandwidth=b894100&sync=0
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY CHANNEL
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY
-http://89.216.39.29:13006
+https://mkctv.my.id/jarwo/cucok.m3u8?id=disco&bandwidth=b894100&sync=0
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERYscience
 http://185.238.0.145:1313/c/g/discoveryscience-sd.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",History
-http://89.216.39.29:13007
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",History-U
+https://mkctv.my.id/jarwo/cucok.m3u8?id=history&bandwidth=b894100&sync=0
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",AFN
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet

@@ -603,6 +603,16 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6685_720p/index.m3u8
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6686_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions3.png" group-title="VIDIO",Champions TV 3 
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6786_720p/index.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="VIDIO",Bein1
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6299_720p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VIDIO",Bein2
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6317_720p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VIDIO",FoxSport1
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_7648_720p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VIDIO",FoxSport2
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_7649_720p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VIDIO",FoxSport3
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_7650_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvn.png" group-title="VIDIO",TVN 
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6362_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zeebioskop.png" group-title="VIDIO",Zee Bioskop 

@@ -657,4 +657,5 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6550_720p/index.m3u8
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6635_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvedukasi.png" group-title="VIDIO",TV Edukasi 
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6838_720p/index.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="VIDIO",V-Channel
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6898_720p/index.m3u8

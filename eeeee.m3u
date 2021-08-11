@@ -14,11 +14,11 @@ https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_768000=7-mp
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="STASIUN NASIONAL",SCTV
 http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1KX7m3dyRmjcbxJnJbNZrJ9HQyDf3VUuX" group-title="STASIUN NASIONAL",MNCTv
-http://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_768000=7-mp4a_64000_eng=2.m3u8
+http://moegi.akamaized.net/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_768000=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1KX7m3dyRmjcbxJnJbNZrJ9HQyDf3VUuX" group-title="STASIUN NASIONAL",MNCTv-Vid
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_870_480p/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="STASIUN NASIONAL",MNC sport
-http://moegi.akamaized.net/live/eds/mncsports_fta/live_fta/mncsports_fta-avc1_768000=7-mp4a_64000_eng=2.m3u8
+http://moegi.akamaized.net/live/eds/mncsport_fta/live_fta/mncsport_fta-avc1_768000=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_90.png" group-title="STASIUN NASIONAL",MNC Lifestyle
 http://210.210.155.66/h/h28/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="STASIUN NASIONAL",INDOSIAR

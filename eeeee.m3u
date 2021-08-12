@@ -14,7 +14,7 @@ http://gpc.my.id/vidio/rcti.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="STASIUN NASIONAL",SCTV
 http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1KX7m3dyRmjcbxJnJbNZrJ9HQyDf3VUuX" group-title="STASIUN NASIONAL",MNCTv
-hhttp://gpc.my.id/vidio/mnc.m3u8
+http://gpc.my.id/vidio/mnc.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1KX7m3dyRmjcbxJnJbNZrJ9HQyDf3VUuX" group-title="STASIUN NASIONAL",MNCTv-Vid
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_870_480p/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="STASIUN NASIONAL",MNC sport
@@ -172,7 +172,7 @@ http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNMovies
 http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h21/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvND1
-https://gpc.my.id/vidio/tvn.m3u8
+http://gpc.my.id/vidio/tvn.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvND2
 https://omahtv.xyz/stream/vidio-tvn-golive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNMovies1

@@ -255,6 +255,10 @@ http://210.210.155.35:80/uq2663/h/h22/02.m3u8
 http://210.210.155.35:80/uq2663/h/h28/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tVN Malasya
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Galaxy
+http://topwin-tv.my.id/2/master.m3u8?id=galaxy
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Galaxy Premium
+http://topwin-tv.my.id/2/master.m3u8?id=galaxypremium
 
 
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV
@@ -274,7 +278,7 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo People
 https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeopeople&bandwidth=b894100&sync=0
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild
-https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeowild&bandwidth=b894100&sync=0
+http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY CHANNEL
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY
@@ -394,14 +398,8 @@ https://dl.dropbox.com/s/emp7q8g3tc1kikj/BMusik.m3u8?dl=1
 http://203.154.243.89:1213
 
 
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeinARB
-http://13.69.174.251/hls/index5.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeinARb
-http://13.69.174.251/hls/index4.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeinaRB
-http://13.69.174.251/hls/index3.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeinArB
-http://13.69.174.251/hls/index2.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Golf
+http://210.210.155.35/dr9455/h/h10/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SkySpotMAINevent
 http://185.238.0.145:1313/c/dolive/g/skysportsmainevent.php
 #EXTINF:-1  tvg-logo="https://i.ibb.co/wwRP0qz/redb.png" group-title="SPORTS",REDBull Tv
@@ -429,16 +427,16 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1
 http://topwin-tv.my.id/2/master.m3u8?id=beinsport
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Asia
-http://topwin-tv.my.id/2/master.m3u8?id=bein
+https://iptvid.cgflix.xyz/Usee/sport/be1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia
 http://topwin-tv.my.id/2/master.m3u8?id=bein2
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",beIN Xtra
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",Foxsport3U
-http://topwin-tv.my.id/2/master.m3u8?id=foxsport
+#EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",Foxsport1U
+http://topwin-tv.my.id/2/master.m3u8?id=foxsport1
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",Foxsport2U
 http://topwin-tv.my.id/2/master.m3u8?id=foxsport2
-#EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",Foxsport1U
+#EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",Foxsport3U
 http://topwin-tv.my.id/2/master.m3u8?id=foxsport3
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Sportstv
 http://45.134.21.230/hls/T1.m3u8

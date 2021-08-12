@@ -10,11 +10,11 @@ http://210.210.155.35/session/ce63989c-7f91-11ea-bf5d-bf109e240bb0/qwr9ew/s/s101
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D5gBX8N/trans7.jpg" group-title="STASIUN NASIONAL",TRANS7(2)
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="STASIUN NASIONAL",RCTI
-https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_768000=7-mp4a_64000_eng=2.m3u8
+http://gpc.my.id/vidio/rcti.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="STASIUN NASIONAL",SCTV
 http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1KX7m3dyRmjcbxJnJbNZrJ9HQyDf3VUuX" group-title="STASIUN NASIONAL",MNCTv
-http://moegi.akamaized.net/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_768000=7-mp4a_64000_eng=2.m3u8
+hhttp://gpc.my.id/vidio/mnc.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1KX7m3dyRmjcbxJnJbNZrJ9HQyDf3VUuX" group-title="STASIUN NASIONAL",MNCTv-Vid
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_870_480p/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="STASIUN NASIONAL",MNC sport
@@ -30,7 +30,7 @@ https://liveanevia.mncnow.id/live/eds/ANTV/sa_hls/ANTV.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QNQrm50/antv.png" group-title="STASIUN NASIONAL",ANTV
 http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1uNGLnZUnUVO0BuZKQYN-KzIRVb9yXz1x" group-title="STASIUN NASIONAL",GLOBALTV
-https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_768000=7-mp4a_64000_eng=2.m3u8
+http://gpc.my.id/vidio/gtv.m3u8
 #EXTINF:-1  group-title="STASIUN NASIONAL",TV ONE (2)
 http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105/02.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1ZUCUkvAvWR5qJzRj8HG9wJ40MQ71vi5x" group-title="STASIUN NASIONAL",RTV
@@ -172,7 +172,9 @@ http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNMovies
 http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h21/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvND1
-http://210.210.155.35/dr9445/h/h20/01.m3u8
+https://gpc.my.id/vidio/tvn.m3u8
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvND2
+https://omahtv.xyz/stream/vidio-tvn-golive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNMovies1
 http://210.210.155.35/dr9445/h/h21/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNMovies-U
@@ -425,17 +427,17 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT3
 https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Asia
-https://mkctv.my.id/jarwo/cucok.m3u8?id=bein1&bandwidth=b894100&sync=0
+http://topwin-tv.my.id/2/master.m3u8?id=bein1
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia
-https://mkctv.my.id/jarwo/cucok.m3u8?id=bein2&bandwidth=b894100&sync=0
+http://topwin-tv.my.id/2/master.m3u8?id=bein2
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",beIN Xtra
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",Foxsport3U
-https://mkctv.my.id/jarwo/cucok.m3u8?id=foxsport3&bandwidth=b894100&sync=0
+http://topwin-tv.my.id/2/master.m3u8?id=foxsports1
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",Foxsport2U
-https://mkctv.my.id/jarwo/cucok.m3u8?id=foxsport2&bandwidth=b894100&sync=0
+http://topwin-tv.my.id/2/master.m3u8?id=foxsport2
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",Foxsport1U
-https://mkctv.my.id/jarwo/cucok.m3u8?id=foxsport1&bandwidth=b894100&sync=0
+http://topwin-tv.my.id/2/master.m3u8?id=foxsports2
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Sportstv
 http://45.134.21.230/hls/T1.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",BeinSport

@@ -426,18 +426,20 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT3
 https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1
+http://topwin-tv.my.id/2/master.m3u8?id=beinsport
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Asia
-http://topwin-tv.my.id/2/master.m3u8?id=bein1
+http://topwin-tv.my.id/2/master.m3u8?id=bein
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia
 http://topwin-tv.my.id/2/master.m3u8?id=bein2
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",beIN Xtra
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",Foxsport3U
-http://topwin-tv.my.id/2/master.m3u8?id=foxsports1
+http://topwin-tv.my.id/2/master.m3u8?id=foxsport
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",Foxsport2U
 http://topwin-tv.my.id/2/master.m3u8?id=foxsport2
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",Foxsport1U
-http://topwin-tv.my.id/2/master.m3u8?id=foxsports2
+http://topwin-tv.my.id/2/master.m3u8?id=foxsport3
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Sportstv
 http://45.134.21.230/hls/T1.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",BeinSport

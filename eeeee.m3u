@@ -150,20 +150,15 @@ https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b450000.m3u8
 https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMERANGs
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b450000.m3u8 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/dfbky5y/miaomi.jpg" group-title="KIDS",Miaomi KIDS
-http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/03.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dfbky5y/miaomi.jpg" group-title="KIDS",BOOM KIDS
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7199
 #EXTINF:-1  group-title="KIDS",Kids Toons
 http://210.210.155.35/session/a1b2362c-9d39-11e9-9cda-b82a72d63267/qwr9ew/s/s50/02.m3u8
 #EXTINF:-1 tvg-id="NIC.US" tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="KIDS",Nick
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="NJR.US" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="KIDS",Nick Jr
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1  tvg-logo="" group-title="KIDS",Cartoon (Rusia).
-http://ott-cdn.ucom.am/s46/03.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KIDS",KIDS (Rusia)
-http://ott-cdn.ucom.am/s58/03.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KIDS",TIJI KIDS (Rusia)
-http://ott-cdn.ucom.am/s59/03.m3u8
+http://bit.ly/NickJr360p
+#EXTINF:-1 tvg-id="NJR.US" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="KIDS",DisneyUSA
+http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
+
 
 
 #EXTM3U

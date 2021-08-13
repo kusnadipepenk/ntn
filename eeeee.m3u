@@ -267,21 +267,21 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geographic-U
-https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeo&bandwidth=b894100&sync=0
+https://channel.mbed.cc/natgeo.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo People
-https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeopeople&bandwidth=b894100&sync=0
+https://channel.mbed.cc/natgeopeople.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild
 http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY CHANNEL
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY
-http://topwin-tv.my.id/2/master.m3u8?id=discovery
+http://topwin-tv.my.id/2/master.m3u8?id=disco
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERYscience
-http://185.238.0.145:1313/c/g/discoveryscience-sd.m3u8
+https://channel.mbed.cc/disco.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",History-U
-https://mkctv.my.id/jarwo/cucok.m3u8?id=history&bandwidth=b894100&sync=0
+https://channel.mbed.cc/history.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",AFN
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
@@ -639,3 +639,65 @@ https://newlivetv.my.id/vidio/6635-LiveTV.m3u8?livetv
 #https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6838_720p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIDIO",V-Channel
 #https://newlivetv.my.id/vidio/6898-LiveTV.m3u8?livetv
+
+
+#EXTINF:-1 group-title="TES",BTSPORT 1
+http://31.220.41.88:8081/live/bt2.stream/playlist.m3u8
+#EXTINF:-1 group-title="TES",BTSPORT 2 (link2)
+http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
+#EXTINF:-1 group-title="TES",BTSPORT 3
+http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
+#EXTINF:-1 group-title="TES",NBA TV
+http://topwin-tv.my.id/2/master.m3u8?id=nba
+#EXTINF:-1 group-title="TES",Cinemax Action
+http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8
+#EXTINF:-1 group-title="TES",Comedy Central
+http://31.220.41.88:8081/live/us-comedy.stream/playlist.m3u8
+#EXTINF:-1 group-title="TES",DAVE
+http://31.220.41.88:8081/live/dave.stream/playlist.m3u8
+#EXTINF:-1 group-title="TES",DAZN F1
+http://31.220.41.88:8081/live/es-moviestarf1.stream/playlist.m3u8
+#EXTINF:-1 group-title="TES",Discovery Channel
+http://31.220.41.88:8081/live/us-discovery.stream/playlist.m3u8
+#EXTINF:-1 group-title="TES",Disney
+http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8
+#EXTINF:-1 group-title="TES",Disney XD
+http://31.220.41.88:8081/live/disneyxd.stream/playlist.m3u8
+#EXTINF:-1 group-title="TES",ESPN 2 HD
+http://31.220.41.88:8081/live/nl-foxsports2.stream/playlist.m3u8
+#EXTINF:-1 group-title="TES",ESPN 3 HD
+http://31.220.41.88:8081/live/nl-foxsports3.stream/playlist.m3u8
+#EXTINF:-1 group-title="TES",ESPN 4 HD
+http://31.220.41.88:8081/live/nl-foxsports4.stream/playlist.m3u8
+#EXTINF:-1 group-title="TES",FOX
+http://31.220.41.88:8081/live/us-fox.stream/playlist.m3u8
+#EXTINF:-1 group-title="TES",FXX
+http://31.220.41.88:8081/live/us-fxx.stream/playlist.m3u8
+#EXTINF:-1 group-title="TES",hallmark
+http://31.220.41.88:8081/live/us-hallmark.stream/playlist.m3u8
+#EXTINF:-1 group-title="TES",HBO
+http://31.220.41.88:8081/live/us-hbo.stream/playlist.m3u8
+#EXTINF:-1 group-title="TES",HBO Family
+http://31.220.41.88:8081/live/us-hbofamily.stream/playlist.m3u8
+#EXTINF:-1 group-title="TES",HBO Zone
+http://31.220.41.88:8081/live/us-hbozone.stream/playlist.m3u8
+#EXTINF:-1 group-title="TES",DAZN 2
+http://31.220.41.88:8081/live/it-dazn1.stream/playlist.m3u8
+#EXTINF:-1 group-title="TES",Sky Sport Calcio
+http://31.220.41.88:8081/live/it-skysportserieA.stream/playlist.m3u8
+#EXTINF:-1 group-title="TES",Sky Sport Football
+http://31.220.41.88:8081/live/it-skysport-football.stream/playlist.m3u8
+#EXTINF:-1 group-title="TES",Lifetime
+http://31.220.41.88:8081/live/us-lifetime.stream/playlist.m3u8
+#EXTINF:-1 group-title="TES",Lifetime Movie Network
+http://31.220.41.88:8081/live/us-lmn.stream/playlist.m3u8
+#EXTINF:-1 group-title="TES",Nick Jr
+http://31.220.41.88:8081/live/uk-nickjr.stream/playlist.m3u8
+#EXTINF:-1 group-title="TES",Nickelodeon
+http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
+#EXTINF:-1 group-title="TES",Paramount (Spike)
+http://31.220.41.88:8081/live/us-paramount.stream/playlist.m3u8
+#EXTINF:-1 group-title="TES",Premier Sports 1
+http://31.220.41.88:8081/live/prem.stream/playlist.m3u8
+#EXTINF:-1 group-title="TES",SHOWTIME
+http://31.220.41.88:8081/live/us-showtime.stream/playlist.m3u8

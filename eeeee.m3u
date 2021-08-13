@@ -395,10 +395,20 @@ http://203.154.243.89:1213
 
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Golf
 http://210.210.155.35/dr9445/h/h10/01.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SkySpotMAINevent
-http://185.238.0.145:1313/c/dolive/g/skysportsmainevent.php
-#EXTINF:-1  tvg-logo="https://i.ibb.co/wwRP0qz/redb.png" group-title="SPORTS",REDBull Tv
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1
+http://topwin-tv.my.id/2/master.m3u8?id=beinsport
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Asia
+https://iptvid.cgflix.xyz/Usee/sport/be1.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia
+http://topwin-tv.my.id/2/master.m3u8?id=bein2
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",beIN Xtra
+https://bein-plutolive-vo.akamaized.net/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",Foxsport1U
+http://topwin-tv.my.id/2/master.m3u8?id=foxsport1
+#EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",Foxsport2U
+http://topwin-tv.my.id/2/master.m3u8?id=foxsport2
+#EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",Foxsport3U
+http://topwin-tv.my.id/2/master.m3u8?id=foxsport3
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsporthd.jpg",Fox Sport 1 (TH)
 https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport2.jpg",Fox Sport 2 (TH)
@@ -419,20 +429,6 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT3
 https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1
-http://topwin-tv.my.id/2/master.m3u8?id=beinsport
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Asia
-https://iptvid.cgflix.xyz/Usee/sport/be1.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia
-http://topwin-tv.my.id/2/master.m3u8?id=bein2
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",beIN Xtra
-https://bein-plutolive-vo.akamaized.net/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",Foxsport1U
-http://topwin-tv.my.id/2/master.m3u8?id=foxsport1
-#EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",Foxsport2U
-http://topwin-tv.my.id/2/master.m3u8?id=foxsport2
-#EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",Foxsport3U
-http://topwin-tv.my.id/2/master.m3u8?id=foxsport3
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Sportstv
 http://45.134.21.230/hls/T1.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",BeinSport
@@ -477,10 +473,15 @@ http://136.243.177.164/MAXSPORT2/playlist.m3u8
 http://136.243.177.164/MAXSPORT3/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",GOL TV
 http://185.246.209.109:8080/GOL_TV/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",AstroSupersport1
-http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",AstroSupersport2
-http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+#EXTINF:-1 tvg-id="Erz.Assp1" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Astro Supersport 1
+http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+#EXTINF:-1 tvg-id="Erz.Assp2" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Astro Supersport 2
+http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+#EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Astro Supersport 3
+http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+#EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Astro Supersport 4
+http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="SPORTS",Hits
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -523,35 +524,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/02.m3u8
 http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
 #EXTINF:-1 group-title="Singapore/Malasya",Prima
 http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m70290ab09fb91755596&ct=17945&tsum=8442816d586a19e1894c18f2285e767e
-
-
-
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/ITV2.uk.png" group-title="UK",ITV 2
-http://51.52.156.22:8888/http/005
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/ITV3.uk.png" group-title="UK",ITV 3
-http://51.52.156.22:8888/http/006
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/ITV4.uk.png" group-title="UK",ITV 4
-http://51.52.156.22:8888/http/007
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="UK",CITV
-http://51.52.156.22:8888/http/001
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="UK",rr
-http://51.52.156.22:8888/http/004
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="UK",ee
-http://51.52.156.22:8888/http/008
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="UK",gb
-http://51.52.156.22:8888/http/009
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="UK",34
-http://51.52.156.22:8888/http/015
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="UK",sd
-http://51.52.156.22:8888/http/013
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="UK",rt
-http://51.52.156.22:8888/http/012
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="UK",gh
-http://51.52.156.22:8888/http/001
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="UK",bn
-http://51.52.156.22:8888/http/003
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="UK",qw
-http://51.52.156.22:8888/http/011
 
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="VIDIO",SCTV 

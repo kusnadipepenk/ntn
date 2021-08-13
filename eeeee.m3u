@@ -399,7 +399,7 @@ http://203.154.243.89:1213
 
 
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Golf
-http://210.210.155.35/dr9455/h/h10/01.m3u8
+http://210.210.155.35/dr9445/h/h10/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SkySpotMAINevent
 http://185.238.0.145:1313/c/dolive/g/skysportsmainevent.php
 #EXTINF:-1  tvg-logo="https://i.ibb.co/wwRP0qz/redb.png" group-title="SPORTS",REDBull Tv
@@ -590,7 +590,7 @@ http://51.52.156.22:8888/http/011
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="VIDIO",GTV 
 #https://znjjprwzgeyyp.vidio.com/hls-p/ingest_778_720p/index.m3u8 
 #EXTINF:-1 tvg-id="rtv" tvg-logo="http://kamiselaluada.com/img/rtv.png" group-title="VIDIO",RTV 
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_1561_720p/index.m3u8 
+#https://znjjprwzgeyyp.vidio.com/hls-p/ingest_1561_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/inews.png" group-title="VIDIO",iNews 
 #https://znjjprwzgeyyp.vidio.com/hls-p/ingest_5409_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/oshop.png" group-title="VIDIO",O SHop 
@@ -612,17 +612,17 @@ https://newlivetv.my.id/vidio/6686-LiveTV.m3u8?livetv
 https://newlivetv.my.id/vidio/6786-LiveTV.m3u8?livetv
 #EXTINF:-1 tvg-logo="" group-title="VIDIO",Bein1
 #==https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6299_720p/index.m3u8
-https://newlivetv.my.id/vidio/6299-LiveTV.m3u8?livetv
+#https://newlivetv.my.id/vidio/6299-LiveTV.m3u8?livetv
 #EXTINF:-1 tvg-logo="" group-title="VIDIO",Bein2
 #==https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6317_720p/index.m3u8
-https://newlivetv.my.id/vidio/6317-LiveTV.m3u8?livetv
+#https://newlivetv.my.id/vidio/6317-LiveTV.m3u8?livetv
 #EXTINF:-1 tvg-logo="" group-title="VIDIO",FoxSport1
 #==https://znjjprwzgeyyp.vidio.com/hls-p/ingest_7648_720p/index.m3u8
-https://newlivetv.my.id/vidio/7648-LiveTV.m3u8?livetv
+#https://newlivetv.my.id/vidio/7648-LiveTV.m3u8?livetv
 #EXTINF:-1 tvg-logo="" group-title="VIDIO",FoxSport2
-https://newlivetv.my.id/vidio/7649-LiveTV.m3u8?livetv
+#https://newlivetv.my.id/vidio/7649-LiveTV.m3u8?livetv
 #EXTINF:-1 tvg-logo="" group-title="VIDIO",FoxSport3
-https://newlivetv.my.id/vidio/7650-LiveTV.m3u8?livetv
+#https://newlivetv.my.id/vidio/7650-LiveTV.m3u8?livetv
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvn.png" group-title="VIDIO",TVN 
 https://newlivetv.my.id/vidio/6362-LiveTV.m3u8?livetv
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zeebioskop.png" group-title="VIDIO",Zee Bioskop 
@@ -671,4 +671,4 @@ https://newlivetv.my.id/vidio/6635-LiveTV.m3u8?livetv
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvedukasi.png" group-title="VIDIO",TV Edukasi 
 #https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6838_720p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIDIO",V-Channel
-https://newlivetv.my.id/vidio/6898-LiveTV.m3u8?livetv
+#https://newlivetv.my.id/vidio/6898-LiveTV.m3u8?livetv

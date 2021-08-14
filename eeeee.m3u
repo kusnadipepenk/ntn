@@ -146,21 +146,19 @@ http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist.m3u8
 http://210.210.155.35/uq2663/h/h97/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p2rYxCW/baby.jpg" group-title="KIDS",BabyTV
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b450000.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Disney
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Disney asia
 https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMERANGs
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b450000.m3u8 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/dfbky5y/miaomi.jpg" group-title="KIDS",BOOM KIDS
-http://iptv.tvmalaysia.cc:80/penang172/penang172/7199
+#http://iptv.tvmalaysia.cc:80/penang172/penang172/7199
 #EXTINF:-1  group-title="KIDS",Kids Toons
 http://210.210.155.35/session/a1b2362c-9d39-11e9-9cda-b82a72d63267/qwr9ew/s/s50/02.m3u8
-#EXTINF:-1 tvg-id="NIC.US" tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="KIDS",Nick
-http://bit.ly/NickJr360p
 #EXTINF:-1 tvg-id="NJR.US" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="KIDS",DisneyUSA
 http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
 #EXTINF:-1 group-title="KIDS",Nick Jr
 http://31.220.41.88:8081/live/uk-nickjr.stream/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",Nickelodeon
+#EXTINF:-1 tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="KIDS",Nickelodeon
 http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Disney
 http://31.220.41.88:8081/live/us-disney.stream/chunks.m3u8?nimblesessionid=3659381765
@@ -181,9 +179,9 @@ https://omahtv.xyz/stream/vidio-tvn-golive.m3u8
 http://210.210.155.35/dr9445/h/h21/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNMovies-U
 https://mkctv.my.id/jarwo/cucok.m3u8?id=tvnmovies&bandwidth=b894100&sync=0
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN-2
-http://45.126.83.51/uq2663/h/h141/01.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN1
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN-1
+http://45.126.83.51/dr9445/h/h141/01.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN2
 http://210.210.155.35/session/569f338c-a9b8-11eb-ad21-9a86b46a5f45/uq2663/h/h141/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/T8fdzXn/blueantx.png" group-title="PREMIUM INDONESIA",BLUEANT EXTREME
 http://210.210.155.35/session/ca6ab734-6a2f-11e9-ae93-9813b3aa7f8f/dr9445/h/h15/01.m3u8
@@ -192,9 +190,9 @@ http://210.210.155.35/session/e9b257c8-6a2f-11e9-a76f-b3759a40e2c1/dr9445/h/h16/
 #EXTINF:-1  tvg-logo="https://i.ibb.co/52RHTMt/lbs.jpg" group-title="PREMIUM INDONESIA",LBS TV (K-DRAMA)
 http://210.210.155.35/session/d0b296ce-6a30-11e9-9180-b63a8ba36486/qwr9ew/s/s42/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/VTtxzXm/ciwo.jpg" group-title="PREMIUM INDONESIA",CINEMA WORLD
-http://210.210.155.35/session/4b609526-4bf3-11e9-9bd8-afdb8d9eb786/uq2663/h/h04/01.m3u8
+http://210.210.155.35/dr9445/h/h04/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/VTtxzXm/ciwo.jpg" group-title="PREMIUM INDONESIA",CINEMA WORLD(2)
-http://45.126.83.51/uq2663/h/h04/01.m3u8
+http://45.126.83.51/dr9445/h/h04/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",KBS WORLD
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",OhK!tv
@@ -208,7 +206,7 @@ http://45.126.83.51/session/70890dd8-c9d3-11ea-b6b4-9c15b4da6e2f/uq2663/h/h143/0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TDK9V0/mytv.jpg" group-title="PREMIUM INDONESIA",MY TV
 http://210.210.155.35/qwr9ew/s/s46/02.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=109_MtH3Y5T8d_07P1VVEnD3sAkyX9_go" group-title="PREMIUM INDONESIA",HITS CH
-http://210.210.155.35/uq2663/h/h37/01.m3u8
+http://210.210.155.35/dr9445/h/h37/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=109_MtH3Y5T8d_07P1VVEnD3sAkyX9_go" group-title="PREMIUM INDONESIA",HITSCh(2)
 http://45.126.83.51/session/4fb462a0-6ff8-11e9-84c1-90fcb976a378/uq2663/h/h37/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/0yswGZW/sgem.jpg" group-title="PREMIUM INDONESIA",SONY GEM
@@ -222,7 +220,7 @@ http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vvKpnbc/kixx.jpg" group-title="PREMIUM INDONESIA",KIX
 http://210.210.155.35/session/b32c7bf2-c313-11e8-9362-c81f66f89318/uq2663/h/h07/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vvKpnbc/kixx.jpg" group-title="PREMIUM INDONESIA",KIX(2)
-http://210.210.155.35/uq2663/h/h07/02.m3u8
+http://210.210.155.35/dr9445/h/h07/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/NsvtNb8/mycnema.jpg" group-title="PREMIUM INDONESIA",MY CINEMA
 http://210.210.155.35/uq2663/h/h90/S1/mnf.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/NsvtNb8/mycnema.jpg" group-title="PREMIUM INDONESIA",MYCINEMA2
@@ -305,21 +303,34 @@ http://70.32.0.9:5000/live/543/playlist.m3u8
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b450000.m3u8
 
 
-#EXTINF:-1 group-title="MOVIES",FOX
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO-ID
+https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOFams-ID
+https://kusnadipepenk.github.io/campeign/hbofam.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOsign-ID
+https://kusnadipepenk.github.io/campeign/hbosi.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOhits-ID
+https://kusnadipepenk.github.io/campeign/hbihit.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",reds
+https://kusnadipepenk.github.io/campeign/hbored.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Cinemas-ID
+https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
+
+#EXTINF:-1 group-title="MOVIES",FOX US
 http://31.220.41.88:8081/live/us-fox.stream/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",FXX
+#EXTINF:-1 group-title="MOVIES",FXX US
 http://31.220.41.88:8081/live/us-fxx.stream/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",hallmark
+#EXTINF:-1 group-title="MOVIES",hallmark US
 http://31.220.41.88:8081/live/us-hallmark.stream/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",HBO
+#EXTINF:-1 group-title="MOVIES",HBO US
 http://31.220.41.88:8081/live/us-hbo.stream/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",HBO Family
+#EXTINF:-1 group-title="MOVIES",HBO Family US
 http://31.220.41.88:8081/live/us-hbofamily.stream/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",HBO Zone
+#EXTINF:-1 group-title="MOVIES",HBO Zone US
 http://31.220.41.88:8081/live/us-hbozone.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="MOVIES",HBO
+#EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="MOVIES",HBOmck
 https://gratismkctv.net/film/hbo.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="MOVIES",HBO1
+#EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="MOVIES",HBO1mck
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO.US" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",Warner tv
 https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
@@ -345,25 +356,21 @@ https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b450000.m3u8
 https://www.livedoomovie.com/02_FoxCrimeHD_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",FX2
 https://www.livedoomovie.com/02_FXThailand_720p/chunklist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="MOVIES",FoxMOVIE
-http://89.216.39.29:13008
-#EXTINF:-1  tvg-logo="" group-title="MOVIES",DIVA
-http://89.216.39.29:13012
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",&picture
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndFlix.in.png" group-title="MOVIES",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndPrive.in.png" group-title="MOVIES",&Prive
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="MOVIES",SHOWTIME
+#EXTINF:-1 group-title="MOVIES",SHOWTIME US
 http://31.220.41.88:8081/live/us-showtime.stream/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",Cinemax Action
+#EXTINF:-1 group-title="MOVIES",Cinemax Action US
 http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",Comedy Central
+#EXTINF:-1 group-title="MOVIES",Comedy Central US
 http://31.220.41.88:8081/live/us-comedy.stream/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",Lifetime
+#EXTINF:-1 group-title="MOVIES",Lifetime US
 http://31.220.41.88:8081/live/us-lifetime.stream/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",Lifetime Movie Network
+#EXTINF:-1 group-title="MOVIES",Lifetime Movie Network US
 http://31.220.41.88:8081/live/us-lmn.stream/playlist.m3u8
 
 
@@ -396,16 +403,16 @@ https://dl.dropbox.com/s/emp7q8g3tc1kikj/BMusik.m3u8?dl=1
 http://203.154.243.89:1213
 
 
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Motorvision
+http://210.210.155.35/uq2663/h/h09/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Golf
 http://210.210.155.35/dr9445/h/h10/01.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1
-http://topwin-tv.my.id/2/master.m3u8?id=beinsport
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Asia
 https://iptvid.cgflix.xyz/Usee/sport/be1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia
 http://topwin-tv.my.id/2/master.m3u8?id=bein2
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",beIN Xtra
-https://bein-plutolive-vo.akamaized.net/playlist.m3u8
+#https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",Foxsport1U
 http://topwin-tv.my.id/2/master.m3u8?id=foxsport1
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",Foxsport2U
@@ -419,23 +426,15 @@ https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport3.jpg",FOX Sport 3 (TH)
 https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FightSport
-http://210.210.155.35/uq2663/h/h05/02.m3u8
+http://210.210.155.35/x6bnqe/h/h05/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FightSport(2)
 http://210.210.155.35/session/99f95566-7000-11e9-8e97-9239acfe1a75/uq2663/h/h05/02.m3u8
-#EXTINF:0 group-title="SPORTS",liga de campones
-http://digitalxpress.gcdn.co/live1/beinsportseshd/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX SPORT
-http://45.58.62.92:8080
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT2
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT3
 https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",Sportstv
-http://45.134.21.230/hls/T1.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeinSport
-http://45.134.21.230/hls/T2.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Liverpooltv
 https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",MU-TV
@@ -464,18 +463,6 @@ http://54.37.82.205:8081/liveorigin/sd-tsport5_480/playlist.m3u8
 http://54.37.82.205:8081/liveorigin/sd-tsport7_480/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Truesport6
 http://54.37.82.205:8081/liveorigin/sd-tsport6_480/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",DIEMASPORT1
-http://136.243.177.164/DIEMASPORT1/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",DIEMASPORT2
-http://136.243.177.164/DIEMASPORT2/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",MAXSPORT
-http://136.243.177.164/MAXSPORT1/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",MAXSPORT2
-http://136.243.177.164/MAXSPORT2/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",MAXSPORT3
-http://136.243.177.164/MAXSPORT3/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",GOL TV
-http://185.246.209.109:8080/GOL_TV/index.m3u8
 #EXTINF:-1 tvg-id="Erz.Assp1" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Astro Supersport 1
 http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="Erz.Assp2" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Astro Supersport 2
@@ -491,7 +478,7 @@ http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
 #EXTINF:-1 group-title="SPORTS",BTSPORT 3
 http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
 #EXTINF:-1 group-title="SPORTS",NBA TV
-http://topwin-tv.my.id/2/master.m3u8?id=nba
+https://iptvid.cgflix.xyz/Usee/sport/nba.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="SPORTS",Hits

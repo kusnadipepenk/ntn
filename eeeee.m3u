@@ -151,11 +151,11 @@ https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMERANGs
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b450000.m3u8 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/dfbky5y/miaomi.jpg" group-title="KIDS",BOOM KIDS
-#http://iptv.tvmalaysia.cc:80/penang172/penang172/7199
+http://stream.tvtap.live:8081/live/us-boomerang.stream/playlist.m3u8
 #EXTINF:-1  group-title="KIDS",Kids Toons
 http://210.210.155.35/session/a1b2362c-9d39-11e9-9cda-b82a72d63267/qwr9ew/s/s50/02.m3u8
 #EXTINF:-1 tvg-id="NJR.US" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="KIDS",DisneyUSA
-http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
+http://stream.tvtap.live:8081/live/us-disney.stream/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Nick Jr
 http://31.220.41.88:8081/live/uk-nickjr.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="KIDS",Nickelodeon
@@ -168,7 +168,7 @@ http://31.220.41.88:8081/live/disneyxd.stream/playlist.m3u8
 
 #EXTM3U
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvND
-http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h20/01.m3u8
+http://210.210.155.35:80/dr9445/h/h20/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNMovies
 http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h21/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvND1
@@ -177,8 +177,6 @@ http://gpc.my.id/vidio/tvn.m3u8
 https://omahtv.xyz/stream/vidio-tvn-golive.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNMovies1
 http://210.210.155.35/dr9445/h/h21/01.m3u8
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNMovies-U
-https://mkctv.my.id/jarwo/cucok.m3u8?id=tvnmovies&bandwidth=b894100&sync=0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN-1
 http://45.126.83.51/dr9445/h/h141/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN2
@@ -260,7 +258,7 @@ http://topwin-tv.my.id/2/master.m3u8?id=galaxy
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Galaxy Premium
 http://topwin-tv.my.id/2/master.m3u8?id=galaxypremium
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",IMC
-https://channel.mbed.cc/imc.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=imc
 
 
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV
@@ -281,6 +279,8 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b450000.m3u8
 https://channel.mbed.cc/natgeopeople.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild
 http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Nat Geo wild 2
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY CHANNEL
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY
@@ -290,7 +290,7 @@ https://channel.mbed.cc/disco.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",Discovery Channel
 http://31.220.41.88:8081/live/us-discovery.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",History-U
-https://channel.mbed.cc/history.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=history
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",AFN
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet

@@ -162,7 +162,10 @@ http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
 http://31.220.41.88:8081/live/uk-nickjr.stream/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Nickelodeon
 http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
-
+#EXTINF:-1 group-title="KIDS",Disney
+http://31.220.41.88:8081/live/us-disney.stream/chunks.m3u8?nimblesessionid=3659381765
+#EXTINF:-1 group-title="KIDS",Disney XD
+http://31.220.41.88:8081/live/disneyxd.stream/playlist.m3u8
 
 
 #EXTM3U
@@ -258,6 +261,8 @@ http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=galaxy
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Galaxy Premium
 http://topwin-tv.my.id/2/master.m3u8?id=galaxypremium
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",IMC
+https://channel.mbed.cc/imc.m3u8
 
 
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV
@@ -282,8 +287,10 @@ http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY
 http://topwin-tv.my.id/2/master.m3u8?id=disco
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERYscience
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERYu
 https://channel.mbed.cc/disco.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Discovery Channel
+http://31.220.41.88:8081/live/us-discovery.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",History-U
 https://channel.mbed.cc/history.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",AFN
@@ -354,6 +361,10 @@ http://31.220.41.88:8081/live/us-showtime.stream/playlist.m3u8
 http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Comedy Central
 http://31.220.41.88:8081/live/us-comedy.stream/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES",Lifetime
+http://31.220.41.88:8081/live/us-lifetime.stream/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES",Lifetime Movie Network
+http://31.220.41.88:8081/live/us-lmn.stream/playlist.m3u8
 
 
 #EXTM3U
@@ -473,6 +484,14 @@ http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Astro Supersport 4
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS",BTSPORT 1
+http://31.220.41.88:8081/live/bt1.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS",BTSPORT 2 (link2)
+http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
+#EXTINF:-1 group-title="SPORTS",BTSPORT 3
+http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
+#EXTINF:-1 group-title="SPORTS",NBA TV
+http://topwin-tv.my.id/2/master.m3u8?id=nba
 
 
 #EXTINF:-1 tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="SPORTS",Hits
@@ -633,43 +652,16 @@ https://newlivetv.my.id/vidio/6635-LiveTV.m3u8?livetv
 #https://newlivetv.my.id/vidio/6898-LiveTV.m3u8?livetv
 
 
-#EXTINF:-1 group-title="TES",BTSPORT 1
-http://31.220.41.88:8081/live/bt1.stream/playlist.m3u8
-#EXTINF:-1 group-title="TES",BTSPORT 2 (link2)
-http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
-#EXTINF:-1 group-title="TES",BTSPORT 3
-http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
-#EXTINF:-1 group-title="TES",NBA TV
-http://topwin-tv.my.id/2/master.m3u8?id=nba
-
 #EXTINF:-1 group-title="TES",DAVE
 http://31.220.41.88:8081/live/dave.stream/playlist.m3u8
 #EXTINF:-1 group-title="TES",DAZN F1
 http://31.220.41.88:8081/live/es-moviestarf1.stream/playlist.m3u8
-#EXTINF:-1 group-title="TES",Discovery Channel
-http://31.220.41.88:8081/live/us-discovery.stream/playlist.m3u8
-#EXTINF:-1 group-title="TES",Disney
-http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8
-#EXTINF:-1 group-title="TES",Disney XD
-http://31.220.41.88:8081/live/disneyxd.stream/playlist.m3u8
 #EXTINF:-1 group-title="TES",ESPN 2 HD
 http://31.220.41.88:8081/live/nl-foxsports2.stream/playlist.m3u8
 #EXTINF:-1 group-title="TES",ESPN 3 HD
 http://31.220.41.88:8081/live/nl-foxsports3.stream/playlist.m3u8
 #EXTINF:-1 group-title="TES",ESPN 4 HD
 http://31.220.41.88:8081/live/nl-foxsports4.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="TES",DAZN 2
-http://31.220.41.88:8081/live/it-dazn1.stream/playlist.m3u8
-#EXTINF:-1 group-title="TES",Sky Sport Calcio
-http://31.220.41.88:8081/live/it-skysportserieA.stream/playlist.m3u8
-#EXTINF:-1 group-title="TES",Sky Sport Football
-http://31.220.41.88:8081/live/it-skysport-football.stream/playlist.m3u8
-#EXTINF:-1 group-title="TES",Lifetime
-http://31.220.41.88:8081/live/us-lifetime.stream/playlist.m3u8
-#EXTINF:-1 group-title="TES",Lifetime Movie Network
-http://31.220.41.88:8081/live/us-lmn.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="TES",Paramount (Spike)
 http://31.220.41.88:8081/live/us-paramount.stream/playlist.m3u8
 #EXTINF:-1 group-title="TES",Premier Sports 1

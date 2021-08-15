@@ -442,6 +442,12 @@ http://zalogitv.tech:8080/itsme/andi/12260
 http://zalogitv.tech:8080/itsme/andi/12261
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",Foxsport3U
 http://zalogitv.tech:8080/itsme/andi/12262
+#EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",Foxsport1 ALT
+http://topwin-tv.my.id/2/master.m3u8?id=foxsport1
+#EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",Foxsport2 ALT
+http://topwin-tv.my.id/2/master.m3u8?id=foxsport2
+#EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",Foxsport3 ALT
+http://topwin-tv.my.id/2/master.m3u8?id=foxsport3
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsporthd.jpg",Fox Sport 1 (TH)
 https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport2.jpg",Fox Sport 2 (TH)

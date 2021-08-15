@@ -165,7 +165,7 @@ http://31.220.41.88:8081/live/uk-nickjr.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="KIDS",Nickelodeon
 http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Disney
-http://31.220.41.88:8081/live/us-disney.stream/chunks.m3u8?nimblesessionid=3659381765
+http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Disney XD
 http://31.220.41.88:8081/live/disneyxd.stream/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Cbabies

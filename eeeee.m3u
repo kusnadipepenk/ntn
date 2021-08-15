@@ -356,7 +356,7 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO.US" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",Warner tv
 https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="HBO.US" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",Warner tv-U
-http://topwin-tv.my.id/2/master.m3u8?id=warner
+http://iptvid.cgflix.xyz/Usee/wrnr.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="MOVIES",FOX-MOVIE
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="MOVIES",FOX-MOVIE1
@@ -433,15 +433,15 @@ https//siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Asia
 https://iptvid.cgflix.xyz/Usee/sport/be1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia
-http://topwin-tv.my.id/2/master.m3u8?id=bein2
+http://zalogitv.tech:8080/itsme/andi/11984
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",beIN Xtra
 #https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",Foxsport1U
-http://topwin-tv.my.id/2/master.m3u8?id=foxsport1
+http://zalogitv.tech:8080/itsme/andi/12260
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",Foxsport2U
-http://topwin-tv.my.id/2/master.m3u8?id=foxsport2
+http://zalogitv.tech:8080/itsme/andi/12261
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",Foxsport3U
-http://topwin-tv.my.id/2/master.m3u8?id=foxsport3
+http://zalogitv.tech:8080/itsme/andi/12262
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsporthd.jpg",Fox Sport 1 (TH)
 https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport2.jpg",Fox Sport 2 (TH)

@@ -150,27 +150,27 @@ https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b450000.m3u8
 https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMERANGs
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b450000.m3u8 
-#EXTINF:-1  tvg-logo="" group-title="KIDS",BOOM KIDS
+#EXTINF:-1  tvg-logo="" group-title="KIDS",BOOM KIDS US
 http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMerang
 http://198.16.106.62:8278/streams/d/Boomerang/playlist.m3u8
 #EXTINF:-1  group-title="KIDS",Kids Toons
-http://210.210.155.35/session/a1b2362c-9d39-11e9-9cda-b82a72d63267/qwr9ew/s/s50/02.m3u8
+http://210.210.155.35/session/a1b2362c-9d39-11e9-9cda-b82a72d63267/qwr9ew/s/s50/01.m3u8
 #EXTINF:-1  group-title="KIDS",DisneyJr
 http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 #EXTINF:-1 tvg-id="NJR.US" tvg-logo="" group-title="KIDS",DisneyUSA
-http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8
+http://stream.tvtap.live:8081/live/us-disney.stream/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Nick Jr
 http://31.220.41.88:8081/live/uk-nickjr.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="KIDS",Nickelodeon
 http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Disney
-http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8
+http://31.220.41.88:8081/live/disneyjr.stream/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Disney XD
 http://31.220.41.88:8081/live/disneyxd.stream/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Cbabies
 http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",CartoonNetwork
+#EXTINF:-1 group-title="KIDS",Cartoon Network
 http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
 
 
@@ -286,23 +286,21 @@ https://channel.mbed.cc/natgeo.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo People
-https://channel.mbed.cc/natgeopeople.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=natgeopeople
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild
 http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Nat Geo wild 2
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild 2
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY CHANNEL
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERYCH Asia
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b450000.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY
-http://topwin-tv.my.id/2/master.m3u8?id=disco
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERYu
-https://channel.mbed.cc/disco.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERYChu
+http://topwin-tv.my.id/2/master.m3u8?id=discovery
 #EXTINF:-1 group-title="KNOWLEDGE",DiscoveryCH US
 http://31.220.41.88:8081/live/us-discovery.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",History-U
 http://topwin-tv.my.id/2/master.m3u8?id=history
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",AFN
-http://topwin-tv.my.id/2/master.m3u8?id=afn
+http://topwin-tv.my.id/2/master.m3u8?id=afc
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",FoodChannel
 http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
@@ -361,21 +359,19 @@ http://iptvid.cgflix.xyz/Usee/wrnr.m3u8
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="MOVIES",FOX-MOVIE1
 https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="MOVIES",FOX Action CH
-https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="MOVIES",FOX Family
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b500000.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="MOVIES",FOX Movies
+#EXTINF:-1  tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="MOVIES",FOX-Movies
 https://gratismkctv.net/film/foxmovies.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/LYVcCX3/foxlife.png" group-title="MOVIES",[TH]FOXLive
+#EXTINF:-1  tvg-logo="https://i.ibb.co/LYVcCX3/foxlife.png" group-title="MOVIES",FOXLive
 https://www.livedoomovie.com/02_FOX_Life_720p/chunklist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="MOVIES",FOXlife
+#EXTINF:-1  tvg-logo="" group-title="MOVIES",FOXlife vn
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b450000.m3u8
-#EXTINF:-1  tvg-logo="" group-title="MOVIES",[TH]FOX
+#EXTINF:-1  tvg-logo="" group-title="MOVIES",FOX vn
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b450000.m3u8
-#EXTINF:-1  tvg-logo="" group-title="MOVIES",Foxcrime
+#EXTINF:-1  tvg-logo="" group-title="MOVIES",Foxcrime th
 https://www.livedoomovie.com/02_FoxCrimeHD_720p/chunklist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="MOVIES",FX2
+#EXTINF:-1  tvg-logo="" group-title="MOVIES",FX th
 https://www.livedoomovie.com/02_FXThailand_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",&picture
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v3a1/index.m3u8
@@ -428,12 +424,16 @@ http://203.154.243.89:1213
 http://210.210.155.35/uq2663/h/h09/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Golf
 http://210.210.155.35/dr9445/h/h10/01.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/beINSports.us.png" group-title="SPORTS",bein 1(FR)
+http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/beINSports2.us.png" group-title="SPORTS",bein 2(FR)
+http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",BEINXtra
 https//siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Asia
 https://iptvid.cgflix.xyz/Usee/sport/be1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia
-http://zalogitv.tech:8080/itsme/andi/11984
+https://iptvid.cgflix.xyz/Usee/sport/be2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",beIN Xtra
 #https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",Foxsport1U

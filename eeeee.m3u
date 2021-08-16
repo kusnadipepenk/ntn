@@ -156,6 +156,8 @@ http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
 http://198.16.106.62:8278/streams/d/Boomerang/playlist.m3u8
 #EXTINF:-1  group-title="KIDS",Kids Toons
 http://210.210.155.35/session/a1b2362c-9d39-11e9-9cda-b82a72d63267/qwr9ew/s/s50/01.m3u8
+#EXTINF:-1  group-title="KIDS",KidTV
+http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 #EXTINF:-1  group-title="KIDS",DisneyJr
 http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 #EXTINF:-1 tvg-id="NJR.US" tvg-logo="" group-title="KIDS",DisneyUSA
@@ -164,12 +166,18 @@ http://stream.tvtap.live:8081/live/us-disney.stream/playlist.m3u8
 http://51.79.82.231:8080/US_DISNEY_CHANNEL_EAST_USA/video.m3u8
 #EXTINF:-1 group-title="KIDS",Nick Jr
 http://31.220.41.88:8081/live/uk-nickjr.stream/playlist.m3u8
+#EXTINF:-1 group-title="KIDS",Nick Jr2
+http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="KIDS",Nickelodeon
 http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="KIDS",Nickelodeon2
+http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Disney
 http://31.220.41.88:8081/live/disneyjr.stream/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Disney XD
 http://31.220.41.88:8081/live/disneyxd.stream/playlist.m3u8
+#EXTINF:-1 group-title="KIDS",Disney XD2
+http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Cbabies
 http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Cartoon Network
@@ -287,6 +295,8 @@ http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth2
+http://198.16.106.62:8278/streams/d/bbcearthhd_zero/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geographic-U
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeo&bandwidth=894100&sync=0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo

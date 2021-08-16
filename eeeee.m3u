@@ -298,7 +298,8 @@ http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERYCH Asia
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERYChu
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=disco&bandwidth=default&sync=0
+http://topwin-tv.my.id/2/master.m3u8?id=disco
+#https://mkctvbro.my.id/horas/pakailah.m3u8?id=disco&bandwidth=default&sync=0
 #EXTINF:-1 group-title="KNOWLEDGE",DiscoveryCH US
 http://31.220.41.88:8081/live/us-discovery.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",History-U
@@ -438,10 +439,10 @@ http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
 https//siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Asia
 https://iptvid.cgflix.xyz/Usee/sport/be1.m3u8
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=bein1&bandwidth=894100&sync=0
+#https://mkctvbro.my.id/horas/pakailah.m3u8?id=bein1&bandwidth=894100&sync=0
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia
 https://iptvid.cgflix.xyz/Usee/sport/be2.m3u8
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=bein2&bandwidth=894100&sync=0
+#https://mkctvbro.my.id/horas/pakailah.m3u8?id=bein2&bandwidth=894100&sync=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",beIN Xtra
 #https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",Foxsport1U
@@ -483,9 +484,9 @@ https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",EPL Sports 3
 https://www.livedoomovies.com/02_PremierHD3_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Bein2HD
-https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8
+http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Bein1HD
-https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Truesport1
 http://54.37.82.205:8081/liveorigin/sd-tsport1_480/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Truesport2

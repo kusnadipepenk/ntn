@@ -170,11 +170,11 @@ http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
 http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="KIDS",Nickelodeon2
 http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",DisneyUSa
+#EXTINF:-1 group-title="KIDS",DisneyJr-2
 http://31.220.41.88:8081/live/disneyjr.stream/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Disney XD
 http://31.220.41.88:8081/live/disneyxd.stream/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",Disneyjr2
+#EXTINF:-1 group-title="KIDS",DisneyUSA-2
 http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Cbabies
 http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8

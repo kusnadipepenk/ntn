@@ -162,8 +162,6 @@ http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 #EXTINF:-1 tvg-id="NJR.US" tvg-logo="" group-title="KIDS",DisneyUSA
 http://stream.tvtap.live:8081/live/us-disney.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="NJR.US" tvg-logo="" group-title="KIDS",DisneyUSA2
-http://51.79.82.231:8080/US_DISNEY_CHANNEL_EAST_USA/video.m3u8
 #EXTINF:-1 group-title="KIDS",Nick Jr
 http://31.220.41.88:8081/live/uk-nickjr.stream/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Nick Jr2
@@ -172,11 +170,11 @@ http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
 http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="KIDS",Nickelodeon2
 http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",Disney
+#EXTINF:-1 group-title="KIDS",DisneyUSa
 http://31.220.41.88:8081/live/disneyjr.stream/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Disney XD
 http://31.220.41.88:8081/live/disneyxd.stream/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",Disney XD2
+#EXTINF:-1 group-title="KIDS",Disneyjr2
 http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Cbabies
 http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8

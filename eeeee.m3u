@@ -348,6 +348,8 @@ https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
 http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",FOXaction CH
 http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES",FOXaction
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8839
 #EXTINF:-1 group-title="MOVIES",FOX CH
 http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",FOX US
@@ -377,8 +379,8 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b450000.m3u8
 https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="MOVIES",FOX Family
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b500000.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="MOVIES",FOX-Movies
-https://gratismkctv.net/film/foxmovies.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="MOVIES",FOX-Moviess
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8838
 #EXTINF:-1  tvg-logo="https://i.ibb.co/LYVcCX3/foxlife.png" group-title="MOVIES",FOXLive
 https://www.livedoomovie.com/02_FOX_Life_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",FOXlife vn
@@ -449,8 +451,9 @@ http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",BEINXtra
 https//siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Asia
-http://topwin-tv.my.id/2/master.m3u8?id=bein1
+#http://topwin-tv.my.id/2/master.m3u8?id=bein1
 #https://iptvid.cgflix.xyz/Usee/sport/be1.m3u8
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6597
 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=bein1&bandwidth=894100&sync=0
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia
 http://topwin-tv.my.id/2/master.m3u8?id=bein2
@@ -459,11 +462,12 @@ http://topwin-tv.my.id/2/master.m3u8?id=bein2
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",beIN Xtra
 #https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",Foxsport1U
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport1&bandwidth=894100&sync=0
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6793
+#https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport1&bandwidth=default&sync=0
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",Foxsport2U
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=894100&sync=0
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",Foxsport3U
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport3&bandwidth=894100&sync=0
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport3&bandwidth=default&sync=0
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",Foxsport1 ALT
 http://topwin-tv.my.id/2/master.m3u8?id=foxsport1
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",Foxsport2 ALT

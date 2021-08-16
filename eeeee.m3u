@@ -160,6 +160,8 @@ http://210.210.155.35/session/a1b2362c-9d39-11e9-9cda-b82a72d63267/qwr9ew/s/s50/
 http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 #EXTINF:-1 tvg-id="NJR.US" tvg-logo="" group-title="KIDS",DisneyUSA
 http://stream.tvtap.live:8081/live/us-disney.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NJR.US" tvg-logo="" group-title="KIDS",DisneyUSA2
+http://51.79.82.231:8080/US_DISNEY_CHANNEL_EAST_USA/video.m3u8
 #EXTINF:-1 group-title="KIDS",Nick Jr
 http://31.220.41.88:8081/live/uk-nickjr.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="KIDS",Nickelodeon

@@ -160,21 +160,21 @@ http://210.210.155.35/session/a1b2362c-9d39-11e9-9cda-b82a72d63267/qwr9ew/s/s50/
 http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 #EXTINF:-1  group-title="KIDS",DisneyJr
 http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
-#EXTINF:-1 tvg-id="NJR.US" tvg-logo="" group-title="KIDS",DisneyUSA
+#EXTINF:-1 tvg-id="NJR.US" tvg-logo="" group-title="KIDS",DisneyUSA 2
 http://stream.tvtap.live:8081/live/us-disney.stream/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",Nick Jr
-http://31.220.41.88:8081/live/uk-nickjr.stream/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Nick Jr2
+http://31.220.41.88:8081/live/uk-nickjr.stream/playlist.m3u8
+#EXTINF:-1 group-title="KIDS",Nick Jr
 http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="KIDS",Nickelodeon
-http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="KIDS",Nickelodeon2
+http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="KIDS",Nickelodeon
 http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",DisneyJr-2
 http://31.220.41.88:8081/live/disneyjr.stream/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Disney XD
 http://31.220.41.88:8081/live/disneyxd.stream/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",DisneyUSA-2
+#EXTINF:-1 group-title="KIDS",DisneyUSA
 http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Cbabies
 http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
@@ -451,7 +451,7 @@ http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",BEINXtra
 https//siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Asia
-http://topwin-tv.my.id/2/master.m3u8?id=bein1
+#http://topwin-tv.my.id/2/master.m3u8?id=bein1
 https://iptvid.cgflix.xyz/Usee/sport/be1.m3u8
 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=bein1&bandwidth=894100&sync=0
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia

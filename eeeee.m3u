@@ -260,7 +260,7 @@ http://210.210.155.35/session/d65d1e28-9d39-11e9-bb4c-b82a72d63267/uq2663/h/h01/
 #EXTINF:-1  tvg-logo="https://i.ibb.co/NCHDgCd/ucan.png" group-title="PREMIUM INDONESIA",U-Channel
 http://119.235.249.58:1935/uchannel/live/chunklist_w947373967.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/NCHDgCd/ucan.png" group-title="PREMIUM INDONESIA",U-Channel(2)
-http://210.210.155.35/qwr9ew/s/s41/02.m3u8
+http://210.210.155.35/qwr9ew/s/s41/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Life Channel (Christian)
 https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/dcCRKCj/iam.jpg" group-title="PREMIUM INDONESIA",IAM Channel
@@ -410,6 +410,12 @@ http://31.220.41.88:8081/live/us-lmn.stream/playlist.m3u8
 
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Music",iKONSER 
+http://dituduhmaling.xyz/US33T4/ikonser.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",MTV Live 
+http://dituduhmaling.xyz/US33T4/mtvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",Prambors 
+http://dituduhmaling.xyz/US33T4/pramborstv.m3u8
 #EXTINF:-1 group-title="Music",Karaoke Chanel
 http://zigfreed.ru/IP0/448.m3u8
 #EXTINF:-1 group-title="Music",music Karaoke
@@ -420,14 +426,6 @@ https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  group-title="Music",M2OTV Music
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/kqffBBK/mtv.png" group-title="Music",MTV NOW
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1  tvg-logo="https://i.ibb.co/kqffBBK/mtv.png" group-title="Music",MTV
-http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/110248?play_token=k6FBsKC5O0
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg" group-title="Music",9XO
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/9XO-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 tvg-logo="http://spiintl.com/data/files/kcfinderUploadDir/images/logo/360TuneBox-logo.png" group-title="Music",360 Tunebox
-http://84.22.33.254/unicast.tunebox/video.m3u8
 #EXTINF:-1 tvg-logo="http://ecable.tv/wp-content/uploads/2019/02/1.png" group-title="Music",Afrobeats 24/7
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.arte.tv/sites/en/corporate/files/logo-arte-concert_rose_2l.png" group-title="Music",Arte Concert
@@ -549,33 +547,6 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTINF:-1 tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="SPORTS",Hitsvv
 https://kusnadipepenk.github.io/campeign/nika.m3u8
 
-
-#EXTINF:-1  group-title="Singapore/Malasya",Heloo
-https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_03.m3u8
-#EXTINF:-1 group-title="Singapore/Malasya",OKEYTV
-https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
-#EXTINF:-1 group-title="Singapore/Malasya",RTMsports
-https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
-#EXTINF:-1  group-title="Singapore/Malasya",CH5
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
-#EXTINF:-1  group-title="Singapore/Malasya",CH8
-https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-#EXTINF:-1  group-title="Singapore/Malasya",CH U
-https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
-#EXTINF:-1  group-title="Singapore/Malasya",OKTO
-https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
-#EXTINF:-1  group-title="Singapore/Malasya",SURIA
-https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
-#EXTINF:-1  group-title="Singapore/Malasya",VASANTHAM
-https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
-#EXTINF:-1  group-title="Singapore/Malasya",CNA
-https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
-#EXTINF:-1 group-title="Singapore/Malasya",ASIAN FOOD CHANNEL
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/02.m3u8
-#EXTINF:-1 group-title="Singapore/Malasya",Astro Warna
-http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
-#EXTINF:-1 group-title="Singapore/Malasya",Prima
-http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m70290ab09fb91755596&ct=17945&tsum=8442816d586a19e1894c18f2285e767e
 
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="VIDIO",SCTV 

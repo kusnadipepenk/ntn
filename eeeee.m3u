@@ -338,6 +338,20 @@ https://gpc.my.id/usee/outdoor.m3u8
 http://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Movies
+http://sindoro.axc.my.id:25461/anuvella/WuJ0Es9M41/1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Movies Action
+http://sindoro.axc.my.id:25461/anuvella/WuJ0Es9M41/2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Movies Family
+http://sindoro.axc.my.id:25461/anuvella/WuJ0Es9M41/2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox
+http://sindoro.axc.my.id:25461/anuvella/WuJ0Es9M41/6
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Crime
+http://sindoro.axc.my.id:25461/anuvella/WuJ0Es9M41/5
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox LIfe
+http://sindoro.axc.my.id:25461/anuvella/WuJ0Es9M41/4
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO-ID
 https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOFams-ID

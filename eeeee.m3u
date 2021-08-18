@@ -485,12 +485,14 @@ http://topwin-tv.my.id/2/master.m3u8?id=bein2
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",beIN Xtra
 #https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",Foxsport1U
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6793
+http://sindoro.axc.my.id:25461/anuvella/WuJ0Es9M41/17
 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport1&bandwidth=default&sync=0
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",Foxsport2U
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
+http://sindoro.axc.my.id:25461/anuvella/WuJ0Es9M41/18
+#https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",Foxsport3U
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport3&bandwidth=default&sync=0
+http://sindoro.axc.my.id:25461/anuvella/WuJ0Es9M41/19
+#https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport3&bandwidth=default&sync=0
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",Foxsport1 ALT
 http://topwin-tv.my.id/2/master.m3u8?id=foxsport1
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",Foxsport2 ALT

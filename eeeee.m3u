@@ -428,7 +428,7 @@ http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Cinemax Action US
 http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Cinemax2 US
-http://200.107.234.74:8000/play/a053/indes.m3u8
+http://200.107.234.74:8000/play/a053/index.m3u8
 #EXTINF:-1 group-title="MOVIES",Comedy Central US
 http://31.220.41.88:8081/live/us-comedy.stream/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Lifetime US

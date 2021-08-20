@@ -325,7 +325,7 @@ http://31.220.41.88:8081/live/us-discovery.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",History-U
 http://topwin-tv.my.id/2/master.m3u8?id=history
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",AFN
-http://topwin-tv.my.id/2/master.m3u8?id=afc
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",FoodChannel
 http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
@@ -340,6 +340,8 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b450000.m3u8
 https://gpc.my.id/usee/outdoor.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",LoveNature
 http://bamus-eng-roku.amagi.tv/playlist404p.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",OutsideTV
+https://outsidetvplus-stirr.amagi.tv/playlistR480p.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox
@@ -395,7 +397,8 @@ https://gratismkctv.net/film/hbo.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="MOVIES",HBO1mck
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO.US" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",Warner tv
-https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+https://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b1200000.m3u8
+#https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="HBO.US" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",Warner tv-U
 http://topwin-tv.my.id/2/master.m3u8?id=warner
 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=warner&bandwidth=default&sync=0
@@ -518,11 +521,11 @@ http://210.210.155.35/x6bnqe/h/h05/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FightSport(2)
 http://210.210.155.35/session/99f95566-7000-11e9-8e97-9239acfe1a75/uq2663/h/h05/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT1
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+https://vips-livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT2
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+https://vips-livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT3
-https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
+https://vips-livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Liverpooltv
 https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",MU-TV

@@ -440,9 +440,19 @@ http://31.220.41.88:8081/live/us-comedy.stream/playlist.m3u8
 http://31.220.41.88:8081/live/us-lifetime.stream/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Lifetime Movie Network US
 http://31.220.41.88:8081/live/us-lmn.stream/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES",K-movies
+https://newidco-newmovies-1.samsung.wurl.com/manifest/1200.m3u8
+#EXTINF:-1 group-title="MOVIES",MovieMix
+https://moviemix.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES",Stirr Movies
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+#EXTINF:-1 group-title="MOVIES",Comedy Dinamic
+https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
 
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Music",Country Stingray
+https://dai.google.com/linear/hls/event/SgCez41rR36rmiw8Odu8FA/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",The K-pop
 https://gpc.my.id/ytlive/the-kpop.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Musica

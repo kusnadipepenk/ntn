@@ -306,7 +306,7 @@ http://198.16.106.62:8278/streams/d/bbcearthhd_zero/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo-U
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeo&bandwidth=default&sync=0
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo2
-http://sindoro.axc.my.id:25461/anuvella/WuJ0Es9M41/7
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/7
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo People
@@ -345,17 +345,17 @@ https://outsidetvplus-stirr.amagi.tv/playlistR480p.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox
-https://nonton.site:8443/putrinuvella/putrinuvella/95
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/4
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Movies Action
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKilBr/2
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Movies Family
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKilBr/3
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/3
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Life
-https://nonton.site:8443/putrinuvella/putrinuvella/94
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/5
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Crime
-https://nonton.site:8443/putrinuvella/putrinuvella/763
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/6
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Movies
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKilBr/1
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/1
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO-ID

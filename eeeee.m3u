@@ -418,8 +418,9 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b450000.m3u8
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",Foxcrime th
 https://www.livedoomovie.com/02_FoxCrimeHD_720p/chunklist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="MOVIES",FX th
-https://www.livedoomovie.com/02_FXThailand_720p/chunklist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="MOVIES",FX
+https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
+#https://www.livedoomovie.com/02_FXThailand_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",&picture
 https://f8e7y4c6.ssl.hwcdn.net/andpicshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndFlix.in.png" group-title="MOVIES",&Flix
@@ -448,6 +449,10 @@ https://moviemix.samsung.wurl.com/manifest/playlist.m3u8
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 #EXTINF:-1 group-title="MOVIES",Comedy Dinamic
 https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
+#EXTINF:-1 group-title="MOVIES",SYFY
+https://bozztv.com/teleyupp/teleup-syfy/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES",MBC Action
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_5.m3u8
 
 
 #EXTM3U

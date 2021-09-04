@@ -297,8 +297,8 @@ https://gpc.my.id/vidio/citra-bioskop.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV2
-http://topwin-tv.my.id/2/master.m3u8?id=hgtv
-#http://dituduhmaling.xyz/US33T4/hgtv.m3u8
+#http://topwin-tv.my.id/2/master.m3u8?id=hgtv
+http://dituduhmaling.xyz/US33T4/hgtv.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary
@@ -351,17 +351,17 @@ https://outsidetvplus-stirr.amagi.tv/playlistR480p.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/1.ts
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/1
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Movies Action
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/2.ts
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Movies Family
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/3.ts
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/3
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Life
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/5.ts
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/5
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Crime
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/6.ts
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/6
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Movies
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/4.ts
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/4
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO-ID

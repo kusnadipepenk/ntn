@@ -22,7 +22,7 @@ http://210.210.155.66/h/h28/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="STASIUN NASIONAL",INDOSIAR
 http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/02.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="STASIUN NASIONAL",INDOSIAR Liga1
-ttp://103.130.186.138:8800/oxygenplay/indosiar/index.m3u8
+http://103.130.186.138:8800/oxygenplay/indosiar/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QNQrm50/antv.png" group-title="STASIUN NASIONAL",ANTV(2)
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_hls/ANTV.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QNQrm50/antv.png" group-title="STASIUN NASIONAL",ANTV
@@ -310,13 +310,15 @@ https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth2
 http://198.16.106.62:8278/streams/d/bbcearthhd_zero/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo-U
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeo&bandwidth=default&sync=0
+https://s.id/aputraXyz_8080-stream724
+#https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeo&bandwidth=default&sync=0
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo2
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/7.ts
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/7
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National-Geo VN
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo People
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeopeople&bandwidth=default&sync=0
+http://s.id/aputraXyz_8080-stream725
+#https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeopeople&bandwidth=default&sync=0
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild
 http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild 2
@@ -351,17 +353,22 @@ https://outsidetvplus-stirr.amagi.tv/playlistR480p.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/1
+https://s.id/aputraXyz_mpd_nonformat_aptv10
+#http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/1
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Movies Action
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/2
+https://s.id/aputraXyz_mpd_nonformat_aptv5
+#http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Movies Family
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/3
+https://s.id/aputraXyz_mpd_nonformat_aptv23
+#http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/3
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Life
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/5
+https://s.id/aputraXyz_mpd_nonformat_aptv3
+#http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/5
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Crime
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/6
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Movies
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/4
+https://s.id/aputraXyz_mpd_nonformat_aptv25
+#http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/4
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO-ID
@@ -455,6 +462,8 @@ https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
 https://bozztv.com/teleyupp/teleup-syfy/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",MBC Action
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_5.m3u8
+#EXTINF:-1 group-title="MOVIES",HITS movies
+https://s.id/aputraXyz_mpd_nonformat_aptv30
 
 
 #EXTM3U
@@ -519,13 +528,13 @@ http://topwin-tv.my.id/2/master.m3u8?id=bein2
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",beIN Xtra
 #https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",Foxsport1U
-https://nonton.site:8443/putrinuvella/putrinuvella/51
+http://s.id/aputra_8080-streamplay-sprtfx1
 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport1&bandwidth=default&sync=0
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",Foxsport2U
-https://nonton.site:8443/putrinuvella/putrinuvella/102
+http://s.id/aputra_8080-streamplay-sprtfx2
 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",Foxsport3U
-https://nonton.site:8443/putrinuvella/putrinuvella/101
+http://s.id/aputra_8080-streamplay-sprtfx3
 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport3&bandwidth=default&sync=0
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",Foxsport1 ALT
 http://topwin-tv.my.id/2/master.m3u8?id=foxsport1
@@ -533,12 +542,6 @@ http://topwin-tv.my.id/2/master.m3u8?id=foxsport1
 http://topwin-tv.my.id/2/master.m3u8?id=foxsport2
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",Foxsport3 ALT
 http://topwin-tv.my.id/2/master.m3u8?id=foxsport3
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsporthd.jpg",Fox Sport 1 (TH)
-https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport2.jpg",Fox Sport 2 (TH)
-https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport3.jpg",FOX Sport 3 (TH)
-https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FightSport
 http://210.210.155.35/x6bnqe/h/h05/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FightSport(2)

@@ -143,7 +143,7 @@ http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/d0RzNrk/space.png" group-title="KIDS",Lernings
 http://210.210.155.35/uq2663/h/h97/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p2rYxCW/baby.jpg" group-title="KIDS",BabyTV
-https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b450000.m3u8
+http://185.180.221.194:8278/streams/d/Babytv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Disney asia
 https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMERANGs
@@ -281,7 +281,8 @@ http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Galaxy
 http://topwin-tv.my.id/2/master.m3u8?id=galaxy
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Galaxy Premium
-http://topwin-tv.my.id/2/master.m3u8?id=galaxypremium
+#http://topwin-tv.my.id/2/master.m3u8?id=galaxypremium
+https://iptvid.cgflix.xyz/Usee/movies/glxprem.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",IMC
 http://topwin-tv.my.id/2/master.m3u8?id=imc
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Flik
@@ -311,9 +312,9 @@ http://198.16.106.62:8278/streams/d/bbcearthhd_zero/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo-U
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeo&bandwidth=default&sync=0
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo2
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/7
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b450000.m3u8
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/7.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National-Geo VN
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo People
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeopeople&bandwidth=default&sync=0
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild
@@ -321,7 +322,7 @@ http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild 2
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERYCH Asia
-https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b450000.m3u8
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERYChu
 #http://topwin-tv.my.id/2/master.m3u8?id=disco
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=disco&bandwidth=default&sync=0
@@ -350,17 +351,17 @@ https://outsidetvplus-stirr.amagi.tv/playlistR480p.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/4
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/1.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Movies Action
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/2
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/2.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Movies Family
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/3
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/3.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Life
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/5
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/5.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Crime
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/6
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/6.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Movies
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/1
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/4.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO-ID
@@ -378,13 +379,13 @@ https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
 
 
 #EXTINF:-1 group-title="MOVIES",FOXCrime CH
-http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
+#http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",FOXaction CH
-http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
+#http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",FOXaction
-http://iptv.tvmalaysia.cc:80/penang172/penang172/8839
+#http://iptv.tvmalaysia.cc:80/penang172/penang172/8839
 #EXTINF:-1 group-title="MOVIES",FOX CH
-http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
+#http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",FOX US
 http://31.220.41.88:8081/live/us-fox.stream/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",FXX US
@@ -405,24 +406,20 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 https://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b1200000.m3u8
 #https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="HBO.US" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",Warner tv-U
-http://topwin-tv.my.id/2/master.m3u8?id=warner
+http://iptvid.cgflix.xyz/Usee/movies/wrnr.m3u8
 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=warner&bandwidth=default&sync=0
-#EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="MOVIES",FOX-MOVIE
+#EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="MOVIES",FOX-MOVIE VN
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="MOVIES",FOX-MOVIE1
-https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="MOVIES",FOX Family
-https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b500000.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="MOVIES",FOX-Moviess
-http://iptv.tvmalaysia.cc:80/penang172/penang172/8838
-#EXTINF:-1  tvg-logo="https://i.ibb.co/LYVcCX3/foxlife.png" group-title="MOVIES",FOXLive
-https://www.livedoomovie.com/02_FOX_Life_720p/chunklist.m3u8
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",FOXlife vn
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",FOX vn
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",Foxcrime th
-https://www.livedoomovie.com/02_FoxCrimeHD_720p/chunklist.m3u8
+#https://www.livedoomovie.com/02_FoxCrimeHD_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",FX
 https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
 #https://www.livedoomovie.com/02_FXThailand_720p/chunklist.m3u8

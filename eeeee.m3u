@@ -296,9 +296,9 @@ https://gpc.my.id/vidio/citra-bioskop.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV2
-http://topwin-tv.my.id/2/master.m3u8?id=hgtv
-#http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=hgtv
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV-2
+#http://topwin-tv.my.id/2/master.m3u8?id=hgtv
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=hgtv
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary
@@ -310,15 +310,13 @@ https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth2
 http://198.16.106.62:8278/streams/d/bbcearthhd_zero/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo-U
-https://s.id/aputraXyz_8080-stream724
-#https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeo&bandwidth=default&sync=0
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeo&bandwidth=default&sync=0
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo2
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/7
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National-Geo VN
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo People
-http://s.id/aputraXyz_8080-stream725
-#https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeopeople&bandwidth=default&sync=0
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeopeople&bandwidth=default&sync=0
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild
 http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild 2
@@ -353,22 +351,22 @@ https://outsidetvplus-stirr.amagi.tv/playlistR480p.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox
-https://s.id/aputraXyz_mpd_nonformat_aptv10
+https://s.id/aputraXyz_mpd_nonformat_aptv7
 #http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/1
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Movies Action
-https://s.id/aputraXyz_mpd_nonformat_aptv5
-#http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/2
+https://s.id/aputraXyz_mpd_nonformat_aptv8
+#http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/9
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Movies Family
-https://s.id/aputraXyz_mpd_nonformat_aptv23
+https://s.id/aputraXyz_mpd_nonformat_aptv781
 #http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/3
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Life
-https://s.id/aputraXyz_mpd_nonformat_aptv3
+https://s.id/aputraXyz_mpd_nonformat_aptv782
 #http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/6
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Crime
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/5
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Movies
 http://s.id/aputraXyz_mpd_nonformat_aptv25
-#http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/4
+#http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/783
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO-ID
@@ -528,14 +526,11 @@ http://topwin-tv.my.id/2/master.m3u8?id=bein2
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",beIN Xtra
 #https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",Foxsport1U
-http://s.id/aputra_8080-streamplay-sprtfx1
-#https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport1&bandwidth=default&sync=0
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport1&bandwidth=default&sync=0
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",Foxsport2U
-http://s.id/aputra_8080-streamplay-sprtfx2
-#https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",Foxsport3U
-http://s.id/aputra_8080-streamplay-sprtfx3
-#https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport3&bandwidth=default&sync=0
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport3&bandwidth=default&sync=0
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",Foxsport1 ALT
 http://topwin-tv.my.id/2/master.m3u8?id=foxsport1
 #EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",Foxsport2 ALT

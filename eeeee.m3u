@@ -188,7 +188,12 @@ https://gpc.my.id/usee/indikids.m3u8
 https://gpc.my.id/vidio/zoomoo.m3u8
 #EXTINF:-1 group-title="KIDS",HipHip Horee
 https://gpc.my.id/vidio/hip-hip-horee.m3u8
-
+#EXTINF:-1 group-title="KIDS",KidoodleTV
+https://kidoodletv-kdtv-2.plex.wurl.com/manifest/1200.m3u8
+#EXTINF:-1 group-title="KIDS",KidoodleTV2
+https://kidoodletv-kdtv-3.vizio.wurl.com/manifest/1200.m3u8
+#EXTINF:-1 group-title="KIDS",HappyKids
+https://happykids-roku.amagi.tv/playlist.m3u8
 
 
 #EXTM3U
@@ -462,9 +467,11 @@ https://bozztv.com/teleyupp/teleup-syfy/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="MOVIES",MBC Action
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_4.m3u8
 #EXTINF:-1 group-title="MOVIES",MBC MAX
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_5.m3u8
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_4.m3u8
 #EXTINF:-1 group-title="MOVIES",MY TIME
 https://mytime-tcl.amagi.tv/playlist404-p.m3u8
+#EXTINF:-1 group-title="MOVIES",Movie Sphere
+https://moviesphere-samsung-samsungus.amagi.tv/playlist480p.m3u8
 
 
 

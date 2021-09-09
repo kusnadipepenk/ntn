@@ -362,6 +362,8 @@ https://s.id/aputraXyz_mpd_nonformat_streams7
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Movies Action
 https://s.id/aputraXyz_mpd_nonformat_streams8
 #http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/9
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Movies Action2
+https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202498
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Movies Family
 https://s.id/aputraXyz_mpd_nonformat_streams9
 #http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/3
@@ -369,7 +371,7 @@ https://s.id/aputraXyz_mpd_nonformat_streams9
 https://s.id/aputraXyz_mpd_nonformat_streams782
 #http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/6
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Crime
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/5
+https://s.id/aputraXyz_mpd_nonformat_streams783
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Movies
 http://s.id/aputraXyz_mpd_nonformat_streams781
 #http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/783

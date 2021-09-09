@@ -325,10 +325,8 @@ http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=natgeowild
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERYCH Asia
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY-u
-#http://topwin-tv.my.id/2/master.m3u8?id=disco
-#https://mkctvbro.my.id/horas/pakailah.m3u8?id=disco&bandwidth=default&sync=0
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=disco
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY-uS
+https://bozztv.com/teleyupp/teleup-discovery/playlist.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",DiscoveryCH US
 http://31.220.41.88:8081/live/us-discovery.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",History-U
@@ -460,14 +458,19 @@ https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 #EXTINF:-1 group-title="MOVIES",Comedy Dinamic
 https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
 #EXTINF:-1 group-title="MOVIES",SYFY
-https://bozztv.com/teleyupp/teleup-syfy/playlist.m3u8
+https://bozztv.com/teleyupp/teleup-syfy/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="MOVIES",MBC Action
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_5.m3u8
-#EXTINF:-1 group-title="MOVIES",HITS movies
-https://s.id/aputraXyz_mpd_nonformat_aptv30
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_4.m3u8
+#EXTINF:-1 group-title="MOVIES",MBC MAX
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_5.m3u8
+#EXTINF:-1 group-title="MOVIES",MY TIME
+https://mytime-tcl.amagi.tv/playlist404-p.m3u8
+
 
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Music",NewKIDtv
+https://newidco-newkid-1.samsung.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Country Stingray
 https://dai.google.com/linear/hls/event/SgCez41rR36rmiw8Odu8FA/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",The K-pop

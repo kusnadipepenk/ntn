@@ -96,9 +96,9 @@ http://61.58.60.230:9319/live/222.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",CCTV4
 http://210.210.155.35/qwr9ew/s/s19/02.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",TV5 Monde
-http://210.210.155.35/qwr9ew/s/s24/02.m3u8
+http://210.210.155.35/qwr9ew/s/s24/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/mGNPfpD/tbn.png" group-title="STASIUN BERITA",TBN Asia
-http://210.210.155.35/qwr9ew/s/s39/02.m3u8
+http://210.210.155.35/qwr9ew/s/s39/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="STASIUN BERITA",Bloomberg
 http://210.210.155.35/uq2663/h/h03/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="STASIUN BERITA",Bloomberg2
@@ -123,8 +123,8 @@ https://gpc.my.id/usee/abcaustralia.m3u8
 https://gpc.my.id/usee/trtworld.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",RT News
 http://210.210.155.35/qwr9ew/s/s23/01.m3u8
-
-
+#EXTINF:-1  group-title="STASIUN BERITA",ABC news
+http://31.220.41.88:8081/live/us-abcnews.stream/playlist.m3u8?token=null
 
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://i.ibb.co/wyrQfKC/animax.jpg" group-title="KIDS",ANIMAX
@@ -318,7 +318,7 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo People
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeopeople&bandwidth=default&sync=0
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=natgeowild
+https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8?checkedby
 #==http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
 #==https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeowild&bandwidth=default&sync=0
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild 2
@@ -337,7 +337,7 @@ https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",FoodChannel
 http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
-https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
+http://31.220.41.88:8081/live/us-animal.stream/playlist.m3u8?token=null
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet MY
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Fine&Living
@@ -387,6 +387,8 @@ https://kusnadipepenk.github.io/campeign/hbored.m3u8
 https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
 
 
+#EXTINF:-1 group-title="MOVIES",AMC
+http://31.220.41.88:8081/live/us-amc.stream/playlist.m3u8?token=null
 #EXTINF:-1 group-title="MOVIES",FOXCrime CH
 #http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",FOXaction CH
@@ -597,7 +599,7 @@ http://54.37.82.205:8081/liveorigin/sd-tsport6_480/playlist.m3u8
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Astro Supersport 4
 ==http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS",BTSPORT 1
-http://31.220.41.88:8081/live/bt1.stream/playlist.m3u8
+http://31.220.41.88:8081/live/bt1.stream/chunks.m3u8
 #EXTINF:-1 group-title="SPORTS",BTSPORT 2 (link2)
 http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
 #EXTINF:-1 group-title="SPORTS",BTSPORT 3
@@ -606,6 +608,10 @@ http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
 https://iptvid.cgflix.xyz/Usee/sport/nba.m3u8
 #EXTINF:-1 group-title="SPORTS",Useesport
 http://topwin-tv.my.id/2/master.m3u8?id=useesport
+#EXTINF:-1 group-title="SPORTS",FS1
+http://31.220.41.88:8081/live/foxsports1.stream/chunks.m3u8?token=null
+#EXTINF:-1 group-title="SPORTS",FS2
+http://31.220.41.88:8081/live/foxsports2.stream/chunks.m3u8?token=null
 
 
 #EXTINF:-1 tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="SPORTS",Hits

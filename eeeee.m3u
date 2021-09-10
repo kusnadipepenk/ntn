@@ -387,6 +387,10 @@ https://kusnadipepenk.github.io/campeign/hbored.m3u8
 https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
 
 
+#EXTINF:-1 group-title="MOVIES",Star Movies
+http://143.244.60.10/ENGLISH__STAR_MOVIES_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="MOVIES",Sony PIC
+http://ahaohoo.com/.1/tv1/play.php?id=2700&e=.m3u8
 #EXTINF:-1 group-title="MOVIES",AMC
 http://31.220.41.88:8081/live/us-amc.stream/playlist.m3u8?token=null
 #EXTINF:-1 group-title="MOVIES",FOXCrime CH
@@ -437,9 +441,11 @@ https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",&picture
 https://f8e7y4c6.ssl.hwcdn.net/andpicshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndFlix.in.png" group-title="MOVIES",&Flix
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v3a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndPrive.in.png" group-title="MOVIES",&Prive
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v3a1/index.m3u8
+#https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v3a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="MOVIES",SHOWTIME US
 http://31.220.41.88:8081/live/us-showtime.stream/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Action MAX

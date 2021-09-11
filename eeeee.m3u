@@ -10,11 +10,11 @@ http://210.210.155.35/session/ce63989c-7f91-11ea-bf5d-bf109e240bb0/qwr9ew/s/s101
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D5gBX8N/trans7.jpg" group-title="STASIUN NASIONAL",TRANS7(2)
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="STASIUN NASIONAL",RCTI
-http://gpc.my.id/vidio/rcti.m3u8
+https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="STASIUN NASIONAL",SCTV
 http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1KX7m3dyRmjcbxJnJbNZrJ9HQyDf3VUuX" group-title="STASIUN NASIONAL",MNCTv
-http://gpc.my.id/vidio/mnc.m3u8
+https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
 #EXTINF:-1  tvg-logo="" group-title="STASIUN NASIONAL",MNC sport
 http://moegi.akamaized.net/live/eds/mncsport_fta/live_fta/mncsport_fta-avc1_768000=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_90.png" group-title="STASIUN NASIONAL",MNC Lifestyle
@@ -22,13 +22,13 @@ http://210.210.155.66/h/h28/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="STASIUN NASIONAL",INDOSIAR
 http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="STASIUN NASIONAL",INDOSIAR Liga1
-https://gpc.my.id/vidio/indosiar.m3u8
+https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QNQrm50/antv.png" group-title="STASIUN NASIONAL",ANTV(2)
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_hls/ANTV.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QNQrm50/antv.png" group-title="STASIUN NASIONAL",ANTV
 http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1uNGLnZUnUVO0BuZKQYN-KzIRVb9yXz1x" group-title="STASIUN NASIONAL",GLOBALTV
-http://gpc.my.id/vidio/gtv.m3u8
+https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
 #EXTINF:-1  group-title="STASIUN NASIONAL",TV ONE (2)
 http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1ZUCUkvAvWR5qJzRj8HG9wJ40MQ71vi5x" group-title="STASIUN NASIONAL",RTV
@@ -47,20 +47,15 @@ http://210.210.155.35/qwr9ew/s/s11/01.m3u8
 http://202.80.222.130/000001/2/ch14041511560872104862/1002.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1  tvg-logo="" group-title="STASIUN NASIONAL",TVRI SPORT
 http://210.210.155.35/session/4ef13212-a900-11e9-8ab6-b7d19fbdbf13/qwr9ew/s/s107/01.m3u8
-#EXTINF:-1  tvg-logo="" group-title="STASIUN NASIONAL",Mola TV
-https://gpc.my.id/vidio/mola-tv-free.m3u8
-#EXTINF:-1  tvg-logo="" group-title="STASIUN NASIONAL",O Chanel
-https://gpc.my.id/vidio/ochannel.m3u8
+
 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/T2vhn7P/metro.jpg" group-title="STASIUN BERITA",METROTV
 http://210.210.155.35/uq2663/h/h12/01.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/T2vhn7P/metro.jpg" group-title="STASIUN BERITA",METROTV(2)
-https://gpc.my.id/vidio/metro-tv.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1Yx6l54PwaAnm2d25XMAGJENd81AISjnu" group-title="STASIUN BERITA",KOMPASTV
 http://210.210.155.35/session/b44f53c0-1a28-11ea-980f-a261a2f9ca81/qwr9ew/s/s104/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1933FnfQ31OzlfU644rLpVcg_YMmQCySR" group-title="STASIUN BERITA",INews TV
-https://gpc.my.id/vidio/inews.m3u8
+https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-Agustus.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yBWB003/cnnin.png" group-title="STASIUN BERITA",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1ORGoY9MMi6-DWGqhEjc5dHr2DAqTOBax" group-title="STASIUN BERITA",BERITA SATU
@@ -118,11 +113,11 @@ http://210.210.155.35/qwr9ew/s/s26/01.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",Aljazeera
 http://210.210.155.35/qwr9ew/s/s17/01.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",ABC Australia
-https://gpc.my.id/usee/abcaustralia.m3u8
+#https://gpc.my.id/usee/abcaustralia.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",TRT World
-https://gpc.my.id/usee/trtworld.m3u8
+#https://gpc.my.id/usee/trtworld.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",RT News
-http://210.210.155.35/qwr9ew/s/s23/01.m3u8
+#http://210.210.155.35/qwr9ew/s/s23/01.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",ABC news
 http://31.220.41.88:8081/live/us-abcnews.stream/chunks.m3u8?token=null
 
@@ -178,11 +173,11 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=dreamworks&bandwidth=default&sync=
 #EXTINF:-1 group-title="KIDS",Dunia Anak
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=duniaanak&bandwidth=default&sync=0
 #EXTINF:-1 group-title="KIDS",Indie Kids
-https://gpc.my.id/usee/indikids.m3u8
+#https://gpc.my.id/usee/indikids.m3u8
 #EXTINF:-1 group-title="KIDS",Zoomoo
-https://gpc.my.id/vidio/zoomoo.m3u8
+#https://gpc.my.id/vidio/zoomoo.m3u8
 #EXTINF:-1 group-title="KIDS",HipHip Horee
-https://gpc.my.id/vidio/hip-hip-horee.m3u8
+#https://gpc.my.id/vidio/hip-hip-horee.m3u8
 #EXTINF:-1 group-title="KIDS",KidoodleTV
 https://kidoodletv-kdtv-2.plex.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 group-title="KIDS",KidoodleTV2
@@ -197,7 +192,7 @@ http://210.210.155.35:80/dr9445/h/h20/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNMovies
 http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h21/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvND1
-http://gpc.my.id/vidio/tvn.m3u8
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNMovies1
 http://210.210.155.35/dr9445/h/h21/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN-1
@@ -276,8 +271,6 @@ http://210.210.155.35/x6bnqe/s/s101/live.m3u8
 http://210.210.155.35:80/uq2663/h/h22/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",LifeStyle
 http://210.210.155.35:80/uq2663/h/h28/02.m3u8
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tVN Malasya
-http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Galaxy
 http://topwin-tv.my.id/2/master.m3u8?id=galaxy
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Galaxy Premium
@@ -287,13 +280,9 @@ https://iptvid.cgflix.xyz/Usee/movies/glxprem.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=imc
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Flik
 http://topwin-tv.my.id/2/master.m3u8?id=flik
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Chinese Drama
-https://gpc.my.id/usee/chinesedrama.m3u8
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",CitraBioskop
-https://gpc.my.id/vidio/citra-bioskop.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Sea Today
-https://gpc.my.id/vidio/sea-today.m3u8
+ 
+ 
+ 
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV-2
@@ -343,8 +332,6 @@ http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 http://70.32.0.9:5000/live/543/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.outdoorchannel.com/network/img/odc/logo.png" group-title="KNOWLEDGE",OUTDOOR CHANNEL2
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-logo="https://www.outdoorchannel.com/network/img/odc/logo.png" group-title="KNOWLEDGE",Outdoor channel
-https://gpc.my.id/usee/outdoor.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",LoveNature
 http://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",OutsideTV
@@ -485,10 +472,6 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist480p.m3u8
 https://newidco-newkid-1.samsung.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Country Stingray
 https://dai.google.com/linear/hls/event/SgCez41rR36rmiw8Odu8FA/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",The K-pop
-https://gpc.my.id/ytlive/the-kpop.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",Musica
-https://gpc.my.id/vidio/musica.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",iKONSER 
 http://dituduhmaling.xyz/US33T4/ikonser.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",MTV Live 
@@ -522,11 +505,11 @@ http://210.210.155.35/uq2663/h/h09/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Golf
 http://210.210.155.35/dr9445/h/h10/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Champ1
-https://gpc.my.id/vidio/champion-tv-1.m3u8
+h
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Champ2
-https://gpc.my.id/vidio/champion-tv-2.m3u8
+h
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Champ3
-https://gpc.my.id/vidio/champion-tv-3.m3u8
+h
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/beINSports.us.png" group-title="SPORTS",bein 1(FR)
 http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/beINSports2.us.png" group-title="SPORTS",bein 2(FR)

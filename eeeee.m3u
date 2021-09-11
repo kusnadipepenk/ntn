@@ -169,15 +169,13 @@ http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Cartoon Network
 http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",DreamWOrks
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=dreamworks&bandwidth=default&sync=0
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=dreamworks
 #EXTINF:-1 group-title="KIDS",Dunia Anak
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=duniaanak&bandwidth=default&sync=0
-#EXTINF:-1 group-title="KIDS",Indie Kids
-#https://gpc.my.id/usee/indikids.m3u8
 #EXTINF:-1 group-title="KIDS",Zoomoo
 #https://gpc.my.id/vidio/zoomoo.m3u8
-#EXTINF:-1 group-title="KIDS",HipHip Horee
-#https://gpc.my.id/vidio/hip-hip-horee.m3u8
+#EXTINF:-1 group-title="KIDS",Horee
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=horee
 #EXTINF:-1 group-title="KIDS",KidoodleTV
 https://kidoodletv-kdtv-2.plex.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 group-title="KIDS",KidoodleTV2

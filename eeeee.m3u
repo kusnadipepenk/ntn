@@ -120,6 +120,8 @@ http://210.210.155.35/qwr9ew/s/s17/01.m3u8
 #http://210.210.155.35/qwr9ew/s/s23/01.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",ABC news
 http://31.220.41.88:8081/live/us-abcnews.stream/chunks.m3u8?token=null
+#EXTINF:-1  group-title="STASIUN BERITA",SeA Today
+https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
 
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://i.ibb.co/wyrQfKC/animax.jpg" group-title="KIDS",ANIMAX
@@ -371,10 +373,14 @@ https://kusnadipepenk.github.io/campeign/hbored.m3u8
 https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
 
 
+#EXTINF:-1 group-title="MOVIES",Holiwut Aksyen
+https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 group-title="MOVIES",Star Movies
 http://143.244.60.10/ENGLISH__STAR_MOVIES_SD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 group-title="MOVIES",Sony PICC
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
+#EXTINF:-1 group-title="MOVIES",Sony PIC
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v3a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
+#EXTINF:-1 group-title="MOVIES",Sony PIC2
+https://cdn.nowhdtime.com.bd/SonyPix/index.m3u8
 #EXTINF:-1 group-title="MOVIES",AMC
 http://31.220.41.88:8081/live/us-amc.stream/playlist.m3u8?token=null
 #EXTINF:-1 group-title="MOVIES",FOXCrime CH
@@ -402,7 +408,7 @@ https://gratismkctv.net/film/hbo.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="MOVIES",HBO1mck
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO.US" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",Warner tv
-https://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b1200000.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(72d6d51e-c265-4ce1-bf21-a9bb75487bc5)/manifest.mpd
 #https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="HBO.US" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",Warner tv-U
 http://iptvid.cgflix.xyz/Usee/movies/wrnr.m3u8
@@ -503,11 +509,11 @@ http://210.210.155.35/uq2663/h/h09/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Golf
 http://210.210.155.35/dr9445/h/h10/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Champ1
-h
+https://aputra.000webhostapp.com/aptv/hls-live/vidio.com/ctv1.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Champ2
-h
+https://aputra.000webhostapp.com/aptv/hls-live/vidio.com/ctv2.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Champ3
-h
+https://aputra.000webhostapp.com/aptv/hls-live/vidio.com/ctv3.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/beINSports.us.png" group-title="SPORTS",bein 1(FR)
 http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/beINSports2.us.png" group-title="SPORTS",bein 2(FR)

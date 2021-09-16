@@ -301,7 +301,7 @@ http://198.16.106.62:8278/streams/d/bbcearthhd_zero/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo-U
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeo&bandwidth=default&sync=0
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo2
-http://31.220.41.88:8081/live/us-natgeo.stream/playlist.m3u8?token=null
+http://31.220.41.88:8081/live/us-natgeo.stream/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National-Geo VN
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo People
@@ -309,8 +309,8 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeopeople&bandwidth=default&syn
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeowild&bandwidth=default&sync=0
 #==http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild2
-http://31.220.41.88:8081/live/us-natgeowild.stream/playlist.m3u8?token=null
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild-US
+http://31.220.41.88:8081/live/us-natgeowild.stream/chunks.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERYCH Asia
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=disco
 ##https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b1200000.m3u8

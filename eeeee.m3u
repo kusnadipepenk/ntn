@@ -500,18 +500,17 @@ https://dl.dropbox.com/s/emp7q8g3tc1kikj/BMusik.m3u8?dl=1
 http://203.154.243.89:1213
 
 
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",NBAx
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein1
+
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Motorvision
 http://210.210.155.35/uq2663/h/h09/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Golf
 http://210.210.155.35/dr9445/h/h10/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Champ1
-https://aputra.000webhostapp.com/aptv/hls-live/vidio.com/ctv1.m3u8
+https://aputra.xyz/vidio/live/6685-champions-tv1.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Champ2
-https://aputra.000webhostapp.com/aptv/hls-live/vidio.com/ctv2.m3u8
+https://aputra.xyz/vidio/live/6686-champions-tv-2.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Champ3
-https://aputra.000webhostapp.com/aptv/hls-live/vidio.com/ctv3.m3u8
+https://aputra.xyz/vidio/live/6687-champions-tv-3.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/beINSports.us.png" group-title="SPORTS",bein 1(FR)
 http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/beINSports2.us.png" group-title="SPORTS",bein 2(FR)
@@ -519,8 +518,8 @@ http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",BEINXtra
 https//siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Asia
-#http://topwin-tv.my.id/2/master.m3u8?id=bein1
-https://iptvid.cgflix.xyz/Usee/sport/be1.m3u8
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein1
+#https://iptvid.cgflix.xyz/Usee/sport/be1.m3u8
 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=bein1&bandwidth=894100&sync=0
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia
 http://topwin-tv.my.id/2/master.m3u8?id=bein2

@@ -307,8 +307,8 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo People
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeopeople&bandwidth=default&sync=0
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeowild&bandwidth=default&sync=0
-#==http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
+#https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeowild&bandwidth=default&sync=0
+http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild-US
 http://31.220.41.88:8081/live/us-natgeowild.stream/chunks.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERYCH Asia
@@ -518,8 +518,8 @@ http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",BEINXtra
 https//siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Asia
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein1
-#https://iptvid.cgflix.xyz/Usee/sport/be1.m3u8
+#http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein1
+http://topwin-tv.my.id/2/master.m3u8?id=bein1
 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=bein1&bandwidth=894100&sync=0
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia
 http://topwin-tv.my.id/2/master.m3u8?id=bein2

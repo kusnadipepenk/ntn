@@ -287,7 +287,7 @@ http://topwin-tv.my.id/2/master.m3u8?id=flik
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV-2
 #http://topwin-tv.my.id/2/master.m3u8?id=hgtv
-http://31.220.41.88:8081/live/us-hgtv.stream/playlist.m3u8?token=null
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=hgtv
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary
@@ -301,7 +301,7 @@ http://198.16.106.62:8278/streams/d/bbcearthhd_zero/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo-U
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeo&bandwidth=default&sync=0
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo2
-http://31.220.41.88:8081/live/us-natgeo.stream/chunks.m3u8
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=natgeo
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National-Geo VN
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo People
@@ -310,22 +310,20 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeopeople&bandwidth=default&syn
 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeowild&bandwidth=default&sync=0
 http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild-US
-http://31.220.41.88:8081/live/us-natgeowild.stream/chunks.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERYCH Asia
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=disco
 ##https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY-uS
-https://bozztv.com/teleyupp/teleup-discovery/playlist.m3u8
+
 #EXTINF:-1 group-title="KNOWLEDGE",DiscoveryCH US
-http://31.220.41.88:8081/live/us-discovery.stream/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",History-U
 http://topwin-tv.my.id/2/master.m3u8?id=history
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",AFN
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",FoodChannel
 http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
-http://31.220.41.88:8081/live/us-animal.stream/playlist.m3u8?token=null
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet MY
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Fine&Living
@@ -381,8 +379,6 @@ http://143.244.60.10/ENGLISH__STAR_MOVIES_SD/tracks-v1a1/mono.m3u8?token=test
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
 #EXTINF:-1 group-title="MOVIES",Sony PIC2
 https://cdn.nowhdtime.com.bd/SonyPix/index.m3u8
-#EXTINF:-1 group-title="MOVIES",AMC
-http://31.220.41.88:8081/live/us-amc.stream/playlist.m3u8?token=null
 #EXTINF:-1 group-title="MOVIES",FOXCrime CH
 #http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",FOXaction CH
@@ -391,18 +387,6 @@ http://31.220.41.88:8081/live/us-amc.stream/playlist.m3u8?token=null
 #http://iptv.tvmalaysia.cc:80/penang172/penang172/8839
 #EXTINF:-1 group-title="MOVIES",FOX CH
 #http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",FOX US
-http://31.220.41.88:8081/live/us-fox.stream/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",FXX US
-http://31.220.41.88:8081/live/us-fxx.stream/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",hallmark US
-http://31.220.41.88:8081/live/us-hallmark.stream/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",HBO US
-http://31.220.41.88:8081/live/us-hbo.stream/playlist.m3u8?token=null
-#EXTINF:-1 group-title="MOVIES",HBO Family US
-http://31.220.41.88:8081/live/us-hbofamily.stream/playlist.m3u8?token=null
-#EXTINF:-1 group-title="MOVIES",HBO Zone US
-http://31.220.41.88:8081/live/us-hbozone.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="MOVIES",HBOmck
 https://gratismkctv.net/film/hbo.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="MOVIES",HBO1mck
@@ -436,18 +420,6 @@ https://f8e7y4c6.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndPrive.in.png" group-title="MOVIES",&Prive
 #https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v3a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="MOVIES",SHOWTIME US
-http://31.220.41.88:8081/live/us-showtime.stream/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",Action MAX
-http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8?token=null
-#EXTINF:-1 group-title="MOVIES",Cinemax Action US
-http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8?token=null
-#EXTINF:-1 group-title="MOVIES",Comedy Central US
-http://31.220.41.88:8081/live/us-comedy.stream/playlist.m3u8?token=null
-#EXTINF:-1 group-title="MOVIES",Lifetime US
-http://31.220.41.88:8081/live/us-lifetime.stream/playlist.m3u8?token=null
-#EXTINF:-1 group-title="MOVIES",Lifetime Movie Network US
-http://31.220.41.88:8081/live/us-lmn.stream/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",K-movies
 https://newidco-newmovies-1.samsung.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 group-title="MOVIES",MovieMix
@@ -458,10 +430,6 @@ https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
 #EXTINF:-1 group-title="MOVIES",SYFY
 https://bozztv.com/teleyupp/teleup-syfy/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="MOVIES",MBC Action
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_4.m3u8
-#EXTINF:-1 group-title="MOVIES",MBC MAX
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_4.m3u8
 #EXTINF:-1 group-title="MOVIES",MY TIME
 https://mytime-tcl.amagi.tv/playlist404-p.m3u8
 #EXTINF:-1 group-title="MOVIES",Movie Sphere
@@ -504,6 +472,14 @@ http://203.154.243.89:1213
 https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV2
 https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPORT-TV
+https://cloudserver.server-cdn-streaming.com/live-player/19/live.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPORT-TV2
+https://cloudserver.server-cdn-streaming.com/live-player/20/live.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPORT-TV3
+https://cloudserver.server-cdn-streaming.com/live-player/21/live.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPORT-TV4
+https://cloudserver.server-cdn-streaming.com/live-player/22/live.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Motorvision
 http://210.210.155.35/uq2663/h/h09/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Golf
@@ -718,19 +694,4 @@ https://kusnadipepenk.github.io/campeign/nika.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIDIO",V-Channel
 #https://newlivetv.my.id/vidio/6898-LiveTV.m3u8?livetv
 
-
-#EXTINF:-1 group-title="TES",DAVE
-http://31.220.41.88:8081/live/dave.stream/playlist.m3u8
-#EXTINF:-1 group-title="TES",DAZN F1
-http://31.220.41.88:8081/live/es-moviestarf1.stream/playlist.m3u8
-#EXTINF:-1 group-title="TES",ESPN 2 HD
-http://31.220.41.88:8081/live/nl-foxsports2.stream/playlist.m3u8
-#EXTINF:-1 group-title="TES",ESPN 3 HD
-http://31.220.41.88:8081/live/nl-foxsports3.stream/playlist.m3u8
-#EXTINF:-1 group-title="TES",ESPN 4 HD
-http://31.220.41.88:8081/live/nl-foxsports4.stream/playlist.m3u8
-#EXTINF:-1 group-title="TES",Paramount (Spike)
-http://31.220.41.88:8081/live/us-paramount.stream/playlist.m3u8
-#EXTINF:-1 group-title="TES",Premier Sports 1
-http://31.220.41.88:8081/live/prem.stream/playlist.m3u8
 

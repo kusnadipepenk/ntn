@@ -140,8 +140,6 @@ http://185.180.221.194:8278/streams/d/Babytv/playlist.m3u8
 https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMERANGs
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b450000.m3u8 
-#EXTINF:-1  tvg-logo="" group-title="KIDS",BOOM KIDS US
-http://31.220.41.88:8081/live/us-boomerang.stream/chunks.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMerang
 http://198.16.106.62:8278/streams/d/Boomerang/playlist.m3u8
 #EXTINF:-1  group-title="KIDS",Kids Toons
@@ -150,20 +148,10 @@ http://210.210.155.35/session/a1b2362c-9d39-11e9-9cda-b82a72d63267/qwr9ew/s/s50/
 http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 #EXTINF:-1  group-title="KIDS",DisneyJr
 http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
-#EXTINF:-1 tvg-id="NJR.US" tvg-logo="" group-title="KIDS",DisneyUSA 2
-http://stream.tvtap.live:8081/live/us-disney.stream/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",Nick Jr2
-http://31.220.41.88:8081/live/uk-nickjr.stream/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Nick Jr
 http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="KIDS",Nickelodeon2
-http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="KIDS",Nickelodeon
 http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",DisneyJr-2
-http://31.220.41.88:8081/live/disneyjr.stream/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",Disney XD
-http://31.220.41.88:8081/live/disneyxd.stream/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",DisneyUSA
 http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Cbabies
@@ -527,42 +515,31 @@ https://cloudserver.server-cdn-streaming.com/live-player/6/live.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/5/live.m3u8
 ===http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Truesport1
-http://54.37.82.205:8081/liveorigin/sd-tsport1_480/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Truesport2
-http://54.37.82.205:8081/liveorigin/sd-tsport2_480/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Truesport3
-http://54.37.82.205:8081/liveorigin/sd-tsport3_480/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Truesport4
-http://54.37.82.205:8081/liveorigin/sd-tsport4_480/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Truesport5
-http://54.37.82.205:8081/liveorigin/sd-tsport5_480/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Truesport7
-http://54.37.82.205:8081/liveorigin/sd-tsport7_480/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Truesport6
-http://54.37.82.205:8081/liveorigin/sd-tsport6_480/playlist.m3u8
-#EXTINF:-1 tvg-id="Erz.Assp1" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Astro Supersport 1
 https://cloudserver.server-cdn-streaming.com/live-player/7/live.m3u8
-#EXTINF:-1 tvg-id="Erz.Assp2" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Astro Supersport 2
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Truesport2
 https://cloudserver.server-cdn-streaming.com/live-player/8/live.m3u8
-#EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Astro Supersport 3
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Truesport3
 https://cloudserver.server-cdn-streaming.com/live-player/9/live.m3u8
-#EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Astro Supersport 4
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Truesport4
 https://cloudserver.server-cdn-streaming.com/live-player/10/live.m3u8
+#EXTINF:-1 tvg-id="Erz.Assp1" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Astro Supersport 1
+
+#EXTINF:-1 tvg-id="Erz.Assp2" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Astro Supersport 2
+
+#EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Astro Supersport 3
+
+#EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Astro Supersport 4
+
 #EXTINF:-1 group-title="SPORTS",BTSPORT 1
-http://31.220.41.88:8081/live/bt1.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="SPORTS",BTSPORT 2 (link2)
-http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="SPORTS",BTSPORT 3
-http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="SPORTS",NBA TV
 https://iptvid.cgflix.xyz/Usee/sport/nba.m3u8
 #EXTINF:-1 group-title="SPORTS",Useesport
 http://topwin-tv.my.id/2/master.m3u8?id=useesport
-#EXTINF:-1 group-title="SPORTS",FS1
-http://31.220.41.88:8081/live/foxsports1.stream/chunks.m3u8?token=null
-#EXTINF:-1 group-title="SPORTS",FS2
-http://31.220.41.88:8081/live/foxsports2.stream/chunks.m3u8?token=null
-
 
 #EXTINF:-1 tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="SPORTS",Hits
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

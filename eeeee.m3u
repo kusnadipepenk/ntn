@@ -500,8 +500,10 @@ https://dl.dropbox.com/s/emp7q8g3tc1kikj/BMusik.m3u8?dl=1
 http://203.154.243.89:1213
 
 
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BTSport2(MotoGP)
-https://link.zozotv.xyz:443/@suhadaahmad12/9966T/174
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV
+https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV2
+https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Motorvision
 http://210.210.155.35/uq2663/h/h09/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Golf
@@ -528,30 +530,10 @@ http://topwin-tv.my.id/2/master.m3u8?id=bein2
 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=bein2&bandwidth=894100&sync=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",beIN Xtra
 #https://bein-plutolive-vo.akamaized.net/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",Foxsport1Us
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=foxsport1
-#https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport1&bandwidth=default&sync=0
-#EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",Foxsport2U
-#http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=foxsport2
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
-#EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",Foxsport3U
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport3&bandwidth=default&sync=0
-#EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",Foxsport1 ALT
-http://topwin-tv.my.id/2/master.m3u8?id=foxsport1
-#EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",Foxsport2 ALT
-http://topwin-tv.my.id/2/master.m3u8?id=foxsport2
-#EXTINF:-1  tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",Foxsport3 ALT
-http://topwin-tv.my.id/2/master.m3u8?id=foxsport3
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FightSport
 http://210.210.155.35/x6bnqe/h/h05/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FightSport(2)
 http://210.210.155.35/session/99f95566-7000-11e9-8e97-9239acfe1a75/uq2663/h/h05/02.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT1
-https://vips-livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT2
-https://vips-livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="SPORTS",FOX-SPORT3
-https://vips-livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Liverpooltv
 https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",MU-TV
@@ -563,9 +545,11 @@ https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",EPL Sports 3
 https://www.livedoomovies.com/02_PremierHD3_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Bein2HD
-http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+https://cloudserver.server-cdn-streaming.com/live-player/6/live.m3u8
+===http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Bein1HD
-http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+https://cloudserver.server-cdn-streaming.com/live-player/5/live.m3u8
+===http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Truesport1
 http://54.37.82.205:8081/liveorigin/sd-tsport1_480/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Truesport2
@@ -581,13 +565,13 @@ http://54.37.82.205:8081/liveorigin/sd-tsport7_480/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Truesport6
 http://54.37.82.205:8081/liveorigin/sd-tsport6_480/playlist.m3u8
 #EXTINF:-1 tvg-id="Erz.Assp1" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Astro Supersport 1
-==http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+https://cloudserver.server-cdn-streaming.com/live-player/7/live.m3u8
 #EXTINF:-1 tvg-id="Erz.Assp2" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Astro Supersport 2
-==http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+https://cloudserver.server-cdn-streaming.com/live-player/8/live.m3u8
 #EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Astro Supersport 3
-==http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+https://cloudserver.server-cdn-streaming.com/live-player/9/live.m3u8
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Astro Supersport 4
-==http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+https://cloudserver.server-cdn-streaming.com/live-player/10/live.m3u8
 #EXTINF:-1 group-title="SPORTS",BTSPORT 1
 http://31.220.41.88:8081/live/bt1.stream/chunks.m3u8
 #EXTINF:-1 group-title="SPORTS",BTSPORT 2 (link2)

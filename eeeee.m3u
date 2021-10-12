@@ -287,7 +287,7 @@ https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth2
 http://198.16.106.62:8278/streams/d/bbcearthhd_zero/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo-U
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeo&bandwidth=default&sync=0
+http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo2
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=natgeo
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National-Geo VN
@@ -298,14 +298,14 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeopeople&bandwidth=default&syn
 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeowild&bandwidth=default&sync=0
 http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild-US
-
+http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERYCH Asia
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=disco
 ##https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY-uS
-
-#EXTINF:-1 group-title="KNOWLEDGE",DiscoveryCH US
-
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Sci
+https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Smithsonian
+https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8?checkedby:iptvcat.com
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",History-U
 http://topwin-tv.my.id/2/master.m3u8?id=history
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",AFN
@@ -472,12 +472,14 @@ https://cloudserver.server-cdn-streaming.com/live-player/22/live.m3u8
 http://210.210.155.35/uq2663/h/h09/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Golf
 http://210.210.155.35/dr9445/h/h10/01.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",Champ1
-https://aputra.xyz/vidio/live/6685-champions-tv1.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",Champ2
-https://aputra.xyz/vidio/live/6686-champions-tv-2.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",Champ3
-https://aputra.xyz/vidio/live/6687-champions-tv-3.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Looksportplus
+https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&checkedby:iptvcat.com
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Looksport1
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&checkedby:iptvcat.com
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Looksport2
+https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Looksport3
+https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/beINSports.us.png" group-title="SPORTS",bein 1(FR)
 http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/beINSports2.us.png" group-title="SPORTS",bein 2(FR)
@@ -522,14 +524,14 @@ https://cloudserver.server-cdn-streaming.com/live-player/8/live.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/9/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Truesport4
 https://cloudserver.server-cdn-streaming.com/live-player/10/live.m3u8
-#EXTINF:-1 tvg-id="Erz.Assp1" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Astro Supersport 1
-
-#EXTINF:-1 tvg-id="Erz.Assp2" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Astro Supersport 2
-
-#EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Astro Supersport 3
-
-#EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Astro Supersport 4
-
+#EXTINF:-1 tvg-id="Erz.Assp1" tvg-logo="" group-title="SPORTS",Starsport 1
+http://140.238.229.213/sp1/index.m3u8
+#EXTINF:-1 tvg-id="Erz.Assp2" tvg-logo="" group-title="SPORTS",Starsport 2
+http://140.238.229.213/sp2/index.m3u
+#EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Foxsport 1 AR
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
+#EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Foxsport 1 AR
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
 #EXTINF:-1 group-title="SPORTS",BTSPORT 1
 
 #EXTINF:-1 group-title="SPORTS",BTSPORT 2 (link2)

@@ -197,6 +197,8 @@ http://210.210.155.35/session/d0b296ce-6a30-11e9-9180-b63a8ba36486/qwr9ew/s/s42/
 http://210.210.155.35/dr9445/h/h04/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/VTtxzXm/ciwo.jpg" group-title="PREMIUM INDONESIA",CINEMA WORLD(2)
 http://45.126.83.51/dr9445/h/h04/01.m3u8
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",CinemAEurope
+http://210.210.155.35:80/uq2663/h/h18/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",KBS WORLD
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",KBS WORLD2

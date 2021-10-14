@@ -353,14 +353,8 @@ http://143.244.60.10/ENGLISH__STAR_MOVIES_SD/tracks-v1a1/mono.m3u8?token=test
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
 #EXTINF:-1 group-title="MOVIES",Sony PIC2
 https://cdn.nowhdtime.com.bd/SonyPix/index.m3u8
-#EXTINF:-1 group-title="MOVIES",FOXCrime CH
-#http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",FOXaction CH
-#http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",FOXaction
-#http://iptv.tvmalaysia.cc:80/penang172/penang172/8839
-#EXTINF:-1 group-title="MOVIES",FOX CH
-#http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES",FAmily Flik
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="MOVIES",HBOmck
 https://gratismkctv.net/film/hbo.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="MOVIES",HBO1mck
@@ -371,21 +365,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(72d6d51e-c265-4
 #EXTINF:-1 tvg-id="HBO.US" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",Warner tv-U
 http://203.154.243.89:11205/
 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=warner&bandwidth=default&sync=0
-#EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="MOVIES",FOX-MOVIE VN
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b450000.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/XS3r0Ww/download-1.jpg" group-title="MOVIES",FOX-MOVIE1
-#https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/xfZxYPH/foxfam.png" group-title="MOVIES",FOX Family
-https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b450000.m3u8
-#EXTINF:-1  tvg-logo="" group-title="MOVIES",FOXlife vn
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b450000.m3u8
-#EXTINF:-1  tvg-logo="" group-title="MOVIES",FOX vn
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b450000.m3u8
-#EXTINF:-1  tvg-logo="" group-title="MOVIES",Foxcrime th
-#https://www.livedoomovie.com/02_FoxCrimeHD_720p/chunklist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="MOVIES",FX
-https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
-#https://www.livedoomovie.com/02_FXThailand_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",&picture
 https://f8e7y4c6.ssl.hwcdn.net/andpicshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndFlix.in.png" group-title="MOVIES",&Flix
@@ -402,8 +381,6 @@ https://moviemix.samsung.wurl.com/manifest/playlist.m3u8
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 #EXTINF:-1 group-title="MOVIES",Comedy Dinamic
 https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
-#EXTINF:-1 group-title="MOVIES",SYFY
-https://bozztv.com/teleyupp/teleup-syfy/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="MOVIES",MY TIME
 https://mytime-tcl.amagi.tv/playlist404-p.m3u8
 #EXTINF:-1 group-title="MOVIES",Movie Sphere

@@ -134,30 +134,12 @@ http://210.210.155.35/uq2663/h/h98/index.m3u8
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/d0RzNrk/space.png" group-title="KIDS",Lernings
 http://210.210.155.35/uq2663/h/h97/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/p2rYxCW/baby.jpg" group-title="KIDS",BabyTV
-http://185.180.221.194:8278/streams/d/Babytv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Disney asia
 https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMERANGs
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b450000.m3u8 
-#EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMerang
-http://198.16.106.62:8278/streams/d/Boomerang/playlist.m3u8
 #EXTINF:-1  group-title="KIDS",Kids Toons
 http://210.210.155.35/session/a1b2362c-9d39-11e9-9cda-b82a72d63267/qwr9ew/s/s50/01.m3u8
-#EXTINF:-1  group-title="KIDS",KidTV
-http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
-#EXTINF:-1  group-title="KIDS",DisneyJr
-http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",Nick Jr
-http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="KIDS",Nickelodeon
-http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",DisneyUSA
-http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",Cbabies
-http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",Cartoon Network
-http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",DreamWOrks
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=dreamworks
 #EXTINF:-1 group-title="KIDS",Dunia Anak
@@ -363,6 +345,8 @@ https://kusnadipepenk.github.io/campeign/hbored.m3u8
 https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
 
 
+#EXTINF:-1 group-title="MOVIES",iQiyi
+http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Star Movies
 http://143.244.60.10/ENGLISH__STAR_MOVIES_SD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="MOVIES",Sony PIC
@@ -458,6 +442,8 @@ https://dl.dropbox.com/s/emp7q8g3tc1kikj/BMusik.m3u8?dl=1
 http://203.154.243.89:1213
 
 
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",GPEsensial
+https://cloudserver.server-cdn-streaming.com/live-player/12/live.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV
 https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV2

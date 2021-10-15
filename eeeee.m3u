@@ -422,7 +422,8 @@ http://203.154.243.89:1213
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",GPEsensial
 https://cloudserver.server-cdn-streaming.com/live-player/12/live.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV
-https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
+https://aputra.xyz/mpeg/live-hls/aptv255_spotv.mpd
+==https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV2
 https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPORT-TV
@@ -498,7 +499,7 @@ https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/Fo
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Foxsport 1 AR
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
 #EXTINF:-1 group-title="SPORTS",BTSPORT 1
-
+https://cloudserver.server-cdn-streaming.com/live-player/3/live.m3u8
 #EXTINF:-1 group-title="SPORTS",BTSPORT 2 (link2)
 
 #EXTINF:-1 group-title="SPORTS",BTSPORT 3

@@ -424,8 +424,7 @@ http://203.154.243.89:1213
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",GPEsensial
 https://cloudserver.server-cdn-streaming.com/live-player/12/live.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV
-https://aputra.xyz/mpeg/live-hls/aptv255_spotv.mpd
-==https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
+https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
 ==https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
@@ -504,26 +503,23 @@ https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A
 #EXTINF:-1 group-title="SPORTS",BTSPORT 1
 https://cloudserver.server-cdn-streaming.com/live-player/3/live.m3u8
 #EXTINF:-1 group-title="SPORTS",BTSPORT 2 (link2)
-
+http://5.182.229.75:8080/2506/index.m3u8?token=test
 #EXTINF:-1 group-title="SPORTS",BTSPORT 3
-
+http://5.182.229.75:8080/2505/index.m3u8?token=test
 #EXTINF:-1 group-title="SPORTS",NBA TV
-https://iptvid.cgflix.xyz/Usee/sport/nba.m3u8
-#EXTINF:-1 group-title="SPORTS",Useesport
-http://topwin-tv.my.id/2/master.m3u8?id=useesport
 
-#EXTINF:-1 tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="SPORTS",Hits
+#EXTINF:-1 group-title="SPORTS",Useesport
+
+
+#EXTINF:-1 tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="zzz",Hits
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
-
-
-#EXTINF:-1 tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="SPORTS",Hits Movies
+#EXTINF:-1 tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="zzz",Hits Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
-
-#EXTINF:-1 tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="SPORTS",Hitsvv
+#EXTINF:-1 tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="zzz",Hitsvv
 https://kusnadipepenk.github.io/campeign/nika.m3u8
 
 

@@ -137,19 +137,19 @@ http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/d0RzNrk/space.png" group-title="KIDS",Lernings
 http://210.210.155.35/uq2663/h/h97/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Disney asia
-https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="KIDS",BOOMERANGs
-https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b450000.m3u8 
+ 
 #EXTINF:-1  group-title="KIDS",Kids Toons
 http://210.210.155.35/session/a1b2362c-9d39-11e9-9cda-b82a72d63267/qwr9ew/s/s50/01.m3u8
 #EXTINF:-1 group-title="KIDS",DreamWOrks
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=dreamworks
+
 #EXTINF:-1 group-title="KIDS",Dunia Anak
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=duniaanak&bandwidth=default&sync=0
+
 #EXTINF:-1 group-title="KIDS",Zoomoo
-#https://gpc.my.id/vidio/zoomoo.m3u8
+
 #EXTINF:-1 group-title="KIDS",Horee
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=horee
+
 #EXTINF:-1 group-title="KIDS",KidoodleTV
 https://kidoodletv-kdtv-2.plex.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 group-title="KIDS",KidoodleTV2
@@ -269,41 +269,39 @@ http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary2
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth2
-http://198.16.106.62:8278/streams/d/bbcearthhd_zero/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo-U
 http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo2
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=natgeo
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National-Geo VN
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b1200000.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo People
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeopeople&bandwidth=default&sync=0
+
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild
-#https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeowild&bandwidth=default&sync=0
-http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
+
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild-US
 http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERYCH Asia
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=disco
-##https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b1200000.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Sci
 https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8?checkedby:iptvcat.com
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",History-U
-http://topwin-tv.my.id/2/master.m3u8?id=history
+
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",AFN
-https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b1200000.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",FoodChannel
 http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet MY
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Fine&Living
-http://70.32.0.9:5000/live/543/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.outdoorchannel.com/network/img/odc/logo.png" group-title="KNOWLEDGE",OUTDOOR CHANNEL2
-https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b1200000.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",LoveNature
 http://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",OutsideTV

@@ -17,9 +17,9 @@ https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1KX7m3dyRmjcbxJnJbNZrJ9HQyDf3VUuX" group-title="STASIUN NASIONAL",MNCTv
 https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
 #EXTINF:-1  tvg-logo="" group-title="STASIUN NASIONAL",MNC sport
-http://moegi.akamaized.net/live/eds/mncsport_fta/live_fta/mncsport_fta-avc1_768000=7-mp4a_64000_eng=2.m3u8
+https://cdn-livetv-studio.metube.id/mncsport_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_90.png" group-title="STASIUN NASIONAL",MNC Lifestyle
-http://210.210.155.66/h/h28/01.m3u8
+http://210.210.155.66/uq2663/h/h28/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="STASIUN NASIONAL",INDOSIAR
 http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="STASIUN NASIONAL",INDOSIAR Liga1
@@ -34,9 +34,7 @@ https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perju
 http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1ZUCUkvAvWR5qJzRj8HG9wJ40MQ71vi5x" group-title="STASIUN NASIONAL",RTV
 http://210.210.155.35/session/1e1de4c6-6fcd-11e9-834b-b82a72d63267/qwr9ew/s/s12/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="STASIUN NASIONAL",RajawaliTV
-https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085873~exp=9007200826826864~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_1/chunklist.m3u8*~hmac=252a726bb20fdb977834f11d3b83aa67138e81da32ef16b763a871e5ed767748
-#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1YTKkeDncS3PikKrWA8vuK6tdzee9Q7u3" group-title="STASIUN NASIONAL",JTV
+EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1YTKkeDncS3PikKrWA8vuK6tdzee9Q7u3" group-title="STASIUN NASIONAL",JTV
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8?checkedby:iptvcat.com 
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1YTKkeDncS3PikKrWA8vuK6tdzee9Q7u3" group-title="STASIUN NASIONAL",JTV(2)
 http://210.210.155.35/x6bnqe/s/s90/S4/mnf.m3u8
@@ -191,6 +189,8 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="PREMIUM INDONESIA",K+
 http://45.126.83.51/session/b250033c-a9b8-11eb-b3bc-a2798f0477fc/uq2663/h/h08/01.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="PREMIUM INDONESIA",K+ (telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/jWjxD83/sonson.jpg" group-title="PREMIUM INDONESIA",SonyOne
 http://210.210.155.35/uq2663/h/h143/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/jWjxD83/sonson.jpg" group-title="PREMIUM INDONESIA",SonyOne-2
@@ -307,25 +307,31 @@ https://outsidetvplus-stirr.amagi.tv/playlistR480p.m3u8
 https://inwild-samsung-uk.amagi.tv/playlist360-p.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox
-https://s.id/aputraXyz_mpd_nonformat_streams7
-#http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/1
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Movies Action
-https://s.id/aputraXyz_mpd_nonformat_streams8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Amazon
+#https://s.id/aputraXyz_mpd_nonformat_streams7
+http://45.94.31.158:25461/Medelectro_603328/ggO8T18n/90502?token=TRQNWUJeEQkTBF0JUFQOAQYDWVJTVV0DBQICBgYGUwwHBV0ABA5XCwcQSRtBEUVVVws+WgJAA1xTVgQBGhMRRlNEOlFVFAkRAgVdAAVWAhIaRBVaCwcbX1JVBwYFBlEMDwJJGkFfVxELEFcOClwFEhpEBEsSB0sLAg9rV1NHDVZTFF9WRFpfHxNdC2ZWAFpRWAJDCURSG0lBCkdDFAtGZWIWL1lDX11UUFxFdEcJQ1lbAwVaB0JwCwcMWlZFWAUXGhQHUUVEUkdUEF8bAFYCABRKQ1AJF1cRERoWCRR4IBcaFABARVNdQFhdCxsIR0NDFEpDWhU9SwAQF0ZWV1wBRxQMRwgTGhFeUEo6Wl0LWVVVEghcCBEbX0FSFh8UXAtbX0IKSm5GWlcTCEcIA1EFCRQb
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",PrimeVideo1
+#https://s.id/aputraXyz_mpd_nonformat_streams8
+http://45.94.31.158:25461/Medelectro_603328/ggO8T18n/90498?token=TRQNWUJeEQkTB1xfClcCU1RSUgUEAFxQBlENA1IGVFdUBFwLUFNWBFAQSRtBEUVVVws+WgJAA1xTVw0LGhMRRlNEOlFVFAkRAgVdAAVWAhIaRBVaCwcbX1JVBwYFBlIFAwdJGkFfVxELEFAMClUHEhpEBEsSB0sLAg9rV1NHDVZTFF9WRFpfHxNdC2ZWAFpRWAJDCURSG0lBCkdDFAtGZWIWL1lDX11UUFxFdEcJQ1lbAwVaB0JwCwcMWlZFWAUXGhQHUUVEUkdUEF8bAFYAABRKQ1AJF1cRERoWCRR4IBcaFABARVNdQFhdCxsIR0NDFEpDWhU9SwAQF0ZWV1wBRxQMRwgTGhFeUEo6Wl0LWVVVEghcCBEbX0FSFh8UXAtbX0IKSm5GWlcTCEcIA1YCAxQb
 #http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/9
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Movies Action2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",PrimeVideo2
 https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202498
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Movies Family
-https://s.id/aputraXyz_mpd_nonformat_streams9
-#http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/3
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Life
-https://s.id/aputraXyz_mpd_nonformat_streams782
-#http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/6
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Crime
-https://s.id/aputraXyz_mpd_nonformat_streams783
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Movies
-http://s.id/aputraXyz_mpd_nonformat_streams781
-#http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/783
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",PrimeVideo3
+http://185.93.2.158:2095/Medelectro_603328/ggO8T18n/90499?token=TRQNWUJeEQkTVlUBBFNRUQYAAwJWAwlSB1YBBFNQXAQFBV0JBQ8ABwcQSRtBEUVVVws+WgJAA1xTVw0KGhMRRlNEOlFVFAkRAgVdAAVWAhIaRBVaCwcbX1JVBwYFBlIEAQRJGkFfVxELEFYIC1EDEhpEBEsSB0sLAg9rV1NHDVZTFF9WRFpfHxNdC2ZWAFpRWAJDCURSG0lBCkdDFAtGZWIWL1lDX11UUFxFdEcJQ1lbAwVaB0JwCwcMWlZFWAUXGhQHUUVEUkdUEF8bAFYCABRKQ1AJF1cRERoWCRR4IBcaFABARVNdQFhdCxsIR0NDFEpDWhU9SwAQF0ZWV1wBRxQMRwgTGhFeUEo6Wl0LWVVVEghcCBEbX0FSFh8UXAtbX0IKSm5GWlcTCEcLC1EAAhQb
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Movie
+http://freeiptvgen.com:25461/434428/freeiptvgen/19954376
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",FFox Movie
+http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/95971
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox MoviesFam 
+http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/95972
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="FOXgrup",MoviesAction(setAuto)
+http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/95968
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="FOXgrup",MoviesDrama(setAuto)
+http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/95969
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="FOXgrup",MoviesFamily(setAuto)
+http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/95970
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Taiwan
+https://cloudserver.server-cdn-streaming.com/live-player/3/live.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO-ID
@@ -344,6 +350,8 @@ https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
 
 #EXTINF:-1 group-title="MOVIES",iQiyi
 http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES",Boo
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Star Movies
 http://143.244.60.10/ENGLISH__STAR_MOVIES_SD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="MOVIES",Sony PIC
@@ -416,6 +424,13 @@ https://dl.dropbox.com/s/emp7q8g3tc1kikj/BMusik.m3u8?dl=1
 http://203.154.243.89:1213
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5rscC42/Share-Ext-Supersport.jpg"group-title="SPORTS",AstroSport1
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52859.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5rscC42/Share-Ext-Supersport.jpg"group-title="SPORTS",AstroSport2
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52860.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5rscC42/Share-Ext-Supersport.jpg"group-title="SPORTS",AstroSport3
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52861.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5rscC42/Share-Ext-Supersport.jpg"group-title="SPORTS
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",GPEsensial
 https://cloudserver.server-cdn-streaming.com/live-player/12/live.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV
@@ -443,20 +458,8 @@ https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4q
 https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Looksport3
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/beINSports.us.png" group-title="SPORTS",bein 1(FR)
-http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/beINSports2.us.png" group-title="SPORTS",bein 2(FR)
-http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",BEINXtra
 https//siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Asia
-#http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein1
-http://topwin-tv.my.id/2/master.m3u8?id=bein1
-#https://mkctvbro.my.id/horas/pakailah.m3u8?id=bein1&bandwidth=894100&sync=0
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia
-http://topwin-tv.my.id/2/master.m3u8?id=bein2
-#https://iptvid.cgflix.xyz/Usee/sport/be2.m3u8
-#https://mkctvbro.my.id/horas/pakailah.m3u8?id=bein2&bandwidth=894100&sync=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",beIN Xtra
 #https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FightSport
@@ -487,20 +490,22 @@ https://cloudserver.server-cdn-streaming.com/live-player/8/live.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/9/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Truesport4
 https://cloudserver.server-cdn-streaming.com/live-player/10/live.m3u8
-#EXTINF:-1 tvg-id="Erz.Assp1" tvg-logo="" group-title="SPORTS",Starsport 1
-http://140.238.229.213/sp1/index.m3u8
-#EXTINF:-1 tvg-id="Erz.Assp2" tvg-logo="" group-title="SPORTS",Starsport 2
-http://140.238.229.213/sp2/index.m3u
 #EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Foxsport 1 AR
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Foxsport 1 AR
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
 #EXTINF:-1 group-title="SPORTS",BTSPORT 1
 https://cloudserver.server-cdn-streaming.com/live-player/3/live.m3u8
-#EXTINF:-1 group-title="SPORTS",BTSPORT 2 (link2)
+#EXTINF:-1 group-title="SPORTS",BTSPORT 2 
 http://5.182.229.75:8080/2506/index.m3u8?token=test
 #EXTINF:-1 group-title="SPORTS",BTSPORT 3
 http://5.182.229.75:8080/2505/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SPORTS",BTsport1
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SPORTS",BTsport2
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SPORTS",BTsport3
+http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTINF:-1 group-title="SPORTS",CTV
 https://home-tv.my.id/sialan/vidio_championstv1.m3u8
 #EXTINF:-1 group-title="SPORTS",CTV2

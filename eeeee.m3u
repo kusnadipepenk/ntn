@@ -1,12 +1,13 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://i.ibb.co/L0x4cC6/net.jpg" group-title="STASIUN NASIONAL",NET.TV
-http://210.210.155.35/session/6141d55e-70a0-11e9-8180-b82a72d63267/qwr9ew/s/s08/01.m3u8
+https://liveanevia.mncnow.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
+#http://210.210.155.35/session/6141d55e-70a0-11e9-8180-b82a72d63267/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="STASIUN NASIONAL",TRANSTV
-http://210.210.155.35/session/374c42b0-7f91-11ea-93d1-aea98b62ba73/x6bnqe/s/s252/01.m3u8
+https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_hls/TRANSTV-autobot.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="STASIUN NASIONAL",TRANSTV(2)
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D5gBX8N/trans7.jpg" group-title="STASIUN NASIONAL",TRANS7
-http://210.210.155.35/session/ce63989c-7f91-11ea-bf5d-bf109e240bb0/qwr9ew/s/s101/01.m3u8
+https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/TRANS7-transformer.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D5gBX8N/trans7.jpg" group-title="STASIUN NASIONAL",TRANS7(2)
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="STASIUN NASIONAL",RCTI
@@ -18,28 +19,26 @@ https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3
 https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
 #EXTINF:-1  tvg-logo="" group-title="STASIUN NASIONAL",MNC sport
 https://cdn-livetv-studio.metube.id/mncsport_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_90.png" group-title="STASIUN NASIONAL",MNC Lifestyle
-http://210.210.155.66/uq2663/h/h28/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="STASIUN NASIONAL",INDOSIAR
 http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="STASIUN NASIONAL",INDOSIAR Liga1
 https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QNQrm50/antv.png" group-title="STASIUN NASIONAL",ANTV(2)
-https://liveanevia.mncnow.id/live/eds/ANTV/sa_hls/ANTV.m3u8
+https://liveanevia.mncnow.id/live/eds/ANTV-radeon/sa_hls/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QNQrm50/antv.png" group-title="STASIUN NASIONAL",ANTV
 http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1uNGLnZUnUVO0BuZKQYN-KzIRVb9yXz1x" group-title="STASIUN NASIONAL",GLOBALTV
 https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
 #EXTINF:-1  group-title="STASIUN NASIONAL",TV ONE (2)
 http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105/01.m3u8
-#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1ZUCUkvAvWR5qJzRj8HG9wJ40MQ71vi5x" group-title="STASIUN NASIONAL",RTV
+#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1ZUCUkvAvWR5qJzRj8HG9wJ40MQ71vi5x" group-title="STASIUN NASIONAL",RTVc
 http://210.210.155.35/session/1e1de4c6-6fcd-11e9-834b-b82a72d63267/qwr9ew/s/s12/01.m3u8
 EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1YTKkeDncS3PikKrWA8vuK6tdzee9Q7u3" group-title="STASIUN NASIONAL",JTV
-http://122.248.43.138:1935/ch2/myStream/playlist.m3u8?checkedby:iptvcat.com 
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1YTKkeDncS3PikKrWA8vuK6tdzee9Q7u3" group-title="STASIUN NASIONAL",JTV(2)
-http://210.210.155.35/x6bnqe/s/s90/S4/mnf.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GCkTFqZ/elshin.jpg" group-title="STASIUN NASIONAL",ELSHINTA TV
-http://210.210.155.35/session/743b191e-6fcd-11e9-a2e4-c81f66f89318/qwr9ew/s/s10/01.m3u8
+http://210.210.155.35:80/session/9064e496-2ed8-11eb-9242-b82a72d63267/qwr9ew/s/s10/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/7VVYNfZ/tvri.jpg" group-title="STASIUN NASIONAL",TVRI
 http://210.210.155.35/qwr9ew/s/s11/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/7VVYNfZ/tvri.jpg" group-title="STASIUN NASIONAL",TVRI2
@@ -246,14 +245,17 @@ http://210.210.155.35:80/uq2663/h/h22/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",LifeStyle
 http://210.210.155.35:80/uq2663/h/h28/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Galaxy
-http://topwin-tv.my.id/2/master.m3u8?id=galaxy
+
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Galaxy Premium
-#http://topwin-tv.my.id/2/master.m3u8?id=galaxypremium
-https://iptvid.cgflix.xyz/Usee/movies/glxprem.m3u8
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",IMC
-http://topwin-tv.my.id/2/master.m3u8?id=imc
+
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Flik
-http://topwin-tv.my.id/2/master.m3u8?id=flik
+#EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",Citra drama
+http://golive.cf/stream/cdrama.m3u8
+#EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",Citra bioskop
+http://golive.cf/stream/cbioskop.m3u8
+#EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",Citra entertaind
+http://golive.cf/stream/cent.m3u8
+
  
  
  
@@ -274,7 +276,7 @@ http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo2
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National-Geo
-https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b1800000.m3u8?token=
+https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b1200000.m3u8?token=
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo People
 
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild
@@ -282,7 +284,7 @@ http://s1.urhdiptv.net:8080/mma2/45212156/83876
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild-US
 http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERYCH Asia
-https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b1800000.m3u8?token=
+https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b1200000.m3u8?token=
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Sci
 https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",Smithsonian
@@ -295,10 +297,10 @@ https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8?checkedby:iptvcat.co
 http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet MY
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Fine&Living
-
-#EXTINF:-1 tvg-logo="https://www.outdoorchannel.com/network/img/odc/logo.png" group-title="KNOWLEDGE",OUTDOOR CHANNEL2
-
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",GameNfish
+https://obsession-media.sinclair.wurl.com/manifest/1200.m3u8
+#EXTINF:-1 tvg-logo="https://www.outdoorchannel.com/network/img/odc/logo.png" group-title="KNOWLEDGE",OUTDOOR CHANNEL
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",LoveNature
 http://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",OutsideTV
@@ -331,7 +333,7 @@ http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/95969
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="FOXgrup",MoviesFamily(setAuto)
 http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/95970
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Taiwan
-https://cloudserver.server-cdn-streaming.com/live-player/3/live.m3u8
+https://mn-nl.mncdn.com/blutv_foxtv_dvr/live_720p2000000/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO-ID

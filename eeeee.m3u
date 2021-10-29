@@ -31,9 +31,9 @@ http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/
 https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
 #EXTINF:-1  group-title="STASIUN NASIONAL",TV ONE (2)
 http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105/01.m3u8
-#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1ZUCUkvAvWR5qJzRj8HG9wJ40MQ71vi5x" group-title="STASIUN NASIONAL",RTVc
+#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1ZUCUkvAvWR5qJzRj8HG9wJ40MQ71vi5x" group-title="STASIUN NASIONAL",eRTV
 http://210.210.155.35/session/1e1de4c6-6fcd-11e9-834b-b82a72d63267/qwr9ew/s/s12/01.m3u8
-EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1YTKkeDncS3PikKrWA8vuK6tdzee9Q7u3" group-title="STASIUN NASIONAL",JTV
+#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1YTKkeDncS3PikKrWA8vuK6tdzee9Q7u3" group-title="STASIUN NASIONAL",JTV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1YTKkeDncS3PikKrWA8vuK6tdzee9Q7u3" group-title="STASIUN NASIONAL",JTV(2)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
@@ -432,6 +432,8 @@ http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52859.m3u8
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52860.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5rscC42/Share-Ext-Supersport.jpg"group-title="SPORTS",AstroSport3
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52861.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5rscC42/Share-Ext-Supersport.jpg"group-title="SPORTS",AstroSport4
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52862.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5rscC42/Share-Ext-Supersport.jpg"group-title="SPORTS
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",GPEsensial
 https://cloudserver.server-cdn-streaming.com/live-player/12/live.m3u8
@@ -468,16 +470,6 @@ https//siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 http://210.210.155.35/x6bnqe/h/h05/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FightSport(2)
 http://210.210.155.35/session/99f95566-7000-11e9-8e97-9239acfe1a75/uq2663/h/h05/02.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",Liverpooltv
-https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",MU-TV
-https://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",EPL Sports 1
-https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",EPL Sports 2
-https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",EPL Sports 3
-https://www.livedoomovies.com/02_PremierHD3_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Bein2HD
 https://cloudserver.server-cdn-streaming.com/live-player/6/live.m3u8
 ===http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8

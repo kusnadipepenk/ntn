@@ -290,6 +290,8 @@ http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b1200000.m3u8?token=
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Sci
 https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Turbo
+https://idvd.multitvsolution.com:443/idvo/turboeng_540p/index.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8?checkedby:iptvcat.com
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",History-U
@@ -395,24 +397,22 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="Music",NewKIDtv
-https://newidco-newkid-1.samsung.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Country Stingray
 https://dai.google.com/linear/hls/event/SgCez41rR36rmiw8Odu8FA/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",iKONSER 
-http://dituduhmaling.xyz/US33T4/ikonser.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",POPMUsic 
+http://stream1.ninmedia.tv:1935/popmusik/udp.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",MTV Live 
-http://dituduhmaling.xyz/US33T4/mtvlive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",Prambors 
-http://dituduhmaling.xyz/US33T4/pramborstv.m3u8
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",MTV Block
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",MTV Yo
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:-1 group-title="Music",Karaoke Chanel
 http://zigfreed.ru/IP0/448.m3u8
 #EXTINF:-1 group-title="Music",music Karaoke
 https://stirr.ott-channels.stingray.com/karaoke/master_768x432_1000kbps.m3u8
 #EXTINF:-1 group-title="Music",Music TOp
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1  group-title="Music",[V] Channel
-https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b450000.m3u8
 #EXTINF:-1  group-title="Music",M2OTV Music
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://ecable.tv/wp-content/uploads/2019/02/1.png" group-title="Music",Afrobeats 24/7

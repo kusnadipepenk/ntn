@@ -250,13 +250,14 @@ http://210.210.155.35:80/uq2663/h/h28/02.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Galaxy Premium
 
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Flik
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",IMC
+https://www.dropbox.com/s/us0kp0pp52mjfc0/imc.m3u8?dl=1
 #EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",Citra drama
-http://golive.cf/stream/cdrama.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",Citra bioskop
-http://golive.cf/stream/cbioskop.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",Citra entertaind
-http://golive.cf/stream/cent.m3u8
+
 
  
  
@@ -374,14 +375,14 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(72d6d51e-c265-4
 #EXTINF:-1 tvg-id="HBO.US" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",Warner tv-U
 http://203.154.243.89:11205/
 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=warner&bandwidth=default&sync=0
-#EXTINF:-1  tvg-logo="" group-title="MOVIES",&picture
-
+#EXTINF:-1  tvg-logo="" group-title="MOVIES",Hollywood
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndFlix.in.png" group-title="MOVIES",&Flix
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndPrive.in.png" group-title="MOVIES",&Prive
 
-#EXTINF:-1 group-title="MOVIES",K-movies
-https://newidco-newmovies-1.samsung.wurl.com/manifest/1200.m3u8
+#EXTINF:-1 group-title="MOVIES",Cinemas-WOW
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_360p/index.m3u8
 #EXTINF:-1 group-title="MOVIES",MovieMix
 https://moviemix.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Stirr Movies

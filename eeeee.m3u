@@ -168,6 +168,8 @@ http://210.210.155.35/dr9445/h/h21/01.m3u8
 http://45.126.83.51/dr9445/h/h141/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN2
 http://210.210.155.35/session/569f338c-a9b8-11eb-ad21-9a86b46a5f45/uq2663/h/h141/02.m3u8
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",AXn3
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1  tvg-logo="https://i.ibb.co/T8fdzXn/blueantx.png" group-title="PREMIUM INDONESIA",BLUEANT EXTREME
 http://210.210.155.35/session/ca6ab734-6a2f-11e9-ae93-9813b3aa7f8f/dr9445/h/h15/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Q8xjNSc/blueantent.png" group-title="PREMIUM INDONESIA",BLUEANT ENTERTAINMENT
@@ -373,13 +375,11 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(72d6d51e-c265-4
 http://203.154.243.89:11205/
 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=warner&bandwidth=default&sync=0
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",&picture
-https://f8e7y4c6.ssl.hwcdn.net/andpicshd/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndFlix.in.png" group-title="MOVIES",&Flix
-https://f8e7y4c6.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndPrive.in.png" group-title="MOVIES",&Prive
-#https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v3a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 group-title="MOVIES",K-movies
 https://newidco-newmovies-1.samsung.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 group-title="MOVIES",MovieMix
@@ -500,15 +500,12 @@ http://93.152.174.144:4000/play/btsport1/index.m3u8
 http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SPORTS",BTsport3
 http://93.152.174.144:4000/play/btsport3/index.m3u8
-#EXTINF:-1 group-title="SPORTS",CTV
-http://golive.cf/vidio/live-champion1.m3u8
-https://tsptv.my.id/Nding/vidionyet/champions1.m3u8
+#EXTINF:-1 group-title="SPORTS",Unifi sport2
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 #EXTINF:-1 group-title="SPORTS",CTV2
-http://golive.cf/vidio/live-champion2.m3u8
-https://tsptv.my.id/Nding/vidionyet/champions2.m3u8
+
 #EXTINF:-1 group-title="SPORTS",CTV3
-http://golive.cf/vidio/live-champion3.m3u8
-https://tsptv.my.id/Nding/vidionyet/champions3.m3u8
+
 
 #EXTINF:-1   tvg-logo="" group-title="Relax",Beaches Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8

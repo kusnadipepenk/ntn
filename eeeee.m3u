@@ -302,8 +302,8 @@ http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",GameNfish
 https://obsession-media.sinclair.wurl.com/manifest/1200.m3u8
-#EXTINF:-1 tvg-logo="https://www.outdoorchannel.com/network/img/odc/logo.png" group-title="KNOWLEDGE",OUTDOOR CHANNEL
-https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",OUTDOOR CHANNEL
+https://outdoorchannel-samsungau.amagi.tv/playlist480p.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",LoveNature
 http://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",OutsideTV
@@ -313,11 +313,9 @@ https://inwild-samsung-uk.amagi.tv/playlist360-p.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Amazon
-#https://s.id/aputraXyz_mpd_nonformat_streams7
-http://45.94.31.158:25461/Medelectro_603328/ggO8T18n/90502?token=TRQNWUJeEQkTBF0JUFQOAQYDWVJTVV0DBQICBgYGUwwHBV0ABA5XCwcQSRtBEUVVVws+WgJAA1xTVgQBGhMRRlNEOlFVFAkRAgVdAAVWAhIaRBVaCwcbX1JVBwYFBlEMDwJJGkFfVxELEFcOClwFEhpEBEsSB0sLAg9rV1NHDVZTFF9WRFpfHxNdC2ZWAFpRWAJDCURSG0lBCkdDFAtGZWIWL1lDX11UUFxFdEcJQ1lbAwVaB0JwCwcMWlZFWAUXGhQHUUVEUkdUEF8bAFYCABRKQ1AJF1cRERoWCRR4IBcaFABARVNdQFhdCxsIR0NDFEpDWhU9SwAQF0ZWV1wBRxQMRwgTGhFeUEo6Wl0LWVVVEghcCBEbX0FSFh8UXAtbX0IKSm5GWlcTCEcIA1EFCRQb
+https://s.id/aputraXyz_mpd_nonformat_streams7
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",PrimeVideo1
-#https://s.id/aputraXyz_mpd_nonformat_streams8
-http://45.94.31.158:25461/Medelectro_603328/ggO8T18n/90498?token=TRQNWUJeEQkTB1xfClcCU1RSUgUEAFxQBlENA1IGVFdUBFwLUFNWBFAQSRtBEUVVVws+WgJAA1xTVw0LGhMRRlNEOlFVFAkRAgVdAAVWAhIaRBVaCwcbX1JVBwYFBlIFAwdJGkFfVxELEFAMClUHEhpEBEsSB0sLAg9rV1NHDVZTFF9WRFpfHxNdC2ZWAFpRWAJDCURSG0lBCkdDFAtGZWIWL1lDX11UUFxFdEcJQ1lbAwVaB0JwCwcMWlZFWAUXGhQHUUVEUkdUEF8bAFYAABRKQ1AJF1cRERoWCRR4IBcaFABARVNdQFhdCxsIR0NDFEpDWhU9SwAQF0ZWV1wBRxQMRwgTGhFeUEo6Wl0LWVVVEghcCBEbX0FSFh8UXAtbX0IKSm5GWlcTCEcIA1YCAxQb
+https://s.id/aputraXyz_mpd_nonformat_streams8
 #http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/9
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",PrimeVideo2
 https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202498
@@ -360,7 +358,7 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Star Movies
 http://143.244.60.10/ENGLISH__STAR_MOVIES_SD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="MOVIES",Sony PIC
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
+
 #EXTINF:-1 group-title="MOVIES",Sony PIC2
 https://cdn.nowhdtime.com.bd/SonyPix/index.m3u8
 #EXTINF:-1 group-title="MOVIES",FAmily Flik

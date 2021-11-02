@@ -407,8 +407,8 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",MTV Yo
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-#EXTINF:-1 group-title="Music",Karaoke Chanel
-http://zigfreed.ru/IP0/448.m3u8
+#EXTINF:-1 group-title="Music",CMT music
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 #EXTINF:-1 group-title="Music",music Karaoke
 https://stirr.ott-channels.stingray.com/karaoke/master_768x432_1000kbps.m3u8
 #EXTINF:-1 group-title="Music",Music TOp

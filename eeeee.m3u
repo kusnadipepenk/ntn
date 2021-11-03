@@ -141,10 +141,10 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/LQs/chunklist.m3u8
 http://210.210.155.35/session/a1b2362c-9d39-11e9-9cda-b82a72d63267/qwr9ew/s/s50/01.m3u8
 #EXTINF:-1 group-title="KIDS",cbabiess
 http://58.65.171.202:8000/play/2009/index.m3u8
-#EXTINF:-1 group-title="KIDS",Dunia Anak
-
-#EXTINF:-1 group-title="KIDS",Zoomoo
-
+#EXTINF:-1 group-title="KIDS",Kids Pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cd1495bd9e0ec55c4ecbf52/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="KIDS",Nick Pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="KIDS",Horee
 
 #EXTINF:-1 group-title="KIDS",KidoodleTV
@@ -294,13 +294,13 @@ https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
 https://idvd.multitvsolution.com:443/idvo/turboeng_540p/index.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8?checkedby:iptvcat.com
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",History-U
-
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",History
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",AFN
 
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",FoodChannel
-http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet MY
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf930548ff9b00090d5686/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",GameNfish
 https://obsession-media.sinclair.wurl.com/manifest/1200.m3u8
@@ -417,8 +417,8 @@ https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://ecable.tv/wp-content/uploads/2019/02/1.png" group-title="Music",Afrobeats 24/7
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.arte.tv/sites/en/corporate/files/logo-arte-concert_rose_2l.png" group-title="Music",Arte Concert
-http://84.22.33.254/unicast.arte/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.arte.tv/sites/en/corporate/files/logo-arte-concert_rose_2l.png" group-title="Music",Hillsongs
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d486b87428fe37d8cadba44/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="http://commodusprod.hooq.tv/cdnimagesprod/assets/feed/7657074b8f5b.png" group-title="Music",3ABN music
 https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/SQs/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://musicfouryou.com/wp-content/uploads/2015/09/imageedit_1_8709468454.gif" group-title="Music",Music4U
@@ -467,8 +467,8 @@ https//siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FightSport
 http://210.210.155.35/x6bnqe/h/h05/02.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FightSport(2)
-http://210.210.155.35/session/99f95566-7000-11e9-8e97-9239acfe1a75/uq2663/h/h05/02.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FoXSport AUSTralia
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360_v3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Bein2HD
 https://cloudserver.server-cdn-streaming.com/live-player/6/live.m3u8
 ===http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8

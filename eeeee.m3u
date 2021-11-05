@@ -384,8 +384,8 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=80&deviceId=58af4c093a41ca9d4ecabe96&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndPrive.in.png" group-title="MOVIES",ComedyCentral
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="MOVIES",Cinemas-WOW
-https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_360p/index.m3u8
+#EXTINF:-1 group-title="MOVIES",Comedy Redbox
+https://comedy-redbox.amagi.tv/amRdirect/p=Redbox&subp=RedboxdesktopWebLinux/hls/amagi_hls_data_redboxAAA-comedy/CDN/640x360_765600/index.m3u8
 #EXTINF:-1 group-title="MOVIES",MovieMix
 https://moviemix.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Stirr Movies
@@ -400,6 +400,10 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Music",Hits Music
+https://xumo-redbox.ott-channels.stingray.com/155/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",Hot Country
+https://xumo-redbox.ott-channels.stingray.com/108/master_768x432_500kbps.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Country Stingray
 https://dai.google.com/linear/hls/event/SgCez41rR36rmiw8Odu8FA/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",POPMUsic 
@@ -414,6 +418,8 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 #EXTINF:-1 group-title="Music",music Karaoke
 https://stirr.ott-channels.stingray.com/karaoke/master_768x432_1000kbps.m3u8
+#EXTINF:-1 group-title="Music",Djazzz
+https://stirr.ott-channels.stingray.com/djazz/master_768x432_1000kbps.m3u8
 #EXTINF:-1 group-title="Music",Music TOp
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1  group-title="Music",M2OTV Music

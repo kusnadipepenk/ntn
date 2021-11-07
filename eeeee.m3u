@@ -168,8 +168,6 @@ http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 http://210.210.155.35/dr9445/h/h21/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN-1
 http://45.126.83.51/dr9445/h/h141/01.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN2
-http://210.210.155.35/session/569f338c-a9b8-11eb-ad21-9a86b46a5f45/uq2663/h/h141/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",AXn3
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1  tvg-logo="https://i.ibb.co/T8fdzXn/blueantx.png" group-title="PREMIUM INDONESIA",BLUEANT EXTREME
@@ -273,9 +271,9 @@ http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary2
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth
-
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth2
-
+https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",TLC
+https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo-U
 http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo People
@@ -298,7 +296,7 @@ https://idvd.multitvsolution.com:443/idvo/turboeng_540p/index.m3u8
 https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8?checkedby:iptvcat.com
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",History
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",AFN
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBCEarth
 
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",FoodChannel
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf930548ff9b00090d5686/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -433,16 +431,15 @@ https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/SQs/chunklist.m3u8
 http://203.154.243.89:1213
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5rscC42/Share-Ext-Supersport.jpg"group-title="SPORTS",AstroSport1
+#EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport1
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52859.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5rscC42/Share-Ext-Supersport.jpg"group-title="SPORTS",AstroSport2
+#EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport2
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52860.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5rscC42/Share-Ext-Supersport.jpg"group-title="SPORTS",AstroSport3
+#EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport3
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52861.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5rscC42/Share-Ext-Supersport.jpg"group-title="SPORTS",AstroSport4
+#EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport4
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52862.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5rscC42/Share-Ext-Supersport.jpg"group-title="SPORTS
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",GPEsensial
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",GPEsensial
 https://cloudserver.server-cdn-streaming.com/live-player/12/live.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV
 https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8

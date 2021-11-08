@@ -314,8 +314,8 @@ https://outsidetvplus-stirr.amagi.tv/playlistR480p.m3u8
 https://inwild-samsung-uk.amagi.tv/playlist360-p.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Amazon
-https://s.id/aputraXyz_mpd_nonformat_streams7
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",FOXHD
+http://58.65.171.202:8000/play/3111/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",PrimeVideo1
 https://s.id/aputraXyz_mpd_nonformat_streams8
 #http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/9

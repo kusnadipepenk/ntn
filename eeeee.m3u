@@ -340,18 +340,23 @@ https://mn-nl.mncdn.com/blutv_foxtv_dvr/live_720p2000000/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO-ID
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbo.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOFams-ID
-https://kusnadipepenk.github.io/campeign/hbofam.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOsign-ID
-https://kusnadipepenk.github.io/campeign/hbosi.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOhits-ID
-https://kusnadipepenk.github.io/campeign/hbihit.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOID
+https://tvlivehometv.xyz/RHS/hbo1.m3u8?channel=hbo
+##https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOFamsID
+https://tvlivehometv.xyz/RHS/hbo1.m3u8?channel=fam
+##https://kusnadipepenk.github.io/campeign/hbofam.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOsignID
+https://tvlivehometv.xyz/RHS/hbo1.m3u8?channel=sig
+##https://kusnadipepenk.github.io/campeign/hbosi.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOhitsID
+https://tvlivehometv.xyz/RHS/hbo1.m3u8?channel=hits
+##https://kusnadipepenk.github.io/campeign/hbihit.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",reds
 https://kusnadipepenk.github.io/campeign/hbored.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Cinemas-ID
-https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
+https://tvlivehometv.xyz/RHS/hbo1.m3u8?channel=max
+##https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
 
 
 #EXTINF:-1 group-title="MOVIES",iQiyi

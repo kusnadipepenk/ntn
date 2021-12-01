@@ -247,9 +247,9 @@ http://210.210.155.35:80/uq2663/h/h22/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",LifeStyle
 http://210.210.155.35:80/uq2663/h/h28/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Galaxy
-
+https://mbed.cc/HLvzY
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Galaxy Premium
-
+https://mbed.cc/Z0dpY
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",IMC
 https://www.dropbox.com/s/us0kp0pp52mjfc0/imc.m3u8?dl=1
 #EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",Citra drama
@@ -299,7 +299,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a4d35dfa
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBCEarth
 
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",FoodChannel
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf930548ff9b00090d5686/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+https://amagi-primary.akamaized.net/out/v1/3f7bf105c018444dbc8f74a3a283afaf/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",GameNfish
@@ -312,12 +312,20 @@ http://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 https://outsidetvplus-stirr.amagi.tv/playlistR480p.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",INWILD
 https://inwild-samsung-uk.amagi.tv/playlist360-p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE", TasteMade Travel
+https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE", Xplore
+https://xplore-plex.amagi.tv/playlist.m3u8
+==http://xlpore-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="", Wild Earth
+https://wildearth-roku.amagi.tv/master.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",FOXHD
 http://58.65.171.202:8000/play/3111/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",PrimeVideo1
-https://s.id/aputraXyz_mpd_nonformat_streams8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",FoxHD2
+https://mbed.cc/8tF5K
 #http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/9
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",PrimeVideo2
 https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202498
@@ -359,16 +367,24 @@ https://tvlivehometv.xyz/RHS/hbo1.m3u8?channel=max
 ##https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
 
 
-#EXTINF:-1 group-title="MOVIES",iQiyi
-http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES",&Prive
+https://mbed.cc/5IMDz
+#EXTINF:-1 group-title="MOVIES",&Flix
+https://mbed.cc/hvjVU
 #EXTINF:-1 group-title="MOVIES",Boo
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",Star Movies
-http://143.244.60.10/ENGLISH__STAR_MOVIES_SD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/4aFLH9g.png" group-title="MOVIES",Film Detective
+https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/jGzMaRD.png" group-title="MOVIES",FilmRise Movies
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/FcN1OKo.png" group-title="MOVIES",FilmRise Sci-Fi
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", Sci-Fi Movies
+https://v2.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1 group-title="MOVIES",Sony PIC
-
-#EXTINF:-1 group-title="MOVIES",Movies Pluto
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+https://mbed.cc/lDXZf
+#EXTINF:-1 group-title="MOVIES",Hallmark mysteri
+https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmmsl/hallmarkmmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 group-title="MOVIES",FAmily Flik
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="MOVIES",HBOmck
@@ -383,8 +399,8 @@ http://203.154.243.89:11205/
 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=warner&bandwidth=default&sync=0
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",Hollywood
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndFlix.in.png" group-title="MOVIES",BlackCInema
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=80&deviceId=58af4c093a41ca9d4ecabe96&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndFlix.in.png" group-title="MOVIES",Hallmark Movie
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndPrive.in.png" group-title="MOVIES",ComedyCentral
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="MOVIES",Comedy Redbox
@@ -444,10 +460,16 @@ http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52860.m3u8
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52861.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport4
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52862.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",GPEsensial
-https://cloudserver.server-cdn-streaming.com/live-player/12/live.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS",AS1
+http://147.50.145.234:4567/aduvip
+#EXTINF:-1 tvg-logo=""group-title="SPORTS",AS2
+http://147.50.145.234:4567/aduvip2
+#EXTINF:-1 tvg-logo=""group-title="SPORTS",AS3
+https://mbed.cc/CPCsV
+#EXTINF:-1 tvg-logo=""group-title="SPORTS",AS4
+https://mbed.cc/1saM1
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV
-https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
+https://mbed.cc/58inv
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
 ==https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
@@ -503,20 +525,22 @@ https://cloudserver.server-cdn-streaming.com/live-player/3/live.m3u8
 http://5.182.229.75:8080/2506/index.m3u8?token=test
 #EXTINF:-1 group-title="SPORTS",BTSPORT 3
 http://5.182.229.75:8080/2505/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SPORTS",BTsport1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport1
 http://93.152.174.144:4000/play/btsport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SPORTS",BTsport2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2
 http://93.152.174.144:4000/play/btsport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SPORTS",BTsport3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport3
 http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTINF:-1 group-title="SPORTS",CTV1
-https://mbed.cc/5dCCH
+
 #EXTINF:-1 group-title="SPORTS",CTV2
-https://mbed.cc/3cIfK
 #EXTINF:-1 group-title="SPORTS",CTV3
-https://mbed.cc/QeCjv
 #EXTINF:-1 group-title="SPORTS",CTV4
-https://mbed.cc/pxppi
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Usee Sportᴴᴰ
+https://mbed.cc/cqvUl
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Usee Sport 2ᴴᴰ
+https://mbed.cc/Ta8rp
 
 
 

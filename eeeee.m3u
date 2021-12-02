@@ -473,14 +473,6 @@ https://mbed.cc/58inv
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
 ==https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPORT-TV
-https://cloudserver.server-cdn-streaming.com/live-player/19/live.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPORT-TV2
-https://cloudserver.server-cdn-streaming.com/live-player/20/live.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPORT-TV3
-https://cloudserver.server-cdn-streaming.com/live-player/21/live.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPORT-TV4
-https://cloudserver.server-cdn-streaming.com/live-player/22/live.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Motorvision
 http://210.210.155.35/uq2663/h/h09/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Golf
@@ -507,24 +499,10 @@ https://bit.ly/3bM77rh
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Bein1sd
 https://bit.ly/3ERrUpU
 ===http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Truesport1
-https://cloudserver.server-cdn-streaming.com/live-player/7/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Truesport2
-https://cloudserver.server-cdn-streaming.com/live-player/8/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Truesport3
-https://cloudserver.server-cdn-streaming.com/live-player/9/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Truesport4
-https://cloudserver.server-cdn-streaming.com/live-player/10/live.m3u8
 #EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Foxsport 1 AR
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Foxsport 1 AR
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
-#EXTINF:-1 group-title="SPORTS",BTSPORT 1
-https://cloudserver.server-cdn-streaming.com/live-player/3/live.m3u8
-#EXTINF:-1 group-title="SPORTS",BTSPORT 2 
-http://5.182.229.75:8080/2506/index.m3u8?token=test
-#EXTINF:-1 group-title="SPORTS",BTSPORT 3
-http://5.182.229.75:8080/2505/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport1
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2

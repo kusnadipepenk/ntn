@@ -473,7 +473,7 @@ https://mbed.cc/CPCsV
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AS4
 https://mbed.cc/1saM1
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV
-https://mbed.cc/58inv
+https://mbed.cc/450WO
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
 ==https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
@@ -514,16 +514,20 @@ http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport3
 http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTINF:-1 group-title="SPORTS",CTV1
-
+https://mbed.cc/ebb9E
+##https://mbed.cc/cLP9C
 #EXTINF:-1 group-title="SPORTS",CTV2
+https://mbed.cc/nSqkX
 #EXTINF:-1 group-title="SPORTS",CTV3
+https://mbed.cc/yNPuj
 #EXTINF:-1 group-title="SPORTS",CTV4
-
+https://mbed.cc/qelKE
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Usee Sportᴴᴰ
 https://mbed.cc/cqvUl
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Usee Sport 2ᴴᴰ
 https://mbed.cc/Ta8rp
-
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Soccer CH
+http://mantul.biz.id:8888/gultom/gultom/14160
 
 
 #EXTINF:-1   tvg-logo="" group-title="Relax",Beaches Live

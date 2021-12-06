@@ -161,15 +161,9 @@ https://happykids-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvND
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNMovies
-http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h21/01.m3u8
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvND1
-http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNMovies1
-http://210.210.155.35/dr9445/h/h21/01.m3u8
+http://210.210.155.35:80/dr9445/h/h21/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN-1
 http://45.126.83.51/dr9445/h/h141/01.m3u8
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",AXn3
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1  tvg-logo="https://i.ibb.co/T8fdzXn/blueantx.png" group-title="PREMIUM INDONESIA",BLUEANT EXTREME
 http://210.210.155.35/session/ca6ab734-6a2f-11e9-ae93-9813b3aa7f8f/dr9445/h/h15/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Q8xjNSc/blueantent.png" group-title="PREMIUM INDONESIA",BLUEANT ENTERTAINMENT

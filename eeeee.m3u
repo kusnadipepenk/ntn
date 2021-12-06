@@ -133,8 +133,8 @@ http://210.210.155.35/uq2663/h/h98/index.m3u8
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/d0RzNrk/space.png" group-title="KIDS",Lernings
 http://210.210.155.35/uq2663/h/h97/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Disney asia
-
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Boomerang
+http://58.65.194.14:1935/live/BoomerangHD.stream/chinklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",3ABN KIDS
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/LQs/chunklist.m3u8
 #EXTINF:-1  group-title="KIDS",Kids Toons
@@ -145,10 +145,10 @@ http://58.65.171.202:8000/play/2009/index.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="KIDS",Kids Pluto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="KIDS",Nick Pluto
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="KIDS",Horee
-
+#EXTINF:-1 group-title="KIDS",NickJR
+http://58.65.194.14:1935/live/NickJr.stream/chinklist.m3u8
+#EXTINF:-1 group-title="KIDS",Nickelodeon
+http://58.65.194.14:1935/live/Nickelodeon.stream/chinklist.m3u8
 #EXTINF:-1 group-title="KIDS",KidoodleTV
 https://kidoodletv-kdtv-2.plex.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 group-title="KIDS",KidoodleTV2

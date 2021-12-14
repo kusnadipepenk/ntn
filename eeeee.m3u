@@ -55,6 +55,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d
 ==http://210.210.155.35/session/b44f53c0-1a28-11ea-980f-a261a2f9ca81/qwr9ew/s/s104/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1933FnfQ31OzlfU644rLpVcg_YMmQCySR" group-title="STASIUN BERITA",INews TV
 https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-Agustus.m3u8
+#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1933FnfQ31OzlfU644rLpVcg_YMmQCySR" group-title="STASIUN BERITA",INews 2
+https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yBWB003/cnnin.png" group-title="STASIUN BERITA",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1ORGoY9MMi6-DWGqhEjc5dHr2DAqTOBax" group-title="STASIUN BERITA",BERITA SATU

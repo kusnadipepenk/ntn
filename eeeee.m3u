@@ -17,8 +17,8 @@ https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3
 ==http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1KX7m3dyRmjcbxJnJbNZrJ9HQyDf3VUuX" group-title="STASIUN NASIONAL",MNCTv
 https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
-#EXTINF:-1  tvg-logo="" group-title="STASIUN NASIONAL",MNC sport
-https://cdn-livetv-studio.metube.id/mncsport_480/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="STASIUN NASIONAL",MNCtv2
+https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="STASIUN NASIONAL",INDOSIAR
 http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="STASIUN NASIONAL",INDOSIAR Liga1

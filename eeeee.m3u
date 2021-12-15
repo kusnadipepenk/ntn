@@ -499,21 +499,26 @@ http://210.210.155.35/x6bnqe/h/h05/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FoXSport AUSTralia
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360_v3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Bein2
-https://bit.ly/3bM77rh
-===http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Bein1sd
-https://bit.ly/3ERrUpU
-===http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+http://cdn3.cyclingnews.live/hls/W2.m3u8
+##https://bit.ly/3bM77rh
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Bein1
+http://cdn3.cyclingnews.live/hls/W3.m3u8
+##https://bit.ly/3ERrUpU
 #EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Foxsport 1 AR
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Foxsport 1 AR
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport1
-http://93.152.174.144:4000/play/btsport1/index.m3u8
+http://cdn1.cyclingnews.live/hls/M1.m3u8
+##http://93.152.174.144:4000/play/btsport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2
-http://93.152.174.144:4000/play/btsport2/index.m3u8
+http://cdn2.cyclingnews.live/hls/P1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2a
+http://cdn2.cyclingnews.live/hls/P2.m3u8
+##http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport3
-http://93.152.174.144:4000/play/btsport3/index.m3u8
+http://cdn1.cyclingnews.live/hls/M2.m3u8
+##http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTINF:-1 group-title="SPORTS",CTV1
 http://103.226.232.199:8005/play/a060/index.m3u8
 ##https://mbed.cc/cLP9C

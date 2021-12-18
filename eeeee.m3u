@@ -252,8 +252,8 @@ https://mbed.cc/HLvzY
 https://mbed.cc/Z0dpY
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",IMC
 https://mbed.cc/N15bD
-#EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",Citra drama
-
+#EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",Ruangtrampil
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",Citra bioskop
 
 #EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",Citra entertaind
@@ -296,8 +296,8 @@ https://idvd.multitvsolution.com:443/idvo/turboeng_540p/index.m3u8
 https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8?checkedby:iptvcat.com
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",History
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBCEarth
-
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Techstorm
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",FoodChannel
 https://amagi-primary.akamaized.net/out/v1/3f7bf105c018444dbc8f74a3a283afaf/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet

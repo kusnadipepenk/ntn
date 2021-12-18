@@ -182,6 +182,8 @@ http://210.210.155.35/dr9445/h/h04/01.m3u8
 http://45.126.83.51/dr9445/h/h04/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",CinemAEurope
 http://210.210.155.35:80/uq2663/h/h18/01.m3u8
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",CinemAAsia
+http://210.210.155.35:80/x6bnqe/h/h193/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",KBS WORLD
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",KBS WORLD2
@@ -254,8 +256,8 @@ https://mbed.cc/Z0dpY
 https://mbed.cc/N15bD
 #EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",Ruangtrampil
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",Citra bioskop
-
+#EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",ETV bioskop
+http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDjQtBAERPFfZOCXiIg35Ge1fs8TDYh5wkUIHRyJX1_e/ts
 #EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",Citra entertaind
 
 
@@ -509,31 +511,19 @@ https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/Fo
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Foxsport 1 AR
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport1
-http://cdn1.cyclingnews.live/hls/M1.m3u8
-##http://93.152.174.144:4000/play/btsport1/index.m3u8
+http://93.152.174.144:4000/play/btsport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2
 http://cdn2.cyclingnews.live/hls/P1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2a
-http://cdn2.cyclingnews.live/hls/P2.m3u8
-##http://93.152.174.144:4000/play/btsport2/index.m3u8
+http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport3
-http://cdn1.cyclingnews.live/hls/M2.m3u8
-##http://93.152.174.144:4000/play/btsport3/index.m3u8
+http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTINF:-1 group-title="SPORTS",CTV1
-http://103.226.232.199:8005/play/a060/index.m3u8
+http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDjQtBAERPFfZOCXiIg35Gd4D0vFlVFHO8GCyPOGs-jn/ts
 ##https://mbed.cc/cLP9C
 #EXTINF:-1 group-title="SPORTS",CTV2
-http://103.226.232.199:8005/play/a061/index.m3u8
-#EXTINF:-1 group-title="SPORTS",CTV3
-http://103.226.232.199:8005/play/a062/index.m3u8
-#EXTINF:-1 group-title="SPORTS",CTV4
-http://103.226.232.199:8005/play/a063/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Usee Sportᴴᴰ
-https://mbed.cc/cqvUl
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Usee Sport 2ᴴᴰ
-https://mbed.cc/Ta8rp
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Soccer CH
-http://mantul.biz.id:8888/gultom/gultom/14160
+http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDjQtBAERPFfZOCXiIg35GdqqZHHUOmMU8Y8xXRNpws7/ts
+
 
 
 #EXTINF:-1   tvg-logo="" group-title="Relax",Beaches Live

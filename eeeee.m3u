@@ -432,21 +432,17 @@ http://203.154.243.89:1213
 
 
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport1
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52859.m3u8
+https://mbed.cc/nfugW
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport2
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52860.m3u8
+https://mbed.cc/QfGyK
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport3
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52861.m3u8
+https://mbed.cc/WBn84
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport4
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52862.m3u8
+https://mbed.cc/jYMGW
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AS1
 http://147.50.145.234:4567/aduvip
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AS2
 http://147.50.145.234:4567/aduvip2
-#EXTINF:-1 tvg-logo=""group-title="SPORTS",AS3
-https://mbed.cc/CPCsV
-#EXTINF:-1 tvg-logo=""group-title="SPORTS",AS4
-https://mbed.cc/1saM1
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV
 http://13.76.192.14:19410/SpoTv_Live/index.m3u8
 ##https://mbed.cc/450WO

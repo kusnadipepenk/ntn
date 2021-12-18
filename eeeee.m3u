@@ -136,7 +136,7 @@ http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/d0RzNrk/space.png" group-title="KIDS",Lernings
 http://210.210.155.35/uq2663/h/h97/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Boomerang
-http://58.65.194.14:1935/live/BoomerangHD.stream/chinklist.m3u8
+https://mbed.cc/UM6CI
 #EXTINF:-1  tvg-logo="" group-title="KIDS",3ABN KIDS
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/LQs/chunklist.m3u8
 #EXTINF:-1  group-title="KIDS",Kids Toons
@@ -157,6 +157,8 @@ https://kidoodletv-kdtv-2.plex.wurl.com/manifest/1200.m3u8
 https://kidoodletv-kdtv-3.vizio.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 group-title="KIDS",HappyKids
 https://happykids-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1  group-title="KIDS",Carton network
+https://mbed.cc/BwoqR
 
 
 #EXTM3U
@@ -494,11 +496,11 @@ https//siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 http://210.210.155.35/x6bnqe/h/h05/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FoXSport AUSTralia
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360_v3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Bein2
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Bein3
 http://cdn3.cyclingnews.live/hls/W2.m3u8
 ##https://bit.ly/3bM77rh
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Bein1
-http://cdn3.cyclingnews.live/hls/W3.m3u8
+https://mbed.cc/MNJYP
 ##https://bit.ly/3ERrUpU
 #EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Foxsport 1 AR
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd

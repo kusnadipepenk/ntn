@@ -148,9 +148,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb
 #EXTINF:-1 group-title="KIDS",Kids Pluto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="KIDS",NickJR
-http://58.65.194.14:1935/live/NickJr.stream/chinklist.m3u8
+https://mbed.cc/sdlyE
 #EXTINF:-1 group-title="KIDS",Nickelodeon
-http://58.65.194.14:1935/live/Nickelodeon.stream/chinklist.m3u8
+https://mbed.cc/A3llM
+#EXTINF:-1 group-title="KIDS",Miaomi
+https://mbed.cc/G3c9y
 #EXTINF:-1 group-title="KIDS",KidoodleTV
 https://kidoodletv-kdtv-2.plex.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 group-title="KIDS",KidoodleTV2
@@ -198,7 +200,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42
 http://210.210.155.35/uq2663/h/h143/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/jWjxD83/sonson.jpg" group-title="PREMIUM INDONESIA",SonyOne-2
 http://45.126.83.51/session/70890dd8-c9d3-11ea-b6b4-9c15b4da6e2f/uq2663/h/h143/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5TDK9V0/mytv.jpg" group-title="PREMIUM INDONESIA",MY TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5TDK9V0/mytv.jpg" group-title="PREMIUM INDONESIA",MYTV
 http://210.210.155.35/qwr9ew/s/s46/02.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=109_MtH3Y5T8d_07P1VVEnD3sAkyX9_go" group-title="PREMIUM INDONESIA",HITS CH
 http://210.210.155.35/dr9445/h/h37/01.m3u8
@@ -248,8 +250,8 @@ http://210.210.155.35:80/uq2663/h/h28/02.m3u8
 https://mbed.cc/HLvzY
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Galaxy Premium
 https://mbed.cc/Z0dpY
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",IMC
-https://mbed.cc/N15bD
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Warner
+https://mbed.cc/YQFh4
 #EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",Ruangtrampil
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",ETV bioskop
@@ -261,7 +263,7 @@ http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDjQtBAERPFfZOCXiIg35Ge1f
  
  
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV
-http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+https://mbed.cc/hOQyA
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary
@@ -320,32 +322,6 @@ https://wildearth-roku.amagi.tv/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",FOXHD
-http://58.65.171.202:8000/play/3111/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",FoxHD2
-https://mbed.cc/8tF5K
-#http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/9
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",PrimeVideo2
-https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202498
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",PrimeVideo3
-http://185.93.2.158:2095/Medelectro_603328/ggO8T18n/90499?token=TRQNWUJeEQkTVlUBBFNRUQYAAwJWAwlSB1YBBFNQXAQFBV0JBQ8ABwcQSRtBEUVVVws+WgJAA1xTVw0KGhMRRlNEOlFVFAkRAgVdAAVWAhIaRBVaCwcbX1JVBwYFBlIEAQRJGkFfVxELEFYIC1EDEhpEBEsSB0sLAg9rV1NHDVZTFF9WRFpfHxNdC2ZWAFpRWAJDCURSG0lBCkdDFAtGZWIWL1lDX11UUFxFdEcJQ1lbAwVaB0JwCwcMWlZFWAUXGhQHUUVEUkdUEF8bAFYCABRKQ1AJF1cRERoWCRR4IBcaFABARVNdQFhdCxsIR0NDFEpDWhU9SwAQF0ZWV1wBRxQMRwgTGhFeUEo6Wl0LWVVVEghcCBEbX0FSFh8UXAtbX0IKSm5GWlcTCEcLC1EAAhQb
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Movie
-http://freeiptvgen.com:25461/434428/freeiptvgen/19954376
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",FFox Movie
-http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/95971
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox MoviesFam 
-http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/95972
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="FOXgrup",MoviesAction(setAuto)
-http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/95968
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="FOXgrup",MoviesDrama(setAuto)
-http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/95969
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="FOXgrup",MoviesFamily(setAuto)
-http://vtech.ayproviders.xyz:80/SAccMnYoPb/G7dqTFo3SG/95970
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FOXgrup",Fox Taiwan
-https://mn-nl.mncdn.com/blutv_foxtv_dvr/live_720p2000000/index.m3u8
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOID
 https://tvlivehometv.xyz/RHS/hbo1.m3u8?channel=hbo
 ##https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbo.m3u8
@@ -364,10 +340,13 @@ https://kusnadipepenk.github.io/campeign/hbored.m3u8
 https://tvlivehometv.xyz/RHS/hbo1.m3u8?channel=max
 ##https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",FOXHD
+http://58.65.171.202:8000/play/3111/index.m3u8
 #EXTINF:-1 group-title="MOVIES",HBO2
-http://58.65.194.14:1935/live/HBO-2-HD.stream/chunklist.m3u8
+
 #EXTINF:-1 group-title="MOVIES",OSN movies
-http://58.65.194.14:1935/live/HBO-3-HD.stream/chunklist.m3u8
+
 #EXTINF:-1 group-title="MOVIES",&Prive
 
 #EXTINF:-1 group-title="MOVIES",&Flix

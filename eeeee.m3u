@@ -136,7 +136,7 @@ http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/d0RzNrk/space.png" group-title="KIDS",Lernings
 http://210.210.155.35/uq2663/h/h97/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Boomerang
-https://mbed.cc/UM6CI
+https://mbed.cc/qfvjQ
 #EXTINF:-1  tvg-logo="" group-title="KIDS",3ABN KIDS
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/LQs/chunklist.m3u8
 #EXTINF:-1  group-title="KIDS",Kids Toons
@@ -148,15 +148,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb
 #EXTINF:-1 group-title="KIDS",Kids Pluto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="KIDS",NickJR
-https://mbed.cc/sdlyE
+https://mbed.cc/zLlPm
 #EXTINF:-1 group-title="KIDS",Nickelodeon
-https://mbed.cc/A3llM
+https://mbed.cc/UkS9w
 #EXTINF:-1 group-title="KIDS",Miaomi
-https://mbed.cc/G3c9y
-#EXTINF:-1 group-title="KIDS",KidoodleTV
-https://kidoodletv-kdtv-2.plex.wurl.com/manifest/1200.m3u8
-#EXTINF:-1 group-title="KIDS",KidoodleTV2
-https://kidoodletv-kdtv-3.vizio.wurl.com/manifest/1200.m3u8
+https://mbed.cc/z826d
 #EXTINF:-1 group-title="KIDS",HappyKids
 https://happykids-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1  group-title="KIDS",Carton network
@@ -251,7 +247,7 @@ https://mbed.cc/HLvzY
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Galaxy Premium
 https://mbed.cc/Z0dpY
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Warner
-https://mbed.cc/YQFh4
+https://mbed.cc/iDhRd
 #EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",Ruangtrampil
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",ETV bioskop
@@ -263,7 +259,7 @@ http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDjQtBAERPFfZOCXiIg35Ge1f
  
  
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV
-https://mbed.cc/hOQyA
+https://mbed.cc/R6R36
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary
@@ -281,7 +277,7 @@ http://58.65.171.202:8000/play/10503/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b1200000.m3u8?token=
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild
-https://mbed.cc/cJloe
+https://mbed.cc/QfinG
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild-US
 http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERYCH Asia

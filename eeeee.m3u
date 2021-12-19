@@ -150,13 +150,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395
 #EXTINF:-1 group-title="KIDS",NickJR
 https://mbed.cc/zLlPm
 #EXTINF:-1 group-title="KIDS",Nickelodeon
-https://mbed.cc/UkS9w
+https://mbed.cc/vD08t
 #EXTINF:-1 group-title="KIDS",Miaomi
 https://mbed.cc/z826d
 #EXTINF:-1 group-title="KIDS",HappyKids
 https://happykids-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1  group-title="KIDS",Carton network
-https://mbed.cc/BwoqR
+#EXTINF:-1  group-title="KIDS",Carton networks
+https://mbed.cc/Bpp6K
 
 
 #EXTM3U

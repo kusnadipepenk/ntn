@@ -465,9 +465,8 @@ https//siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 http://210.210.155.35/x6bnqe/h/h05/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FoXSport AUSTralia
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360_v3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Bein3
-http://cdn3.cyclingnews.live/hls/W2.m3u8
-##https://bit.ly/3bM77rh
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Bein2
+https://bit.ly/3bM77rh
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Bein1
 https://mbed.cc/MNJYP
 ##https://bit.ly/3ERrUpU

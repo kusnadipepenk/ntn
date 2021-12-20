@@ -253,8 +253,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4b
 #EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",ETV bioskop
 http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDjQtBAERPFfZOCXiIg35Ge1fs8TDYh5wkUIHRyJX1_e/ts
 #EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",Citra entertaind
-
-
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",CCM
+http://103.226.232.199:8005/play/a084/index.m3u8
  
  
  
@@ -494,10 +494,15 @@ http://103.226.232.199:8005/play/a061/index.m3u8
 #EXTINF:-1 group-title="SPORTS",CTV3
 http://103.226.232.199:8005/play/a062/index.m3u8
 #EXTINF:-1 group-title="SPORTS",CTV4
-http://103.226.232.199:8005/play/a084/index.m3u8
+
 #EXTINF:-1 group-title="SPORTS",CTV11
 http://103.226.232.199:8005/play/a060/index.m3u8
 
+
+#EXTINF:-1 group-title="Mola", MOLA 1
+http://103.226.232.199:8005/play/a063/index.m3u8
+#EXTINF:-1 group-title="Mola", MOLA 2
+http://103.226.232.199:8005/play/a064/index.m3u8
 
 #EXTINF:-1   tvg-logo="" group-title="Relax",Beaches Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8

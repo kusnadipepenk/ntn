@@ -442,8 +442,8 @@ http://147.50.145.234:4567/aduvip2
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV
 http://13.76.192.14:19410/SpoTv_Live/index.m3u8
 ##https://mbed.cc/450WO
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV2
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV-2
+https://mbed.cc/w9JAA
 ==https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Motorvision
 http://210.210.155.35/uq2663/h/h09/01.m3u8
@@ -487,7 +487,8 @@ http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDjQtBAERPFfZOCXiIg35Gd4D
 ##https://mbed.cc/cLP9C
 #EXTINF:-1 group-title="SPORTS",CTV2
 http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDjQtBAERPFfZOCXiIg35GdqqZHHUOmMU8Y8xXRNpws7/ts
-
+#EXTINF:-1 group-title="SPORTS",Bein
+https://mbed.cc/N3byq
 
 
 #EXTINF:-1   tvg-logo="" group-title="Relax",Beaches Live

@@ -362,10 +362,10 @@ http://58.65.194.14:1935/live/ScifiUniversal.stream/chunklist.m3u8
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmmsl/hallmarkmmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 group-title="MOVIES",FAmily Flik
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-logo="h" group-title="MOVIES",&flik
-https://mbed.cc/45c8l
-#EXTINF:-1  tvg-logo="h" group-title="MOVIES",&prive
-https://mbed.cc/YttcZ
+#EXTINF:-1  tvg-logo="h" group-title="MOVIES",Movies Now
+http://103.131.212.138:8000/play/a034/index.m3u8
+#EXTINF:-1  tvg-logo="h" group-title="MOVIES",MNX
+http://103.131.212.138:8000/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="HBO.US" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",Warner tv
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(72d6d51e-c265-4ce1-bf21-a9bb75487bc5)/manifest.mpd
 #https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8

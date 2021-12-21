@@ -243,9 +243,9 @@ http://210.210.155.35:80/uq2663/h/h22/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",LifeStyle
 http://210.210.155.35:80/uq2663/h/h28/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Galaxy
-https://mbed.cc/HLvzY
+https://mbed.cc/yo9ga
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Galaxy Premium
-https://mbed.cc/Z0dpY
+https://mbed.cc/8JZcN
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Warner TV
 https://mbed.cc/iDhRd
 #EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",Ruangtrampil
@@ -344,7 +344,7 @@ http://58.65.171.202:8000/play/3111/index.m3u8
 #EXTINF:-1 group-title="MOVIES",&Prive
 
 #EXTINF:-1 group-title="MOVIES",&Flix
-
+http://103.131.212.138:8000/play/a01e/index.m3u8
 #EXTINF:-1 group-title="MOVIES",Boo
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/4aFLH9g.png" group-title="MOVIES",Film Detective

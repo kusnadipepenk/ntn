@@ -246,7 +246,9 @@ http://210.210.155.35:80/uq2663/h/h28/02.m3u8
 https://mbed.cc/HLvzY
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Galaxy Premium
 https://mbed.cc/Z0dpY
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Warner
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",IMC
+https://mbed.cc/IZb4V
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Warner TV
 https://mbed.cc/iDhRd
 #EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",Ruangtrampil
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
@@ -490,13 +492,13 @@ http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDjQtBAERPFfZOCXiIg35Gdqq
 #EXTINF:-1 group-title="SPORTS",Bein
 https://mbed.cc/N3byq
 #EXTINF:-1 group-title="SPORTS",CTV22
-http://103.226.232.199:8005/play/a061/index.m3u8
+https://mbed.cc/DR4nX
 #EXTINF:-1 group-title="SPORTS",CTV3
-http://103.226.232.199:8005/play/a062/index.m3u8
+https://mbed.cc/AbfIr
 #EXTINF:-1 group-title="SPORTS",CTV4
 
 #EXTINF:-1 group-title="SPORTS",CTV11
-http://103.226.232.199:8005/play/a060/index.m3u8
+https://mbed.cc/ReZSm
 
 
 #EXTINF:-1 group-title="Mola", MOLA 1
@@ -538,14 +540,22 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 https://kusnadipepenk.github.io/campeign/nika.m3u8
 
 
-#EXTINF:-1 tvg-logo="htg" group-title="Test",FS1
-https://mbed.cc/RGxBW
-#EXTINF:-1 tvg-logo="htg" group-title="Test",FS2
-https://mbed.cc/LDYnK
-#EXTINF:-1 tvg-logo="htg" group-title="Test",FS3
-https://mbed.cc/BiA1r
-#EXTINF:-1 tvg-logo="htg" group-title="Test",Disco Kids
-https://mbed.cc/XMj9m
+#EXTINF:-1 tvg-logo="htg" group-title="Test",FS1 (cec)
+https://mbed.cc/RNNpe
+#EXTINF:-1 tvg-logo="htg" group-title="Test",FS2 (cec)
+https://mbed.cc/eVakQ
+#EXTINF:-1 tvg-logo="htg" group-title="Test",Baby TV
+https://mbed.cc/ZR3zc
+#EXTINF:-1 tvg-logo="htg" group-title="Test",Usee SPo1
+https://mbed.cc/OtPbO
+#EXTINF:-1 tvg-logo="htg" group-title="Test",Usee SPo2
+https://mbed.cc/9oDQJ
+#EXTINF:-1 tvg-logo="htg" group-title="Test",Chinese Drama
+https://mbed.cc/CXMh4
+#EXTINF:-1 tvg-logo="htg" group-title="Test",Bioskop Indonesia
+https://mbed.cc/z7h24
+#EXTINF:-1 tvg-logo="htg" group-title="Test",Tvn Movies.
+https://mbed.cc/oV08g
 
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="VIDIO",SCTV 

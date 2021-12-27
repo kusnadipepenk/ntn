@@ -13,8 +13,7 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="STASIUN NASIONAL",RCTI
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="STASIUN NASIONAL",SCTV
-https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
-==http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
+http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1KX7m3dyRmjcbxJnJbNZrJ9HQyDf3VUuX" group-title="STASIUN NASIONAL",MNCTv
 https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
 #EXTINF:-1  tvg-logo="" group-title="STASIUN NASIONAL",MNCtv2
@@ -543,19 +542,23 @@ https://kusnadipepenk.github.io/campeign/nika.m3u8
 
 
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Baby TV
-http://103.226.232.199:8003/play/a059/index.m3u8
-#EXTINF:-1 tvg-logo="htg" group-title="Test",Usee SPo1
-http://103.226.232.199:8004/play/a04l/index.m3u8
-#EXTINF:-1 tvg-logo="htg" group-title="Test",Usee SPo2
-http://103.226.232.199:8004/play/a04m/index.m3u8
-#EXTINF:-1 tvg-logo="htg" group-title="Test",Chinese Drama
-http://103.226.232.199:8004/play/a04h/index.m3u8
-#EXTINF:-1 tvg-logo="htg" group-title="Test",Bioskop Indonesia
-http://103.226.232.199:8004/play/a04b/index.m3u8
-#EXTINF:-1 tvg-logo="htg" group-title="Test",Tvn Movies.
-http://103.226.232.199:8004/play/a04g/index.m3u8
+https://tvlivehometv.xyz/RHS/HOME-TVuseefullmpd.m3u8?channel=babyfirst
+#EXTINF:-1 tvg-logo="htg" group-title="Test",Boomerang
+https://tvlivehometv.xyz/RHS/HOME-TVuseefullmpd.m3u8?channel=boomerang
+#EXTINF:-1 tvg-logo="htg" group-title="Test",CN
+https://tvlivehometv.xyz/RHS/HOME-TVuseefullmpd.m3u8?channel=cartoonnetwork
+#EXTINF:-1 tvg-logo="htg" group-title="Test",Nickjr
+https://tvlivehometv.xyz/RHS/HOME-TVuseefullmpd.m3u8?channel=nickjr
+#EXTINF:-1 tvg-logo="htg" group-title="Test",Nickelodeon
+https://tvlivehometv.xyz/RHS/HOME-TVuseefullmpd.m3u8?channel=nickelodeon
+#EXTINF:-1 tvg-logo="htg" group-title="Test",HGTV
+https://tvlivehometv.xyz/RHS/HOME-TVuseefullmpd.m3u8?channel=hgtv
 #EXTINF:-1 tvg-logo="htg" group-title="Test",imc
-http://103.226.232.199:8004/play/a03h/index.m3u8
+https://tvlivehometv.xyz/RHS/HOME-TVuseefullmpd.m3u8?channel=imc
+#EXTINF:-1 tvg-logo="htg" group-title="Test",Galaxy
+https://tvlivehometv.xyz/RHS/HOME-TVuseefullmpd.m3u8?channel=galaxy
+#EXTINF:-1 tvg-logo="htg" group-title="Test",Galaxy Premium
+https://tvlivehometv.xyz/RHS/HOME-TVuseefullmpd.m3u8?channel=galaxypremium
 #EXTINF:-1 tvg-logo="htg" group-title="Test",OkeyTV
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 

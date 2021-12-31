@@ -147,15 +147,19 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb
 #EXTINF:-1 group-title="KIDS",Kids Pluto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="KIDS",NickJR
-https://mbed.cc/zLlPm
+https://mbed.cc/znnfW
+##https://mbed.cc/zLlPm
 #EXTINF:-1 group-title="KIDS",Nickelodeon
-https://mbed.cc/vD08t
+https://mbed.cc/Lscg6
+##https://mbed.cc/vD08t
 #EXTINF:-1 group-title="KIDS",Miaomi
 https://mbed.cc/z826d
 #EXTINF:-1 group-title="KIDS",HappyKids
 https://happykids-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1  group-title="KIDS",Carton networks
 https://mbed.cc/Bpp6K
+#EXTINF:-1  group-title="KIDS",Disjun
+https://mbed.cc/e6mYM
 
 
 #EXTM3U
@@ -258,7 +262,8 @@ http://103.226.232.199:8005/play/a084/index.m3u8
  
  
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV
-https://mbed.cc/R6R36
+https://mbed.cc/WEglT
+##https://mbed.cc/R6R36
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary
@@ -266,7 +271,8 @@ http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary2
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth
-https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b1200000.m3u8
+https://mbed.cc/wNwpx
+##https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",TLC
 https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo
@@ -276,15 +282,16 @@ http://58.65.171.202:8000/play/10503/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b1200000.m3u8?token=
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild
-https://mbed.cc/QfinG
+https://mbed.cc/LseEU
+##https://mbed.cc/QfinG
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild-US
 http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERYCH Asia
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b1200000.m3u8?token=
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Sci
-https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Turbo
-https://idvd.multitvsolution.com:443/idvo/turboeng_540p/index.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY
+https://mbed.cc/r3Wja
 #EXTINF:-1 group-title="KNOWLEDGE",Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8?checkedby:iptvcat.com
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",History
@@ -427,13 +434,17 @@ http://203.154.243.89:1213
 
 
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport1
-https://mbed.cc/nfugW
+https://mbed.cc/yqeHc
+##https://mbed.cc/nfugW
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport2
-https://mbed.cc/QfGyK
+https://mbed.cc/iPPd8
+##https://mbed.cc/QfGyK
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport3
-https://mbed.cc/WBn84
+https://mbed.cc/UFm8K
+##https://mbed.cc/WBn84
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport4
-https://mbed.cc/jYMGW
+https://mbed.cc/OmWQL
+##https://mbed.cc/jYMGW
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AS1
 http://147.50.145.234:4567/aduvip
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AS2
@@ -487,24 +498,24 @@ http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDjQtBAERPFfZOCXiIg35Gd4D
 #EXTINF:-1 group-title="SPORTS",CTV2
 http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDjQtBAERPFfZOCXiIg35GdqqZHHUOmMU8Y8xXRNpws7/ts
 #EXTINF:-1 group-title="SPORTS",Bein
-https://shorturl.at/lCFOZ
+https://mbed.cc/gQ664
 ##https://mbed.cc/w7bBk
 #EXTINF:-1 group-title="SPORTS",Bein2x
-https://shorturl.at/bvKS0
+https://mbed.cc/TXwFs
 #EXTINF:-1 group-title="SPORTS",CTV22
-http://103.226.232.199:8005/play/a061/index.m3u8
+https://mbed.cc/OlY2W
 #EXTINF:-1 group-title="SPORTS",CTV3
-http://103.226.232.199:8005/play/a062/index.m3u8
+https://mbed.cc/0G3EK
 #EXTINF:-1 group-title="SPORTS",CTV4
-
+https://mbed.cc/Rde0i
 #EXTINF:-1 group-title="SPORTS",CTV11
-http://103.226.232.199:8005/play/a060/index.m3u8
+https://mbed.cc/ZxXlp
 
 
 #EXTINF:-1 group-title="Mola", MOLA 1
-http://103.226.232.199:8005/play/a063/index.m3u8
+
 #EXTINF:-1 group-title="Mola", MOLA 2
-http://103.226.232.199:8005/play/a064/index.m3u8
+
 
 #EXTINF:-1   tvg-logo="" group-title="Relax",Beaches Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
@@ -526,18 +537,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
 #EXTINF:-1   tvg-logo="htg" group-title="Relax",Nature
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="zzz",Hits
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
-#EXTINF:-1 tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="zzz",Hits Movies
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
-#EXTINF:-1 tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="zzz",Hitsvv
-https://kusnadipepenk.github.io/campeign/nika.m3u8
 
 
 

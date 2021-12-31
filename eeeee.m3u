@@ -540,6 +540,10 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="htg" group-title="Test",Discovery
+https://tvlivehometv.xyz/RHS/HOME-TVuseefullmpd.m3u8?channel=disco
+#EXTINF:-1 tvg-logo="htg" group-title="Test",Natgeowild
+https://tvlivehometv.xyz/RHS/HOME-TVuseefullmpd.m3u8?channel=natgeowild
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Baby TV
 https://tvlivehometv.xyz/RHS/HOME-TVuseefullmpd.m3u8?channel=babyfirst
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Boomerang

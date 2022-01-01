@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://i.ibb.co/L0x4cC6/net.jpg" group-title="STASIUN NASIONAL",NET.TV
-https://liveanevia.mncnow.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
+https://goldenlivektv.com/Live_TV/Channel_Net.m3u8
 #http://210.210.155.35/session/6141d55e-70a0-11e9-8180-b82a72d63267/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="STASIUN NASIONAL",TRANSTV
 https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_hls/TRANSTV-autobot.m3u8
@@ -11,23 +11,21 @@ https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/TRANS
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D5gBX8N/trans7.jpg" group-title="STASIUN NASIONAL",TRANS7(2)
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="STASIUN NASIONAL",RCTI
-https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
+https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="STASIUN NASIONAL",SCTV
 http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
-#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1KX7m3dyRmjcbxJnJbNZrJ9HQyDf3VUuX" group-title="STASIUN NASIONAL",MNCTv
-https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
 #EXTINF:-1  tvg-logo="" group-title="STASIUN NASIONAL",MNCtv2
 https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="STASIUN NASIONAL",INDOSIAR
 http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="STASIUN NASIONAL",INDOSIAR Liga1
-https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
+https://goldenlivektv.com/Live_TV/Channel_Indosiar.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QNQrm50/antv.png" group-title="STASIUN NASIONAL",ANTV(2)
-https://liveanevia.mncnow.id/live/eds/ANTV-radeon/sa_hls/index.m3u8
+https://goldenlivektv.com/Live_TV/Channel_Antv.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QNQrm50/antv.png" group-title="STASIUN NASIONAL",ANTV
 http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1uNGLnZUnUVO0BuZKQYN-KzIRVb9yXz1x" group-title="STASIUN NASIONAL",GLOBALTV
-https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
+https://goldenlivektv.com/Live_TV/Channel_Gtv.m3u8
 #EXTINF:-1  group-title="STASIUN NASIONAL",TV ONE (2)
 http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1ZUCUkvAvWR5qJzRj8HG9wJ40MQ71vi5x" group-title="STASIUN NASIONAL",eRTV
@@ -48,13 +46,11 @@ http://210.210.155.35/session/4ef13212-a900-11e9-8ab6-b7d19fbdbf13/qwr9ew/s/s107
 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/T2vhn7P/metro.jpg" group-title="STASIUN BERITA",METROTV
-https://visionplus-stream.visionplus.id/live/eds/MetroTV-RTX/sa_hls/MetroTV-RTX.m3u8
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1Yx6l54PwaAnm2d25XMAGJENd81AISjnu" group-title="STASIUN BERITA",KOMPASTV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 ==http://210.210.155.35/session/b44f53c0-1a28-11ea-980f-a261a2f9ca81/qwr9ew/s/s104/01.m3u8
-#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1933FnfQ31OzlfU644rLpVcg_YMmQCySR" group-title="STASIUN BERITA",INews TV
-https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-Agustus.m3u8
-#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1933FnfQ31OzlfU644rLpVcg_YMmQCySR" group-title="STASIUN BERITA",INews 2
+#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1933FnfQ31OzlfU644rLpVcg_YMmQCySR" group-title="STASIUN BERITA",INews
 https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yBWB003/cnnin.png" group-title="STASIUN BERITA",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
@@ -450,8 +446,8 @@ http://147.50.145.234:4567/aduvip
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AS2
 http://147.50.145.234:4567/aduvip2
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV
-http://13.76.192.14:19410/SpoTv_Live/index.m3u8
-##https://mbed.cc/450WO
+https://mbed.cc/DjJoQ
+##http://13.76.192.14:19410/SpoTv_Live/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV-2
 https://mbed.cc/w9JAA
 ==https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8

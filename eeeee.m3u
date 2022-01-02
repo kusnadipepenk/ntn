@@ -143,11 +143,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb
 #EXTINF:-1 group-title="KIDS",Kids Pluto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="KIDS",NickJR
-https://mbed.cc/znnfW
-##https://mbed.cc/zLlPm
+https://mbed.cc/zLlPm
 #EXTINF:-1 group-title="KIDS",Nickelodeon
-https://mbed.cc/Lscg6
-##https://mbed.cc/vD08t
+https://mbed.cc/vD08t
 #EXTINF:-1 group-title="KIDS",Miaomi
 https://mbed.cc/z826d
 #EXTINF:-1 group-title="KIDS",HappyKids
@@ -258,8 +256,7 @@ http://103.226.232.199:8005/play/a084/index.m3u8
  
  
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV
-https://mbed.cc/WEglT
-##https://mbed.cc/R6R36
+https://mbed.cc/R6R36
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary
@@ -278,8 +275,7 @@ http://58.65.171.202:8000/play/10503/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b1200000.m3u8?token=
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild
-https://mbed.cc/LseEU
-##https://mbed.cc/QfinG
+https://mbed.cc/QfinG
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild-US
 http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERYCH Asia
@@ -430,24 +426,19 @@ http://203.154.243.89:1213
 
 
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport1
-https://mbed.cc/yqeHc
-##https://mbed.cc/nfugW
+https://mbed.cc/nfugW
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport2
-https://mbed.cc/iPPd8
-##https://mbed.cc/QfGyK
+https://mbed.cc/QfGyK
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport3
-https://mbed.cc/UFm8K
-##https://mbed.cc/WBn84
+https://mbed.cc/WBn84
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport4
-https://mbed.cc/OmWQL
-##https://mbed.cc/jYMGW
+https://mbed.cc/jYMGW
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AS1
 http://147.50.145.234:4567/aduvip
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AS2
 http://147.50.145.234:4567/aduvip2
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV
-https://mbed.cc/DjJoQ
-##http://13.76.192.14:19410/SpoTv_Live/index.m3u8
+http://13.76.192.14:19410/SpoTv_Live/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV-2
 https://mbed.cc/w9JAA
 ==https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
@@ -494,8 +485,7 @@ http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDjQtBAERPFfZOCXiIg35Gd4D
 #EXTINF:-1 group-title="SPORTS",CTV2
 http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDjQtBAERPFfZOCXiIg35GdqqZHHUOmMU8Y8xXRNpws7/ts
 #EXTINF:-1 group-title="SPORTS",Bein
-https://mbed.cc/gQ664
-##https://mbed.cc/w7bBk
+https://mbed.cc/w7bBk
 #EXTINF:-1 group-title="SPORTS",Bein2x
 https://mbed.cc/TXwFs
 #EXTINF:-1 group-title="SPORTS",CTV22

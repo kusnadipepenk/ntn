@@ -153,7 +153,7 @@ https://happykids-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1  group-title="KIDS",Carton networks
 https://mbed.cc/Bpp6K
 #EXTINF:-1  group-title="KIDS",Disjun
-https://mbed.cc/e6mYM
+https://mbed.cc/MVJlQ
 
 
 #EXTM3U
@@ -256,7 +256,7 @@ http://103.226.232.199:8005/play/a084/index.m3u8
  
  
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV
-https://mbed.cc/R6R36
+https://mbed.cc/hOQyA
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary
@@ -264,7 +264,7 @@ http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary2
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth
-https://mbed.cc/wNwpx
+https://mbed.cc/wrjLs
 ##https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",TLC
 https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b1200000.m3u8
@@ -283,7 +283,7 @@ https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b1200000.m3u
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Sci
 
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY
-https://mbed.cc/r3Wja
+https://mbed.cc/BsPaL
 #EXTINF:-1 group-title="KNOWLEDGE",Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8?checkedby:iptvcat.com
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",History

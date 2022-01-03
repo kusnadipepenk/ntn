@@ -337,9 +337,9 @@ https://tvlivehometv.xyz/RHS/hbo1.m3u8?channel=max
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",FOXHD
 http://58.65.171.202:8000/play/3111/index.m3u8
 #EXTINF:-1 group-title="MOVIES",MBC max
-https://mbed.cc/Trv20
+
 #EXTINF:-1 group-title="MOVIES",MBC action
-https://mbed.cc/b63zR
+
 #EXTINF:-1 group-title="MOVIES",&Prive
 https://mbed.cc/5KFeb
 #EXTINF:-1 group-title="MOVIES",&Flix

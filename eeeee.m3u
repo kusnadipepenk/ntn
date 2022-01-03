@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://i.ibb.co/L0x4cC6/net.jpg" group-title="STASIUN NASIONAL",NET.TV
-https://goldenlivektv.com/Live_TV/Channel_Net.m3u8
+##https://goldenlivektv.com/Live_TV/Channel_Net.m3u8
+https://mbed.cc/ixcVu
 #http://210.210.155.35/session/6141d55e-70a0-11e9-8180-b82a72d63267/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="STASIUN NASIONAL",TRANSTV
 https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_hls/TRANSTV-autobot.m3u8
@@ -132,8 +133,8 @@ http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist.m3u8
 http://210.210.155.35/uq2663/h/h97/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Boomerang
 https://mbed.cc/qfvjQ
-#EXTINF:-1  tvg-logo="" group-title="KIDS",3ABN KIDS
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/LQs/chunklist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KIDS",Disney
+https://mbed.cc/yRL67
 #EXTINF:-1  group-title="KIDS",Kids Toons
 http://210.210.155.35/session/a1b2362c-9d39-11e9-9cda-b82a72d63267/qwr9ew/s/s50/01.m3u8
 #EXTINF:-1 group-title="KIDS",cbabiess
@@ -153,7 +154,7 @@ https://happykids-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1  group-title="KIDS",Carton networks
 https://mbed.cc/Bpp6K
 #EXTINF:-1  group-title="KIDS",Disjun
-https://mbed.cc/MVJlQ
+https://mbed.cc/fQ7Lq
 
 
 #EXTM3U
@@ -354,8 +355,8 @@ http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", Sci-Fi Movies
 http://58.65.194.14:1935/live/ScifiUniversal.stream/chunklist.m3u8
 ##https://v2.catcast.tv/content/38801/index.m3u8
-#EXTINF:-1 group-title="MOVIES",Sony PIC
-
+#EXTINF:-1 group-title="MOVIES",Fox Movies
+https://mbed.cc/4KSYz
 #EXTINF:-1 group-title="MOVIES",Hallmark mysteri
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmmsl/hallmarkmmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 group-title="MOVIES",FAmily Flik

@@ -372,8 +372,8 @@ http://103.131.212.138:8000/play/a034/index.m3u8
 #EXTINF:-1  tvg-logo="h" group-title="MOVIES",MNX
 http://103.131.212.138:8000/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="HBO.US" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",Warner tv
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(72d6d51e-c265-4ce1-bf21-a9bb75487bc5)/manifest.mpd
-#https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+https://cubmu.nomaden.tv:8279/WARNER/playlist.m3u8
+##https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(72d6d51e-c265-4ce1-bf21-a9bb75487bc5)/manifest.mpd
 #EXTINF:-1 tvg-id="HBO.US" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",Warner tv-U
 http://203.154.243.89:11205/
 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=warner&bandwidth=default&sync=0

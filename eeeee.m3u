@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://i.ibb.co/L0x4cC6/net.jpg" group-title="STASIUN NASIONAL",NET.TV
-##https://goldenlivektv.com/Live_TV/Channel_Net.m3u8
-https://mbed.cc/ixcVu
+https://cubmu.nomaden.tv:8279/NET/playlist.m3u8
+##https://mbed.cc/ixcVu
 #http://210.210.155.35/session/6141d55e-70a0-11e9-8180-b82a72d63267/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="STASIUN NASIONAL",TRANSTV
 https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_hls/TRANSTV-autobot.m3u8
@@ -132,7 +132,8 @@ http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/d0RzNrk/space.png" group-title="KIDS",Lernings
 http://210.210.155.35/uq2663/h/h97/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Boomerang
-https://mbed.cc/qfvjQ
+https://cubmu.nomaden.tv:8279/BOOMERANG/playlist.m3u8
+##https://mbed.cc/qfvjQ
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Disney
 https://mbed.cc/yRL67
 #EXTINF:-1  group-title="KIDS",Kids Toons
@@ -146,18 +147,24 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395
 #EXTINF:-1 group-title="KIDS",NickJR
 https://mbed.cc/zLlPm
 #EXTINF:-1 group-title="KIDS",Nickelodeon
-https://mbed.cc/vD08t
+https://cubmu.nomaden.tv:8279/NICKELODEON/playlist.m3u8
+##https://mbed.cc/vD08t
 #EXTINF:-1 group-title="KIDS",Miaomi
 https://mbed.cc/z826d
 #EXTINF:-1 group-title="KIDS",HappyKids
 https://happykids-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1  group-title="KIDS",Carton networks
-https://mbed.cc/Bpp6K
+https://cubmu.nomaden.tv:8279/CARTOON/playlist.m3u8
+##https://mbed.cc/Bpp6K
 #EXTINF:-1  group-title="KIDS",Disjun
 https://mbed.cc/fQ7Lq
+#EXTINF:-1  group-title="KIDS",Dunia Anak
+https://cubmu.nomaden.tv:8279/DUNIAANAK/playlist.m3u8
 
 
 #EXTM3U
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Bisokop INdo
+https://cubmu.nomaden.tv:8279/BIOSKOPIND/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvN
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvND

@@ -160,6 +160,9 @@ https://cubmu.nomaden.tv:8279/CARTOON/playlist.m3u8
 https://mbed.cc/fQ7Lq
 #EXTINF:-1  group-title="KIDS",Dunia Anak
 https://cubmu.nomaden.tv:8279/DUNIAANAK/playlist.m3u8
+#EXTINF:-1  group-title="KIDS",Davinci
+https://cubmu.nomaden.tv:8279/DAVINCI/playlist.m3u8
+
 
 
 #EXTM3U
@@ -168,7 +171,8 @@ https://cubmu.nomaden.tv:8279/BIOSKOPIND/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvN
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvND
-https://goldenlivektv.com/Live_TV/Channel_Tvn.m3u8
+https://cubmu.nomaden.tv:8279/TVN/playlist.m3u8
+##https://goldenlivektv.com/Live_TV/Channel_Tvn.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNMovies
 http://210.210.155.35:80/dr9445/h/h21/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNMovies2
@@ -190,7 +194,8 @@ http://210.210.155.35:80/uq2663/h/h18/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",MyCinema Asia
 http://210.210.155.35/x6bnqe/h/h193/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",KBS WORLD2
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+https://cubmu.nomaden.tv:8279/KBSWORLD/playlist.m3u8
+##https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",MyCinemA Family
 http://210.210.155.35/x6bnqe/h/h194/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="PREMIUM INDONESIA",K+
@@ -286,10 +291,10 @@ https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b1200000.m3u8
 https://mbed.cc/QfinG
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild-US
 http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERYCH Asia
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Asia
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b1200000.m3u8?token=
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Sci
-
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY CH
+https://cubmu.nomaden.tv:8279/DISCOVERY/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY
 https://mbed.cc/BsPaL
 #EXTINF:-1 group-title="KNOWLEDGE",Smithsonian

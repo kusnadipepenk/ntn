@@ -180,12 +180,12 @@ http://210.210.155.35/dr9445/h/h04/01.m3u8
 http://45.126.83.51/dr9445/h/h04/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",CinemAEurope
 http://210.210.155.35:80/uq2663/h/h18/01.m3u8
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",CinemAAsia
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",MyCinema Asia
 http://210.210.155.35/x6bnqe/h/h193/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",KBS WORLD2
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",OhK!tv
-http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",MyCinemA Family
+http://210.210.155.35/x6bnqe/h/h194/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="PREMIUM INDONESIA",K+
 http://45.126.83.51/session/b250033c-a9b8-11eb-b3bc-a2798f0477fc/uq2663/h/h08/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="PREMIUM INDONESIA",K+ (telkom)
@@ -195,7 +195,7 @@ http://210.210.155.35/uq2663/h/h143/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/jWjxD83/sonson.jpg" group-title="PREMIUM INDONESIA",SonyOne-2
 http://45.126.83.51/session/70890dd8-c9d3-11ea-b6b4-9c15b4da6e2f/uq2663/h/h143/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TDK9V0/mytv.jpg" group-title="PREMIUM INDONESIA",MYTV
-http://210.210.155.35/qwr9ew/s/s46/02.m3u8
+http://210.210.155.35:80/x6bnqe/s/s88/S4/mnf.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=109_MtH3Y5T8d_07P1VVEnD3sAkyX9_go" group-title="PREMIUM INDONESIA",HITS CH
 http://210.210.155.35/dr9445/h/h37/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=109_MtH3Y5T8d_07P1VVEnD3sAkyX9_go" group-title="PREMIUM INDONESIA",HITSCh(2)
@@ -203,19 +203,19 @@ http://45.126.83.51/session/4fb462a0-6ff8-11e9-84c1-90fcb976a378/uq2663/h/h37/02
 #EXTINF:-1  tvg-logo="https://i.ibb.co/0yswGZW/sgem.jpg" group-title="PREMIUM INDONESIA",SONY GEM
 http://210.210.155.35/uq2663/h/h19/02.m3u8
 #EXTINF:-1  group-title="PREMIUM INDONESIA",CELESTIAL MOVIE
-http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
+http://210.210.155.35/session/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vvKpnbc/kixx.jpg" group-title="PREMIUM INDONESIA",KIX
 http://210.210.155.35/session/b32c7bf2-c313-11e8-9362-c81f66f89318/uq2663/h/h07/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vvKpnbc/kixx.jpg" group-title="PREMIUM INDONESIA",KIX(2)
 http://210.210.155.35/dr9445/h/h07/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/NsvtNb8/mycnema.jpg" group-title="PREMIUM INDONESIA",MY CINEMA
-http://210.210.155.35/uq2663/h/h90/S1/mnf.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/NsvtNb8/mycnema.jpg" group-title="PREMIUM INDONESIA",MYCINEMA2
+http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/NsvtNb8/mycnema.jpg" group-title="PREMIUM INDONESIA",MY CINEMA2
 http://210.210.155.35/uq2663/h/h90/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/PYPLz36/trill.png" group-title="PREMIUM INDONESIA",THRILL
 http://210.210.155.35/session/453c7fb4-6a31-11e9-b1c1-bf03b175abaa/qwr9ew/s/s34/01.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/PYPLz36/trill.png" group-title="PREMIUM INDONESIA",THRILL-2
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",CCM
+http://rr2.dens.tv/s/s31/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ByFQvJQ/zeebioskop.jpg" group-title="PREMIUM INDONESIA",ZEE BIOSKOP
 http://210.210.155.35/session/9b11be32-6a30-11e9-9e00-ade6bb5dc228/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ByFQvJQ/zeebioskop.jpg" group-title="PREMIUM INDONESIA",ZEE BIOSKOP-2
@@ -241,9 +241,9 @@ http://210.210.155.35:80/uq2663/h/h22/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",LifeStyle
 http://210.210.155.35:80/uq2663/h/h28/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Galaxy
-https://mbed.cc/yo9ga
+
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Galaxy Premium
-https://mbed.cc/8JZcN
+
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Warner TV
 https://mbed.cc/iDhRd
 #EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",Ruangtrampil
@@ -251,8 +251,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4b
 #EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",ETV bioskop
 http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDjQtBAERPFfZOCXiIg35Ge1fs8TDYh5wkUIHRyJX1_e/ts
 #EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",Citra entertaind
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",CCM
-http://103.226.232.199:8005/play/a084/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",O Channel
+http://210.210.155.35/x6bnqe/s/s73/S4/mnf.m3u8
  
  
  

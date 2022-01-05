@@ -60,17 +60,17 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklis
 #EXTINF:-1  group-title="STASIUN BERITA",BeritaSatuworld
 https://b1world.beritasatumedia.com/Beritasatu/B1World_960x540.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",IDX Channel
-https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
+
 #EXTINF:-1  group-title="STASIUN BERITA",The Indonesian Chanel
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/03.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",JAKARTA GLOBE NEWS CHANNEL
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",TV PARLEMEN
-http://iptv.didanurwanda.com/channel/live/tvr-parlemen.m3u8
+
 #EXTINF:-1  group-title="STASIUN BERITA",TVRI PAPUA
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPapua)/Stream(02)/index.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",RRI NET
-http://36.89.47.217:11935/rrinet/live/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co/HhJ5Gyn/bbc.png" group-title="STASIUN BERITA",BBC WORLD
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/HhJ5Gyn/bbc.png" group-title="STASIUN BERITA",BBC NEWS
@@ -84,7 +84,7 @@ http://ott-cdn.ucom.am/s65/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="STASIUN BERITA",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",CGTN
-http://61.58.60.230:9319/live/222.m3u8
+
 #EXTINF:-1  group-title="STASIUN BERITA",CCTV4
 http://210.210.155.35/qwr9ew/s/s19/02.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",TV5 Monde
@@ -94,7 +94,7 @@ http://210.210.155.35/qwr9ew/s/s39/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="STASIUN BERITA",Bloomberg
 http://210.210.155.35/uq2663/h/h03/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="STASIUN BERITA",Bloomberg2
-https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8MQW4MG/NHK.png" group-title="STASIUN BERITA",NHK
 http://210.210.155.35/uq2663/h/h23/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8MQW4MG/NHK.png" group-title="STASIUN BERITA",NHK(2)
@@ -110,11 +110,11 @@ http://210.210.155.35/qwr9ew/s/s26/01.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",Aljazeera
 http://210.210.155.35/qwr9ew/s/s17/01.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",ABC Australia
-#https://gpc.my.id/usee/abcaustralia.m3u8
+
 #EXTINF:-1  group-title="STASIUN BERITA",TRT World
-#https://gpc.my.id/usee/trtworld.m3u8
+
 #EXTINF:-1  group-title="STASIUN BERITA",RT News
-#http://210.210.155.35/qwr9ew/s/s23/01.m3u8
+http://210.210.155.35/qwr9ew/s/s23/01.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",ABC news
 http://31.220.41.88:8081/live/us-abcnews.stream/chunks.m3u8?token=null
 #EXTINF:-1  group-title="STASIUN BERITA",SeA Today
@@ -187,9 +187,9 @@ http://210.210.155.35/session/e9b257c8-6a2f-11e9-a76f-b3759a40e2c1/dr9445/h/h16/
 http://210.210.155.35/session/d0b296ce-6a30-11e9-9180-b63a8ba36486/qwr9ew/s/s42/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/VTtxzXm/ciwo.jpg" group-title="PREMIUM INDONESIA",CINEMA WORLD
 http://210.210.155.35/dr9445/h/h04/01.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/VTtxzXm/ciwo.jpg" group-title="PREMIUM INDONESIA",CINEMA WORLD(2)
-http://45.126.83.51/dr9445/h/h04/01.m3u8
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",CinemAEurope
+#EXTINF:-1  tvg-logo="https://i.ibb.co/VTtxzXm/ciwo.jpg" group-title="PREMIUM INDONESIA",CINEMA INdonesia
+http://rr.dens.tv/h/h155/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",CinemA Europe
 http://210.210.155.35:80/uq2663/h/h18/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",MyCinema Asia
 http://210.210.155.35/x6bnqe/h/h193/index.m3u8
@@ -205,7 +205,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42
 #EXTINF:-1  tvg-logo="https://i.ibb.co/jWjxD83/sonson.jpg" group-title="PREMIUM INDONESIA",SonyOne
 http://210.210.155.35/uq2663/h/h143/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/jWjxD83/sonson.jpg" group-title="PREMIUM INDONESIA",SonyOne-2
-http://45.126.83.51/session/70890dd8-c9d3-11ea-b6b4-9c15b4da6e2f/uq2663/h/h143/01.m3u8
+https://cubmu.nomaden.tv:8279/ONE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TDK9V0/mytv.jpg" group-title="PREMIUM INDONESIA",MYTV
 http://210.210.155.35:80/x6bnqe/s/s88/S4/mnf.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=109_MtH3Y5T8d_07P1VVEnD3sAkyX9_go" group-title="PREMIUM INDONESIA",HITS CH

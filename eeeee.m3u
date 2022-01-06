@@ -144,8 +144,8 @@ http://58.65.171.202:8000/play/2009/index.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="KIDS",Kids Pluto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="KIDS",Nick JR
-http://62.210.222.57:25461/FQWA9E9wHF/nWYRuhPJwe/10663?token=TURYAhZYEAwSXVcKAQEKBgBTUF8FAVZXVFBWAVcPU1wOA1ZVAQJWUlJGTxBLF0AGVA9uD1IbCQcBBVIGShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSD1RXAlEcQRVZVhQKRlIBDlMLQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQJERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBAFIBVRNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpSAVYMVBMb
+#EXTINF:-1 group-title="KIDS",NickJR
+http://62.210.127.217:8080/FQWA9E9wHF/nWYRuhPJwe/28656?token=TURYAhZYEAwSU1QBDlAKAgEGA1dSXQdSB1YHBQQNXlcOVwUGVFILBgVGTxBLF0AGVA9uD1IbCQQJBVEDShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARTCFRVD1IcQRVZVhQKRlIADlEDQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBA1UFWxNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpQA1QAWhMb
 #EXTINF:-1 group-title="KIDS",Nickelodeon
 https://cubmu.nomaden.tv:8279/NICKELODEON/playlist.m3u8
 ##https://mbed.cc/vD08t
@@ -288,7 +288,7 @@ http://58.65.171.202:8000/play/10503/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geo
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b1200000.m3u8?token=
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild
-http://195.154.184.136:25461/FQWA9E9wHF/nWYRuhPJwe/22874?token=TURYAhZYEAwSVwFQCFoDUAYEAFYBD1IHVFYCAVcOAlRSX1MBVFQEVwRGTxBLF0AGVA9uD1IbCQQDC1MBShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSD1RRBF8cQRVZVhQKRlIEClYGQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQJERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBB1UMWxNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpSB1oEVRMb
+http://195.154.184.136:25461/FQWA9E9wHF/nWYRuhPJwe/22874?token=TURYAhZYEAwSVQdWW1AEVwFXUlAEAVYBA1FdAFBYVFIBUgUCBgVQVwlGTxBLF0AGVA9uD1IbCQQDC1MBShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARTCFRXD18cQRVZVhQKRlEFDlQFQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQJERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBAFcFWxNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpWAlQAQEw=
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild-US
 http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Asia
@@ -300,7 +300,7 @@ https://cubmu.nomaden.tv:8279/DISCOVERY/playlist.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8?checkedby:iptvcat.com
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",History
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+http://62.210.122.178:25461/FQWA9E9wHF/nWYRuhPJwe/10762?token=TURYAhZYEAwSB1pUWlsCVgdQVQJSCAcGAwcFVABaBwFTVQYGVQdXVAZGTxBLF0AGVA9uD1IbCQcBBFIHShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARTCFRRAVccQRVZVhQKRlEDDlsKQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQJERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBAVEMWhNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpRA1ACURMb
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Techstorm
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",FoodChannel
@@ -364,8 +364,7 @@ http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/FcN1OKo.png" group-title="MOVIES",FilmRise Sci-Fi
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", Sci-Fi Movies
-http://58.65.194.14:1935/live/ScifiUniversal.stream/chunklist.m3u8
-##https://v2.catcast.tv/content/38801/index.m3u8
+https://v2.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1 group-title="MOVIES",Fox Movie
 
 #EXTINF:-1 group-title="MOVIES",Hallmark mysteri
@@ -373,9 +372,9 @@ https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmmsl/hallmarkmmsl/playl
 #EXTINF:-1 group-title="MOVIES",FAmily Flik
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-logo="h" group-title="MOVIES",Movies Now
-http://103.131.212.138:8000/play/a034/index.m3u8
+
 #EXTINF:-1  tvg-logo="h" group-title="MOVIES",MNX
-http://103.131.212.138:8000/play/a030/index.m3u8
+
 #EXTINF:-1 tvg-id="HBO.US" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",Warner tv
 https://cubmu.nomaden.tv:8279/WARNER/playlist.m3u8
 ##https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(72d6d51e-c265-4ce1-bf21-a9bb75487bc5)/manifest.mpd

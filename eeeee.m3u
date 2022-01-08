@@ -4,37 +4,40 @@ http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/6754?token=TURYAhZYEAwSXFJQDlZWA
 ##https://mbed.cc/ixcVu
 #http://210.210.155.35/session/6141d55e-70a0-11e9-8180-b82a72d63267/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="STASIUN NASIONAL",TRANSTV
-https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_hls/TRANSTV-autobot.m3u8
+https://goldenlivektv.com/Live_TV/Channel_Transtv.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="STASIUN NASIONAL",TRANSTV(2)
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D5gBX8N/trans7.jpg" group-title="STASIUN NASIONAL",TRANS7
-https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/TRANS7-transformer.m3u8
+https://goldenlivektv.com/Live_TV/Channel_Trnas7.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D5gBX8N/trans7.jpg" group-title="STASIUN NASIONAL",TRANS7(2)
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="STASIUN NASIONAL",RCTI
-http://45.12.80.142:25461/helmi/xyzxyz234/1316?token=TBpYVERRRFhGVQYFAwgHUggCVV1UVwFVUghUBARSBgwOXlMEDwBRAQYTGRdBTERRWFhuUAVGDgFRCQEeEkJFUUVnWVEVA0RRUAYCFx4aQl1UUBMDUFIAAVQIBQsDBBoWR1FUFw0bUFNUBxcZEF1OQFxHX1gNO1BVFFFUVxINWEFbVBwXWFc5BgFcVFtWGgwWCRcdGwgXRBJYVkJeXBsUVl5MQlRDXERYRgMMAAIaGhZaWkRXFRZNElgafnYSGxRRT0xVW0RQCQxGCxdBQRoaFlBGbksEF0BCB1laV0IVDBYHGhwXWlgePQdeW1tXW0JdVltCG1tGAgBAFBVfX1lfQFhKb0VeXURYRgYDBQUaSw==
+https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="STASIUN NASIONAL",SCTV
 http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1  tvg-logo="" group-title="STASIUN NASIONAL",MNCtv
+https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
 #EXTINF:-1  tvg-logo="" group-title="STASIUN NASIONAL",MNCtv2
 http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/6760?token=TURYAhZYEAwSU1IHDlsKAQZUBl9QCwsAAAdSBlcJVQEFUAJVAFUGAQJGTxBLF0AGVA9uD1IbCQAGBVQZREwVAEQ5WQdHChAHA1VUBw1aEE8XFlgLUxsJBwcHVQNWCFRTB0oSEwxUEAwSVVoCClYQTxcHSRJTS11XXWwAUBBQBQAUXF4WCVweFF8KPFZdDlMNUUALRAcbHxRYQBQXXFcTCVpKEgEMREBXRAFBCBpRBFoFQB1EVVZGWEVBHRdcGy8hFEoSBh1EV1hDDQxcGlkQF0ZAHURfSmxEVEAQRwNYCwBERApBVRIeFF0FG21bDFwNUAFFD1lXQBQLEVUXShsLClgPRAwXb0JfVEZZEAlaAlIFQEw=
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="STASIUN NASIONAL",INDOSIAR
 http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="STASIUN NASIONAL",INDOSIAR Liga1
-##https://goldenlivektv.com/Live_TV/Channel_Indosiar.m3u8
+https://goldenlivektv.com/Live_TV/Channel_Indosiar.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QNQrm50/antv.png" group-title="STASIUN NASIONAL",ANTV(2)
 http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/6763?token=TURYAhZYEAwSU1IHDlsKAQZUBl9QCwsAAAdSBlcJVQEFUAJVAFUGAQJGTxBLF0AGVA9uD1IbCQAGBVQZREwVAEQ5WQdHChAHA1VUBw1aEE8XFlgLUxsJBwcHVQNWCFRTB0oSEwxUEAwSVVoCClYQTxcHSRJTS11XXWwAUBBQBQAUXF4WCVweFF8KPFZdDlMNUUALRAcbHxRYQBQXXFcTCVpKEgEMREBXRAFBCBpRBFoFQB1EVVZGWEVBHRdcGy8hFEoSBh1EV1hDDQxcGlkQF0ZAHURfSmxEVEAQRwNYCwBERApBVRIeFF0FG21bDFwNUAFFD1lXQBQLEVUXShsLClgPRAwXb0JfVEZZEAlaAlIFQEw=
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QNQrm50/antv.png" group-title="STASIUN NASIONAL",ANTV
 http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1uNGLnZUnUVO0BuZKQYN-KzIRVb9yXz1x" group-title="STASIUN NASIONAL",GLOBALTV
-http://45.12.80.142:25461/helmi/xyzxyz234/1318?token=TBpYVERRRFhGBVEGCllUB11WA19ZUANRVgtSVgYDUAIEXFJWUVgHBFwTGRdBTERRWFhuUAVGDgFRCQ8eEkJFUUVnWVEVA0RRUAYCFx4aQl1UUBMDUFIAAVQIBAICBBoWR1FUFw0bX1JUBBcZEF1OQFxHX1gNO1BVFFFUVxINWEFbVBwXWFc5BgFcVFtWGgwWCRcdGwgXRBJYVkJeXBsUVl5MQlRDXERYRgUDAAMaGhZaWkRXFRZNElgafnYSGxRRT0xVW0RQCQxGCxdBQRoaFlBGbksEF0BCB1laV0IVDBYHGhwXWlgePQdeW1tXW0JdVltCG1tGAgBAFBVfX1lfQFhKb0VeXURYRgcGBQUaSw==
+https://goldenlivektv.com/Live_TV/Channel_Gtv.m3u8
 #EXTINF:-1  group-title="STASIUN NASIONAL",TV ONE (2)
 http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105/01.m3u8
-#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1ZUCUkvAvWR5qJzRj8HG9wJ40MQ71vi5x" group-title="STASIUN NASIONAL",eRTV
+#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1ZUCUkvAvWR5qJzRj8HG9wJ40MQ71vi5x" group-title="STASIUN NASIONAL",RTV
 http://210.210.155.35/session/1e1de4c6-6fcd-11e9-834b-b82a72d63267/qwr9ew/s/s12/01.m3u8
-#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1YTKkeDncS3PikKrWA8vuK6tdzee9Q7u3" group-title="STASIUN NASIONAL",JTV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
+#EXTINF:-1  tvg-logo="" group-title="STASIUN NASIONAL",Jtv
+
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1YTKkeDncS3PikKrWA8vuK6tdzee9Q7u3" group-title="STASIUN NASIONAL",JTV(2)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
+##https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GCkTFqZ/elshin.jpg" group-title="STASIUN NASIONAL",ELSHINTA TV
 http://210.210.155.35:80/session/9064e496-2ed8-11eb-9242-b82a72d63267/qwr9ew/s/s10/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/7VVYNfZ/tvri.jpg" group-title="STASIUN NASIONAL",TVRI
@@ -168,12 +171,11 @@ https://cubmu.nomaden.tv:8279/DAVINCI/playlist.m3u8
 
 #EXTM3U
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Bisokop INdo
-https://cubmu.nomaden.tv:8279/BIOSKOPIND/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvN
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvND
-https://cubmu.nomaden.tv:8279/TVN/playlist.m3u8
-##https://goldenlivektv.com/Live_TV/Channel_Tvn.m3u8
+https://goldenlivektv.com/Live_TV/Channel_Tvn.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNMovies
 http://210.210.155.35:80/dr9445/h/h21/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNMovies2
@@ -294,9 +296,9 @@ http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Asia
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b1200000.m3u8?token=
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY CH
-https://cubmu.nomaden.tv:8279/DISCOVERY/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY
 
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY
+https://mbed.cc/lmTZX
 #EXTINF:-1 group-title="KNOWLEDGE",Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8?checkedby:iptvcat.com
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",History
@@ -451,7 +453,7 @@ http://45.86.190.19:25461/FQWA9E9wHF/nWYRuhPJwe/40601?token=TURYAhZYEAwSVFIKXltU
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV
 http://13.76.192.14:19410/SpoTv_Live/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV-2
-http://45.12.80.58:25461/helmi/xyzxyz234/12260?token=TBpYVERRRFhGBwwMUA8EDAtTAQEDUwZWVQFVUVECVAIAClUCBAFTUQETGRdBTERRWFhuUAVGDgFQCgECHBVDR1JKb1xTG1xAVwUCAhAUFEBQWFQbW1UCBFMOBwAIAwEYFUhZURUDRFBWBAACEBQUUUFBVEsPBVhvBl1BW1NSFA5ZTVxZGxsJDDtVUFhTVlIWAxcBG01GXUMSGg1cRVtaGBVaWUFFWBIHRgsXBAQNARYVF1JWFApAQhsaDRB5cxQYFV1IQVJXFQsLXxcPEExFFhUXWEo+FlFDFkpSU11SRBYNGgAXGxsLAxxuVlpcVlNXTVxeVxJGDhJUCBUeElpZWl5MX0doSQ8GRgsXBwAMAQQbSA==
+https://mbed.cc/CGGxG
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Motorvision
 http://210.210.155.35/uq2663/h/h09/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Golf

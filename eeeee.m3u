@@ -12,7 +12,7 @@ https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/TRANS
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D5gBX8N/trans7.jpg" group-title="STASIUN NASIONAL",TRANS7(2)
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="STASIUN NASIONAL",RCTI
-
+http://45.12.80.142:25461/helmi/xyzxyz234/1316?token=TBpYVERRRFhGVQYFAwgHUggCVV1UVwFVUghUBARSBgwOXlMEDwBRAQYTGRdBTERRWFhuUAVGDgFRCQEeEkJFUUVnWVEVA0RRUAYCFx4aQl1UUBMDUFIAAVQIBQsDBBoWR1FUFw0bUFNUBxcZEF1OQFxHX1gNO1BVFFFUVxINWEFbVBwXWFc5BgFcVFtWGgwWCRcdGwgXRBJYVkJeXBsUVl5MQlRDXERYRgMMAAIaGhZaWkRXFRZNElgafnYSGxRRT0xVW0RQCQxGCxdBQRoaFlBGbksEF0BCB1laV0IVDBYHGhwXWlgePQdeW1tXW0JdVltCG1tGAgBAFBVfX1lfQFhKb0VeXURYRgYDBQUaSw==
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="STASIUN NASIONAL",SCTV
 http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="STASIUN NASIONAL",MNCtv2
@@ -26,7 +26,7 @@ http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/6763?token=TURYAhZYEAwSU1IHDlsKA
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QNQrm50/antv.png" group-title="STASIUN NASIONAL",ANTV
 http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1uNGLnZUnUVO0BuZKQYN-KzIRVb9yXz1x" group-title="STASIUN NASIONAL",GLOBALTV
-
+http://45.12.80.142:25461/helmi/xyzxyz234/1318?token=TBpYVERRRFhGBVEGCllUB11WA19ZUANRVgtSVgYDUAIEXFJWUVgHBFwTGRdBTERRWFhuUAVGDgFRCQ8eEkJFUUVnWVEVA0RRUAYCFx4aQl1UUBMDUFIAAVQIBAICBBoWR1FUFw0bX1JUBBcZEF1OQFxHX1gNO1BVFFFUVxINWEFbVBwXWFc5BgFcVFtWGgwWCRcdGwgXRBJYVkJeXBsUVl5MQlRDXERYRgUDAAMaGhZaWkRXFRZNElgafnYSGxRRT0xVW0RQCQxGCxdBQRoaFlBGbksEF0BCB1laV0IVDBYHGhwXWlgePQdeW1tXW0JdVltCG1tGAgBAFBVfX1lfQFhKb0VeXURYRgcGBQUaSw==
 #EXTINF:-1  group-title="STASIUN NASIONAL",TV ONE (2)
 http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1ZUCUkvAvWR5qJzRj8HG9wJ40MQ71vi5x" group-title="STASIUN NASIONAL",eRTV
@@ -451,7 +451,7 @@ http://45.86.190.19:25461/FQWA9E9wHF/nWYRuhPJwe/40601?token=TURYAhZYEAwSVFIKXltU
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV
 http://13.76.192.14:19410/SpoTv_Live/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV-2
-==https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
+http://45.12.80.58:25461/helmi/xyzxyz234/12260?token=TBpYVERRRFhGBwwMUA8EDAtTAQEDUwZWVQFVUVECVAIAClUCBAFTUQETGRdBTERRWFhuUAVGDgFQCgECHBVDR1JKb1xTG1xAVwUCAhAUFEBQWFQbW1UCBFMOBwAIAwEYFUhZURUDRFBWBAACEBQUUUFBVEsPBVhvBl1BW1NSFA5ZTVxZGxsJDDtVUFhTVlIWAxcBG01GXUMSGg1cRVtaGBVaWUFFWBIHRgsXBAQNARYVF1JWFApAQhsaDRB5cxQYFV1IQVJXFQsLXxcPEExFFhUXWEo+FlFDFkpSU11SRBYNGgAXGxsLAxxuVlpcVlNXTVxeVxJGDhJUCBUeElpZWl5MX0doSQ8GRgsXBwAMAQQbSA==
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Motorvision
 http://210.210.155.35/uq2663/h/h09/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Golf
@@ -475,7 +475,7 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Bein2
 https://bit.ly/3bM77rh
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Bein1
-
+http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28731?token=TURYAhZYEAwSVQUFAAIEVlMGA1JVW1EDUgEFU14PUQMEBAFXVwIFAgdGTxBLF0AGVA9uD1IbCQQJBFcEShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARQCVRTBlQcQRVZVhQKRlIFDloDQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBA1YNUBNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpSBVIBVBMb
 ##https://bit.ly/3ERrUpU
 #EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Foxsport 1 AR
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd

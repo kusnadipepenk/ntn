@@ -175,13 +175,13 @@ https://cubmu.nomaden.tv:8279/DAVINCI/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvN
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNS
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNmovies 2
 https://mbed.cc/JSCHT
 ##https://goldenlivektv.com/Live_TV/Channel_Tvn.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNMovies
 http://210.210.155.35:80/dr9445/h/h21/01.m3u8
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNMovies2
-https://goldenlivektv.com/Live_TV/Channel_Tvnmovies.m3u8
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvND
+https://mbed.cc/id2UU
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN-2
 http://45.126.83.51/dr9445/h/h141/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN
@@ -224,7 +224,7 @@ http://210.210.155.35/uq2663/h/h19/02.m3u8
 #EXTINF:-1  group-title="PREMIUM INDONESIA",CELESTIAL MOVIE
 http://210.210.155.35/session/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",OhK
-https://mbed.cc/RduE7
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vvKpnbc/kixx.jpg" group-title="PREMIUM INDONESIA",KIX(2)
 http://210.210.155.35/dr9445/h/h07/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/NsvtNb8/mycnema.jpg" group-title="PREMIUM INDONESIA",MY CINEMA
@@ -264,8 +264,9 @@ http://210.210.155.35:80/uq2663/h/h28/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Galaxy Premium
 
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Warner TV
-http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28733?token=TURYAhZYEAwSBlVUDlsDVABQBFYOWwsGAFdUA1UPUF0GUglQUgcEUgRGTxBLF0AGVA9uD1IbCQQJC1UDShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSC19SBlccQRVZVhQKRlEHCVYDQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBAFQFVRNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpRA1cNUBMb
-#EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",Ruangtrampil
+https://mbed.cc/L4e8O
+##http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28733?token=TURYAhZYEAwSBlVUDlsDVABQBFYOWwsGAFdUA1UPUF0GUglQUgcEUgRGTxBLF0AGVA9uD1IbCQQJC1UDShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSC19SBlccQRVZVhQKRlEHCVYDQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBAFQFVRNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpRA1cNUBMb
+#EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",Ruang trampil
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",Citra entertaind
 

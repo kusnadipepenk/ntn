@@ -175,8 +175,9 @@ https://cubmu.nomaden.tv:8279/DAVINCI/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvN
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvND
-https://goldenlivektv.com/Live_TV/Channel_Tvn.m3u8
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNS
+https://mbed.cc/JSCHT
+##https://goldenlivektv.com/Live_TV/Channel_Tvn.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNMovies
 http://210.210.155.35:80/dr9445/h/h21/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNMovies2
@@ -223,7 +224,7 @@ http://210.210.155.35/uq2663/h/h19/02.m3u8
 #EXTINF:-1  group-title="PREMIUM INDONESIA",CELESTIAL MOVIE
 http://210.210.155.35/session/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",OhK
-https://mbed.cc/tIYID
+https://mbed.cc/RduE7
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vvKpnbc/kixx.jpg" group-title="PREMIUM INDONESIA",KIX(2)
 http://210.210.155.35/dr9445/h/h07/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/NsvtNb8/mycnema.jpg" group-title="PREMIUM INDONESIA",MY CINEMA
@@ -294,7 +295,8 @@ http://58.65.171.202:8000/play/10503/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geos
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b1200000.m3u8?token=
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild
-http://62.210.127.217:8080/FQWA9E9wHF/nWYRuhPJwe/28657?token=TURYAhZYEAwSVFFUDVpUUQJSAQQHCAEBA1BXBgRaUgQDAwhXBlFQBwZGTxBLF0AGVA9uD1IbCQQJBVECShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARTCFVRAlMcQRVZVhQKRlEEAVYAQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAINRw9ZThMFWUxdQkNKRg9EcCJHGkRVGxFVXEVZCw0QAkFGEBdOEw9FZkFTQkcWUAdUAxcUXBJTRxwQW1EcPFFXDVwGVhZYCVhKEQwTAkYZRFQJC18SXxE6QFtSEl5BAA5aAlYXHw==
+https://mbed.cc/f8hlX
+##http://62.210.127.217:8080/FQWA9E9wHF/nWYRuhPJwe/28657?token=TURYAhZYEAwSVFFUDVpUUQJSAQQHCAEBA1BXBgRaUgQDAwhXBlFQBwZGTxBLF0AGVA9uD1IbCQQJBVECShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARTCFVRAlMcQRVZVhQKRlEEAVYAQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAINRw9ZThMFWUxdQkNKRg9EcCJHGkRVGxFVXEVZCw0QAkFGEBdOEw9FZkFTQkcWUAdUAxcUXBJTRxwQW1EcPFFXDVwGVhZYCVhKEQwTAkYZRFQJC18SXxE6QFtSEl5BAA5aAlYXHw==
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild-US
 http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Asia
@@ -444,8 +446,7 @@ http://203.154.243.89:1213
 
 
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport1
-https://mbed.cc/m8Bht
-##https://mbed.cc/nfugW
+https://mbed.cc/nfugW
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport2
 https://mbed.cc/QfGyK
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport3

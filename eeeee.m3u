@@ -88,8 +88,8 @@ http://ott-cdn.ucom.am/s65/03.m3u8
 http://ott-cdn.ucom.am/s65/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="STASIUN BERITA",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1  group-title="STASIUN BERITA",CGTN
-
+#EXTINF:-1  group-title="STASIUN BERITA",Wion
+http://rr.dens.tv/h/h91/index2.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",CCTV4
 http://210.210.155.35/qwr9ew/s/s19/02.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",TV5 Monde

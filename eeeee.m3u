@@ -472,7 +472,7 @@ https://mbed.cc/WBn84
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport4
 https://mbed.cc/jYMGW
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV
-http://13.76.192.14:19410/SpoTv_Live/index.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV-2
 https://mbed.cc/CGGxG
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Motorvision
@@ -489,21 +489,21 @@ https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",BEIN Xtra
 https//siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",beIN Xtra
-#https://bein-plutolive-vo.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",Skysport F1
+https://mbed.cc/jrukV
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FightSport
 http://210.210.155.35/x6bnqe/h/h05/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FoXSport AUSTralia
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360_v3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Bein2
-https://bit.ly/3bM77rh
+https://mbed.cc/NkAT4
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Bein1
 http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28731?token=TURYAhZYEAwSVQUFAAIEVlMGA1JVW1EDUgEFU14PUQMEBAFXVwIFAgdGTxBLF0AGVA9uD1IbCQQJBFcEShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARQCVRTBlQcQRVZVhQKRlIFDloDQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBA1YNUBNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpSBVIBVBMb
 ##https://bit.ly/3ERrUpU
-#EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Foxsport 1 AR
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
-#EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"Champions TV 1" group-title="SPORTS",Foxsport 1 AR
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
+#EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="" tvg-name"" group-title="SPORTS",BB1
+https://mbed.cc/J6L5S
+#EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB1
+https://mbed.cc/4unX5
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport1
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2
@@ -520,14 +520,14 @@ http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDjQtBAERPFfZOCXiIg35Gdqq
 https://mbed.cc/8hbvs
 #EXTINF:-1 group-title="SPORTS",2EURO SPort
 https://mbed.cc/usxej
-#EXTINF:-1 group-title="SPORTS",CTV22
-
-#EXTINF:-1 group-title="SPORTS",CTV3
-
-#EXTINF:-1 group-title="SPORTS",CTV4
-
-#EXTINF:-1 group-title="SPORTS",CTV11
-
+#EXTINF:-1 group-title="SPORTS",Sporttv1
+https://mbed.cc/HhPZJ
+#EXTINF:-1 group-title="SPORTS",Sporttv2
+https://mbed.cc/Ho0sL
+#EXTINF:-1 group-title="SPORTS",Sporttv3
+https://mbed.cc/vKgdo
+#EXTINF:-1 group-title="SPORTS",Sporttv4
+https://mbed.cc/USJLA
 
 
 #EXTINF:-1 group-title="Mola", MOLA 1

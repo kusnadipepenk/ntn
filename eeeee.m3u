@@ -430,6 +430,8 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Music",Spirit TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Hits Music
 https://xumo-redbox.ott-channels.stingray.com/155/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Hot Country
@@ -461,6 +463,10 @@ https://stream.ecable.tv/afrobeats/index.m3u8
 https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/SQs/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://musicfouryou.com/wp-content/uploads/2015/09/imageedit_1_8709468454.gif" group-title="Music",Music4U
 http://203.154.243.89:1213
+#EXTINF:-1 group-title="Music",Kpop
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:-1 group-title="Music",Portalfox mix
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/eroz_brebes.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport1
@@ -471,9 +477,9 @@ https://mbed.cc/QfGyK
 https://mbed.cc/WBn84
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport4
 https://mbed.cc/jYMGW
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV2
+https://www.livedoomovie.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV-2
 https://mbed.cc/CGGxG
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Motorvision
 http://210.210.155.35/uq2663/h/h09/01.m3u8
@@ -585,6 +591,10 @@ https://tvlivehometv.xyz/RHS/HOME-TVuseefullmpd.m3u8?channel=galaxy
 https://tvlivehometv.xyz/RHS/HOME-TVuseefullmpd.m3u8?channel=galaxypremium
 #EXTINF:-1 tvg-logo="htg" group-title="Test",OkeyTV
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+#EXTINF:-1 tvg-logo="htg" group-title="Test",nicknick
+https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="htg" group-title="Test",MNCS
+http://202.150.172.34:4000/play/mnctvt2
 
 
 

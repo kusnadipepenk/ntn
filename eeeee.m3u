@@ -507,9 +507,17 @@ https://mbed.cc/NkAT4
 http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28731?token=TURYAhZYEAwSVQUFAAIEVlMGA1JVW1EDUgEFU14PUQMEBAFXVwIFAgdGTxBLF0AGVA9uD1IbCQQJBFcEShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARQCVRTBlQcQRVZVhQKRlIFDloDQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBA1YNUBNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpSBVIBVBMb
 ##https://bit.ly/3ERrUpU
 #EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="" tvg-name"" group-title="SPORTS",BB1
-https://mbed.cc/J6L5S
-#EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB1
-https://mbed.cc/4unX5
+http://145.239.142.113/BEIN-1-SD/playlist.m3u8
+##https://mbed.cc/J6L5S
+#EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB2
+http://145.239.142.113/BEIN-2-SD/playlist.m3u8
+##https://mbed.cc/4unX5
+#EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB3
+http://145.239.142.113/BEIN-3-SD/playlist.m3u8
+#EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB4
+http://145.239.142.113/BEIN-4-SD/playlist.m3u8
+#EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB5
+http://145.239.142.113/BEIN-5-SD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport1
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2
@@ -519,9 +527,9 @@ http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport3
 http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTINF:-1 group-title="SPORTS",CTV1
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDjQtBAERPFfZOCXiIg35Gd4D0vFlVFHO8GCyPOGs-jn/ts
-#EXTINF:-1 group-title="SPORTS",CTV2
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDjQtBAERPFfZOCXiIg35GdqqZHHUOmMU8Y8xXRNpws7/ts
+
+#EXTINF:-1 group-title="SPORTS",1Euro Sport ES
+http://185.41.244.69/eurosport1/tracks-v2a1a2/mono.m3u8
 #EXTINF:-1 group-title="SPORTS",1EURO SPort
 https://mbed.cc/8hbvs
 #EXTINF:-1 group-title="SPORTS",2EURO SPort

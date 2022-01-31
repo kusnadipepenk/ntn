@@ -179,22 +179,18 @@ https://mbed.cc/Pi9K8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvN
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNmovies 2
-https://mbed.cc/JSCHT
+http://homeplex.live:8080/FQWA9E9wHF/nWYRuhPJwe/28738
 ##https://goldenlivektv.com/Live_TV/Channel_Tvn.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNMovies
 http://210.210.155.35:80/dr9445/h/h21/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvND
-https://mbed.cc/id2UU
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN-2
-http://45.126.83.51/dr9445/h/h141/01.m3u8
+http://homeplex.live:8080/FQWA9E9wHF/nWYRuhPJwe/28739
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN
-https://cubmu.nomaden.tv:8279/AXN/playlist.m3u8
+http://45.126.83.51/dr9445/h/h141/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/T8fdzXn/blueantx.png" group-title="PREMIUM INDONESIA",BLUEANT EXTREME
 http://210.210.155.35/session/ca6ab734-6a2f-11e9-ae93-9813b3aa7f8f/dr9445/h/h15/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Q8xjNSc/blueantent.png" group-title="PREMIUM INDONESIA",BLUEANT ENTERTAINMENT
 http://210.210.155.35/session/e9b257c8-6a2f-11e9-a76f-b3759a40e2c1/dr9445/h/h16/01.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/52RHTMt/lbs.jpg" group-title="PREMIUM INDONESIA",LBS TV (K-DRAMA)
-http://210.210.155.35/session/d0b296ce-6a30-11e9-9180-b63a8ba36486/qwr9ew/s/s42/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/VTtxzXm/ciwo.jpg" group-title="PREMIUM INDONESIA",CINEMA WORLD
 http://210.210.155.35/dr9445/h/h04/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/VTtxzXm/ciwo.jpg" group-title="PREMIUM INDONESIA",CINEMA INdonesia
@@ -204,7 +200,7 @@ http://210.210.155.35:80/uq2663/h/h18/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",MyCinema Asia
 http://210.210.155.35/x6bnqe/h/h193/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",KBS WORLD2
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",MyCinemA Family
 http://210.210.155.35/x6bnqe/h/h194/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="PREMIUM INDONESIA",K+
@@ -307,7 +303,7 @@ https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b1200000.m3u
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY CH
 
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY
-https://mbed.cc/lmTZX
+http://homeplex.live:8080/FQWA9E9wHF/nWYRuhPJwe/28791
 #EXTINF:-1 group-title="KNOWLEDGE",Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8?checkedby:iptvcat.com
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",History
@@ -317,8 +313,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-43
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",FoodChannel
 https://amagi-primary.akamaized.net/out/v1/3f7bf105c018444dbc8f74a3a283afaf/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
-https://mbed.cc/XU5vq
-##https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b1200000.m3u8
+https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",GameNfish
 https://obsession-media.sinclair.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",OUTDOOR CHANNEL
@@ -358,7 +353,7 @@ https://tvlivehometv.xyz/RHS/hbo1.m3u8?channel=max
 ##https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",2HBO Sign
-http://195.154.184.150:25461/FQWA9E9wHF/nWYRuhPJwe/34800?token=TURYAhZYEAwSXQVTCABQWgRXAFBUWwUCUwEFBV8KAFBSXgZUVwhUUwBGTxBLF0AGVA9uD1IbCQUFC1QFShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUAZTAV5SAVYcQRVZVhQKRlQACFQQTxcHSRJTS11XXWwAUBBQBQAUXF4WCVweFF8KPFZdDlMNUUALRAYbHxRYQBQXXFcTCVpKEgEMREBXRAFBCBpSAlUBQB1EVVZGWEVBHRdcGy8hFEoSBh1EV1hDDQxcGlkQF0ZAHURfSmxEVEAQRwNYCwBERApBVRIeFF0FG21bDFwNUAFFD1lXQBQLEVUXShsLClgPRAwXb0JfVEZZEA9SClQXHw==
+http://homeplex.live:8080/FQWA9E9wHF/nWYRuhPJwe/34800
 ##https://mbed.cc/Vobxu
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",2HBOFAM
 http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/45765?token=TURYAhZYEAwSAVUGAFRRAFMEUgMADlYAVQpXAgIKV10ABAlbUAQEVAFGTxBLF0AGVA9uD1IbCQIEBFIAShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUAZTAV5RAFQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXFEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
@@ -476,11 +471,11 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/eroz_brebes.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport1
 http://45.132.192.180:25461/FQWA9E9wHF/nWYRuhPJwe/19170?token=TURYAhZYEAwSAQYLDgUFWwZaVANTDFBXCAZUA1JaVwZQVwlQUwNWUgJGTxBLF0AGVA9uD1IbCQcIAlMFShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUAZTAFdWDlMcQRVZVhQKRlILClQBQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQJERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBAVMDVBNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpSClIAVRMb
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport2
-http://45.132.192.180:25461/FQWA9E9wHF/nWYRuhPJwe/19171?token=TURYAhZYEAwSUAEAWVEDAQcACVcPDQJQBwUHBlZaVFJVXgABBFIHDgdGTxBLF0AGVA9uD1IbCQcIAlMEShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUAZQCFFRBF8cQRVZVhQKRlQAClIQTxcHSRJTS11XXWwAUBBQBQAUXF4WCVweFF8KPFZdDlMNUUALRAYbHxRYQBQXXFcTCVpKEgEMREBXRAFBCBpXAFcDQB1EVVZGWEVBHRdcGy8hFEoSBh1EV1hDDQxcGlkQF0ZAHURfSmxEVEAQRwNYCwBERApBVRIeFF0FG21bDFwNUAFFD1lXQBQLEVUXShsLClgPRAwXb0JfVEZZEA5RBlAXHw==
+https://mbed.cc/QfGyK
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport3
-http://45.86.190.19:25461/FQWA9E9wHF/nWYRuhPJwe/40600?token=TURYAhZYEAwSUlcFWQUBWgBQVVdVDVUHCQUHDAJaBVRUBwMBVAIEAwRGTxBLF0AGVA9uD1IbCQIBBVQFShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUAZQCFFRAFYcQRVZVhQKRlYGC0EeQVAaRQNEV1JablcBQw9aA0cMCEUPCRwQWV47B1dVAlwHF1gTVhQVEV9CQ0YPCEwKCRpEUgoRQlNCVUZZEAxSBFIXThMFWUxdQkNKRg9EcCJHGkRVGxFVXEVZCw0QAkFGEBdOEw9FZkFTQkcWUAdUAxcUXBJTRxwQW1EcPFFXDVwGVhZYCVhKEQwTAkYZRFQJC18SXxE6QFtSEl5BBAxQAlYXHw==
+https://mbed.cc/48oYu
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport4
-http://45.86.190.19:25461/FQWA9E9wHF/nWYRuhPJwe/40601?token=TURYAhZYEAwSUVoDC1IGUQIEBQQBWAcGAVVcDQcNXwAFAgBbAAhXAwFGTxBLF0AGVA9uD1IbCQIBBVQEShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUAZQCFFRDlEcQRVZVhQKRlUCDUEeQVAaRQNEV1JablcBQw9aA0cMCEUPCRwQWV47B1dVAlwHF1gTVhQVEV9CQ0YPCEwKCRpEUgoRQlNCVUZZEAxRB1sXThMFWUxdQkNKRg9EcCJHGkRVGxFVXEVZCw0QAkFGEBdOEw9FZkFTQkcWUAdUAxcUXBJTRxwQW1EcPFFXDVwGVhZYCVhKEQwTAkYZRFQJC18SXxE6QFtSEl5BAQpTAlcXHw==
+https://mbed.cc/jYMGW
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV2
 https://www.livedoomovie.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV
@@ -507,7 +502,7 @@ http://210.210.155.35/x6bnqe/h/h05/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FoXSport AUSTralia
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360_v3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Bein2
-https://mbed.cc/NkAT4
+https://www.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Bein1
 http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28731?token=TURYAhZYEAwSVQUFAAIEVlMGA1JVW1EDUgEFU14PUQMEBAFXVwIFAgdGTxBLF0AGVA9uD1IbCQQJBFcEShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARQCVRTBlQcQRVZVhQKRlIFDloDQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBA1YNUBNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpSBVIBVBMb
 ##https://bit.ly/3ERrUpU
@@ -524,9 +519,10 @@ http://145.239.142.113/BEIN-4-SD/playlist.m3u8
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB5
 http://145.239.142.113/BEIN-5-SD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport1
-http://93.152.174.144:4000/play/btsport1/index.m3u8
+##http://93.152.174.144:4000/play/btsport1/index.m3u8
+https://www.livedoomovie.com:4431/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2
-http://cdn2.cyclingnews.live/hls/P1.m3u8
+https://www.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2a
 http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport3
@@ -536,21 +532,21 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 #EXTINF:-1 group-title="SPORTS",1Euro Sport ES
 http://185.41.244.69/eurosport1/tracks-v2a1a2/mono.m3u8
 #EXTINF:-1 group-title="SPORTS",1EURO SPort
-http://62.210.38.193:25461/FQWA9E9wHF/nWYRuhPJwe/8047?token=TURYAhZYEAwSVwAAAQFXV1dTCVUPAAYEVwQABlAOBFcDVQAFUFIFDwJGTxBLF0AGVA9uD1IbCQ4BB1MZREwVAEQ5WQdHChAHA1VUBw1aEE8XFlgLUxsJBwcHVwBeAFVUD0oSEwxUEAwSVVEDDlsQTxcHSRJTS11XXWwAUBBQBQAUXF4WCVweFF8KPFZdDlMNUUALRAYbHxRYQBQXXFcTCVpKEgEMREBXRAFBCBpSClEFQB1EVVZGWEVBHRdcGy8hFEoSBh1EV1hDDQxcGlkQF0ZAHURfSmxEVEAQRwNYCwBERApBVRIeFF0FG21bDFwNUAFFD1lXQBQLEVUXShsLClgPRAwXb0JfVEZZEAlRA1cGQEw=
+http://homeplex.live:8080/FQWA9E9wHF/nWYRuhPJwe/8047
 ##https://mbed.cc/8hbvs
 #EXTINF:-1 group-title="SPORTS",2EURO SPort
-http://62.210.38.193:25461/FQWA9E9wHF/nWYRuhPJwe/8048?token=TURYAhZYEAwSUlEFCVVWBwxaBl5SXFIOAwJSAlcOAgAEXgNSAQlRAQlGTxBLF0AGVA9uD1IbCQ4BB1wZREwVAEQ5WQdHChAHA1VUBw1aEE8XFlgLUxsJBwcHVwBeAFVTBEoSEwxUEAwSVVADAFYQTxcHSRJTS11XXWwAUBBQBQAUXF4WCVweFF8KPFZdDlMNUUALRAYbHxRYQBQXXFcTCVpKEgEMREBXRAFBCBpQAVcBQB1EVVZGWEVBHRdcGy8hFEoSBh1EV1hDDQxcGlkQF0ZAHURfSmxEVEAQRwNYCwBERApBVRIeFF0FG21bDFwNUAFFD1lXQBQLEVUXShsLClgPRAwXb0JfVEZZEAlQA1AMQEw=
+http://homeplex.live:8080/FQWA9E9wHF/nWYRuhPJwe/8048
 ##https://mbed.cc/usxej
 #EXTINF:-1 group-title="SPORTS",Sporttv1
-http://45.148.26.79:25461/FQWA9E9wHF/nWYRuhPJwe/6494?token=TURYAhZYEAwSBgACCAYEBlEGAVZVCANSAlJWBARbBwdQUAgHVlNRAQZGTxBLF0AGVA9uD1IbCQAFClAZREwVAEQ5WQdHChAHA1VUBw1aEE8XFlgLUxsJBwcHVwBfCFRcAkoSEwxUEAwSU1cCAUEeQVAaRQNEV1JablcBQw9aA0cMCEUPCRwQWV47B1dVAlwHF1gTVhQVEV9CQ0YPCEwKCRpEUgoRQlNCVUZZEApTA1YXThMFWUxdQkNKRg9EcCJHGkRVGxFVXEVZCw0QAkFGEBdOEw9FZkFTQkcWUAdUAxcUXBJTRxwQW1EcPFFXDVwGVhZYCVhKEQwTAkYZRFQJC18SXxE6QFtSEl5BBQtaBEFI
+https://www.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
 ##https://mbed.cc/HhPZJ
 #EXTINF:-1 group-title="SPORTS",Sporttv2
-http://45.148.26.79:25461/FQWA9E9wHF/nWYRuhPJwe/6495?token=TURYAhZYEAwSUwFQCAcHWwYBVF5TDwRSBwpXVgQBVlEHUglbV1EKUAlGTxBLF0AGVA9uD1IbCQAFClEZREwVAEQ5WQdHChAHA1VUBw1aEE8XFlgLUxsJBwcHVwBfCFVXBkoSEwxUEAwSVlMACFIQTxcHSRJTS11XXWwAUBBQBQAUXF4WCVweFF8KPFZdDlMNUUALRAYbHxRYQBQXXFcTCVpKEgEMREBXRAFBCBpSC1cAQB1EVVZGWEVBHRdcGy8hFEoSBh1EV1hDDQxcGlkQF0ZAHURfSmxEVEAQRwNYCwBERApBVRIeFF0FG21bDFwNUAFFD1lXQBQLEVUXShsLClgPRAwXb0JfVEZZEApTA1oFQEw=
+https://www.livedoomovie.com:4431/02_SPORTTV_2_720p/chunklist.m3u8
 ##https://mbed.cc/Ho0sL
 #EXTINF:-1 group-title="SPORTS",Sporttv3
-http://45.148.26.79:25461/FQWA9E9wHF/nWYRuhPJwe/6496?token=TURYAhZYEAwSVwIACQBTBQIGVFJVClBXAQsCUQNbVFNQBFFRVVUKUwVGTxBLF0AGVA9uD1IbCQAFClIZREwVAEQ5WQdHChAHA1VUBw1aEE8XFlgLUxsJBwcHVwBfCFVRAkoSEwxUEAwSUFQKAVUQTxcHSRJTS11XXWwAUBBQBQAUXF4WCVweFF8KPFZdDlMNUUALRAYbHxRYQBQXXFcTCVpKEgEMREBXRAFBCBpSC1sFQB1EVVZGWEVBHRdcGy8hFEoSBh1EV1hDDQxcGlkQF0ZAHURfSmxEVEAQRwNYCwBERApBVRIeFF0FG21bDFwNUAFFD1lXQBQLEVUXShsLClgPRAwXb0JfVEZZEAxQAFUEQEw=
+https://www.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS",Sporttv4
-http://45.148.26.79:25461/FQWA9E9wHF/nWYRuhPJwe/6497?token=TURYAhZYEAwSVlcHAFVXVwAGBAMGXVJVBAoFAQNdVFIGUwIGUglXDwJGTxBLF0AGVA9uD1IbCQAFClMZREwVAEQ5WQdHChAHA1VUBw1aEE8XFlgLUxsJBwcHVwBfCFVTAkoSEwxUEAwSVVIKDEEeQVAaRQNEV1JablcBQw9aA0cMCEUPCRwQWV47B1dVAlwHF1gTVhQVEV9CQ0YPCEwKCRpEUgoRQlNCVUZZEAlTB1cXThMFWUxdQkNKRg9EcCJHGkRVGxFVXEVZCw0QAkFGEBdOEw9FZkFTQkcWUAdUAxcUXBJTRxwQW1EcPFFXDVwGVhZYCVhKEQwTAkYZRFQJC18SXxE6QFtSEl5BAwlaBlQXHw==
+https://www.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="Mola", MOLA 1

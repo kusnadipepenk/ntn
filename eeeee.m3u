@@ -480,12 +480,12 @@ https://mbed.cc/QfGyK
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport3
 https://mbed.cc/WBn84
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport4
-https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-##https://mbed.cc/jYMGW
+https://mbed.cc/jYMGW
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV2
 https://www.livedoomovie.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV
-https://mbed.cc/CGGxG
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+##https://mbed.cc/CGGxG
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Motorvision
 http://210.210.155.35/uq2663/h/h09/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Golf

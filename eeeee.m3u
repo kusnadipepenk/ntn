@@ -151,23 +151,24 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb
 #EXTINF:-1 group-title="KIDS",Kids Pluto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="KIDS",NickJR
-##https://mbed.cc/2QMSl
-http://62.210.127.217:8080/FQWA9E9wHF/nWYRuhPJwe/28656?token=TURYAhZYEAwSU1QBDlAKAgEGA1dSXQdSB1YHBQQNXlcOVwUGVFILBgVGTxBLF0AGVA9uD1IbCQQJBVEDShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARTCFRVD1IcQRVZVhQKRlIADlEDQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBA1UFWxNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpQA1QAWhMb
+http://homeplex.live:8080/FQWA9E9wHF/nWYRuhPJwe/22512
+##http://62.210.127.217:8080/FQWA9E9wHF/nWYRuhPJwe/28656?token=TURYAhZYEAwSU1QBDlAKAgEGA1dSXQdSB1YHBQQNXlcOVwUGVFILBgVGTxBLF0AGVA9uD1IbCQQJBVEDShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARTCFRVD1IcQRVZVhQKRlIADlEDQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBA1UFWxNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpQA1QAWhMb
 #EXTINF:-1 group-title="KIDS",Nickelodeon
-https://cubmu.nomaden.tv:8279/NICKELODEON/playlist.m3u8
-##https://mbed.cc/vD08t
+https://mbed.cc/vD08t
 #EXTINF:-1 group-title="KIDS",Miaomix
 ##https://mbed.cc/jrmiP
 http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28755?token=TURYAhZYEAwSBlVUDlsDVABQBFYOWwsGAFdUA1UPUF0GUglQUgcEUgRGTxBLF0AGVA9uD1IbCQQJC1UDShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSC19SBlccQRVZVhQKRlEHCVYDQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBAFQFVRNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpRA1cNUBMb
 #EXTINF:-1 group-title="KIDS",HappyKids
-https://happykids-roku.amagi.tv/playlist.m3u8
+https://happykids-roku.amagi.tv/playlist404pl.m3u8
+#EXTINF:-1 group-title="KIDS",HappyKids Junior
+https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
 #EXTINF:-1  group-title="KIDS",Carton networks
-https://cubmu.nomaden.tv:8279/CARTOON/playlist.m3u8
+http://homeplex.live:8080/FQWA9E9wHF/nWYRuhPJwe/22531
 ##https://mbed.cc/Bpp6K
-#EXTINF:-1  group-title="KIDS",Zoomoo
-https://mbed.cc/Pi9K8
-#EXTINF:-1  group-title="KIDS",Dunia Anak
-
+#EXTINF:-1  group-title="KIDS",Super simple Song
+https://janson-supersimplesongs-1.vizio.wurl.com/manifest/1200.m3u8
+#EXTINF:-1  group-title="KIDS",ZOOMOO
+https://zoomoo-samsungau.amagi.tv/playlist480p.m3u8
 #EXTINF:-1  group-title="KIDS",Davinci
 
 
@@ -529,8 +530,8 @@ http://93.152.174.144:4000/play/btsport2/index.m3u8
 http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTINF:-1 group-title="SPORTS",TENNIS
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
-#EXTINF:-1 group-title="SPORTS",1Euro Sport ES
-http://185.41.244.69/eurosport1/tracks-v2a1a2/mono.m3u8
+#EXTINF:-1 group-title="SPORTS",Bein1s
+http://homeplex.live:8080/FQWA9E9wHF/nWYRuhPJwe/22535
 #EXTINF:-1 group-title="SPORTS",1EURO SPort
 http://homeplex.live:8080/FQWA9E9wHF/nWYRuhPJwe/8047
 ##https://mbed.cc/8hbvs

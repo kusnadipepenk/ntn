@@ -531,8 +531,8 @@ http://cdn2.cyclingnews.live/hls/P1.m3u8
 http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport3
 http://93.152.174.144:4000/play/btsport3/index.m3u8
-#EXTINF:-1 group-title="SPORTS",CTV1
-
+#EXTINF:-1 group-title="SPORTS",TENNIS
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 #EXTINF:-1 group-title="SPORTS",1Euro Sport ES
 http://185.41.244.69/eurosport1/tracks-v2a1a2/mono.m3u8
 #EXTINF:-1 group-title="SPORTS",1EURO SPort

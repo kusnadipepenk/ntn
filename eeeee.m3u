@@ -163,8 +163,7 @@ https://happykids-roku.amagi.tv/playlist404pl.m3u8
 #EXTINF:-1 group-title="KIDS",HappyKids Junior
 https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
 #EXTINF:-1  group-title="KIDS",Carton networks
-http://homeplex.live:8080/FQWA9E9wHF/nWYRuhPJwe/22531
-##https://mbed.cc/Bpp6K
+https://mbed.cc/Bpp6K
 #EXTINF:-1  group-title="KIDS",Super simple Song
 https://janson-supersimplesongs-1.vizio.wurl.com/manifest/1200.m3u8
 #EXTINF:-1  group-title="KIDS",ZOOMOO
@@ -470,7 +469,7 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/eroz_brebes.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport1
-http://45.132.192.180:25461/FQWA9E9wHF/nWYRuhPJwe/19170?token=TURYAhZYEAwSAQYLDgUFWwZaVANTDFBXCAZUA1JaVwZQVwlQUwNWUgJGTxBLF0AGVA9uD1IbCQcIAlMFShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUAZTAFdWDlMcQRVZVhQKRlILClQBQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQJERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBAVMDVBNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpSClIAVRMb
+http://homeplex.live:8080/FQWA9E9wHF/nWYRuhPJwe/19170
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport2
 https://mbed.cc/QfGyK
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport3

@@ -382,8 +382,8 @@ http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34478?token=TURYAhZYEAwSVFZWXVMF
 #EXTINF:-1 group-title="MOVIES",&Flix
 http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34503?token=TURYAhZYEAwSXQIBCVcCBwAHAVMADFEPBQpTBlAJBFQCUwJTBgAFVFVGTxBLF0AGVA9uD1IbCQUFBlQGShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSD1RQD1ccQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXFEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 ##http://103.131.212.138:8000/play/a01e/index.m3u8
-#EXTINF:-1 group-title="MOVIES",Boo
-
+#EXTINF:-1 group-title="MOVIES",Asylium
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/640x360_700000/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/jGzMaRD.png" group-title="MOVIES",FilmRise Movies
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/FcN1OKo.png" group-title="MOVIES",FilmRise Sci-Fi
@@ -391,7 +391,7 @@ http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", Sci-Fi Movies
 https://v2.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1 group-title="MOVIES",SONY PIX
-http://103.131.212.138:8000/play/a017/index.m3u8
+
 #EXTINF:-1 group-title="MOVIES",Hallmark mysteri
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmmsl/hallmarkmmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 group-title="MOVIES",FAmily Flik
@@ -423,7 +423,7 @@ https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
 #EXTINF:-1 group-title="MOVIES",MY TIME
 https://mytime-tcl.amagi.tv/playlist404-p.m3u8
 #EXTINF:-1 group-title="MOVIES",Movie Sphere
-https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+https://moviesphere-samsung-samsungus.amagi.tv/playlist480p.m3u8
 
 
 
@@ -496,8 +496,8 @@ https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
 https//siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",Skysport F1
 https://mbed.cc/jrukV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FightSport
-http://210.210.155.35/x6bnqe/h/h05/02.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",EdgeSport
+https://edgesport-samsungus.amagi.tv/playlist480p.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FoXSport AUSTralia
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360_v3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Bein2

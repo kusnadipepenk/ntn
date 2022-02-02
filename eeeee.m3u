@@ -203,7 +203,7 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",MyCinemA Family
 http://210.210.155.35/x6bnqe/h/h194/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="PREMIUM INDONESIA",K+
-http://45.126.83.51/session/b250033c-a9b8-11eb-b3bc-a2798f0477fc/uq2663/h/h08/01.m3u8
+http://45.126.83.51/uq2663/h/h08/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="PREMIUM INDONESIA",K+ (telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/jWjxD83/sonson.jpg" group-title="PREMIUM INDONESIA",SonyOne

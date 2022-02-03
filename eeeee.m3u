@@ -49,9 +49,9 @@ http://202.80.222.130/000001/2/ch14041511560872104862/1002.m3u8?virtualDomain=00
 http://202.150.172.34:4000/play/tvrisporthdt2
 ##http://210.210.155.35/session/4ef13212-a900-11e9-8ab6-b7d19fbdbf13/qwr9ew/s/s107/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/T2vhn7P/metro.jpg" group-title="STASIUN NASIONAL",METROTV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w332992916_b628000_sleng.m3u8
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w504410639_b1492000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1Yx6l54PwaAnm2d25XMAGJENd81AISjnu" group-title="STASIUN NASIONAL",KOMPASTV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/04.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 ==http://210.210.155.35/session/b44f53c0-1a28-11ea-980f-a261a2f9ca81/qwr9ew/s/s104/01.m3u8
 
 
@@ -121,8 +121,8 @@ http://210.210.155.35/qwr9ew/s/s17/01.m3u8
 http://210.210.155.35/qwr9ew/s/s23/01.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",ABC news
 http://31.220.41.88:8081/live/us-abcnews.stream/chunks.m3u8?token=null
-#EXTINF:-1  group-title="STASIUN BERITA",SeA Today
-https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/04.m3u8
+#EXTINF:-1  group-title="STASIUN BERITA",SeA Todays
+https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
 
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://i.ibb.co/wyrQfKC/animax.jpg" group-title="KIDS",ANIMAX

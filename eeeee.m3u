@@ -48,14 +48,13 @@ http://202.80.222.130/000001/2/ch14041511560872104862/1002.m3u8?virtualDomain=00
 #EXTINF:-1  tvg-logo="" group-title="STASIUN NASIONAL",TVRI SPORT
 http://202.150.172.34:4000/play/tvrisporthdt2
 ##http://210.210.155.35/session/4ef13212-a900-11e9-8ab6-b7d19fbdbf13/qwr9ew/s/s107/01.m3u8
-
-
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/T2vhn7P/metro.jpg" group-title="STASIUN BERITA",METROTV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1Yx6l54PwaAnm2d25XMAGJENd81AISjnu" group-title="STASIUN BERITA",KOMPASTV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/T2vhn7P/metro.jpg" group-title="STASIUN NASIONAL",METROTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w332992916_b628000_sleng.m3u8
+#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1Yx6l54PwaAnm2d25XMAGJENd81AISjnu" group-title="STASIUN NASIONAL",KOMPASTV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/04.m3u8
 ==http://210.210.155.35/session/b44f53c0-1a28-11ea-980f-a261a2f9ca81/qwr9ew/s/s104/01.m3u8
+
+
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1933FnfQ31OzlfU644rLpVcg_YMmQCySR" group-title="STASIUN BERITA",INews
 http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/6762?token=TURYAhZYEAwSVlACCwdQBlMHCARTXQsCBFdVBgUAVVJUBAEHVwYFAABGTxBLF0AGVA9uD1IbCQAGBVYZREwVAEQ5WQdHChAHA1VUBw1aEE8XFlgLUxsJBwcHVQNWC1dVAkoSEwxUEAwSVVECDVUQTxcHSRJTS11XXWwAUBBQBQAUXF4WCVweFF8KPFZdDlMNUUALRAcbHxRYQBQXXFcTCVpKEgEMREBXRAFBCBpSA1QDQB1EVVZGWEVBHRdcGy8hFEoSBh1EV1hDDQxcGlkQF0ZAHURfSmxEVEAQRwNYCwBERApBVRIeFF0FG21bDFwNUAFFD1lXQBQLEVUXShsLClgPRAwXb0JfVEZZEAlSAVMAQEw=
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yBWB003/cnnin.png" group-title="STASIUN BERITA",CNN Indonesia
@@ -69,7 +68,7 @@ http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28764?token=TURYAhZYEAwSBQBRDldQ
 #EXTINF:-1  group-title="STASIUN BERITA",The Indonesian Chanel
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/03.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",JAKARTA GLOBE NEWS CHANNEL
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist.m3u8
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b906000.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",TV PARLEMEN
 
 #EXTINF:-1  group-title="STASIUN BERITA",TVRI PAPUA
@@ -77,17 +76,17 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPapua)/Stream(02)/index.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",RRI NET
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/HhJ5Gyn/bbc.png" group-title="STASIUN BERITA",BBC WORLD
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/HhJ5Gyn/bbc.png" group-title="STASIUN BERITA",BBC NEWS
 http://27.254.149.109:8081/tumlive/BBC/playlist.m3u8?190.2.154.164/TV0624
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hK7YYg4/cnn.jpg" group-title="STASIUN BERITA",CNN NEWS
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_640x360_1200k.m3u8
 #EXTINF:-1  tvg-logo="" group-title="STASIUN BERITA",CNBC(2)
 http://ott-cdn.ucom.am/s65/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="STASIUN BERITA",CNBC
 http://ott-cdn.ucom.am/s65/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="STASIUN BERITA",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1725438040_b192000_sleng.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",Wion
 http://rr.dens.tv/h/h91/index2.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",CCTV4
@@ -105,7 +104,7 @@ http://210.210.155.35/uq2663/h/h23/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8MQW4MG/NHK.png" group-title="STASIUN BERITA",NHK(2)
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_200.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/j5qX0NS/download.png" group-title="STASIUN BERITA",ChannelNewsAsia
-http://210.210.155.35/uq2663/h/h29/02.m3u8
+http://210.210.155.35/uq2663/h/h29/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ypNvHyj/euronews.jpg" group-title="STASIUN BERITA",EURONews
 http://210.210.155.35/qwr9ew/s/s15/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2yswB04/voa.jpg" group-title="STASIUN BERITA",Euronews2
@@ -123,7 +122,7 @@ http://210.210.155.35/qwr9ew/s/s23/01.m3u8
 #EXTINF:-1  group-title="STASIUN BERITA",ABC news
 http://31.220.41.88:8081/live/us-abcnews.stream/chunks.m3u8?token=null
 #EXTINF:-1  group-title="STASIUN BERITA",SeA Today
-https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
+https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/04.m3u8
 
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://i.ibb.co/wyrQfKC/animax.jpg" group-title="KIDS",ANIMAX

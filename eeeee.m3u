@@ -139,8 +139,9 @@ http://210.210.155.35/uq2663/h/h97/index.m3u8
 http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28803?token=TURYAhZYEAwSVVUCW1AFUFEHBlMFCQpXA1JRBgdYAlNUBQYAXFYCBwdGTxBLF0AGVA9uD1IbCQQJC1QGShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFVwxeD1FdAFIcQRVZVhQKRloACFQQTxcHSRJTS11XXWwAUBBQBQAUXF4WCVweFF8KPFZdDlMNUUALRAcbHxRYQBQXXFcTCVpKEgEMREBXRAFBCBpRBFQHQB1EVVZGWEVBHRdcGy8hFEoSBh1EV1hDDQxcGlkQF0ZAHURfSmxEVEAQRwNYCwBERApBVRIeFF0FG21bDFwNUAFFD1lXQBQLEVUXShsLClgPRAwXb0JfVEZZEAFSBVoXHw==
 ##https://cubmu.nomaden.tv:8279/BOOMERANG/playlist.m3u8
 ##https://mbed.cc/qfvjQ
-#EXTINF:-1  tvg-logo="" group-title="KIDS",Disney
-
+#EXTINF:-1  tvg-logo="" group-title="KIDS",KidsFlix
+https://stream.ads.ottera.tv/cl/8eae1917-b4ba-4431-8ea4-2acc6088f79b/854x480_550000_1_false.m3u8
+#https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1  group-title="KIDS",Kids Toons
 http://210.210.155.35/session/a1b2362c-9d39-11e9-9cda-b82a72d63267/qwr9ew/s/s50/01.m3u8
 #EXTINF:-1 group-title="KIDS",cbabiess
@@ -545,7 +546,8 @@ https://www.livedoomovie.com:4431/02_SPORTTV_2_720p/chunklist.m3u8
 https://www.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS",Sporttv4
 https://www.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
-
+#EXTINF:-1 group-title="SPORTS",Fightsport
+http://playlist.urfan.web.id/x6bnqe/h/h05/01.m3u8
 
 #EXTINF:-1 group-title="Mola", MOLA 1
 

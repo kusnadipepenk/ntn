@@ -1,119 +1,119 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://i.ibb.co/L0x4cC6/net.jpg" group-title="STASIUN NASIONAL",NET.TV
+#EXTINF:-1  tvg-logo="https://i.ibb.co/L0x4cC6/net.jpg" group-title="LOKAL NASIONAL",NET.TV
 http://rr2.dens.tv/s/s08/index10.m3u8
 ##http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/6754?token=TURYAhZYEAwSXFJQDlZWAVdQCF9UXwBXBAAGAlMIUV0HAFMFBFQAD1VGTxBLF0AGVA9uD1IbCQAGBlAZREwVAEQ5WQdHChAHA1VUBw1aEE8XFlgLUxsJBwcHVQRQDl5WAEoSEwxUEAwSVVAAClsQTxcHSRJTS11XXWwAUBBQBQAUXF4WCVweFF8KPFZdDlMNUUALRAcbHxRYQBQXXFcTCVpKEgEMREBXRAFBCBpRBFsGQB1EVVZGWEVBHRdcGy8hFEoSBh1EV1hDDQxcGlkQF0ZAHURfSmxEVEAQRwNYCwBERApBVRIeFF0FG21bDFwNUAFFD1lXQBQLEVUXShsLClgPRAwXb0JfVEZZEAlQAFIEQEw=
 ##https://mbed.cc/ixcVu
 #http://210.210.155.35/session/6141d55e-70a0-11e9-8180-b82a72d63267/qwr9ew/s/s08/01.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="STASIUN NASIONAL",TRANSTV
+#EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="LOKAL NASIONAL",TRANSTV
 http://rr2.dens.tv/s/s05/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="STASIUN NASIONAL",TRANSTV(2)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="LOKAL NASIONAL",TRANSTV(2)
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D5gBX8N/trans7.jpg" group-title="STASIUN NASIONAL",TRANS7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D5gBX8N/trans7.jpg" group-title="LOKAL NASIONAL",TRANS7
 http://rr.dens.tv/h/h11/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D5gBX8N/trans7.jpg" group-title="STASIUN NASIONAL",TRANS7(2)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D5gBX8N/trans7.jpg" group-title="LOKAL NASIONAL",TRANS7(2)
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="STASIUN NASIONAL",RCTI
+#EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="LOKAL NASIONAL",RCTI
 https://livetv01.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="STASIUN NASIONAL",SCTV
+#EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="LOKAL NASIONAL",SCTV
 http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
-#EXTINF:-1  tvg-logo="" group-title="STASIUN NASIONAL",MNCtv
+#EXTINF:-1  tvg-logo="" group-title="LOKAL NASIONAL",MNCtv
 https://livetv01.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
-#EXTINF:-1  tvg-logo="" group-title="STASIUN NASIONAL",MNCtv2
+#EXTINF:-1  tvg-logo="" group-title="LOKAL NASIONAL",MNCtv2
 http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/6760?token=TURYAhZYEAwSU1IHDlsKAQZUBl9QCwsAAAdSBlcJVQEFUAJVAFUGAQJGTxBLF0AGVA9uD1IbCQAGBVQZREwVAEQ5WQdHChAHA1VUBw1aEE8XFlgLUxsJBwcHVQNWCFRTB0oSEwxUEAwSVVoCClYQTxcHSRJTS11XXWwAUBBQBQAUXF4WCVweFF8KPFZdDlMNUUALRAcbHxRYQBQXXFcTCVpKEgEMREBXRAFBCBpRBFoFQB1EVVZGWEVBHRdcGy8hFEoSBh1EV1hDDQxcGlkQF0ZAHURfSmxEVEAQRwNYCwBERApBVRIeFF0FG21bDFwNUAFFD1lXQBQLEVUXShsLClgPRAwXb0JfVEZZEAlaAlIFQEw=
-#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="STASIUN NASIONAL",INDOSIAR
+#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="LOKAL NASIONAL",INDOSIAR
 http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/01.m3u8
-#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="STASIUN NASIONAL",INDOSIAR Liga1
+#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="LOKAL NASIONAL",INDOSIAR Liga1
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/QNQrm50/antv.png" group-title="STASIUN NASIONAL",ANTV(2)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/QNQrm50/antv.png" group-title="LOKAL NASIONAL",ANTV(2)
 http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/6763?token=TURYAhZYEAwSU1IHDlsKAQZUBl9QCwsAAAdSBlcJVQEFUAJVAFUGAQJGTxBLF0AGVA9uD1IbCQAGBVQZREwVAEQ5WQdHChAHA1VUBw1aEE8XFlgLUxsJBwcHVQNWCFRTB0oSEwxUEAwSVVoCClYQTxcHSRJTS11XXWwAUBBQBQAUXF4WCVweFF8KPFZdDlMNUUALRAcbHxRYQBQXXFcTCVpKEgEMREBXRAFBCBpRBFoFQB1EVVZGWEVBHRdcGy8hFEoSBh1EV1hDDQxcGlkQF0ZAHURfSmxEVEAQRwNYCwBERApBVRIeFF0FG21bDFwNUAFFD1lXQBQLEVUXShsLClgPRAwXb0JfVEZZEAlaAlIFQEw=
-#EXTINF:-1  tvg-logo="https://i.ibb.co/QNQrm50/antv.png" group-title="STASIUN NASIONAL",ANTV
+#EXTINF:-1  tvg-logo="https://i.ibb.co/QNQrm50/antv.png" group-title="LOKAL NASIONAL",ANTV
 http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/01.m3u8
-#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1uNGLnZUnUVO0BuZKQYN-KzIRVb9yXz1x" group-title="STASIUN NASIONAL",GLOBALTV
+#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1uNGLnZUnUVO0BuZKQYN-KzIRVb9yXz1x" group-title="LOKAL NASIONAL",GLOBALTV
 https://livetv01.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
-#EXTINF:-1  group-title="STASIUN NASIONAL",TV ONE (2)
+#EXTINF:-1  group-title="LOKAL NASIONAL",TV ONE (2)
 http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105/01.m3u8
-#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1ZUCUkvAvWR5qJzRj8HG9wJ40MQ71vi5x" group-title="STASIUN NASIONAL",RTV
+#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1ZUCUkvAvWR5qJzRj8HG9wJ40MQ71vi5x" group-title="LOKAL NASIONAL",RTV
 http://210.210.155.35/dr9445/h/h10/01.m3u8
-#EXTINF:-1  tvg-logo="" group-title="STASIUN NASIONAL",Jtv
+#EXTINF:-1  tvg-logo="" group-title="LOKAL NASIONAL",Jtv
 
-#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1YTKkeDncS3PikKrWA8vuK6tdzee9Q7u3" group-title="STASIUN NASIONAL",JTV(2)
+#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1YTKkeDncS3PikKrWA8vuK6tdzee9Q7u3" group-title="LOKAL NASIONAL",JTV(2)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
 ##https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
-#EXTINF:-1  tvg-logo="https://i.ibb.co/GCkTFqZ/elshin.jpg" group-title="STASIUN NASIONAL",ELSHINTA TV
+#EXTINF:-1  tvg-logo="https://i.ibb.co/GCkTFqZ/elshin.jpg" group-title="LOKAL NASIONAL",ELSHINTA TV
 http://210.210.155.35:80/session/9064e496-2ed8-11eb-9242-b82a72d63267/qwr9ew/s/s10/01.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/7VVYNfZ/tvri.jpg" group-title="STASIUN NASIONAL",TVRI
+#EXTINF:-1  tvg-logo="https://i.ibb.co/7VVYNfZ/tvri.jpg" group-title="LOKAL NASIONAL",TVRI
 http://210.210.155.35/qwr9ew/s/s11/01.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/7VVYNfZ/tvri.jpg" group-title="STASIUN NASIONAL",TVRI2
+#EXTINF:-1  tvg-logo="https://i.ibb.co/7VVYNfZ/tvri.jpg" group-title="LOKAL NASIONAL",TVRI2
 http://202.80.222.130/000001/2/ch14041511560872104862/1002.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1  tvg-logo="" group-title="STASIUN NASIONAL",TVRI SPORT
+#EXTINF:-1  tvg-logo="" group-title="LOKAL NASIONAL",TVRI SPORT
 http://202.150.172.34:4000/play/tvrisporthdt2
 ##http://210.210.155.35/session/4ef13212-a900-11e9-8ab6-b7d19fbdbf13/qwr9ew/s/s107/01.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/T2vhn7P/metro.jpg" group-title="STASIUN NASIONAL",METROTV
+#EXTINF:-1  tvg-logo="https://i.ibb.co/T2vhn7P/metro.jpg" group-title="LOKAL NASIONAL",METROTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w504410639_b1492000_sleng.m3u8
-#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1Yx6l54PwaAnm2d25XMAGJENd81AISjnu" group-title="STASIUN NASIONAL",KOMPASTV
+#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1Yx6l54PwaAnm2d25XMAGJENd81AISjnu" group-title="LOKAL NASIONAL",KOMPASTV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
-==http://210.210.155.35/session/b44f53c0-1a28-11ea-980f-a261a2f9ca81/qwr9ew/s/s104/01.m3u8
+##http://210.210.155.35/session/b44f53c0-1a28-11ea-980f-a261a2f9ca81/qwr9ew/s/s104/01.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1933FnfQ31OzlfU644rLpVcg_YMmQCySR" group-title="STASIUN BERITA",INews
+#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1933FnfQ31OzlfU644rLpVcg_YMmQCySR" group-title="BERITA",INews
 https://livetv01.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_600000=7-mp4a_96000=2.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/yBWB003/cnnin.png" group-title="STASIUN BERITA",CNN Indonesia
+#EXTINF:-1  tvg-logo="https://i.ibb.co/yBWB003/cnnin.png" group-title="BERITA",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
-#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1ORGoY9MMi6-DWGqhEjc5dHr2DAqTOBax" group-title="STASIUN BERITA",BERITA SATU
+#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1ORGoY9MMi6-DWGqhEjc5dHr2DAqTOBax" group-title="BERITA",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
-#EXTINF:-1  group-title="STASIUN BERITA",BeritaSatuworld
+#EXTINF:-1  group-title="BERITA",BeritaSatuworld
 https://b1world.beritasatumedia.com/Beritasatu/B1World_960x540.m3u8
-#EXTINF:-1  group-title="STASIUN BERITA",IDX Channel
+#EXTINF:-1  group-title="BERITA",IDX Channel
 http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28764?token=TURYAhZYEAwSBQBRDldQB1RRAAMFWApTUFJUVAVcUVIAXgQGVFNXUgZGTxBLF0AGVA9uD1IbCQQJBFIBShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARQCVRWA14cQRVZVhQKRlcFDVMQTxcHSRJTS11XXWwAUBBQBQAUXF4WCVweFF8KPFZdDlMNUUALRAcbHxRYQBQXXFcTCVpKEgEMREBXRAFBCBpSA1QMQB1EVVZGWEVBHRdcGy8hFEoSBh1EV1hDDQxcGlkQF0ZAHURfSmxEVEAQRwNYCwBERApBVRIeFF0FG21bDFwNUAFFD1lXQBQLEVUXShsLClgPRAwXb0JfVEZZEAxUAVEXHw==
-#EXTINF:-1  group-title="STASIUN BERITA",The Indonesian Chanel
+#EXTINF:-1  group-title="BERITA",The Indonesian Chanel
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/03.m3u8
-#EXTINF:-1  group-title="STASIUN BERITA",JAKARTA GLOBE NEWS CHANNEL
+#EXTINF:-1  group-title="BERITA",JAKARTA GLOBE NEWS CHANNEL
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b906000.m3u8
-#EXTINF:-1  group-title="STASIUN BERITA",TV PARLEMEN
+#EXTINF:-1  group-title="BERITA",TV PARLEMEN
 
-#EXTINF:-1  group-title="STASIUN BERITA",TVRI PAPUA
+#EXTINF:-1  group-title="BERITA",TVRI PAPUA
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPapua)/Stream(02)/index.m3u8
-#EXTINF:-1  group-title="STASIUN BERITA",RRI NET
+#EXTINF:-1  group-title="BERITA",RRI NET
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HhJ5Gyn/bbc.png" group-title="STASIUN BERITA",BBC WORLD
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HhJ5Gyn/bbc.png" group-title="BERITA",BBC WORLD
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HhJ5Gyn/bbc.png" group-title="STASIUN BERITA",BBC NEWS
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HhJ5Gyn/bbc.png" group-title="BERITA",BBC NEWS
 http://27.254.149.109:8081/tumlive/BBC/playlist.m3u8?190.2.154.164/TV0624
-#EXTINF:-1  tvg-logo="https://i.ibb.co/hK7YYg4/cnn.jpg" group-title="STASIUN BERITA",CNN NEWS
+#EXTINF:-1  tvg-logo="https://i.ibb.co/hK7YYg4/cnn.jpg" group-title="BERITA",CNN NEWS
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_640x360_1200k.m3u8
-#EXTINF:-1  tvg-logo="" group-title="STASIUN BERITA",CNBC(2)
+#EXTINF:-1  tvg-logo="" group-title="BERITA",CNBC(2)
 http://ott-cdn.ucom.am/s65/03.m3u8
-#EXTINF:-1  tvg-logo="" group-title="STASIUN BERITA",CNBC
+#EXTINF:-1  tvg-logo="" group-title=BERITA",CNBC
 http://ott-cdn.ucom.am/s65/01.m3u8
-#EXTINF:-1  tvg-logo="" group-title="STASIUN BERITA",CNBC Indonesia
+#EXTINF:-1  tvg-logo="" group-title="BERITA",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1725438040_b192000_sleng.m3u8
-#EXTINF:-1  group-title="STASIUN BERITA",Wion
+#EXTINF:-1  group-title="BERITA",Wion
 http://rr.dens.tv/h/h91/index2.m3u8
-#EXTINF:-1  group-title="STASIUN BERITA",CCTV4
+#EXTINF:-1  group-title="BERITA",CCTV4
 http://210.210.155.35/qwr9ew/s/s19/02.m3u8
-#EXTINF:-1  group-title="STASIUN BERITA",TV5 Monde
+#EXTINF:-1  group-title="BERITA",TV5 Monde
 http://210.210.155.35/qwr9ew/s/s24/01.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/mGNPfpD/tbn.png" group-title="STASIUN BERITA",TBN Asia
+#EXTINF:-1  tvg-logo="https://i.ibb.co/mGNPfpD/tbn.png" group-title="BERITA",TBN Asia
 http://210.210.155.35/qwr9ew/s/s39/01.m3u8
-#EXTINF:-1  tvg-logo="" group-title="STASIUN BERITA",Bloomberg
+#EXTINF:-1  tvg-logo="" group-title=BERITA",Bloomberg
 http://210.210.155.35/uq2663/h/h03/01.m3u8
-#EXTINF:-1  tvg-logo="" group-title="STASIUN BERITA",Bloomberg2
+#EXTINF:-1  tvg-logo="" group-title="BERITA",Bloomberg2
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8MQW4MG/NHK.png" group-title="STASIUN BERITA",NHK
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8MQW4MG/NHK.png" group-title="BERITA",NHK
 http://210.210.155.35/uq2663/h/h23/01.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8MQW4MG/NHK.png" group-title="STASIUN BERITA",NHK(2)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8MQW4MG/NHK.png" group-title="BERITA",NHK(2)
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_200.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/j5qX0NS/download.png" group-title="STASIUN BERITA",ChannelNewsAsia
+#EXTINF:-1  tvg-logo="https://i.ibb.co/j5qX0NS/download.png" group-title="BERITA",ChannelNewsAsia
 http://210.210.155.35/uq2663/h/h29/01.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/ypNvHyj/euronews.jpg" group-title="STASIUN BERITA",EURONews
+#EXTINF:-1  tvg-logo="https://i.ibb.co/ypNvHyj/euronews.jpg" group-title="BERITA",EURONews
 http://210.210.155.35/qwr9ew/s/s15/01.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2yswB04/voa.jpg" group-title="STASIUN BERITA",Euronews2
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2yswB04/voa.jpg" group-title="BERITA",Euronews2
 http://dituduhmaling.xyz/US33T4/euronews.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/bF6sgWT/dw.png" group-title="STASIUN BERITA",DW News
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bF6sgWT/dw.png" group-title="BERITA",DW News
 http://210.210.155.35/qwr9ew/s/s26/01.m3u8
-#EXTINF:-1  group-title="STASIUN BERITA",Aljazeera
+#EXTINF:-1  group-title="BERITA",Aljazeera
 http://210.210.155.35/qwr9ew/s/s17/01.m3u8
-#EXTINF:-1  group-title="STASIUN BERITA",ABC Australia
+#EXTINF:-1  group-title="BERITA",ABC Australia
 
 #EXTINF:-1  group-title="STASIUN BERITA",TRT World
 

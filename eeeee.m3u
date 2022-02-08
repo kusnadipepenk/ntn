@@ -56,7 +56,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d
 
 
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1933FnfQ31OzlfU644rLpVcg_YMmQCySR" group-title="STASIUN BERITA",INews
-http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/6762?token=TURYAhZYEAwSVlACCwdQBlMHCARTXQsCBFdVBgUAVVJUBAEHVwYFAABGTxBLF0AGVA9uD1IbCQAGBVYZREwVAEQ5WQdHChAHA1VUBw1aEE8XFlgLUxsJBwcHVQNWC1dVAkoSEwxUEAwSVVECDVUQTxcHSRJTS11XXWwAUBBQBQAUXF4WCVweFF8KPFZdDlMNUUALRAcbHxRYQBQXXFcTCVpKEgEMREBXRAFBCBpSA1QDQB1EVVZGWEVBHRdcGy8hFEoSBh1EV1hDDQxcGlkQF0ZAHURfSmxEVEAQRwNYCwBERApBVRIeFF0FG21bDFwNUAFFD1lXQBQLEVUXShsLClgPRAwXb0JfVEZZEAlSAVMAQEw=
+https://livetv01.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_600000=7-mp4a_96000=2.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yBWB003/cnnin.png" group-title="STASIUN BERITA",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1ORGoY9MMi6-DWGqhEjc5dHr2DAqTOBax" group-title="STASIUN BERITA",BERITA SATU
@@ -136,8 +136,8 @@ http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/d0RzNrk/space.png" group-title="KIDS",Lernings
 http://210.210.155.35/uq2663/h/h97/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Boomerangs
+https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b1800000.m3u8
 http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28803?token=TURYAhZYEAwSVVUCW1AFUFEHBlMFCQpXA1JRBgdYAlNUBQYAXFYCBwdGTxBLF0AGVA9uD1IbCQQJC1QGShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFVwxeD1FdAFIcQRVZVhQKRloACFQQTxcHSRJTS11XXWwAUBBQBQAUXF4WCVweFF8KPFZdDlMNUUALRAcbHxRYQBQXXFcTCVpKEgEMREBXRAFBCBpRBFQHQB1EVVZGWEVBHRdcGy8hFEoSBh1EV1hDDQxcGlkQF0ZAHURfSmxEVEAQRwNYCwBERApBVRIeFF0FG21bDFwNUAFFD1lXQBQLEVUXShsLClgPRAwXb0JfVEZZEAFSBVoXHw==
-##https://cubmu.nomaden.tv:8279/BOOMERANG/playlist.m3u8
 ##https://mbed.cc/qfvjQ
 #EXTINF:-1  tvg-logo="" group-title="KIDS",KidsFlix
 https://stream.ads.ottera.tv/cl/8eae1917-b4ba-4431-8ea4-2acc6088f79b/854x480_550000_1_false.m3u8
@@ -145,7 +145,7 @@ https://stream.ads.ottera.tv/cl/8eae1917-b4ba-4431-8ea4-2acc6088f79b/854x480_550
 #EXTINF:-1  group-title="KIDS",Kids Toons
 http://210.210.155.35/session/a1b2362c-9d39-11e9-9cda-b82a72d63267/qwr9ew/s/s50/01.m3u8
 #EXTINF:-1 group-title="KIDS",cbabiess
-http://58.65.171.202:8000/play/2009/index.m3u8
+https://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 group-title="KIDS",Kids Pluto2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="KIDS",Kids Pluto
@@ -168,7 +168,7 @@ https://janson-supersimplesongs-1.vizio.wurl.com/manifest/1200.m3u8
 #EXTINF:-1  group-title="KIDS",ZOOMOO
 https://zoomoo-samsungau.amagi.tv/playlist480p.m3u8
 #EXTINF:-1  group-title="KIDS",Davinci
-
+https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b1800000.m3u8
 
 
 
@@ -209,7 +209,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42
 #EXTINF:-1  tvg-logo="https://i.ibb.co/jWjxD83/sonson.jpg" group-title="PREMIUM INDONESIA",SonyOne
 http://210.210.155.35/uq2663/h/h143/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/jWjxD83/sonson.jpg" group-title="PREMIUM INDONESIA",SonyOne-2
-https://cubmu.nomaden.tv:8279/ONE/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TDK9V0/mytv.jpg" group-title="PREMIUM INDONESIA",MYTV
 http://210.210.155.35:80/x6bnqe/s/s88/S4/mnf.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=109_MtH3Y5T8d_07P1VVEnD3sAkyX9_go" group-title="PREMIUM INDONESIA",HITS CH
@@ -546,8 +546,8 @@ https://www.livedoomovie.com:4431/02_SPORTTV_2_720p/chunklist.m3u8
 https://www.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS",Sporttv4
 https://www.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS",Fightsport
-http://playlist.urfan.web.id/x6bnqe/h/h05/01.m3u8
+#EXTINF:-1 group-title="SPORTS",F1
+https://vips-livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b1200000.m3u8
 
 #EXTINF:-1 group-title="Mola", MOLA 1
 
@@ -589,11 +589,11 @@ https://tvlivehometv.xyz/RHS/HOME-TVuseefullmpd.m3u8?channel=babyfirst
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Boomerang
 https://tvlivehometv.xyz/RHS/HOME-TVuseefullmpd.m3u8?channel=boomerang
 #EXTINF:-1 tvg-logo="htg" group-title="Test",CN
-https://tvlivehometv.xyz/RHS/HOME-TVuseefullmpd.m3u8?channel=cartoonnetwork
+https://tvlivehometv.xyz/RHS/HOME-TVmpd.m3u8?channel=natgeo
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Nickjr
-https://tvlivehometv.xyz/RHS/HOME-TVuseefullmpd.m3u8?channel=nickjr
-#EXTINF:-1 tvg-logo="htg" group-title="Test",Nickelodeon
-https://tvlivehometv.xyz/RHS/HOME-TVuseefullmpd.m3u8?channel=nickelodeon
+https://tvlivehometv.xyz/RHS/HOME-TVmpd.m3u8?channel=natgeowild
+#EXTINF:-1 tvg-logo="htg" group-title="Test",Nickelodeons
+https://tvlivehometv.xyz/RHS/HOME-TVmpd.m3u8?channel=disco
 #EXTINF:-1 tvg-logo="htg" group-title="Test",HGTV
 https://tvlivehometv.xyz/RHS/HOME-TVuseefullmpd.m3u8?channel=hgtv
 #EXTINF:-1 tvg-logo="htg" group-title="Test",imc

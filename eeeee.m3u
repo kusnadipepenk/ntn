@@ -83,7 +83,7 @@ http://27.254.149.109:8081/tumlive/BBC/playlist.m3u8?190.2.154.164/TV0624
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_640x360_1200k.m3u8
 #EXTINF:-1  tvg-logo="" group-title="BERITA",CNBC(2)
 http://ott-cdn.ucom.am/s65/03.m3u8
-#EXTINF:-1  tvg-logo="" group-title=BERITA",CNBC
+#EXTINF:-1  tvg-logo="" group-title="BERITA",CNBC
 http://ott-cdn.ucom.am/s65/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="BERITA",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1725438040_b192000_sleng.m3u8
@@ -95,7 +95,7 @@ http://210.210.155.35/qwr9ew/s/s19/02.m3u8
 http://210.210.155.35/qwr9ew/s/s24/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/mGNPfpD/tbn.png" group-title="BERITA",TBN Asia
 http://210.210.155.35/qwr9ew/s/s39/01.m3u8
-#EXTINF:-1  tvg-logo="" group-title=BERITA",Bloomberg
+#EXTINF:-1  tvg-logo="" group-title="BERITA",Bloomberg
 http://210.210.155.35/uq2663/h/h03/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="BERITA",Bloomberg2
 
@@ -115,13 +115,13 @@ http://210.210.155.35/qwr9ew/s/s26/01.m3u8
 http://210.210.155.35/qwr9ew/s/s17/01.m3u8
 #EXTINF:-1  group-title="BERITA",ABC Australia
 
-#EXTINF:-1  group-title="STASIUN BERITA",TRT World
+#EXTINF:-1  group-title="BERITA",TRT World
 
-#EXTINF:-1  group-title="STASIUN BERITA",RT News
+#EXTINF:-1  group-title="BERITA",RT News
 http://210.210.155.35/qwr9ew/s/s23/01.m3u8
-#EXTINF:-1  group-title="STASIUN BERITA",ABC news
+#EXTINF:-1  group-title="BERITA",ABC news
 http://31.220.41.88:8081/live/us-abcnews.stream/chunks.m3u8?token=null
-#EXTINF:-1  group-title="STASIUN BERITA",SeA Todays
+#EXTINF:-1  group-title="BERITA",SeA Todays
 https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
 
 #EXTM3U

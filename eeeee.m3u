@@ -514,29 +514,27 @@ https://www.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
 http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28731?token=TURYAhZYEAwSVQUFAAIEVlMGA1JVW1EDUgEFU14PUQMEBAFXVwIFAgdGTxBLF0AGVA9uD1IbCQQJBFcEShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARQCVRTBlQcQRVZVhQKRlIFDloDQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBA1YNUBNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpSBVIBVBMb
 ##https://bit.ly/3ERrUpU
 #EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="" tvg-name"" group-title="SPORTS",BB1
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170900
+
 ##https://mbed.cc/J6L5S
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB2
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170901
+
 ##https://mbed.cc/4unX5
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB3
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170902
+
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB4
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170893
+
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB5
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170894
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport1
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/2176487
 ##http://93.152.174.144:4000/play/btsport1/index.m3u8
-##https://www.livedoomovie.com:4431/02_BTSPORTHD_1_720p/chunklist.m3u8
+https://www.livedoomovie.com:4431/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/2176486
-##https://www.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
+##http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/2176486
+https://www.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2a
 http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport3
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/2176485
-##http://93.152.174.144:4000/play/btsport3/index.m3u8
+http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTINF:-1 group-title="SPORTS",TENNIS
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 #EXTINF:-1 group-title="SPORTS",Bein1s
@@ -548,33 +546,36 @@ http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/2176453
 http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/2176447
 ##https://mbed.cc/usxej
 #EXTINF:-1 group-title="SPORTS",Sporttv1
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170913
+https://liv11octptsp.stblauncher.com/live/4271_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 ##https://www.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
 ##https://mbed.cc/HhPZJ
 #EXTINF:-1 group-title="SPORTS",Sporttv2
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170914
+https://liv11octptsp.stblauncher.com/live/4272_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 ##https://www.livedoomovie.com:4431/02_SPORTTV_2_720p/chunklist.m3u8
 ##https://mbed.cc/Ho0sL
 #EXTINF:-1 group-title="SPORTS",Sporttv3
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170915
+https://liv11octptsp.stblauncher.com/live/4273_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 ##https://www.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS",Sporttv4
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170916
+https://liv11octptsp.stblauncher.com/live/4274_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 ##https://www.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS",Sporttv5
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170917
-#EXTINF:-1 group-title="SPORTS",Sky Sports F1 SD
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/2176489
-#EXTINF:-1 group-title="SPORTS",Sky Sports Football  SD
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/2176493
-#EXTINF:-1 group-title="SPORTS",Sky Sports Main Event SD
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/2176495
-#EXTINF:-1 group-title="SPORTS",Sky Sports Mix SD
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/2176488
-#EXTINF:-1 group-title="SPORTS",Sports Premier League SD
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/2176494
-#EXTINF:-1 group-title="SPORTS",Sky Sports Racing SD
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/2176482
+https://liv11octptsp.stblauncher.com/live/4275_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+#EXTINF:-1 group-title="SPORTS",Eleven 1
+https://liv11octptsp.stblauncher.com/live/6643_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+#EXTINF:-1 group-title="SPORTS",Eleven 2
+https://liv11octptsp.stblauncher.com/live/6644_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+#EXTINF:-1 group-title="SPORTS",Eleven 3
+https://liv11octptsp.stblauncher.com/live/6645_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+#EXTINF:-1 group-title="SPORTS",Eleven 4
+https://liv11octptsp.stblauncher.com/live/6646_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+#EXTINF:-1 group-title="SPORTS",Fox Sport
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+#EXTINF:-1 group-title="SPORTS",Fox Sport2
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+#EXTINF:-1 group-title="SPORTS",Fox Sport3
+https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+
 
 
 #EXTINF:-1 group-title="Mola", MOLA 2

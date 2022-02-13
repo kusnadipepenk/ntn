@@ -503,7 +503,7 @@ https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",BEIN Xtra
 https//siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",Skysport F1
-https://mbed.cc/jrukV
+http://93.152.174.144:4000/play/ssportsf1/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",EdgeSport
 https://edgesport-samsungus.amagi.tv/playlist480p.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FoXSport AUSTralia
@@ -539,11 +539,11 @@ http://93.152.174.144:4000/play/btsport3/index.m3u8
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 #EXTINF:-1 group-title="SPORTS",Bein1s
 http://homeplex.live:8080/FQWA9E9wHF/nWYRuhPJwe/22535
-#EXTINF:-1 group-title="SPORTS",1EURO SPort
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/2176453
+#EXTINF:-1 group-title="SPORTS",ESPN
+https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd
 ##https://mbed.cc/8hbvs
-#EXTINF:-1 group-title="SPORTS",2EURO SPort
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/2176447
+#EXTINF:-1 group-title="SPORTS",ESPN2
+https://delivery.cdn.rcs.net.ar/mnp/espn2/output.mpd
 ##https://mbed.cc/usxej
 #EXTINF:-1 group-title="SPORTS",Sporttv1
 https://liv11octptsp.stblauncher.com/live/4271_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
@@ -575,7 +575,10 @@ https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/ind
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
 #EXTINF:-1 group-title="SPORTS",Fox Sport3
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
-
+#EXTINF:-1 group-title="SPORTS",Euro Sport1
+http://62.210.38.193:25461/carter/GUV1bMq2VK/8047?token=TURYAhZYEAwSAVRXAVtWUARTBQUPCAsFVQpdUQVbBQdUUAIGBlIDV1ZGTxBLF0AGVA9uD1IbCQ4BB1MZREwVAEQ5WQdHChAEAlVRAAlBHkFBC1wDFAMCAAUHUwxTD1JWGkRACgESCBQCUVEKDEEeQVAaRQNEV1JablcBQw9aA0cMCEUPCRwQWV47B1dVAlwHF1gTVhQVEV9CQ0YPCEwKCRpEUgoRQlNCVUZZEApRBVQXThMFWUxdQkNKRg9EcCJHGkRVGxFVXEVZCw0QAkFGEBdOEw9FZkFTQkcWUAdUAxcUXBJSRxwQW1EcPFFXDVwGVhZYCVhKEQwTBlQXShsLClgPRAwXb0JfVEZZEApWAFQGQEw=
+#EXTINF:-1 group-title="SPORTS",Euro Sport2
+http://62.210.38.193:25461/carter/GUV1bMq2VK/8048?token=TURYAhZYEAwSBwdTDQAEV1FaBlQGCwIGBAYCU1NcXwBUAAlXUgkCAwNGTxBLF0AGVA9uD1IbCQ4BB1wZREwVAEQ5WQdHChAEAlVRAAlBHkFBC1wDFAMCAAUHUwxTDldTGkRACgESCBQJUlACGk8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0ABRBobWkVBEV5bE1UKSRQEWRcXUUZTEl5BBglSAUEZQFIJQ1dHREgRXhcvfURJFANIFwBeQV9fCkEIGhdBQRlAWBVpS1ZFRUEBVAtcFEcMRAFBSRJfV0g7AF1WDVcAQQteCEUbCRQEA0YZRFQJC18SXxE6QFtSEl5BCw1aB0FI
 
 
 #EXTINF:-1 group-title="Mola", MOLA 2

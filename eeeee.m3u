@@ -175,8 +175,6 @@ https://cubmu.superzap.xyz:8279/duniaanak/playlist.m3u8
 
 
 #EXTM3U
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Bisokop INdo
-https://cubmu.superzap.xyz:8279/bioskop/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvN
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNmovies 2
@@ -501,9 +499,10 @@ https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Looksport3
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",BEIN Xtra
-https//siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+https://siloh.pluto.tv/lilo/production/bein/1/master_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",Skysport F1
-http://93.152.174.144:4000/play/ssportsf1/index.m3u8
+http://api.magiaiptv.com/live/800196/128093/m1_skysportsf1_720p
+##http://93.152.174.144:4000/play/ssportsf1/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",EdgeSport
 https://edgesport-samsungus.amagi.tv/playlist480p.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FoXSport AUSTralia
@@ -526,13 +525,15 @@ http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28731?token=TURYAhZYEAwSVQUFAAIE
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB5
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport1
-http://93.152.174.144:4000/play/btsport1/index.m3u8
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61418
+##http://93.152.174.144:4000/play/btsport1/index.m3u8
 ##https://www.livedoomovie.com:4431/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2s
 ##http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/2176486
 https://www.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2a
-http://93.152.174.144:4000/play/btsport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61419
+##http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport3
 http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTINF:-1 group-title="SPORTS",TENNIS
@@ -540,11 +541,13 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 #EXTINF:-1 group-title="SPORTS",Bein1s
 http://homeplex.live:8080/FQWA9E9wHF/nWYRuhPJwe/22535
 #EXTINF:-1 group-title="SPORTS",ESPN
-https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd
+
 ##https://mbed.cc/8hbvs
 #EXTINF:-1 group-title="SPORTS",ESPN2
-https://delivery.cdn.rcs.net.ar/mnp/espn2/output.mpd
+
 ##https://mbed.cc/usxej
+#EXTINF:-1 group-title="SPORTS",Sporttv Plus
+http://api.magiaiptv.com/live/800196/128093/m3_UCWbpolpkgstvp_1080p
 #EXTINF:-1 group-title="SPORTS",Sporttv1
 https://liv11octptsp.stblauncher.com/live/4271_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 ##https://www.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
@@ -578,7 +581,7 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 #EXTINF:-1 group-title="SPORTS",Euro Sport1
 https://95-213-172-213.livesports24.online/eurosport1ru.m3u8
 #EXTINF:-1 group-title="SPORTS",Euro Sport2
-https://95-213-172-213.livesports24.online/ruseurosport2.m3u8
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/63021
 
 
 #EXTINF:-1 group-title="Mola", MOLA 2

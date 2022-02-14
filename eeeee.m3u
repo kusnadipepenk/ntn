@@ -513,13 +513,13 @@ https://www.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
 http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28731?token=TURYAhZYEAwSVQUFAAIEVlMGA1JVW1EDUgEFU14PUQMEBAFXVwIFAgdGTxBLF0AGVA9uD1IbCQQJBFcEShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARQCVRTBlQcQRVZVhQKRlIFDloDQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBA1YNUBNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpSBVIBVBMb
 ##https://bit.ly/3ERrUpU
 #EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="" tvg-name"" group-title="SPORTS",BB1
-
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
 ##https://mbed.cc/J6L5S
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB2
-
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
 ##https://mbed.cc/4unX5
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB3
-
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB4
 
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB5
@@ -580,8 +580,10 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 #EXTINF:-1 group-title="SPORTS",Euro Sport1
 https://95-213-172-213.livesports24.online/eurosport1ru.m3u8
-#EXTINF:-1 group-title="SPORTS",Euro Sport2
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/63021
+#EXTINF:-1 group-title="SPORTS",Euro Sport1b
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61424
+#EXTINF:-1 group-title="SPORTS",Euro Sport2b
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61425
 
 
 #EXTINF:-1 group-title="Mola", MOLA 2

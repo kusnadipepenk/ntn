@@ -179,7 +179,10 @@ https://siloh.pluto.tv/lilo/production/Nick/02/master_3.m3u8
 https://siloh.pluto.tv/lilo/production/Nick/03/master_3.m3u8
 #EXTINF:-1 group-title="KIDS",Nick Jr. Pluto
 https://siloh.pluto.tv/lilo/production/Nick/04/master_3.m3u8
-
+#EXTINF:-1 group-title="KIDS",Baby First
+https://babyfirst.akamaized.net/hls/live/2028842/bftvusaott/2.m3u8
+#EXTINF:-1 group-title="KIDS",Toon Googles
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/768x432_1200000/index.m3u8
 
 #EXTM3U
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvN
@@ -377,7 +380,10 @@ http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/45764?token=TURYAhZYEAwSVVRQC1BT
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",2HBO Cinemax
 http://62.210.124.97:8080/FQWA9E9wHF/nWYRuhPJwe/33258?token=TURYAhZYEAwSBVEFAAIDAAAGUgJVDAcAVAdVBV9fVlNVVwACAwILVANGTxBLF0AGVA9uD1IbCQUCAVENShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUAZTAV5SB1EcQRVZVhQKRlICAVQDQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBA1UHWhNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpSAlUAUhMb
 ##https://mbed.cc/uXdZf
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBo VI
+https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b1200000.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Cinemax VI
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b1200000.m3u8?token=
 
 
 

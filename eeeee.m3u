@@ -165,13 +165,20 @@ https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
 #EXTINF:-1  group-title="KIDS",Carton networks
 https://cubmu.superzap.xyz:8279/CARTOON/playlist.m3u8
 ##https://mbed.cc/Bpp6K
-#EXTINF:-1  group-title="KIDS",Super simple Song
+#EXTINF:-1 group-title="KIDS",Super simple Song
 https://janson-supersimplesongs-1.vizio.wurl.com/manifest/1200.m3u8
-#EXTINF:-1  group-title="KIDS",ZOOMOO
+#EXTINF:-1 group-title="KIDS",ZOOMOO
 https://zoomoo-samsungau.amagi.tv/playlist480p.m3u8
-#EXTINF:-1  group-title="KIDS",Dunia Anak
+#EXTINF:-1 group-title="KIDS",Dunia Anak
 https://cubmu.superzap.xyz:8279/duniaanak/playlist.m3u8
-
+#EXTINF:-1 group-title="KIDS",Nick Pluto
+https://siloh.pluto.tv/lilo/production/Nick/01/master_3.m3u8
+#EXTINF:-1 group-title="KIDS",Nickelodeon Pluto
+https://siloh.pluto.tv/lilo/production/Nick/02/master_3.m3u8
+#EXTINF:-1 group-title="KIDS",Nick Jr. Dora TV
+https://siloh.pluto.tv/lilo/production/Nick/03/master_3.m3u8
+#EXTINF:-1 group-title="KIDS",Nick Jr. Pluto
+https://siloh.pluto.tv/lilo/production/Nick/04/master_3.m3u8
 
 
 #EXTM3U
@@ -500,6 +507,8 @@ https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",BEIN Xtra
 https://siloh.pluto.tv/lilo/production/bein/1/master_3.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BEIN Xtra2
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",Skysport F1
 http://api.magiaiptv.com/live/800196/128093/m1_skysportsf1_720p
 ##http://93.152.174.144:4000/play/ssportsf1/index.m3u8

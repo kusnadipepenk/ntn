@@ -307,8 +307,9 @@ https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild
 ##https://mbed.cc/f8hlX
 http://62.210.127.217:8080/FQWA9E9wHF/nWYRuhPJwe/28657?token=TURYAhZYEAwSVFFUDVpUUQJSAQQHCAEBA1BXBgRaUgQDAwhXBlFQBwZGTxBLF0AGVA9uD1IbCQQJBVECShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARTCFVRAlMcQRVZVhQKRlEEAVYAQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAINRw9ZThMFWUxdQkNKRg9EcCJHGkRVGxFVXEVZCw0QAkFGEBdOEw9FZkFTQkcWUAdUAxcUXBJTRxwQW1EcPFFXDVwGVhZYCVhKEQwTAkYZRFQJC18SXxE6QFtSEl5BAA5aAlYXHw==
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild-US
-http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild VI
+https://livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist_b1200000.m3u8?token=
+##http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Asia
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b1200000.m3u8?token=
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Asian
@@ -608,9 +609,11 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61425
 
 
 #EXTINF:-1 group-title="Mola", MOLA 2
-http://203.159.95.172:8081/live/bein02/chunks.m3u8
+https://livecdn.fptplay.net/hda2/foxsports_hls.smil/chunklist_b1200000.m3u8?token=
+##http://203.159.95.172:8081/live/bein02/chunks.m3u8
 #EXTINF:-1 group-title="Mola", MOLA 1
-http://203.159.95.172:8081/live/bein01/chunks.m3u8
+https://livecdn.fptplay.net/hda2/foxsports3_hls.smil/chunklist_b1200000.m3u8?token=
+##http://203.159.95.172:8081/live/bein01/chunks.m3u8
 
 
 #EXTINF:-1   tvg-logo="" group-title="Relax",Beaches Live

@@ -348,21 +348,21 @@ https://wildearth-roku.amagi.tv/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOID
-https://tvlivehometv.xyz/RHS/hbo1.m3u8?channel=hbo
+##https://tvlivehometv.xyz/RHS/hbo1.m3u8?channel=hbo
 ##https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOFamsID
-https://tvlivehometv.xyz/RHS/hbo1.m3u8?channel=fam
+##https://tvlivehometv.xyz/RHS/hbo1.m3u8?channel=fam
 ##https://kusnadipepenk.github.io/campeign/hbofam.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOsignID
-https://tvlivehometv.xyz/RHS/hbo1.m3u8?channel=sig
+##https://tvlivehometv.xyz/RHS/hbo1.m3u8?channel=sig
 ##https://kusnadipepenk.github.io/campeign/hbosi.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOhitsID
-https://tvlivehometv.xyz/RHS/hbo1.m3u8?channel=hits
+##https://tvlivehometv.xyz/RHS/hbo1.m3u8?channel=hits
 ##https://kusnadipepenk.github.io/campeign/hbihit.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",reds
-https://kusnadipepenk.github.io/campeign/hbored.m3u8
+##https://kusnadipepenk.github.io/campeign/hbored.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Cinemas-ID
-https://tvlivehometv.xyz/RHS/hbo1.m3u8?channel=max
+##https://tvlivehometv.xyz/RHS/hbo1.m3u8?channel=max
 ##https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",2HBO Sign
@@ -380,11 +380,16 @@ http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/45764?token=TURYAhZYEAwSVVRQC1BT
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",2HBO Cinemax
 http://62.210.124.97:8080/FQWA9E9wHF/nWYRuhPJwe/33258?token=TURYAhZYEAwSBVEFAAIDAAAGUgJVDAcAVAdVBV9fVlNVVwACAwILVANGTxBLF0AGVA9uD1IbCQUCAVENShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUAZTAV5SB1EcQRVZVhQKRlICAVQDQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBA1UHWhNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpSAlUAUhMb
 ##https://mbed.cc/uXdZf
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBo VI
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",3HBo VI
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b1200000.m3u8?token=
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Cinemax VI
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",3Cinemax VI
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b1200000.m3u8?token=
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Fox Crime
+http://clientportal.link:80/vangelus13old/4CWsjY382/3814
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",FOX
+http://clientportal.link:80/vangelus13old/4CWsjY382/1448
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",FOX Life
+http://clientportal.link:80/vangelus13old/4CWsjY382/1450
 
 
 

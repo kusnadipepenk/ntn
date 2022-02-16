@@ -136,11 +136,12 @@ http://210.210.155.35/uq2663/h/h98/index.m3u8
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/d0RzNrk/space.png" group-title="KIDS",Lernings
 http://210.210.155.35/uq2663/h/h97/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Boomerangs
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Boomerang VI
 https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Boomerang
 http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28803?token=TURYAhZYEAwSVVUCW1AFUFEHBlMFCQpXA1JRBgdYAlNUBQYAXFYCBwdGTxBLF0AGVA9uD1IbCQQJC1QGShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFVwxeD1FdAFIcQRVZVhQKRloACFQQTxcHSRJTS11XXWwAUBBQBQAUXF4WCVweFF8KPFZdDlMNUUALRAcbHxRYQBQXXFcTCVpKEgEMREBXRAFBCBpRBFQHQB1EVVZGWEVBHRdcGy8hFEoSBh1EV1hDDQxcGlkQF0ZAHURfSmxEVEAQRwNYCwBERApBVRIeFF0FG21bDFwNUAFFD1lXQBQLEVUXShsLClgPRAwXb0JfVEZZEAFSBVoXHw==
 #EXTINF:-1  tvg-logo="" group-title="KIDS",KidsFlix
-https://stream.ads.ottera.tv/cl/8eae1917-b4ba-4431-8ea4-2acc6088f79b/854x480_550000_1_false.m3u8
+
 #https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1  group-title="KIDS",Kids Toons
 http://210.210.155.35/session/a1b2362c-9d39-11e9-9cda-b82a72d63267/qwr9ew/s/s50/01.m3u8
@@ -166,7 +167,7 @@ https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
 https://cubmu.superzap.xyz:8279/CARTOON/playlist.m3u8
 ##https://mbed.cc/Bpp6K
 #EXTINF:-1 group-title="KIDS",Super simple Song
-https://janson-supersimplesongs-1.vizio.wurl.com/manifest/1200.m3u8
+
 #EXTINF:-1 group-title="KIDS",ZOOMOO
 https://zoomoo-samsungau.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 group-title="KIDS",Dunia Anak
@@ -174,7 +175,7 @@ https://cubmu.superzap.xyz:8279/duniaanak/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Nick Pluto
 https://siloh.pluto.tv/lilo/production/Nick/01/master_3.m3u8
 #EXTINF:-1 group-title="KIDS",Nickelodeon Pluto
-https://siloh.pluto.tv/lilo/production/Nick/02/master_3.m3u8
+
 #EXTINF:-1 group-title="KIDS",Nick Jr. Dora TV
 https://siloh.pluto.tv/lilo/production/Nick/03/master_3.m3u8
 #EXTINF:-1 group-title="KIDS",Nick Jr. Pluto
@@ -182,7 +183,7 @@ https://siloh.pluto.tv/lilo/production/Nick/04/master_3.m3u8
 #EXTINF:-1 group-title="KIDS",Baby First
 https://babyfirst.akamaized.net/hls/live/2028842/bftvusaott/2.m3u8
 #EXTINF:-1 group-title="KIDS",Toon Googles
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/768x432_1200000/index.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/640x360_700000/index.m3u8
 
 #EXTM3U
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvN

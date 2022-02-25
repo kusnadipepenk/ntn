@@ -691,22 +691,22 @@ http://202.150.172.34:4000/play/mnctvt2
 
 
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="VIDIO",SCTV 
-#https://znjjprwzgeyyp.vidio.com/hls-p/ingest_204_720p/index.m3u8 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="VIDIO",mentariTV 
+http://tvn.x10.bz/vidio/master-22.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="VIDIO",INDOSIAR 
-#https://znjjprwzgeyyp.vidio.com/hls-p/ingest_205_720p/index.m3u8 
+http://tvn.x10.bz/vidio/master.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="VIDIO",RCTI 
 #https://znjjprwzgeyyp.vidio.com/hls-p/ingest_665_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ochannel.png" group-title="VIDIO",O Channel 
-#https://znjjprwzgeyyp.vidio.com/hls-p/ingest_206_720p/index.m3u8 
+http://tvn.x10.bz/vidio/master-18.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ajwatv.png" group-title="VIDIO",AJWA TV 
 #https://znjjprwzgeyyp.vidio.com/hls-p/ingest_7464_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="VIDIO",Kompas TV 
-#https://znjjprwzgeyyp.vidio.com/hls-p/ingest_874_720p/index.m3u8 
+http://tvn.x10.bz/vidio/master-19.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bs.png" group-title="VIDIO",Berita Satu 
 #https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6165_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="VIDIO",Metro TV 
-#https://znjjprwzgeyyp.vidio.com/hls-p/ingest_777_720p/index.m3u8 
+http://tvn.x10.bz/vidio/master-23.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/net.png" group-title="VIDIO",NET. 
 #https://znjjprwzgeyyp.vidio.com/hls-p/ingest_875_720p/index.m3u8 
 #EXTINF:-1 tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="VIDIO",Trans TV 
@@ -739,9 +739,8 @@ http://202.150.172.34:4000/play/mnctvt2
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions2.png" group-title="VIDIO",Champions TV 2 
 #==https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6686_720p/index.m3u8 
 #https://newlivetv.my.id/vidio/6686-LiveTV.m3u8?livetv
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions3.png" group-title="VIDIO",Champions TV 3 
-#==https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6786_720p/index.m3u8 
-#https://newlivetv.my.id/vidio/6786-LiveTV.m3u8?livetv
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions3.png" group-title="VIDIO",Champions TV 4 
+http://tvn.x10.bz/vidio/master-17.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIDIO",Bein1
 #==https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6299_720p/index.m3u8
 #https://newlivetv.my.id/vidio/6299-LiveTV.m3u8?livetv
@@ -760,12 +759,12 @@ http://202.150.172.34:4000/play/mnctvt2
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zeebioskop.png" group-title="VIDIO",Zee Bioskop 
 #https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6399_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/citrabioskop.png" group-title="VIDIO",Citra Bioskop 
-#https://newlivetv.my.id/vidio/6684-LiveTV.m3u8?livetv
+http://tvn.x10.bz/vidio/master-1.m3u8
 #https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6684_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/citradangdut.png" group-title="VIDIO",Citra Dangdut 
 #https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6587_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/citraentertainment.png" group-title="VIDIO",Citra Entertainment 
-#https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6402_720p/index.m3u8 
+http://tvn.x10.bz/vidio/master-13.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zing.png" group-title="VIDIO",Zing 
 #https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6747_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/arirang.png" group-title="VIDIO",ARIRANG 
@@ -787,14 +786,14 @@ http://202.150.172.34:4000/play/mnctvt2
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/seatoday.png" group-title="VIDIO",SEA TODAY 
 #https://newlivetv.my.id/vidio/7687-LiveTV.m3u8?livetv
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/hiphiphoree.png" group-title="VIDIO",Hip Hip Horees
-#==https://znjjprwzgeyyp.vidio.com/hls-p/ingest_7052_720p/index.m3u8 
+http://tvn.x10.bz/vidio/master-4.m3u8 
 #https://newlivetv.my.id/vidio/7052-LiveTV.m3u8?livetv
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zoomoo.png" group-title="VIDIO",Zoomoo 
-#https://newlivetv.my.id/vidio/6533-LiveTV.m3u8?livetv
+http://tvn.x10.bz/vidio/master-25.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/davinci.png" group-title="VIDIO",Da Vinci 
 #https://newlivetv.my.id/vidio/6549-LiveTV.m3u8?livetv
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/horee.png" group-title="VIDIO",Horee 
-#https://newlivetv.my.id/vidio/6397-LiveTV.m3u8?livetv
+http://tvn.x10.bz/vidio/master-5.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/smithsonian.png" group-title="VIDIO",Smithsonian 
 #https://newlivetv.my.id/vidio/6550-LiveTV.m3u8?livetv
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/lovenature.png" group-title="VIDIO",Love Nature 

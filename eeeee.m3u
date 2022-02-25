@@ -392,8 +392,8 @@ http://clientportal.link:80/vangelus13old/4CWsjY382/1450
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Astro BOXoffice
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",&flix2
+http://dp1.loadbalance.live/OuoJnGAlzKrRynv/gkek9RqtiQ/2934?token=N003Z2VmNUM0dk9SRllR
 #EXTINF:-1 group-title="MOVIES",Xumo Western
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/640x360_700000/index.m3u8
 #EXTINF:-1 group-title="MOVIES",&SONY PIX

@@ -614,6 +614,15 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 http://cloud.cdn-proxy.win:2052/802431545469102/l4WCmZnwCp/908
 #EXTINF:-1 group-title="SPORTS",Euro Sport2b
 http://cloud.cdn-proxy.win:2052/802431545469102/l4WCmZnwCp/1662
+#EXTINF:-1 group-title="SPORTS",CTV1
+http://tvn.x10.bz/vidio/master-6.m3u8
+#EXTINF:-1 group-title="SPORTS",CTV2
+http://tvn.x10.bz/vidio/master-7.m3u8
+#EXTINF:-1 group-title="SPORTS",CTV3
+http://tvn.x10.bz/vidio/master-8.m3u8
+#EXTINF:-1 group-title="SPORTS",CTV4
+http://tvn.x10.bz/vidio/master-9.m3u8
+
 
 
 #EXTINF:-1 group-title="Mola", MOLA 2

@@ -393,7 +393,7 @@ http://clientportal.link:80/vangelus13old/4CWsjY382/1450
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",&flix2
-http://dp1.loadbalance.live/OuoJnGAlzKrRynv/gkek9RqtiQ/2934?token=N003Z2VmNUM0dk9SRllR
+
 #EXTINF:-1 group-title="MOVIES",Xumo Western
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/640x360_700000/index.m3u8
 #EXTINF:-1 group-title="MOVIES",&SONY PIX
@@ -683,8 +683,8 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
 #EXTINF:-1 tvg-logo="htg" group-title="Test",MNCS
 http://202.150.172.34:4000/play/mnctvt2
-#EXTINF:-1 tvg-logo="htg" group-title="Test",Cek
-
+#EXTINF:-1 tvg-logo="htg" group-title="Test",Cekidot
+http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=history&gumisasakTV=default&sync=0
 
 
 

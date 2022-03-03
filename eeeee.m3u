@@ -540,11 +540,11 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
 ##https://mbed.cc/4unX5
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB3
-
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26486
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB4
-http://cloud.cdn-proxy.win:2052/802431545469102/l4WCmZnwCp/524?
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26487
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB5
-http://cloud.cdn-proxy.win:2052/802431545469102/l4WCmZnwCp/526?
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26488
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB6
 http://cloud.cdn-proxy.win:2052/802431545469102/l4WCmZnwCp/528?
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport1
@@ -562,7 +562,7 @@ http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTINF:-1 group-title="SPORTS",TENNIS
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 #EXTINF:-1 group-title="SPORTS",Bein1s
-http://homeplex.live:8080/FQWA9E9wHF/nWYRuhPJwe/22535
+
 #EXTINF:-1 group-title="SPORTS",ESPN
 
 ##https://mbed.cc/8hbvs
@@ -583,10 +583,10 @@ https://liv11octptsp.stblauncher.com/live/4272_.m3u8?token=bcc65a1fb3974adeaa616
 https://liv11octptsp.stblauncher.com/live/4273_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 ##https://www.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS",Sporttv4
-https://liv11octptsp.stblauncher.com/live/4274_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
-##https://www.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
+##https://liv11octptsp.stblauncher.com/live/4274_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+https://www.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS",Sporttv5
-https://liv11octptsp.stblauncher.com/live/4275_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+##https://liv11octptsp.stblauncher.com/live/4275_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 #EXTINF:-1 group-title="SPORTS",Eleven 1
 https://liv11octptsp.stblauncher.com/live/6643_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 #EXTINF:-1 group-title="SPORTS",Eleven 2
@@ -602,9 +602,9 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 #EXTINF:-1 group-title="SPORTS",Fox Sport3
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 #EXTINF:-1 group-title="SPORTS",Euro Sport1
-http://cloud.cdn-proxy.win:2052/802431545469102/l4WCmZnwCp/908
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49473
 #EXTINF:-1 group-title="SPORTS",Euro Sport2b
-http://cloud.cdn-proxy.win:2052/802431545469102/l4WCmZnwCp/1662
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49474
 #EXTINF:-1 group-title="SPORTS",CTV1
 http://tvn.x10.bz/vidio/master-6.m3u8
 #EXTINF:-1 group-title="SPORTS",CTV2

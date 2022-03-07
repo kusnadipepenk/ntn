@@ -267,7 +267,7 @@ http://210.210.155.35:80/uq2663/h/h28/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Galaxy Premium
 
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Warner TV
-##https://mbed.cc/L4e8O
+https://link.zozotv.xyz:443/@nasanash/Lifetime8899/86
 https://cubmu.superzap.xyz:8279/WARNER/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",Ruang trampil
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
@@ -279,7 +279,7 @@ http://210.210.155.35/x6bnqe/s/s73/S4/mnf.m3u8
  
  
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV
-
+https://link.zozotv.xyz:443/@nasanash/Lifetime8899/85
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary
@@ -298,27 +298,26 @@ https://link.zozotv.xyz/@nasanash/Lifetime8899/120
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geos
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b1200000.m3u8?token=
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild
-http://51.79.147.95:8080/@nasanash/Lifetime8899/122?token=SRdZUUFeRwtAUwUMVVwHVFVSB1AHXwdWUwdaVlRWU1dUB1JUAQ8AVFYQHhoSTUVTA15sDwZECwJRVBUWRRJVRm1cVRIIFFcJVhAeGhVQWlNACQJQVlAHClVSCwYcQ0BdVhcLEgAFVQBUEB4aBEFDUxBdUgo9AlRFCgVcFgoPRVheGRNfXGkBVA9TXFxDAxUGQB8RDxEWEwkNE1VYHENSXUZHUERXFF8TUAQLD0MVFVUNRl0SEB8TCUEvfRYcQ1VMRlBfQ1tZCxNYEEZLQxUVXxFsQQMREkNWAgtcRhJbEgQQGRNdU046Ug1cXF0CTV5ZDEARXEBXEx9BC1ZaWRVfRm1FWFQQDEcDVgIBD0NE
+https://link.zozotv.xyz:443/@nasanash/Lifetime8899/122
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild VI
 https://livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist_b1200000.m3u8?token=
 ##http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Asia
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b1200000.m3u8?token=
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Asian
-https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
+https://link.zozotv.xyz:443/@nasanash/Lifetime8899/125
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY
 https://link.zozotv.xyz/@nasanash/Lifetime8899/124
 #EXTINF:-1 group-title="KNOWLEDGE",Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8?checkedby:iptvcat.com
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",History
-##http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28767?token=TURYAhZYEAwSAVcFXlIFWwFVB14BAQsOCAEFVFELBFdVUQJWBFJXDlZGTxBLF0AGVA9uD1IbCQQJBFICShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARQCVRXBlYcQRVZVhQKRlICAVMBQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBA1ICUxNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpSAlsNUxMb
+
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Techstorm
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",FoodChannel
 https://amagi-primary.akamaized.net/out/v1/3f7bf105c018444dbc8f74a3a283afaf/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
 https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b1200000.m3u8
-##http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34466?token=TURYAhZYEAwSVFZWXVMFUg0HV1QACFUOCFAADAAPVVAPBFEBXFQDAgJGTxBLF0AGVA9uD1IbCQUFB1MNShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSD1RTBFMcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXFEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",GameNfish
 https://obsession-media.sinclair.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",OUTDOOR CHANNEL
@@ -385,7 +384,7 @@ http://clientportal.link:80/vangelus13old/4CWsjY382/1450
 #EXTINF:-1 group-title="MOVIES",Xumo Western
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/640x360_700000/index.m3u8
 #EXTINF:-1 group-title="MOVIES",&SONY PIX
-http://51.79.145.99:8080/@nasanash/Lifetime8899/298?token=SRdZUUFeRwtAAlcMVg5WUlRWCldVX1cBW1daAQJTBlcEBlMDBwQBU1sQHhoSTUVTA15sDwZECwFaXhUWRRJVRm1cVRIIFFcJVhAeGhVQWlNACQJQVlAHClVWCwQcQ0BdVhcLEgAPVAlbEB4aBEFDUxBdUgo9AlRFCgVcFgoPRVheGRNfXGkBVA9TXFxDAxUGQB8RDxEWEwkNE1VYHENSXUZHUERXFF8TUQYKDkMVFVUNRl0SEB8TCUEvfRYcQ1VMRlBfQ1tZCxNYEEZLQxUVXxFsQQMREkNWAgtcRhJbEgQQGRNdU046Ug1cXF0CTV5ZDEARXEBXEx9BC1ZaWRVfRm1FWFQQDEcDUgAGCkNE
+https://link.zozotv.xyz:443/@nasanash/Lifetime8899/298
 #EXTINF:-1 group-title="MOVIES",&Prive
 http://51.79.147.95:8080/@nasanash/Lifetime8899/105?token=SRdZUUFeRwtAVFQKBwEDAwMKBlMDVlIAUAMKAFZSVFACUAUGUQZSBFAQHhoSTUVTA15sDwZECwJTUxUWRRJVRm1cVRIIFFcJVhAeGhVQWlNACQJQVlAHClZfDg0cQ0BdVhcLEgsPUgRAHhBdGU1SRAxSXzkGA0daAAMbDl4UXFgeF15ebVIAXANcVhpbGwcUThFaFRJEC10WClUYEgNZQEBURVUQDEcCUwUEGk0bVFkXXUcUG0QLESoiGxgSBEhAV1tCWV1YRwtARkEaTRteRT1BVhUWFFRSDgNLFgpDABYeF1xRSmkGXgxcV1sVUFhYEREJRFNEHREOCVddRA5Ca0JcVRIIFFYBUwUQRQ==
 #EXTINF:-1 group-title="MOVIES",&Flix
@@ -504,7 +503,7 @@ http://iptv12k.com:35461/8022011502/123456/3228
 ##https://www.livedoomovie.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV
 ##https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-http://51.79.147.95:8080/@nasanash/Lifetime8899/399?token=SRdZUUFeRwtAU1EKVltWAFpRCl4AU1RXWwMMBwZXUgEAU1cDCwJcAloQHhoSTUVTA15sDwZECwBaXxUWRRJVRm1cVRIIFFcJVhAeGhVQWlNACQJQVlAHClZRCwAcQ0BdVhcLEgMOUwRWEB4aBEFDUxBdUgo9AlRFCgVcFgoPRVheGRNfXGkBVA9TXFxDAxUGQB8RDxEWEwkNE1VYHENSXUZHUERXFF8TVwYKC0MVFVUNRl0SEB8TCUEvfRYcQ1VMRlBfQ1tZCxNYEEZLQxUVXxFsQQMREkNWAgtcRhJbEgQQGRNdU046Ug1cXF0CTV5ZDEARXEBXEx9BC1ZaWRVfRm1FWFQQDEcDUQYLGhw=
+https://link.zozotv.xyz:443/@nasanash/Lifetime8899/399
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Motorvision
 http://210.210.155.35/uq2663/h/h09/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Golf

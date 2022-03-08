@@ -136,9 +136,9 @@ http://210.210.155.35/uq2663/h/h97/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Boomerang VI
 https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Boomerang
-http://iptv12k.com:35461/8022011502/123456/2097
-#EXTINF:-1  tvg-logo="" group-title="KIDS",KidsFlix
-
+https://link.zozotv.xyz:443/@nasanash/Lifetime8899/135
+#EXTINF:-1  tvg-logo="" group-title="KIDS",Dreamworks
+https://link.zozotv.xyz:443/@nasanash/Lifetime8899/134
 #https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1  group-title="KIDS",Kids Toons
 http://210.210.155.35/session/a1b2362c-9d39-11e9-9cda-b82a72d63267/qwr9ew/s/s50/01.m3u8
@@ -149,19 +149,19 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb
 #EXTINF:-1 group-title="KIDS",Kids Pluto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="KIDS",NickJR
-http://iptv12k.com:35461/8022011502/123456/2088
+https://link.zozotv.xyz:443/@nasanash/Lifetime8899/137
 #EXTINF:-1 group-title="KIDS",Nickelodeon
 ##https://cubmu.superzap.xyz:8279/NICKELODEON/playlist.m3u8
-http://iptv12k.com:35461/8022011502/123456/2072
+https://link.zozotv.xyz:443/@nasanash/Lifetime8899/136
 #EXTINF:-1 group-title="KIDS",Miaomix
-http://iptv12k.com:35461/8022011502/123456/2074
+
 #EXTINF:-1 group-title="KIDS",HappyKids
 https://happykids-roku.amagi.tv/playlist404pl.m3u8
 #EXTINF:-1 group-title="KIDS",HappyKids Junior
 https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
 #EXTINF:-1  group-title="KIDS",Carton networks
-https://cubmu.superzap.xyz:8279/CARTOON/playlist.m3u8
-##https://mbed.cc/Bpp6K
+##https://cubmu.superzap.xyz:8279/CARTOON/playlist.m3u8
+https://link.zozotv.xyz:443/@nasanash/Lifetime8899/132
 #EXTINF:-1 group-title="KIDS",Super simple Song
 
 #EXTINF:-1 group-title="KIDS",ZOOMOO
@@ -491,13 +491,13 @@ http://2serv.mylifeisgood.ml:8080/mfolive.m3u8?media=musicboxgold
 
 
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport1
-http://51.79.147.95:8080/@nasanash/Lifetime8899/155?token=SRdZUUFeRwtAUAVeB1pUU1NVC14GUgdWAlMBBwBQBwUEVgEFClIABFsQHhoSTUVTA15sDwZECwJWUxUWRRJVRm1cVRIIFFcJVhAeGhVQWlNACQJQVlAHClVXCgQcQ0BdVhcLEgEEVQRTEB4aBEFDUxBdUgo9AlRFCgVcFgoPRVheGRNfXGkBVA9TXFxDAxUGQB8RDxEWEwkNE1VYHENSXUZHUERXFF8TVgEHCUMVFVUNRl0SEB8TCUEvfRYcQ1VMRlBfQ1tZCxNYEEZLQxUVXxFsQQMREkNWAgtcRhJbEgQQGRNdU046Ug1cXF0CTV5ZDEARXEBXEx9BC1ZaWRVfRm1FWFQQDEcDUQoKDUNE
+https://link.zozotv.xyz/@nasanash/Lifetime8899/155
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport2
-http://51.79.147.95:8080/@nasanash/Lifetime8899/156?token=SRdZUUFeRwtABVEABQ4FDgdRBlNRUgRSVwNcVgFTAwcCUVVWBldWAAEQHhoSTUVTA15sDwZECwJWUBUWRRJVRm1cVRIIFFcJVhAeGhVQWlNACQJQVlAHClVXDAAcQ0BdVhcLEgEHUgVVEB4aBEFDUxBdUgo9AlRFCgVcFgoPRVheGRNfXGkBVA9TXFxDAxUGQB8RDxEWEwkNE1VYHENSXUZHUERXFF8TVgAHAUMVFVUNRl0SEB8TCUEvfRYcQ1VMRlBfQ1tZCxNYEEZLQxUVXxFsQQMREkNWAgtcRhJbEgQQGRNdU046Ug1cXF0CTV5ZDEARXEBXEx9BC1ZaWRVfRm1FWFQQDEcDUQoLCUNE
+https://link.zozotv.xyz/@nasanash/Lifetime8899/156
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport3
-http://51.79.147.95:8080/@nasanash/Lifetime8899/157?token=SRdZUUFeRwtAC1MOVVtVB1sEAF9XAANXUARcVwUABlAEDQAICwZTAlQQHhoSTUVTA15sDwZECwJWURUWRRJVRm1cVRIIFFcJVhAeGhVQWlNACQJQVlAHClVXDgYcQ0BdVhcLEgEHUQVaEB4aBEFDUxBdUgo9AlRFCgVcFgoPRVheGRNfXGkBVA9TXFxDAxUGQB8RDxEWEwkNE1VYHENSXUZHUERXFF8TVgALD0MVFVUNRl0SEB8TCUEvfRYcQ1VMRlBfQ1tZCxNYEEZLQxUVXxFsQQMREkNWAgtcRhJbEgQQGRNdU046Ug1cXF0CTV5ZDEARXEBXEx9BC1ZaWRVfRm1FWFQQDEcDUQoLAENE
+https://link.zozotv.xyz/@nasanash/Lifetime8899/157
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport4
-http://51.79.147.95:8080/@nasanash/Lifetime8899/158?token=SRdZUUFeRwtAC1MOVVtVB1sEAF9XAANXUARcVwUABlAEDQAICwZTAlQQHhoSTUVTA15sDwZECwJWURUWRRJVRm1cVRIIFFcJVhAeGhVQWlNACQJQVlAHClVXDgYcQ0BdVhcLEgEHUQVaEB4aBEFDUxBdUgo9AlRFCgVcFgoPRVheGRNfXGkBVA9TXFxDAxUGQB8RDxEWEwkNE1VYHENSXUZHUERXFF8TVgALD0MVFVUNRl0SEB8TCUEvfRYcQ1VMRlBfQ1tZCxNYEEZLQxUVXxFsQQMREkNWAgtcRhJbEgQQGRNdU046Ug1cXF0CTV5ZDEARXEBXEx9BC1ZaWRVfRm1FWFQQDEcDUQoLAENE
+https://link.zozotv.xyz/@nasanash/Lifetime8899/158
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV2
 http://iptv12k.com:35461/8022011502/123456/3228
 ##https://www.livedoomovie.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8

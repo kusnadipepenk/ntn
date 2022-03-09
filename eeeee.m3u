@@ -225,7 +225,8 @@ http://45.126.83.51/session/4fb462a0-6ff8-11e9-84c1-90fcb976a378/uq2663/h/h37/02
 #EXTINF:-1  tvg-logo="https://i.ibb.co/0yswGZW/sgem.jpg" group-title="PREMIUM INDONESIA",SONY GEM
 http://210.210.155.35/uq2663/h/h19/02.m3u8
 #EXTINF:-1  group-title="PREMIUM INDONESIA",CELESTIAL MOVIE
-http://210.210.155.35/session/qwr9ew/s/s33/01.m3u8
+http://185.191.127.105:8080/wael2021/123456/70037?token=QhZdWUdRRwsQAF5RCFBXXwJUBwdVVgIHBwEDAVRRAFYJBwwNUVsGBAMbFENCERcDVQxpXwJEXAYBAwUFT0RERlxGalFQG18TAwkPUQRSR0oWFV9bA0RcAAcHAAVbUAEBDRgXSF1dRwsQCgBYBlFHShYETkIDFAhQXWxSVxUPUlAbDltNWFVJE11XZwVUCAQIUEMMFFdEShNYQEYQWQhEWVUYF1pdTRdQRlwaW18QCQoYQ1VZEwgSQ0gRDBAqIhMZG1FNTFFXFlhdVxpbExEWRBhDX0U5FANCRUFTUw4DQxcDFgUaGBsIUEpmWw5fCwAFQAhZWBVEXBMAERoQDglfXE1bR2dEUAETCBsLWQhTXERJ
+##http://210.210.155.35/session/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",OhK
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vvKpnbc/kixx.jpg" group-title="PREMIUM INDONESIA",KIX(2)
@@ -602,14 +603,18 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49473
 #EXTINF:-1 group-title="SPORTS",Euro Sport2b
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49474
-#EXTINF:-1 group-title="SPORTS",CTV1
-http://tvn.x10.bz/vidio/master-6.m3u8
-#EXTINF:-1 group-title="SPORTS",CTV2
-http://tvn.x10.bz/vidio/master-7.m3u8
-#EXTINF:-1 group-title="SPORTS",CTV3
-http://tvn.x10.bz/vidio/master-8.m3u8
+#EXTINF:-1 group-title="SPORTS",J-Sport1
+http://211.21.12.236:11935/live/cs05.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS",J-Sport2
+http://211.21.12.236:11935/live/cs06.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS",J-Sport3
+http://211.21.12.236:11935/live/cs07.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS",J-Sport4
+http://211.21.12.236:11935/live/cs09.stream/playlist.m3u8
 
 
+#EXTINF:-1 group-title="Ttttt",J
+http://61.216.1.24:5021/live/497.m3u8
 
 
 #EXTINF:-1 group-title="Mola", MOLA 2

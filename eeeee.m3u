@@ -613,8 +613,6 @@ http://211.21.12.236:11935/live/cs07.stream/playlist.m3u8
 http://211.21.12.236:11935/live/cs09.stream/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Ttttt",J
-http://61.216.1.24:5021/live/497.m3u8
 
 
 #EXTINF:-1 group-title="Mola", MOLA 2

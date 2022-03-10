@@ -293,6 +293,7 @@ https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",TLC
 https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo
+http://iptv.tvfix.org/hls/natlgeo.m3u8
 https://link.zozotv.xyz/@nasanash/Lifetime8899/120
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo People
 ##http://58.65.171.202:8000/play/10503/index.m3u8
@@ -306,7 +307,7 @@ https://livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist_b1200000.m3u8?tok
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Asia
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b1200000.m3u8?token=
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Asian
-https://link.zozotv.xyz:443/@nasanash/Lifetime8899/125
+http://iptv.tvfix.org/hls/discovery.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY
 https://link.zozotv.xyz/@nasanash/Lifetime8899/124
 #EXTINF:-1 group-title="KNOWLEDGE",Smithsonian
@@ -319,6 +320,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-43
 https://amagi-primary.akamaized.net/out/v1/3f7bf105c018444dbc8f74a3a283afaf/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
 https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b1200000.m3u8
+http://iptv.tvfix.org/hls/animal.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",GameNfish
 https://obsession-media.sinclair.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",OUTDOOR CHANNEL
@@ -444,6 +446,8 @@ http://live.flixhub.net/hls/mn+.m3u8
 
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Music",Chanel V
+http://iptv.tvfix.org/hls/channelv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Spirit TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Hits Music
@@ -566,9 +570,8 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 #EXTINF:-1 group-title="SPORTS",ESPN
 
 ##https://mbed.cc/8hbvs
-#EXTINF:-1 group-title="SPORTS",ESPN2
-
-##https://mbed.cc/usxej
+#EXTINF:-1 group-title="SPORTS",Star Sport
+http://iptv.tvfix.org/hls/starsports.m3u8
 #EXTINF:-1 group-title="SPORTS",Sporttv Plus
 http://api.magiaiptv.com/live/800196/128093/m3_UCWbpolpkgstvp_1080p
 #EXTINF:-1 group-title="SPORTS",Sporttv1
@@ -602,7 +605,8 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 #EXTINF:-1 group-title="SPORTS",Fox Sport3
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 #EXTINF:-1 group-title="SPORTS",Euro Sport1
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49473
+http://213.151.233.20:8000/dna-6069-tv-pc/hls/4003v105.m3u8
+##http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49473
 #EXTINF:-1 group-title="SPORTS",Euro Sport2b
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49474
 #EXTINF:-1 group-title="SPORTS",J-Sport1
@@ -623,6 +627,8 @@ https://livecdn.fptplay.net/hda2/foxsports_hls.smil/chunklist_b1200000.m3u8?toke
 #EXTINF:-1 group-title="Mola", MOLA 1
 https://livecdn.fptplay.net/hda2/foxsports3_hls.smil/chunklist_b1200000.m3u8?token=
 ##http://203.159.95.172:8081/live/bein01/chunks.m3u8
+#EXTINF:-1 group-title="Mola",test1
+http://120.84.96.152:808/hls/34/index.m3u8
 
 
 #EXTINF:-1   tvg-logo="" group-title="Relax",Beaches Live

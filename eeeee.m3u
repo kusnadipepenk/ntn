@@ -534,19 +534,21 @@ http://iptv12k.com:35461/8022011502/123456/961
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Bein1
 http://iptv12k.com:35461/8022011502/123456/227
 #EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="" tvg-name"" group-title="SPORTS",BB1
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
-##https://mbed.cc/J6L5S
+http://portal.zexo.site:8080/zero/zero/2
+##http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB2
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
-##https://mbed.cc/4unX5
+http://portal.zexo.site:8080/zero/zero/4
+##http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB3
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26486
+http://portal.zexo.site:8080/zero/zero/5
+##http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26486
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB4
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26487
+http://portal.zexo.site:8080/zero/zero/6
+##http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26487
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB5
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26488
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB6
-http://cloud.cdn-proxy.win:2052/802431545469102/l4WCmZnwCp/528?
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport1
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61418
 ##http://93.152.174.144:4000/play/btsport1/index.m3u8

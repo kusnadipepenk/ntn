@@ -548,10 +548,10 @@ https://edgesport-samsungus.amagi.tv/playlist480p.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FoXSport AUSTralia
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360_v3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Bein2
-http://iptv12k.com:35461/8022011502/123456/961
+http://iptv12k.com:35461/8022022301/468985/961
 ##https://www.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Bein1
-http://iptv12k.com:35461/8022011502/123456/227
+http://iptv12k.com:35461/8022022301/468985/227
 #EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="" tvg-name"" group-title="SPORTS",BB1
 http://portal.zexo.site:8080/zero/zero/3
 ##http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
@@ -569,15 +569,18 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26488
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB6
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport1
-http://93.152.174.144:4000/play/btsport1/index.m3u8
+http://iptv12k.com:35461/8022022301/468985/2380
+##http://93.152.174.144:4000/play/btsport1/index.m3u8
 ##https://www.livedoomovie.com:4431/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2s
 ##http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/2176486
 https://www.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2
-http://93.152.174.144:4000/play/btsport2/index.m3u8
+http://iptv12k.com:35461/8022022301/468985/2372
+##http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport3
-http://93.152.174.144:4000/play/btsport3/index.m3u8
+http://iptv12k.com:35461/8022022301/468985/2372
+##http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTINF:-1 group-title="SPORTS",TENNIS
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 #EXTINF:-1 group-title="SPORTS",ESPN

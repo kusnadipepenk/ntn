@@ -12,11 +12,11 @@ http://rr.dens.tv/h/h11/index.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="LOKAL NASIONAL",RCTI
 https://iptv-net.github.io/skyzu/RCTI.m3u8
-https://livetv01.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
+https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="LOKAL NASIONAL",SCTV
 http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="LOKAL NASIONAL",MNCtv
-https://livetv01.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
+https://mnctv-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
 #EXTINF:-1  tvg-logo="" group-title="LOKAL NASIONAL",MNCtv2
 https://iptv-net.github.io/skyzu/MNCTV.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="LOKAL NASIONAL",INDOSIAR
@@ -29,7 +29,7 @@ https://cubmu.superzap.xyz:8279/indosiar/playlist.m3u8
 http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1uNGLnZUnUVO0BuZKQYN-KzIRVb9yXz1x" group-title="LOKAL NASIONAL",GLOBALTV
 https://iptv-net.github.io/skyzu/GTV.m3u8
-https://livetv01.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
+https://gtv-linier.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
 #EXTINF:-1  group-title="LOKAL NASIONAL",TV ONE (2)
 http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1ZUCUkvAvWR5qJzRj8HG9wJ40MQ71vi5x" group-title="LOKAL NASIONAL",RTV
@@ -138,9 +138,11 @@ http://210.210.155.35/uq2663/h/h97/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Boomerang VI
 https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Boomerang
-https://link.zozotv.xyz:443/@nasanash/Lifetime8899/135
+http://iptv12k.com:35461/167121748/976890/614
+##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/135
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Dreamworks
-https://link.zozotv.xyz:443/@nasanash/Lifetime8899/134
+http://iptv12k.com:35461/167121748/976890/2079
+##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/134
 #https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1  group-title="KIDS",Kids Toons
 http://210.210.155.35/session/a1b2362c-9d39-11e9-9cda-b82a72d63267/qwr9ew/s/s50/01.m3u8
@@ -151,19 +153,22 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb
 #EXTINF:-1 group-title="KIDS",Kids Pluto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="KIDS",NickJR
-https://link.zozotv.xyz:443/@nasanash/Lifetime8899/137
+http://iptv12k.com:35461/167121748/976890/619
+##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/137
 #EXTINF:-1 group-title="KIDS",Nickelodeon
 ##https://cubmu.superzap.xyz:8279/NICKELODEON/playlist.m3u8
-https://link.zozotv.xyz:443/@nasanash/Lifetime8899/136
+http://iptv12k.com:35461/167121748/976890/2072
+##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/136
 #EXTINF:-1 group-title="KIDS",Miaomix
-
+http://iptv12k.com:35461/167121748/976890/2074
 #EXTINF:-1 group-title="KIDS",HappyKids
 https://happykids-roku.amagi.tv/playlist404pl.m3u8
 #EXTINF:-1 group-title="KIDS",HappyKids Junior
 https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
 #EXTINF:-1  group-title="KIDS",Carton networks
 ##https://cubmu.superzap.xyz:8279/CARTOON/playlist.m3u8
-https://link.zozotv.xyz:443/@nasanash/Lifetime8899/132
+http://iptv12k.com:35461/167121748/976890/618
+##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/132
 #EXTINF:-1 group-title="KIDS",Super simple Song
 
 #EXTINF:-1 group-title="KIDS",ZOOMOO
@@ -270,8 +275,9 @@ http://210.210.155.35:80/uq2663/h/h28/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Galaxy Premium
 
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Warner TV
-https://link.zozotv.xyz:443/@nasanash/Lifetime8899/86
-https://cubmu.superzap.xyz:8279/WARNER/playlist.m3u8
+http://iptv12k.com:35461/167121748/976890/2115
+##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/86
+##https://cubmu.superzap.xyz:8279/WARNER/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",Ruang trampil
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",Bioskop Indonesia
@@ -282,7 +288,8 @@ http://210.210.155.35/x6bnqe/s/s73/S4/mnf.m3u8
  
  
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV
-https://link.zozotv.xyz:443/@nasanash/Lifetime8899/85
+http://iptv12k.com:35461/167121748/976890/2059
+##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/85
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary
@@ -296,13 +303,15 @@ https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b1200000.m3u8
 https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo
 http://iptv.tvfix.org/hls/natlgeo.m3u8
-https://link.zozotv.xyz/@nasanash/Lifetime8899/120
+http://iptv12k.com:35461/167121748/976890/2066
+##https://link.zozotv.xyz/@nasanash/Lifetime8899/120
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo People
 ##http://58.65.171.202:8000/play/10503/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geos
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b1200000.m3u8?token=
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild
-https://link.zozotv.xyz:443/@nasanash/Lifetime8899/122
+http://iptv12k.com:35461/167121748/976890/2067
+##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/122
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild VI
 https://livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist_b1200000.m3u8?token=
 ##http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
@@ -311,11 +320,12 @@ https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b1200000.m3u
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Asian
 http://iptv.tvfix.org/hls/discovery.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY
-https://link.zozotv.xyz/@nasanash/Lifetime8899/124
+http://iptv12k.com:35461/167121748/976890/2063
+##https://link.zozotv.xyz/@nasanash/Lifetime8899/124
 #EXTINF:-1 group-title="KNOWLEDGE",Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8?checkedby:iptvcat.com
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",History
-
+http://iptv12k.com:35461/167121748/976890/2065
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Techstorm
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",FoodChannel
@@ -389,11 +399,12 @@ http://clientportal.link:80/vangelus13old/4CWsjY382/1450
 #EXTINF:-1 group-title="MOVIES",Xumo Western
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/640x360_700000/index.m3u8
 #EXTINF:-1 group-title="MOVIES",&SONY PIX
-https://link.zozotv.xyz:443/@nasanash/Lifetime8899/298
+http://iptv12k.com:35461/167121748/976890/2198
+##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/298
 #EXTINF:-1 group-title="MOVIES",&Prive
-http://51.79.147.95:8080/@nasanash/Lifetime8899/105?token=SRdZUUFeRwtAVFQKBwEDAwMKBlMDVlIAUAMKAFZSVFACUAUGUQZSBFAQHhoSTUVTA15sDwZECwJTUxUWRRJVRm1cVRIIFFcJVhAeGhVQWlNACQJQVlAHClZfDg0cQ0BdVhcLEgsPUgRAHhBdGU1SRAxSXzkGA0daAAMbDl4UXFgeF15ebVIAXANcVhpbGwcUThFaFRJEC10WClUYEgNZQEBURVUQDEcCUwUEGk0bVFkXXUcUG0QLESoiGxgSBEhAV1tCWV1YRwtARkEaTRteRT1BVhUWFFRSDgNLFgpDABYeF1xRSmkGXgxcV1sVUFhYEREJRFNEHREOCVddRA5Ca0JcVRIIFFYBUwUQRQ==
+http://iptv12k.com:35461/167121748/976890/5223
 #EXTINF:-1 group-title="MOVIES",&Flix
-http://51.79.145.99:8080/@nasanash/Lifetime8899/104?token=SRdZUUFeRwtAUwQJVg1UUFMDUlVXUlAGUAcAVgRRVgZUAQkHBwUGUwcQHhoSTUVTA15sDwZECwJTUhUWRRJVRm1cVRIIFFcJVhAeGhVQWlNACQJQVlAHClVWDAQcQ0BdVhcLEgAPUgVXEB4aBEFDUxBdUgo9AlRFCgVcFgoPRVheGRNfXGkBVA9TXFxDAxUGQB8RDxEWEwkNE1VYHENSXUZHUERXFF8TUQYFDUMVFVUNRl0SEB8TCUEvfRYcQ1VMRlBfQ1tZCxNYEEZLQxUVXxFsQQMREkNWAgtcRhJbEgQQGRNdU046Ug1cXF0CTV5ZDEARXEBXEx9BC1ZaWRVfRm1FWFQQDEcCUgYKCUNE
+https://link.zozotv.xyz:443/@nasanash/Lifetime8899/104
 #EXTINF:-1 group-title="MOVIES",Asylium
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/640x360_700000/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/jGzMaRD.png" group-title="MOVIES",FilmRise Movies
@@ -498,19 +509,23 @@ http://2serv.mylifeisgood.ml:8080/mfolive.m3u8?media=musicboxgold
 
 
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport1
-https://link.zozotv.xyz/@nasanash/Lifetime8899/155
+http://iptv12k.com:35461/167121748/976890/972
+##https://link.zozotv.xyz/@nasanash/Lifetime8899/155
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport2
-https://link.zozotv.xyz/@nasanash/Lifetime8899/156
+http://iptv12k.com:35461/167121748/976890/971
+##https://link.zozotv.xyz/@nasanash/Lifetime8899/156
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport3
-https://link.zozotv.xyz/@nasanash/Lifetime8899/157
+http://iptv12k.com:35461/167121748/976890/970
+##https://link.zozotv.xyz/@nasanash/Lifetime8899/157
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport4
-https://link.zozotv.xyz/@nasanash/Lifetime8899/158
+http://iptv12k.com:35461/167121748/976890/969
+##https://link.zozotv.xyz/@nasanash/Lifetime8899/158
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV2
-http://iptv12k.com:35461/8022011502/123456/3228
+http://iptv12k.com:35461/167121748/976890/3228
 ##https://www.livedoomovie.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV
 ##https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-https://link.zozotv.xyz:443/@nasanash/Lifetime8899/399
+http://iptv12k.com:35461/167121748/976890/967
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Motorvision
 http://210.210.155.35/uq2663/h/h09/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Golf
@@ -556,17 +571,20 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26488
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB6
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport1
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61418
+http://iptv12k.com:35461/167121748/976890/5422
+##http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61418
 ##http://93.152.174.144:4000/play/btsport1/index.m3u8
 ##https://www.livedoomovie.com:4431/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2s
 ##http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/2176486
 https://www.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61419
+http://iptv12k.com:35461/167121748/976890/5421
+##http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61419
 ##http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport3
-http://93.152.174.144:4000/play/btsport3/index.m3u8
+http://iptv12k.com:35461/167121748/976890/2377
+##http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTINF:-1 group-title="SPORTS",TENNIS
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 #EXTINF:-1 group-title="SPORTS",ESPN

@@ -138,8 +138,7 @@ http://210.210.155.35/uq2663/h/h97/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Boomerang VI
 https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Boomerang
-http://iptv12k.com:35461/167121748/976890/614
-##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/135
+https://link.zozotv.xyz:443/@nasanash/Lifetime8899/135
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Dreamworks
 http://iptv12k.com:35461/167121748/976890/2079
 ##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/134
@@ -153,12 +152,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb
 #EXTINF:-1 group-title="KIDS",Kids Pluto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="KIDS",NickJR
-http://iptv12k.com:35461/167121748/976890/619
-##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/137
+https://link.zozotv.xyz:443/@nasanash/Lifetime8899/137
 #EXTINF:-1 group-title="KIDS",Nickelodeon
 ##https://cubmu.superzap.xyz:8279/NICKELODEON/playlist.m3u8
-http://iptv12k.com:35461/167121748/976890/2072
-##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/136
+https://link.zozotv.xyz:443/@nasanash/Lifetime8899/136
 #EXTINF:-1 group-title="KIDS",Miaomix
 http://iptv12k.com:35461/167121748/976890/2074
 #EXTINF:-1 group-title="KIDS",HappyKids
@@ -167,8 +164,7 @@ https://happykids-roku.amagi.tv/playlist404pl.m3u8
 https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
 #EXTINF:-1  group-title="KIDS",Carton networks
 ##https://cubmu.superzap.xyz:8279/CARTOON/playlist.m3u8
-http://iptv12k.com:35461/167121748/976890/618
-##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/132
+https://link.zozotv.xyz:443/@nasanash/Lifetime8899/132
 #EXTINF:-1 group-title="KIDS",Super simple Song
 
 #EXTINF:-1 group-title="KIDS",ZOOMOO
@@ -405,10 +401,9 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/107/107.mpd
 #EXTINF:-1 group-title="MOVIES",Xumo Western
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/640x360_700000/index.m3u8
 #EXTINF:-1 group-title="MOVIES",&SONY PIX
-http://iptv12k.com:35461/167121748/976890/2198
-##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/298
+https://link.zozotv.xyz:443/@nasanash/Lifetime8899/298
 #EXTINF:-1 group-title="MOVIES",&Prive
-http://iptv12k.com:35461/167121748/976890/5223
+https://link.zozotv.xyz:443/@nasanash/Lifetime8899/105
 #EXTINF:-1 group-title="MOVIES",&Flix
 https://link.zozotv.xyz:443/@nasanash/Lifetime8899/104
 #EXTINF:-1 group-title="MOVIES",Asylium
@@ -515,17 +510,13 @@ http://2serv.mylifeisgood.ml:8080/mfolive.m3u8?media=musicboxgold
 
 
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport1
-http://iptv12k.com:35461/167121748/976890/972
-##https://link.zozotv.xyz/@nasanash/Lifetime8899/155
+https://link.zozotv.xyz/@nasanash/Lifetime8899/155
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport2
-http://iptv12k.com:35461/167121748/976890/971
-##https://link.zozotv.xyz/@nasanash/Lifetime8899/156
+https://link.zozotv.xyz/@nasanash/Lifetime8899/156
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport3
-http://iptv12k.com:35461/167121748/976890/970
-##https://link.zozotv.xyz/@nasanash/Lifetime8899/157
+https://link.zozotv.xyz/@nasanash/Lifetime8899/157
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport4
-http://iptv12k.com:35461/167121748/976890/969
-##https://link.zozotv.xyz/@nasanash/Lifetime8899/158
+https://link.zozotv.xyz/@nasanash/Lifetime8899/158
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV2
 http://iptv12k.com:35461/167121748/976890/3228
 ##https://www.livedoomovie.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8
@@ -561,7 +552,7 @@ http://iptv12k.com:35461/8022011502/123456/961
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Bein1
 http://iptv12k.com:35461/8022011502/123456/227
 #EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="" tvg-name"" group-title="SPORTS",BB1
-http://portal.zexo.site:8080/zero/zero/2
+http://portal.zexo.site:8080/zero/zero/3
 ##http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB2
 http://portal.zexo.site:8080/zero/zero/4
@@ -577,20 +568,15 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26488
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB6
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport1
-http://iptv12k.com:35461/167121748/976890/5422
-##http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61418
-##http://93.152.174.144:4000/play/btsport1/index.m3u8
+http://93.152.174.144:4000/play/btsport1/index.m3u8
 ##https://www.livedoomovie.com:4431/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2s
 ##http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/2176486
 https://www.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2
-http://iptv12k.com:35461/167121748/976890/5421
-##http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61419
-##http://93.152.174.144:4000/play/btsport2/index.m3u8
+http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport3
-http://iptv12k.com:35461/167121748/976890/2377
-##http://93.152.174.144:4000/play/btsport3/index.m3u8
+http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTINF:-1 group-title="SPORTS",TENNIS
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 #EXTINF:-1 group-title="SPORTS",ESPN

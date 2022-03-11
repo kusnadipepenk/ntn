@@ -633,8 +633,8 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 #EXTINF:-1 group-title="SPORTS",Euro Sport1
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4003v105.m3u8
 ##http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49473
-#EXTINF:-1 group-title="SPORTS",Euro Sport2b
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49474
+#EXTINF:-1 group-title="SPORTS",Euro Sport2
+http://1tv1.net:8080/omnia2021/123456/16126
 #EXTINF:-1 group-title="SPORTS",J-Sport1
 http://211.21.12.236:11935/live/cs05.stream/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS",J-Sport2

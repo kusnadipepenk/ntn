@@ -166,8 +166,8 @@ https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
 #EXTINF:-1  group-title="KIDS",Carton networks
 ##https://cubmu.superzap.xyz:8279/CARTOON/playlist.m3u8
 https://link.zozotv.xyz:443/@nasanash/Lifetime8899/132
-#EXTINF:-1 group-title="KIDS",Super simple Song
-
+#EXTINF:-1 group-title="KIDS",Disney Jr
+http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
 #EXTINF:-1 group-title="KIDS",ZOOMOO
 https://zoomoo-samsungau.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 group-title="KIDS",Dunia Anak

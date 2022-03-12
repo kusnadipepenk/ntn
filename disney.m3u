@@ -9,54 +9,103 @@ https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 #EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="COBA2",History
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
-#EXTINF:0 group-title="COBA2",1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",1
 http://211.21.12.236:11935/live/cs01.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",2
 http://211.21.12.236:11935/live/cs02.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",3
 http://211.21.12.236:11935/live/cs03.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",4
 http://211.21.12.236:11935/live/cs04.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",5
 http://211.21.12.236:11935/live/cs05.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",6
 http://211.21.12.236:11935/live/cs06.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",7
 http://211.21.12.236:11935/live/cs07.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",8
 http://211.21.12.236:11935/live/cs08.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",9
 http://211.21.12.236:11935/live/cs09.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",10
 http://211.21.12.236:11935/live/cs10.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",11
 http://211.21.12.236:11935/live/cs11.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",12
 http://211.21.12.236:11935/live/cs12.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",13
 http://211.21.12.236:11935/live/cs13.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",14
 http://211.21.12.236:11935/live/cs14.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",15
 http://211.21.12.236:11935/live/cs15.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",16
 http://211.21.12.236:11935/live/cs16.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",17
 http://211.21.12.236:11935/live/cs17.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",18
 http://211.21.12.236:11935/live/cs18.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",19
 http://211.21.12.236:11935/live/cs19.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",20
 http://211.21.12.236:11935/live/cs20.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",21
 http://211.21.12.236:11935/live/cs21.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",22
 http://211.21.12.236:11935/live/cs22.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",23
 http://211.21.12.236:11935/live/cs23.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",24
 http://211.21.12.236:11935/live/cs24.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",25
 http://211.21.12.236:11935/live/cs25.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",26
 http://211.21.12.236:11935/live/cs26.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",27
 http://211.21.12.236:11935/live/cs27.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",28
 http://211.21.12.236:11935/live/cs28.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",29
 http://211.21.12.236:11935/live/cs29.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",30
 http://211.21.12.236:11935/live/cs30.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",31
 http://211.21.12.236:11935/live/cs31.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",32
 http://211.21.12.236:11935/live/cs32.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",33
 http://211.21.12.236:11935/live/cs33.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",34
 http://211.21.12.236:11935/live/cs34.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",35
 http://211.21.12.236:11935/live/cs35.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",36
 http://211.21.12.236:11935/live/cs36.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",37
 http://211.21.12.236:11935/live/cs37.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",38
 http://211.21.12.236:11935/live/cs38.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",39
 http://211.21.12.236:11935/live/cs39.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",40
 http://211.21.12.236:11935/live/cs40.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",41
 http://211.21.12.236:11935/live/cs41.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",42
 http://211.21.12.236:11935/live/cs42.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",43
 http://211.21.12.236:11935/live/cs43.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",44
 http://211.21.12.236:11935/live/cs44.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",45
 http://211.21.12.236:11935/live/cs45.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",46
 http://211.21.12.236:11935/live/cs46.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",47
 http://211.21.12.236:11935/live/cs47.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",48
 http://211.21.12.236:11935/live/cs48.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",49
 http://211.21.12.236:11935/live/cs49.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COBA2",50
 http://211.21.12.236:11935/live/cs50.stream/playlist.m3u8

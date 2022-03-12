@@ -9,148 +9,54 @@ https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 #EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="COBA2",History
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
-#EXTINF:0 group-title="COBA2",HBOFam
-http://14.164.59.44:37788/rtp/232.84.3.200:11122
-#EXTINF:0 group-title="COBA2",HBOHitz
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbo.m3u8
-#EXTINF:0 group-title="COBA2",RED
-https://chama.ml/channelgratisan-RED
-#EXTINF:0 group-title="COBA2",HBOSIGN
-https://chama.ml/channelgratisan-HBOSIGN
-#EXTINF:0 group-title="COBA2",FX
-https://chama.ml/channelgratisan-FX
-#EXTINF:0 group-title="COBA2",FOXSPORT1
-https://chama.ml/channelgratisan-FOXSPORT1
-#EXTINF:0 group-title="COBA2",FOXSPORT2
-https://chama.ml/channelgratisan-FOXSPORT2
-#EXTINF:0 group-title="COBA2",FOXSPORT3
-https://chama.ml/channelgratisan-FOXSPORT3
-#EXTINF:0 group-title="COBA2",FOXNEWS
-https://chama.ml/channelgratisan-FOXNEWS
-#EXTINF:0 group-title="COBA2",FOXMOVIES
-https://chama.ml/channelgratisan-FOXMOVIES
-#EXTINF:0 group-title="COBA2",FOXACTION
-https://chama.ml/channelgratisan-FOXACTIONM
-#EXTINF:0 group-title="COBA2",FOXLIFE
-https://chama.ml/channelgratisan-FOXLIFE
-#EXTINF:0 group-title="COBA2",FOX
-https://chama.ml/channelgratisan-FOX
-#EXTINF:0 group-title="COBA2",FOXFAMILY
-https://chama.ml/channelgratisan-FOXFAMILY
-#EXTINF:0 group-title="COBA2",FOXCRIME
-https://chama.ml/channelgratisan-FOXCRIME
-#EXTINF:0 group-title="COBA2",FMN
-https://chama.ml/channelgratisan-FMN
-#EXTINF:0 group-title="COBA2",CINEWORLD
-https://chama.ml/channelgratisan-CINEWORLD
-#EXTINF:0 group-title="COBA2",KIX
-https://chama.ml/channelgratisan-KIX
-#EXTINF:0 group-title="COBA2",KIX2
-https://chama.ml/channelgratisan-KIX2
-#EXTINF:0 group-title="COBA2",SONYONE
-https://chama.ml/channelgratisan-SONYONE
-#EXTINF:0 group-title="COBA2",THRILL
-https://chama.ml/channelgratisan-THRILL
-#EXTINF:0 group-title="COBA2",CELESTIALM
-https://chama.ml/channelgratisan-CELESTIALM
-#EXTINF:0 group-title="COBA2",CARTOONNET
-https://chama.ml/channelgratisan-CARTOONNTK
-#EXTINF:0 group-title="COBA2",CCM
-https://chama.ml/channelgratisan-CCM
-#EXTINF:0 group-title="COBA2",ANIMAX
-https://chama.ml/channelgratisan-ANIMAX
-#EXTINF:0 group-title="COBA2",ANIPLUS
-https://chama.ml/channelgratisan-ANIPLUS
-#EXTINF:0 group-title="COBA2",AXN
-https://chama.ml/channelgratisan-AXN
-#EXTINF:0 group-title="COBA2",CRIMEINV
-https://chama.ml/channelgratisan-CRIMEINVEST
-#EXTINF:0 group-title="COBA2",TLC
-https://chama.ml/channelgratisan-TLC
-#EXTINF:0 group-title="COBA2",TVN
-https://chama.ml/channelgratisan-TVN
-#EXTINF:0 group-title="COBA2",TVNM
-https://chama.ml/channelgratisan-TVNMOVIES
-#EXTINF:0 group-title="COBA2",WARNER
-https://chama.ml/channelgratisan-WARNER
-#EXTINF:0 group-title="COBA2",DISNEYJR
-https://chama.ml/channelgratisan-DISNEYJr
-#EXTINF:0 group-title="COBA2",KIDSTV
-https://chama.ml/channelgratisan-KIDSTV
-#EXTINF:0 group-title="COBA2",BABYTV
-https://chama.ml/channelgratisan-BABYTV
-#EXTINF:0 group-title="COBA2",MIAOMI
-https://chama.ml/channelgratisan-MIAOMI
-#EXTINF:0 group-title="COBA2",NICKLODEON
-https://chama.ml/channelgratisan-NICKLODEON
-#EXTINF:0 group-title="COBA2",DISNEY
-https://chama.ml/channelgratisan-DISNEYCH
-#EXTINF:0 group-title="COBA2",NICKJR
-https://chama.ml/channelgratisan-NICKJr
-#EXTINF:0 group-title="COBA2",CNA
-https://chama.ml/channelgratisan-CNA
-#EXTINF:0 group-title="COBA2",FIGHTSP
-https://chama.ml/channelgratisan-FIGHTSP
-#EXTINF:0 group-title="COBA2",BEINMAX1
-https://chama.ml/channelgratisan-BEINSPORTMAX1MY
-#EXTINF:0 group-title="COBA2",BEINMAX2
-https://chama.ml/channelgratisan-BEINSPORTMAX2MY
-#EXTINF:0 group-title="COBA2",NATGEO
-https://chama.ml/channelgratisan-NATGEOASIA
-#EXTINF:0 group-title="COBA2",BEIN1
-https://chama.ml/channelgratisan-BEINSPORT1ID
-#EXTINF:0 group-title="COBA2",BEIN2
-https://chama.ml/channelgratisan-BEINSPORT2ID
-#EXTINF:-1 group-title="COBA2",==================================
-http://Gooooooggllee.com
-
-#EXTINF:-1 group-title="COBA2",Galaxyhisto
-https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
-#EXTINF:-1 group-title="COBA2",HBO Family
-http://tvku.live:8888/live/Nayra/160190/26598.m3u8
-#EXTINF:-1 group-title="COBA2",HBO
-http://tvku.live:8888/live/Nayra/160190/26595.m3u8
-#EXTINF:-1 group-title="COBA2",HBO Hits
-http://tvku.live:8888/live/Nayra/160190/26596.m3u8
-#EXTINF:-1 group-title="COBA2",SHBO Signature
-http://tvku.live:8888/live/Nayra/160190/26597.m3u8
-#EXTINF:-1 group-title="COBA2",Nick JR ID
-http://tvku.live:8888/live/Nayra/160190/14165.m3u8
-#EXTINF:-1 group-title="COBA2",Spacetoon
-http://tvku.live:8888/live/Nayra/160190/3603.m3u8
-#EXTINF:-1 group-title="COBA2",Bioskop Indonesia
-http://tvku.live:8888/live/Nayra/160190/908.m3u8
-#EXTINF:-1 group-title="COBA2",Cinemax SD
-http://tvku.live:8888/live/Nayra/160190/26599.m3u8
-#EXTINF:-1 group-title="COBA2",FLIK HD
-http://tvku.live:8888/live/Nayra/160190/29592.m3u8
-#EXTINF:-1 group-title="COBA2",FMN
-http://tvku.live:8888/live/Nayra/160190/11489.m3u8
-#EXTINF:-1 group-title="COBA2",Red By HBO HD
-http://tvku.live:8888/live/Nayra/160190/4832.m3u8
-#EXTINF:-1 group-title="COBA2",Toonmax
-http://tvku.live:8888/live/333/333/1116.m3u8
-#EXTINF:-1 group-title="COBA2",Astro Cricket HD
-http://tvku.live:8888/live/Nayra/160190/4237.m3u8
-#EXTINF:-1 group-title="COBA2",BeIN Sport 1 ID
-http://tvku.live:8888/live/Nayra/160190/728.m3u8
-#EXTINF:-1 group-title="COBA2",BeIN Sport 2 ID
-http://tvku.live:8888/live/Nayra/160190/729.m3u8
-#EXTINF:-1 group-title="COBA2",Box Nation
-http://tvku.live:8888/live/Nayra/160190/499.m3u8
-#EXTINF:-1 group-title="COBA2",TVN ID
-http://tvku.live:8888/live/live/Nayra/160190/767.m3u8
-#EXTINF:-1 group-title="COBA2",tVN Movies HD
-http://tvku.live:8888/live/Nayra/160190/927.m3u8
-#EXTINF:-1 group-title="COBA2",Channel V Int
-http://tvku.live:8888/live/Nayra/160190/766.m3u8
-#EXTINF:-1 group-title="COBA2",MTV
-http://tvku.live:8888/live/Nayra/160190/281.m3u8
-#EXTINF:-1 group-title="COBA2",MTV Base
-http://tvku.live:8888/live/Nayra/160190/291.m3u8
-#EXTINF:-1 group-title="COBA2",MTV Classic
-http://tvku.live:8888/live/Nayra/160190/289.m3u8
-#EXTINF:-1 group-title="COBA2",MTV Dance
-http://tvku.live:8888/live/Nayra/160190/288.m3u8
-#EXTINF:-1 group-title="COBA2",MTV Hits
-http://tvku.live:8888/live/Nayra/160190/287.m3u8
+#EXTINF:0 group-title="COBA2",1
+http://211.21.12.236:11935/live/cs01.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs02.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs03.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs04.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs05.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs06.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs07.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs08.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs09.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs10.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs11.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs12.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs13.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs14.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs15.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs16.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs17.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs18.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs19.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs20.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs21.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs22.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs23.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs24.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs25.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs26.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs27.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs28.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs29.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs30.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs31.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs32.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs33.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs34.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs35.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs36.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs37.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs38.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs39.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs40.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs41.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs42.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs43.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs44.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs45.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs46.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs47.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs48.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs49.stream/playlist.m3u8
+http://211.21.12.236:11935/live/cs50.stream/playlist.m3u8

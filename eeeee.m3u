@@ -11,7 +11,6 @@ http://rr.dens.tv/h/h11/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D5gBX8N/trans7.jpg" group-title="LOKAL NASIONAL",TRANS7(2)
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="LOKAL NASIONAL",RCTI
-https://iptv-net.github.io/skyzu/RCTI.m3u8
 https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="LOKAL NASIONAL",SCTV
 http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
@@ -279,7 +278,7 @@ http://iptv12k.com:35461/167121748/976890/2115
 #EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",Ruang trampil
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",Bioskop Indonesia
-https://cubmu.superzap.xyz:8279/bioskop/playlist.m3u8
+##https://cubmu.superzap.xyz:8279/bioskop/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",O Channel
 http://210.210.155.35/x6bnqe/s/s73/S4/mnf.m3u8
  
@@ -510,9 +509,9 @@ https://api.mbed.cc/youtube/live.m3u8?id=F4aby5WN1Rw
 #EXTINF:-1 group-title="Music",Portalfox mix
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/eroz_brebes.m3u8
 #EXTINF:-1 group-title="Music",Musik Indonesia
-https://cubmu.superzap.xyz:8279/musikindo/playlist.m3u8
+##https://cubmu.superzap.xyz:8279/musikindo/playlist.m3u8
 #EXTINF:-1 group-title="Music",TMusik
-https://cubmu.superzap.xyz:8279/tmusic/playlist.m3u8
+##https://cubmu.superzap.xyz:8279/tmusic/playlist.m3u8
 #EXTINF:-1 group-title="Music",Box Gold
 http://2serv.mylifeisgood.ml:8080/mfolive.m3u8?media=musicboxgold
 

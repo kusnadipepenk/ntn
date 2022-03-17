@@ -216,7 +216,7 @@ http://210.210.155.35/x6bnqe/h/h194/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="PREMIUM INDONESIA",K+
 http://45.126.83.51/uq2663/h/h08/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="PREMIUM INDONESIA",K+ (telkom)
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/index.m3u8
+##https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/jWjxD83/sonson.jpg" group-title="PREMIUM INDONESIA",SonyOne
 http://210.210.155.35/uq2663/h/h143/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/jWjxD83/sonson.jpg" group-title="PREMIUM INDONESIA",SonyOne-2
@@ -256,7 +256,7 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 http://210.210.155.35/session/d65d1e28-9d39-11e9-bb4c-b82a72d63267/uq2663/h/h01/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/NCHDgCd/ucan.png" group-title="PREMIUM INDONESIA",U-Channel
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/NCHDgCd/ucan.png" group-title="PREMIUM INDONESIA",U-Channel(2)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/NCHDgCd/ucan.png" group-title="PREMIUM INDONESIA",O Chanel
 http://210.210.155.35/qwr9ew/s/s41/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Life Channel (Christian)
 https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
@@ -280,7 +280,7 @@ http://iptv12k.com:35461/167121748/976890/2115
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",Bioskop Indonesia
 ##https://cubmu.superzap.xyz:8279/bioskop/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",O Channel
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",U-Channel
 http://210.210.155.35/x6bnqe/s/s73/S4/mnf.m3u8
  
  

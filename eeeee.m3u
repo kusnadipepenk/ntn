@@ -286,6 +286,7 @@ http://210.210.155.35/x6bnqe/s/s73/S4/mnf.m3u8
  
  
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV
+https://16live00.akamaized.net/HGTV/index.m3u8
 http://iptv12k.com:35461/8022022301/468985/2059
 ##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/85
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Arirang Korea
@@ -296,12 +297,13 @@ http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth
 http://125.209.88.166:45793/BRN/BBCEarthHD.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth2
 https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",TLC
 https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo
 http://iptv.tvfix.org/hls/natlgeo.m3u8
-http://iptv12k.com:35461/8022022301/468985/2066
+##http://iptv12k.com:35461/8022022301/468985/2066
 ##https://link.zozotv.xyz/@nasanash/Lifetime8899/120
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo People
 ##http://58.65.171.202:8000/play/10503/index.m3u8
@@ -351,7 +353,8 @@ https://wildearth-roku.amagi.tv/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOID
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO US
+https://16live00.akamaized.net/HBO/index.m3u8
 ##https://tvlivehometv.xyz/RHS/hbo1.m3u8?channel=hbo
 ##https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOFamsID
@@ -365,7 +368,8 @@ https://wildearth-roku.amagi.tv/master.m3u8
 ##https://kusnadipepenk.github.io/campeign/hbihit.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",reds
 ##https://kusnadipepenk.github.io/campeign/hbored.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Cinemas-ID
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Cinemax US
+https://16live00.akamaized.net/CINEMAX/index.m3u8
 ##https://tvlivehometv.xyz/RHS/hbo1.m3u8?channel=max
 ##https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
 
@@ -588,7 +592,8 @@ https://16live00.akamaized.net/BTSPORTS2/index.m3u8
 http://iptv12k.com:35461/8022022301/468985/2372
 ##http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport3
-http://iptv12k.com:35461/8022022301/468985/2372
+https://16live00.akamaized.net/BTSPORTS3/index.m3u8
+##http://iptv12k.com:35461/8022022301/468985/2372
 ##http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTINF:-1 group-title="SPORTS",TENNIS
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8

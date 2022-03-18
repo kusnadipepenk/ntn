@@ -576,12 +576,14 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26488
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB6
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport1
-http://iptv12k.com:35461/8022022301/468985/2380
+https://16live00.akamaized.net/BTSPORTS1/index.m3u8
+##http://iptv12k.com:35461/8022022301/468985/2380
 ##http://93.152.174.144:4000/play/btsport1/index.m3u8
 ##https://www.livedoomovie.com:4431/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2s
+https://16live00.akamaized.net/BTSPORTS2/index.m3u8
 ##http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/2176486
-https://www.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
+##https://www.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2
 http://iptv12k.com:35461/8022022301/468985/2372
 ##http://93.152.174.144:4000/play/btsport2/index.m3u8

@@ -403,6 +403,13 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/106/106.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/107/107.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",1
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/109/109.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",2
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/101/101.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",3
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/102/102.mpd
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",&flix2
 

@@ -385,9 +385,11 @@ http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hits
 http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=max
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",3HBo VI
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b1200000.m3u8?token=
-http://ip2121.com:8081/live/hbo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",3Cinemax VI
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b1200000.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO2 TH
+http://ip2121.com:8081/live/hbo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOCinemax2 TH
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOSIG TH
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/104/104.mpd
@@ -399,8 +401,8 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/105/105.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/106/106.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOCinemax TH
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/107/107.mpd
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",1
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/109/109.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",&flix2
 

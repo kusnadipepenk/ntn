@@ -464,11 +464,11 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist480p.m3u8
 http://103.166.253.222/hls/movies-now.m3u8
 ##http://live.flixhub.net/hls/movies-now.m3u8
 #EXTINF:-1 group-title="MOVIES",MNX
-http://103.166.253.222/hls/mnx-hd,m3u8
-##http://live.flixhub.net/hls/mnx-hd.m3u8
+http://103.166.253.222/hls/mnx-hd.m3u8
+http://live.flixhub.net/hls/mnx-hd.m3u8
 #EXTINF:-1 group-title="MOVIES",MN+
 http://103.166.253.222/hls/mn+.m3u8
-##http://live.flixhub.net/hls/mn+.m3u8
+http://live.flixhub.net/hls/mn+.m3u8
 #EXTINF:-1 group-title="MOVIES",J Movie1
 http://211.21.12.236:11935/live/cs10.stream/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",J Movie2
@@ -519,9 +519,9 @@ https://api.mbed.cc/youtube/live.m3u8?id=F4aby5WN1Rw
 #EXTINF:-1 group-title="Music",Portalfox mix
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/eroz_brebes.m3u8
 #EXTINF:-1 group-title="Music",Musik Indonesia
-##https://cubmu.superzap.xyz:8279/musikindo/playlist.m3u8
+
 #EXTINF:-1 group-title="Music",TMusik
-##https://cubmu.superzap.xyz:8279/tmusic/playlist.m3u8
+
 #EXTINF:-1 group-title="Music",Box Gold
 http://2serv.mylifeisgood.ml:8080/mfolive.m3u8?media=musicboxgold
 

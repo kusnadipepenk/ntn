@@ -138,7 +138,8 @@ http://210.210.155.35/uq2663/h/h97/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Boomerang VI
 https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Boomerang
-https://link.zozotv.xyz:443/@nasanash/Lifetime8899/135
+https://16live00.akamaized.net/BOOMERANG/index.m3u8
+##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/135
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Dreamworks
 http://iptv12k.com:35461/167121748/976890/2079
 ##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/134
@@ -156,8 +157,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395
 http://iptv12k.com:35461/8022022301/468985/619
 ##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/137
 #EXTINF:-1 group-title="KIDS",Nickelodeon
-##https://cubmu.superzap.xyz:8279/NICKELODEON/playlist.m3u8
-https://link.zozotv.xyz:443/@nasanash/Lifetime8899/136
+https://16live00.akamaized.net/NICKELODEON/index.m3u8
+##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/136
 #EXTINF:-1 group-title="KIDS",Miaomix
 http://iptv12k.com:35461/8022022301/468985/2074
 #EXTINF:-1 group-title="KIDS",HappyKids
@@ -177,7 +178,6 @@ https://cubmu.superzap.xyz:8279/duniaanak/playlist.m3u8
 https://siloh.pluto.tv/lilo/production/Nick/01/master_3.m3u8
 #EXTINF:-1 group-title="KIDS",Tiny POP
 https://3670.short.gy/channel/615
-http://185.229.241.27/auth/fuZIA1JZY3vmUltexaMP26guObfvF5aLitwXIvTOTlMBt6Cz0S35nT81xgLGYqae5-gCtBJL6TKputZfaaTm3RNFlyXQkpcl0kIDp0Fbj1vfsTMoPU1_-DXe4qW1aNeMMxtUheNh6qq5wQLU3o-sKgNM8pxVlsNs6tCJeI1rDDxPdacx_K0WG8Ds0HS6kwgVhy3Nsal_YUtzGsqNtlo4H5_9-UkJK5geYhjsJ3IH0gkFcWsObLWkn3E45_6sJv7OpXM0ktNfp1VlT9khCiLtG5y0GDv7iBI-gNyMPMVOBnJ00Unw85radE9C9zaaeVuxgspZwk8wvHQww4YsaeGZnUTrgrqmkgFz17U0DaJHaT17LvxBq0zZ3ilGtG0T7O7Qnr-LAx9i79Xl4IK792uCfimPxx16qoFB2zAfT-bm7xax853JsTB8f3eBy3VqXzL_touEuGDg-VJxKkH9-e73BVdh_NnD6-sB3KF8vku0sQfd4ZLSmkhO-0hWa29nTpSTiLCXG_iaXQYqLAMxgPLulXffxT-HHICXOm3KlFJbZWd-Mc0cLZBDFJ_Lf8yy7OPB7CvFniYBkhDKqP3wpYxcqGFErQh-kDw7CxdGbc5w2IpLIW393vW_XnF5ChNPqBdDovS9z0RagFkHFIlo-vj2CRHFyAf9DtAGMSIiYK3pivj4b3Vo1IG9wd9es8TfYx-iRuWRZY3dog9aESfSN40pNEtisVW83QloHRUErm6tHTI
 #EXTINF:-1 group-title="KIDS",Nick Jr. Dora TV
 https://siloh.pluto.tv/lilo/production/Nick/03/master_3.m3u8
 #EXTINF:-1 group-title="KIDS",Nick Jr. Pluto
@@ -404,8 +404,8 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/102/102.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",&flix2
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",A&E
+https://16live00.akamaized.net/A&E/index.m3u8
 #EXTINF:-1 group-title="MOVIES",Xumo Western
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/640x360_700000/index.m3u8
 #EXTINF:-1 group-title="MOVIES",&SONY PIX
@@ -461,11 +461,14 @@ https://mytime-tcl.amagi.tv/playlist404-p.m3u8
 #EXTINF:-1 group-title="MOVIES",Movie Sphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 group-title="MOVIES",Movies Now
-http://live.flixhub.net/hls/movies-now.m3u8
+http://103.166.253.222/hls/movies-now.m3u8
+##http://live.flixhub.net/hls/movies-now.m3u8
 #EXTINF:-1 group-title="MOVIES",MNX
-http://live.flixhub.net/hls/mnx-hd.m3u8
+http://103.166.253.222/hls/mnx-hd,m3u8
+##http://live.flixhub.net/hls/mnx-hd.m3u8
 #EXTINF:-1 group-title="MOVIES",MN+
-http://live.flixhub.net/hls/mn+.m3u8
+http://103.166.253.222/hls/mn+.m3u8
+##http://live.flixhub.net/hls/mn+.m3u8
 #EXTINF:-1 group-title="MOVIES",J Movie1
 http://211.21.12.236:11935/live/cs10.stream/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",J Movie2
@@ -603,7 +606,8 @@ https://16live00.akamaized.net/BTSPORTS3/index.m3u8
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 #EXTINF:-1 group-title="SPORTS",ESPN
 https://16live00.akamaized.net/ESPN/index.m3u8
-##https://mbed.cc/8hbvs
+#EXTINF:-1 group-title="SPORTS",ESPN2
+https://16live00.akamaized.net/ESPN2/index.m3u8
 #EXTINF:-1 group-title="SPORTS",Star Sport
 http://iptv.tvfix.org/hls/starsports.m3u8
 #EXTINF:-1 group-title="SPORTS",Sporttv Plus
@@ -639,7 +643,8 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 #EXTINF:-1 group-title="SPORTS",Fox Sport3
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 #EXTINF:-1 group-title="SPORTS",Euro Sport1
-http://iptv12k.com:35461/8022022301/468985/2365
+https://16live00.akamaized.net/EUROSPORTS1/index.m3u8
+##http://iptv12k.com:35461/8022022301/468985/2365
 ##http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49473
 #EXTINF:-1 group-title="SPORTS",Euro Sport2
 http://iptv12k.com:35461/8022022301/468985/2363

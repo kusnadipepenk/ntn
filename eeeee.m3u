@@ -565,6 +565,21 @@ http://api.magiaiptv.com/live/800196/128093/m1_skysportsf1_720p
 https://edgesport-samsungus.amagi.tv/playlist480p.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FoXSport AUSTralia
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360_v3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",BR SPORT1
+http://50.7.34.155:2201/BR/Sportv_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+##https://goiptv.site/redir.php?acesso=86d15f5525ac45f2bc7248bd555bc7fc&usuario=4cfa45c64eafb1da9fe4f3e2947e8061
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",BR SPORT2
+http://50.7.34.155:2200/BR/Sportv_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+##https://goiptv.site/redir.php?acesso=2c7bdc4fe719e19a03d94ada9bf55f1b&usuario=4cfa45c64eafb1da9fe4f3e2947e8061
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",BR SPORT3
+http://50.7.34.155:2200/BR/Sportv_3_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+##https://goiptv.site/redir.php?acesso=c481c9e51ea4ea06c149d2d45c52cebe&usuario=4cfa45c64eafb1da9fe4f3e2947e8061
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",BR Fox1
+https://goiptv.site/redir.php?acesso=4dcfaac3948206a3a75b497fd5833263&usuario=4cfa45c64eafb1da9fe4f3e2947e8061
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",BR FOX2
+http://50.7.34.155:2201/BR/Fox_Sports_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",BR Fox3
+http://50.7.34.155:2201/BR/Fox_Sports_3_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Bein2
 http://iptv12k.com:35461/8022022301/468985/961
 ##https://www.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
@@ -601,10 +616,10 @@ http://iptv12k.com:35461/8022022301/468985/2372
 ##http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTINF:-1 group-title="SPORTS",TENNIS
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
-#EXTINF:-1 group-title="SPORTS",ESPN
-
-#EXTINF:-1 group-title="SPORTS",ESPN2
-
+#EXTINF:-1 group-title="SPORTS",TNT SPORT1
+http://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8
+#EXTINF:-1 group-title="SPORTS",TNT SPORT2
+http://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8
 #EXTINF:-1 group-title="SPORTS",Star Sport
 http://iptv.tvfix.org/hls/starsports.m3u8
 #EXTINF:-1 group-title="SPORTS",Sporttv Plus

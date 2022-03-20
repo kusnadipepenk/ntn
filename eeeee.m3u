@@ -138,7 +138,7 @@ http://210.210.155.35/uq2663/h/h97/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Boomerang VI
 https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Boomerang
-https://16live00.akamaized.net/BOOMERANG/index.m3u8
+http://iptv12k.com:35461/8022022301/468985/614
 ##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/135
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Dreamworks
 http://iptv12k.com:35461/167121748/976890/2079
@@ -157,7 +157,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395
 http://iptv12k.com:35461/8022022301/468985/619
 ##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/137
 #EXTINF:-1 group-title="KIDS",Nickelodeon
-https://16live00.akamaized.net/NICKELODEON/index.m3u8
+http://iptv12k.com:35461/8022022301/468985/617
 ##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/136
 #EXTINF:-1 group-title="KIDS",Miaomix
 http://iptv12k.com:35461/8022022301/468985/2074
@@ -279,7 +279,6 @@ http://210.210.155.35/x6bnqe/s/s73/S4/mnf.m3u8
  
  
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV
-https://16live00.akamaized.net/HGTV/index.m3u8
 http://iptv12k.com:35461/8022022301/468985/2059
 ##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/85
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Arirang Korea
@@ -347,7 +346,6 @@ https://wildearth-roku.amagi.tv/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO US
-https://16live00.akamaized.net/HBO/index.m3u8
 ##https://tvlivehometv.xyz/RHS/hbo1.m3u8?channel=hbo
 ##https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOFamsID
@@ -362,7 +360,6 @@ https://16live00.akamaized.net/HBO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",reds
 ##https://kusnadipepenk.github.io/campeign/hbored.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Cinemax US
-https://16live00.akamaized.net/CINEMAX/index.m3u8
 ##https://tvlivehometv.xyz/RHS/hbo1.m3u8?channel=max
 ##https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
 
@@ -405,13 +402,15 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/102/102.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",A&E
-https://16live00.akamaized.net/A&E/index.m3u8
+
 #EXTINF:-1 group-title="MOVIES",Xumo Western
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/640x360_700000/index.m3u8
 #EXTINF:-1 group-title="MOVIES",&SONY PIX
-https://link.zozotv.xyz:443/@nasanash/Lifetime8899/298
+http://iptv12k.com:35461/8022022301/468985/2198
+##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/298
 #EXTINF:-1 group-title="MOVIES",&Prive
-https://link.zozotv.xyz:443/@nasanash/Lifetime8899/105
+http://iptv12k.com:35461/8022022301/468985/5223
+##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/105
 #EXTINF:-1 group-title="MOVIES",&Flix
 https://link.zozotv.xyz:443/@nasanash/Lifetime8899/104
 #EXTINF:-1 group-title="MOVIES",Asylium
@@ -526,6 +525,7 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/eroz_brebes.m3u8
 http://2serv.mylifeisgood.ml:8080/mfolive.m3u8?media=musicboxgold
 
 
+
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",Fight SPort
 http://210.210.155.35:80/dr9445/h/h05/01.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS",AstroSport1
@@ -540,8 +540,8 @@ https://link.zozotv.xyz/@nasanash/Lifetime8899/158
 http://iptv12k.com:35461/8022022301/468985/3228
 ##https://www.livedoomovie.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV
-##https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 http://iptv12k.com:35461/8022022301/468985/967
+https://cgk1.securepath.site/Thopani/Haidir/51?token=QhBYV0dYRg4TCAcGUAdTUFEHVgYDDQBSW1dVVAcOVARcAwMDBlFWAgAaSBAQEEJXVQhvWgIbCVAIGBJEElMTPVBWEgwWAVQBCApVEE9GRFtZABIJVw8HUgEFBgRTBE1ASVtUFA4SVwwBD1UQT0ZVSkAAQl0HVWwBXEJZUgQUWwxMXlwaFl8Ka1VdCVMNABIIFlUSH0RQQBUbDhJhNRYrA0tbXlFVXkR5RFQQWw4BVFtVRXldAlZdAEpdURNNFAMLTUBRQlESXhYADlwEQUgSUVsQXkcUQBFfG310E00UBBpNV15FXV8KFgsaEEFBSBJbRzpCVhVNQQBYWVVDQwxDUhseEltVSDtXXlYKVwAQWV1aFhIJRAgRSRtZX18IQg4QZkJZUhYKRgAACV0FQRk=
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Motorvision
 http://210.210.155.35/uq2663/h/h09/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Golf
@@ -587,27 +587,24 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26488
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB6
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport1
-https://16live00.akamaized.net/BTSPORTS1/index.m3u8
-##http://iptv12k.com:35461/8022022301/468985/2380
+http://iptv12k.com:35461/8022022301/468985/2380
 ##http://93.152.174.144:4000/play/btsport1/index.m3u8
 ##https://www.livedoomovie.com:4431/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2s
-https://16live00.akamaized.net/BTSPORTS2/index.m3u8
-##http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/2176486
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/2176486
 ##https://www.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2
 http://iptv12k.com:35461/8022022301/468985/2372
 ##http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport3
-https://16live00.akamaized.net/BTSPORTS3/index.m3u8
-##http://iptv12k.com:35461/8022022301/468985/2372
+http://iptv12k.com:35461/8022022301/468985/2372
 ##http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTINF:-1 group-title="SPORTS",TENNIS
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 #EXTINF:-1 group-title="SPORTS",ESPN
-https://16live00.akamaized.net/ESPN/index.m3u8
+
 #EXTINF:-1 group-title="SPORTS",ESPN2
-https://16live00.akamaized.net/ESPN2/index.m3u8
+
 #EXTINF:-1 group-title="SPORTS",Star Sport
 http://iptv.tvfix.org/hls/starsports.m3u8
 #EXTINF:-1 group-title="SPORTS",Sporttv Plus
@@ -643,8 +640,7 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 #EXTINF:-1 group-title="SPORTS",Fox Sport3
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 #EXTINF:-1 group-title="SPORTS",Euro Sport1
-https://16live00.akamaized.net/EUROSPORTS1/index.m3u8
-##http://iptv12k.com:35461/8022022301/468985/2365
+http://iptv12k.com:35461/8022022301/468985/2365
 ##http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49473
 #EXTINF:-1 group-title="SPORTS",Euro Sport2
 http://iptv12k.com:35461/8022022301/468985/2363

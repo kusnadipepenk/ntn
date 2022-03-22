@@ -342,6 +342,10 @@ https://xplore-plex.amagi.tv/playlist.m3u8
 ==http://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="",Wild Earth
 https://wildearth-roku.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="",iFood
+https://ft-ifood-roku.amagi.tv/playlist288p.m3u8
+#EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
 
 
 
@@ -401,8 +405,8 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/102/102.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",A&E
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Runtime
+https://ammoruntime-plex.amagi.tv/playlistR432p.m3u8
 #EXTINF:-1 group-title="MOVIES",Xumo Western
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/640x360_700000/index.m3u8
 #EXTINF:-1 group-title="MOVIES",&SONY PIX
@@ -529,13 +533,17 @@ http://2serv.mylifeisgood.ml:8080/mfolive.m3u8?media=musicboxgold
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Fight SPort
 http://210.210.155.35:80/dr9445/h/h05/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",AstroSport1
-https://link.zozotv.xyz/@nasanash/Lifetime8899/155
+http://iptv12k.com:35461/8022022301/468985/972
+##https://link.zozotv.xyz/@nasanash/Lifetime8899/155
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",AstroSport2
-https://link.zozotv.xyz/@nasanash/Lifetime8899/156
+http://iptv12k.com:35461/8022022301/468985/971
+##https://link.zozotv.xyz/@nasanash/Lifetime8899/156
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",AstroSport3
-https://link.zozotv.xyz/@nasanash/Lifetime8899/157
+http://iptv12k.com:35461/8022022301/468985/970
+##https://link.zozotv.xyz/@nasanash/Lifetime8899/157
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",AstroSport4
-https://link.zozotv.xyz/@nasanash/Lifetime8899/158
+http://iptv12k.com:35461/8022022301/468985/969
+##https://link.zozotv.xyz/@nasanash/Lifetime8899/158
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV2
 https://cgk1.securepath.site/Thopani/Haidir/101?token=
 http://iptv12k.com:35461/8022022301/468985/3228
@@ -570,19 +578,19 @@ http://iptv12k.com:35461/8022022301/468985/961
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Bein1
 http://iptv12k.com:35461/8022022301/468985/227
 #EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="" tvg-name"" group-title="SPORTS",BB1
-http://portal.zexo.site:8080/zero/zero/3
+##http://portal.zexo.site:8080/zero/zero/3
 ##http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB2
-http://portal.zexo.site:8080/zero/zero/4
+##http://portal.zexo.site:8080/zero/zero/4
 ##http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB3
-http://portal.zexo.site:8080/zero/zero/5
+###http://portal.zexo.site:8080/zero/zero/5
 ##http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26486
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB4
-http://portal.zexo.site:8080/zero/zero/6
+###http://portal.zexo.site:8080/zero/zero/6
 ##http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26487
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB5
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26488
+###http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26488
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB6
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport1
@@ -663,7 +671,7 @@ https://livecdn.fptplay.net/hda2/foxsports_hls.smil/chunklist_b1200000.m3u8?toke
 https://livecdn.fptplay.net/hda2/foxsports3_hls.smil/chunklist_b1200000.m3u8?token=
 ##http://203.159.95.172:8081/live/bein01/chunks.m3u8
 #EXTINF:-1 group-title="Mola",test1
-http://120.84.96.154:808/hls/31/index.m3u8
+
 
 
 #EXTINF:-1   tvg-logo="" group-title="Relax",Beaches Live
@@ -726,21 +734,21 @@ http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=history&gumisasakT
 
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="VIDIO",mentariTV 
-http://tvn.x10.bz/vidio/master-22.m3u8
+##http://tvn.x10.bz/vidio/master-22.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="VIDIO",INDOSIAR 
-http://tvn.x10.bz/vidio/master.m3u8 
+##http://tvn.x10.bz/vidio/master.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="VIDIO",RCTI 
 #https://znjjprwzgeyyp.vidio.com/hls-p/ingest_665_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ochannel.png" group-title="VIDIO",O Channel 
-http://tvn.x10.bz/vidio/master-18.m3u8 
+##http://tvn.x10.bz/vidio/master-18.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ajwatv.png" group-title="VIDIO",AJWA TV 
 #https://znjjprwzgeyyp.vidio.com/hls-p/ingest_7464_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="VIDIO",Kompas TV 
-http://tvn.x10.bz/vidio/master-19.m3u8 
+##http://tvn.x10.bz/vidio/master-19.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bs.png" group-title="VIDIO",Berita Satu 
 #https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6165_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="VIDIO",Metro TV 
-http://tvn.x10.bz/vidio/master-23.m3u8
+##http://tvn.x10.bz/vidio/master-23.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/net.png" group-title="VIDIO",NET. 
 #https://znjjprwzgeyyp.vidio.com/hls-p/ingest_875_720p/index.m3u8 
 #EXTINF:-1 tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="VIDIO",Trans TV 
@@ -774,7 +782,7 @@ http://tvn.x10.bz/vidio/master-23.m3u8
 #==https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6686_720p/index.m3u8 
 #https://newlivetv.my.id/vidio/6686-LiveTV.m3u8?livetv
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions3.png" group-title="VIDIO",Champions TV 4 
-http://tvn.x10.bz/vidio/master-17.m3u8
+##http://tvn.x10.bz/vidio/master-17.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIDIO",Bein1
 #==https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6299_720p/index.m3u8
 #https://newlivetv.my.id/vidio/6299-LiveTV.m3u8?livetv
@@ -793,12 +801,12 @@ http://tvn.x10.bz/vidio/master-17.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zeebioskop.png" group-title="VIDIO",Zee Bioskop 
 #https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6399_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/citrabioskop.png" group-title="VIDIO",Citra Bioskop 
-http://tvn.x10.bz/vidio/master-1.m3u8
+##http://tvn.x10.bz/vidio/master-1.m3u8
 #https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6684_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/citradangdut.png" group-title="VIDIO",Citra Dangdut 
 #https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6587_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/citraentertainment.png" group-title="VIDIO",TV one 
-http://tvn.x10.bz/vidio/master-13.m3u8
+##http://tvn.x10.bz/vidio/master-13.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zing.png" group-title="VIDIO",Zing 
 #https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6747_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/arirang.png" group-title="VIDIO",ARIRANG 
@@ -823,11 +831,11 @@ http://tvn.x10.bz/vidio/master-13.m3u8
 http://tvn.x10.bz/vidio/master-4.m3u8 
 #https://newlivetv.my.id/vidio/7052-LiveTV.m3u8?livetv
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zoomoo.png" group-title="VIDIO",Zoomoo 
-http://tvn.x10.bz/vidio/master-25.m3u8
+##http://tvn.x10.bz/vidio/master-25.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/davinci.png" group-title="VIDIO",Da Vinci 
 #https://newlivetv.my.id/vidio/6549-LiveTV.m3u8?livetv
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/horee.png" group-title="VIDIO",Horee 
-http://tvn.x10.bz/vidio/master-5.m3u8
+##http://tvn.x10.bz/vidio/master-5.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/smithsonian.png" group-title="VIDIO",Smithsonian 
 #https://newlivetv.my.id/vidio/6550-LiveTV.m3u8?livetv
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/lovenature.png" group-title="VIDIO",Love Nature 

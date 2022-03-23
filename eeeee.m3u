@@ -410,13 +410,16 @@ https://ammoruntime-plex.amagi.tv/playlistR432p.m3u8
 #EXTINF:-1 group-title="MOVIES",Xumo Western
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/640x360_700000/index.m3u8
 #EXTINF:-1 group-title="MOVIES",&SONY PIX
-http://iptv12k.com:35461/8022022301/468985/2198
-##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/298
+http://live.flixhub.net/hls/sonypixhd.m3u8
+#EXTINF:-1 group-title="MOVIES",&SONY PIX2
+http://103.166.253.222/hls/sonypixhd.m3u8
 #EXTINF:-1 group-title="MOVIES",&Prive
-http://iptv12k.com:35461/8022022301/468985/5223
+http://103.153.39.36:8000/play/a01d
+##http://iptv12k.com:35461/8022022301/468985/5223
 ##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/105
 #EXTINF:-1 group-title="MOVIES",&Flix
-https://link.zozotv.xyz:443/@nasanash/Lifetime8899/104
+http://103.153.39.36:8000/play/a00p
+##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/104
 #EXTINF:-1 group-title="MOVIES",Asylium
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/640x360_700000/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/jGzMaRD.png" group-title="MOVIES",FilmRise Movies
@@ -614,6 +617,20 @@ http://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8
 http://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8
 #EXTINF:-1 group-title="SPORTS",Star Sport
 http://iptv.tvfix.org/hls/starsports.m3u8
+#EXTINF:-1 group-title="SPORTS",Star Sport1
+http://live.flixhub.net/hls/stersports1hd.m3u8
+#EXTINF:-1 group-title="SPORTS",Star Sport2
+http://live.flixhub.net/hls/starsports2.m3u8
+#EXTINF:-1 group-title="SPORTS",Star Sport Select1
+http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:-1 group-title="SPORTS",Star Sport Select2
+http://live.flixhub.net/hls/select2.m3u8
+#EXTINF:-1 group-title="SPORTS",Sony Ten1
+http://live.flixhub.net/hls/sonyten1.m3u8
+#EXTINF:-1 group-title="SPORTS",Sony Ten2
+http://live.flixhub.net/hls/sonyten2.m3u8
+#EXTINF:-1 group-title="SPORTS",Sony Ten3
+http://live.flixhub.net/hls/sonyten3.m3u8
 #EXTINF:-1 group-title="SPORTS",Sporttv Plus
 http://api.magiaiptv.com/live/800196/128093/m3_UCWbpolpkgstvp_1080p
 #EXTINF:-1 group-title="SPORTS",Sporttv1

@@ -773,16 +773,18 @@ http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=history&gumisasakT
 #https://newlivetv.my.id/vidio/6711-LiveTV.m3u8?livetv
 #EXTINF:-1 tvg-id="nusantaratv" tvg-logo="http://kamiselaluada.com/img/ntv.png" group-title="VIDIO",Nusantara TV 
 #https://znjjprwzgeyyp.vidio.com/hls-p/ingest_7432_720p/index.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/daaitv.png" group-title="VIDIO",DAAI TV 
-#https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6482_720p/index.m3u8 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/daaitv.png" group-title="VIDIO",TV 
+http://tvn.x10.bz/xchannel/master-5.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions1.png" group-title="VIDIO",Champions TV 1 
-#==https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6685_720p/index.m3u8
-#https://newlivetv.my.id/vidio/6685-LiveTV.m3u8?livetv
+http://tvn.x10.bz/xchannel/master-6.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions2.png" group-title="VIDIO",Champions TV 2 
-#==https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6686_720p/index.m3u8 
-#https://newlivetv.my.id/vidio/6686-LiveTV.m3u8?livetv
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions3.png" group-title="VIDIO",Champions TV 4 
-##http://tvn.x10.bz/vidio/master-17.m3u8
+http://tvn.x10.bz/xchannel/master-7.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions3.png" group-title="VIDIO",Champions TV 3 
+http://tvn.x10.bz/xchannel/master-8.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions3.png" group-title="VIDIO",Champions TV 4
+http://tvn.x10.bz/xchannel/master-17.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions3.png" group-title="VIDIO",Champions TV xtra
+http://tvn.x10.bz/xchannel/master-18.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIDIO",Bein1
 #==https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6299_720p/index.m3u8
 #https://newlivetv.my.id/vidio/6299-LiveTV.m3u8?livetv
@@ -828,7 +830,7 @@ http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=history&gumisasakT
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/seatoday.png" group-title="VIDIO",SEA TODAY 
 #https://newlivetv.my.id/vidio/7687-LiveTV.m3u8?livetv
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/hiphiphoree.png" group-title="VIDIO",Hip Hip Horees
-http://tvn.x10.bz/vidio/master-4.m3u8 
+##http://tvn.x10.bz/vidio/master-4.m3u8 
 #https://newlivetv.my.id/vidio/7052-LiveTV.m3u8?livetv
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zoomoo.png" group-title="VIDIO",Zoomoo 
 ##http://tvn.x10.bz/vidio/master-25.m3u8

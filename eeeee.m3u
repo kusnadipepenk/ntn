@@ -57,7 +57,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d
 
 
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1933FnfQ31OzlfU644rLpVcg_YMmQCySR" group-title="BERITA",INews
-https://livetv01.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_600000=7-mp4a_96000=2.m3u8
+http://202.150.172.35:8000/play/inewss2
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yBWB003/cnnin.png" group-title="BERITA",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1ORGoY9MMi6-DWGqhEjc5dHr2DAqTOBax" group-title="BERITA",BERITA SATU
@@ -202,7 +202,7 @@ http://210.210.155.35/session/e9b257c8-6a2f-11e9-a76f-b3759a40e2c1/dr9445/h/h16/
 #EXTINF:-1  tvg-logo="https://i.ibb.co/VTtxzXm/ciwo.jpg" group-title="PREMIUM INDONESIA",CINEMA WORLD
 http://210.210.155.35/dr9445/h/h04/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/VTtxzXm/ciwo.jpg" group-title="PREMIUM INDONESIA",CINEMA INdonesia
-http://rr.dens.tv/h/h155/index.m3u8
+http://202.150.172.35:8000/play/sinemaindonesias2
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",CinemA Europe
 http://210.210.155.35:80/uq2663/h/h18/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",MyCinema Asia
@@ -226,8 +226,8 @@ http://210.210.155.35/uq2663/h/h19/02.m3u8
 #EXTINF:-1  group-title="PREMIUM INDONESIA",CELESTIAL MOVIE
 http://210.210.155.35:80/dr9445/h/h14/01.m3u8
 ##http://185.191.127.105:8080/wael2021/123456/70037?token=QhZdWUdRRwsQAF5RCFBXXwJUBwdVVgIHBwEDAVRRAFYJBwwNUVsGBAMbFENCERcDVQxpXwJEXAYBAwUFT0RERlxGalFQG18TAwkPUQRSR0oWFV9bA0RcAAcHAAVbUAEBDRgXSF1dRwsQCgBYBlFHShYETkIDFAhQXWxSVxUPUlAbDltNWFVJE11XZwVUCAQIUEMMFFdEShNYQEYQWQhEWVUYF1pdTRdQRlwaW18QCQoYQ1VZEwgSQ0gRDBAqIhMZG1FNTFFXFlhdVxpbExEWRBhDX0U5FANCRUFTUw4DQxcDFgUaGBsIUEpmWw5fCwAFQAhZWBVEXBMAERoQDglfXE1bR2dEUAETCBsLWQhTXERJ
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",OhK
-
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Kdrama
+http://202.150.172.35:8000/play/kdramas2
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vvKpnbc/kixx.jpg" group-title="PREMIUM INDONESIA",KIX(2)
 http://210.210.155.35/dr9445/h/h07/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/NsvtNb8/mycnema.jpg" group-title="PREMIUM INDONESIA",MY CINEMA
@@ -404,6 +404,8 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/101/101.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/102/102.mpd
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Holiwud action
+http://203.154.177.124:8899/live/ch7/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Foxlife
 http://185.32.44.154/foxlife/tracks-v1a2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Runtime
@@ -448,7 +450,7 @@ http://182.50.65.213:8888/udp/239.239.0.17:3001
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1300000.m3u8
 ##https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(72d6d51e-c265-4ce1-bf21-a9bb75487bc5)/manifest.mpd
 #EXTINF:-1 tvg-id="HBO.US" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",Warner tv-U
-http://203.154.243.89:11205/
+http://203.154.177.124:8899/live/ch12/playlist.m3u8
 ##https://mkctvbro.my.id/horas/pakailah.m3u8?id=warner&bandwidth=default&sync=0
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",Hollywood
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
@@ -458,8 +460,6 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="MOVIES",Comedy Redbox
 https://comedy-redbox.amagi.tv/amRdirect/p=Redbox&subp=RedboxdesktopWebLinux/hls/amagi_hls_data_redboxAAA-comedy/CDN/640x360_765600/index.m3u8
-#EXTINF:-1 group-title="MOVIES",MovieMix
-https://moviemix.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Stirr Movies
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 #EXTINF:-1 group-title="MOVIES",Comedy Dinamic
@@ -648,11 +648,9 @@ http://62.28.71.186:45678/http/192.168.150.173:7073/spt3
 ##https://liv11octptsp.stblauncher.com/live/4273_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 ##https://www.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS",Sporttv4
-http://62.28.71.186:45678/http/192.168.150.173:7073/spt4
-##https://liv11octptsp.stblauncher.com/live/4274_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
-https://www.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS",Sporttv5
-##https://liv11octptsp.stblauncher.com/live/4275_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+https://liv11octptsp.stblauncher.com/live/4274_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+##https://www.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
+
 #EXTINF:-1 group-title="SPORTS",Eleven 1
 https://liv11octptsp.stblauncher.com/live/6643_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 #EXTINF:-1 group-title="SPORTS",Eleven 2

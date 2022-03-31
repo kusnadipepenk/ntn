@@ -358,8 +358,7 @@ http://203.77.246.50:5000/udp/239.1.3.84:5000
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOFamsID
 http://203.77.246.50:5000/udp/239.1.3.76:5000
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOsignID
-##https://tvlivehometv.xyz/RHS/hbo1.m3u8?channel=sig
-##https://kusnadipepenk.github.io/campeign/hbosi.m3u8
+http://203.77.246.50:5000/udp/239.1.3.74:5000
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOhitsID
 http://203.77.246.50:5000/udp/239.1.3.82:5000
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",reds

@@ -654,13 +654,17 @@ https://liv11octptsp.stblauncher.com/live/4274_.m3u8?token=bcc65a1fb3974adeaa616
 ##https://www.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="SPORTS",Eleven 1
-https://liv11octptsp.stblauncher.com/live/6643_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 #EXTINF:-1 group-title="SPORTS",Eleven 2
-https://liv11octptsp.stblauncher.com/live/6644_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
 #EXTINF:-1 group-title="SPORTS",Eleven 3
-https://liv11octptsp.stblauncher.com/live/6645_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
 #EXTINF:-1 group-title="SPORTS",Eleven 4
-https://liv11octptsp.stblauncher.com/live/6646_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
+#EXTINF:-1 group-title="SPORTS",Eleven 5
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
+#EXTINF:-1 group-title="SPORTS",Eleven 6
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
 #EXTINF:-1 group-title="SPORTS",Fox Sport
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 #EXTINF:-1 group-title="SPORTS",Fox Sport2

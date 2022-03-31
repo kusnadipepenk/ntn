@@ -414,7 +414,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/640x360_7000
 #EXTINF:-1 group-title="MOVIES",&SONY PIX
 http://live.flixhub.net/hls/sonypixhd.m3u8
 #EXTINF:-1 group-title="MOVIES",&SONY PIX2
-http://103.166.253.222/hls/sonypixhd.m3u8
+http://103.55.144.46/hls/sonypixhd.m3u8
 #EXTINF:-1 group-title="MOVIES",&Prive
 ##http://103.153.39.36:8000/play/a01d
 http://iptv12k.com:35461/8022022301/468985/5223
@@ -439,7 +439,7 @@ https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-logo="h" group-title="MOVIES",Paramount
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung%2FSM-T720%2F10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile%20TV%20Plus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1  tvg-logo="h" group-title="MOVIES",Star Movies
-http://live.flixhub.net/hls/starmovies.m3u8
+http://103.55.144.46/hls/starmovies.m3u8
 ##http://221.120.204.4:80/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1  tvg-logo="h" group-title="MOVIES",Star Movies2
 http://182.50.65.213:8888/udp/239.239.0.17:3001
@@ -469,13 +469,13 @@ https://mytime-tcl.amagi.tv/playlist404-p.m3u8
 #EXTINF:-1 group-title="MOVIES",Movie Sphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 group-title="MOVIES",Movies Now
-http://103.166.253.222/hls/movies-now.m3u8
+http://103.55.144.46/hls/movies-now.m3u8
 ##http://live.flixhub.net/hls/movies-now.m3u8
 #EXTINF:-1 group-title="MOVIES",MNX
-http://103.166.253.222/hls/mnx-hd.m3u8
+http://103.55.144.46/hls/mnx-hd.m3u8
 http://live.flixhub.net/hls/mnx-hd.m3u8
 #EXTINF:-1 group-title="MOVIES",MN+
-http://103.166.253.222/hls/mn+.m3u8
+http://103.55.144.46/hls/mn+.m3u8
 http://live.flixhub.net/hls/mn+.m3u8
 #EXTINF:-1 group-title="MOVIES",J Movie1
 http://211.21.12.236:11935/live/cs10.stream/playlist.m3u8
@@ -622,19 +622,19 @@ http://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8
 #EXTINF:-1 group-title="SPORTS",Star Sport
 http://iptv.tvfix.org/hls/starsports.m3u8
 #EXTINF:-1 group-title="SPORTS",Star Sport1
-http://live.flixhub.net/hls/stersports1hd.m3u8
+http://103.55.144.46/hls/stersports1hd.m3u8
 #EXTINF:-1 group-title="SPORTS",Star Sport2
-http://live.flixhub.net/hls/starsports2.m3u8
+http://103.55.144.46/hls/starsports2.m3u8
 #EXTINF:-1 group-title="SPORTS",Star Sport Select1
-http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
+http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 group-title="SPORTS",Star Sport Select2
-http://live.flixhub.net/hls/select2.m3u8
+http://103.55.144.46/hls/select2.m3u8
 #EXTINF:-1 group-title="SPORTS",Sony Ten1
-http://live.flixhub.net/hls/sonyten1.m3u8
+http://103.55.144.46/hls/sonyten1.m3u8
 #EXTINF:-1 group-title="SPORTS",Sony Ten2
-http://live.flixhub.net/hls/sonyten2.m3u8
+http://103.55.144.46/hls/sonyten2.m3u8
 #EXTINF:-1 group-title="SPORTS",Sony Ten3
-http://live.flixhub.net/hls/sonyten3.m3u8
+http://103.55.144.46/hls/sonyten3.m3u8
 #EXTINF:-1 group-title="SPORTS",Sporttv Plus
 http://api.magiaiptv.com/live/800196/128093/m3_UCWbpolpkgstvp_1080p
 #EXTINF:-1 group-title="SPORTS",Sporttv1

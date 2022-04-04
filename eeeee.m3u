@@ -303,8 +303,7 @@ http://iptv.tvfix.org/hls/natlgeo.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geos
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b1200000.m3u8?token=
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild
-http://185.32.44.154/natgeowild/tracks-v1a2/playlist.m3u8
-##http://iptv12k.com:35461/8022022301/468985/2067
+http://iptv12k.com:35461/8022022301/468985/2067
 ##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/122
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild VI
 https://livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist_b1200000.m3u8?token=
@@ -326,9 +325,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-43
 https://amagi-primary.akamaized.net/out/v1/3f7bf105c018444dbc8f74a3a283afaf/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
 https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b1200000.m3u8
-##http://iptv.tvfix.org/hls/animal.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal2
-http://185.32.44.154/animalplanet/tracks-v1a2/playlist.m3u8
+http://iptv.tvfix.org/hls/animal.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",GameNfish
 https://obsession-media.sinclair.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",OUTDOOR CHANNEL
@@ -605,8 +603,7 @@ http://iptv12k.com:35461/8022022301/468985/2380
 ##http://93.152.174.144:4000/play/btsport1/index.m3u8
 ##https://www.livedoomovie.com:4431/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2s
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/2176486
-##https://www.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2
 http://iptv12k.com:35461/8022022301/468985/2372
 ##http://93.152.174.144:4000/play/btsport2/index.m3u8
@@ -672,12 +669,10 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 #EXTINF:-1 group-title="SPORTS",Fox Sport3
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 #EXTINF:-1 group-title="SPORTS",Euro Sport1
-http://185.32.44.154/eurosport/tracks-v1a2/playlist.m3u8
-##http://iptv12k.com:35461/8022022301/468985/2365
+http://iptv12k.com:35461/8022022301/468985/2365
 ##http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49473
 #EXTINF:-1 group-title="SPORTS",Euro Sport2
-http://185.32.44.154/eurosport2/tracks-v1a2/playlist.m3u8
-##http://iptv12k.com:35461/8022022301/468985/2363
+http://iptv12k.com:35461/8022022301/468985/2363
 ##http://1tv1.net:8080/omnia2021/123456/16126
 #EXTINF:-1 group-title="SPORTS",J-Sport1
 http://211.21.12.236:11935/live/cs05.stream/playlist.m3u8

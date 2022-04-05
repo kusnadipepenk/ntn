@@ -18,7 +18,8 @@ http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s
 #EXTINF:-1  tvg-logo="" group-title="LOKAL NASIONAL",MNCtv
 https://mnctv-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
 #EXTINF:-1  tvg-logo="" group-title="LOKAL NASIONAL",MNCtv2
-http://203.77.246.50:5000/udp/239.1.3.78:5000
+http://iptv12k.com:35461/8022022301/468985/2175
+##http://203.77.246.50:5000/udp/239.1.3.78:5000
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="LOKAL NASIONAL",INDOSIAR
 http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="LOKAL NASIONAL",INDOSIAR Liga1
@@ -403,23 +404,22 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/102/102.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Holiwud action
 http://203.154.177.124:8899/live/ch7/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Foxlife
-http://185.32.44.154/foxlife/tracks-v1a2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Showtime Movie
+http://iptv12k.com:35461/8022022301/468985/1826
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Runtime
 https://ammoruntime-plex.amagi.tv/playlistR432p.m3u8
 #EXTINF:-1 group-title="MOVIES",Xumo Western
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/640x360_700000/index.m3u8
 #EXTINF:-1 group-title="MOVIES",&SONY PIX
-http://live.flixhub.net/hls/sonypixhd.m3u8
+http://iptv12k.com:35461/8022022301/468985/2198
+##http://live.flixhub.net/hls/sonypixhd.m3u8
 #EXTINF:-1 group-title="MOVIES",&SONY PIX2
 http://103.55.144.46/hls/sonypixhd.m3u8
 #EXTINF:-1 group-title="MOVIES",&Prive
 ##http://103.153.39.36:8000/play/a01d
-http://iptv12k.com:35461/8022022301/468985/5223
-##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/105
+
 #EXTINF:-1 group-title="MOVIES",&Flix
-##http://103.153.39.36:8000/play/a00p
-https://link.zozotv.xyz:443/@nasanash/Lifetime8899/104
+
 #EXTINF:-1 group-title="MOVIES",Asylium
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/640x360_700000/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/jGzMaRD.png" group-title="MOVIES",FilmRise Movies
@@ -437,7 +437,8 @@ https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-logo="h" group-title="MOVIES",Paramount
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung%2FSM-T720%2F10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile%20TV%20Plus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1  tvg-logo="h" group-title="MOVIES",Star Movies
-http://103.55.144.46/hls/starmovies.m3u8
+http://iptv12k.com:35461/8022022301/468985/2289
+##http://103.55.144.46/hls/starmovies.m3u8
 ##http://221.120.204.4:80/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1  tvg-logo="h" group-title="MOVIES",Star Movies2
 http://182.50.65.213:8888/udp/239.239.0.17:3001

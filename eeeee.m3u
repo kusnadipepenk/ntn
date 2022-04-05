@@ -362,9 +362,8 @@ http://203.77.246.50:5000/udp/239.1.3.74:5000
 http://203.77.246.50:5000/udp/239.1.3.82:5000
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",reds
 ##https://kusnadipepenk.github.io/campeign/hbored.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Cinemax US
-##https://tvlivehometv.xyz/RHS/hbo1.m3u8?channel=max
-##https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOCinemax US
+http://60.250.91.85:8591/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",2HBO Signature
 http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=sig
@@ -457,6 +456,8 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="MOVIES",Comedy Redbox
 https://comedy-redbox.amagi.tv/amRdirect/p=Redbox&subp=RedboxdesktopWebLinux/hls/amagi_hls_data_redboxAAA-comedy/CDN/640x360_765600/index.m3u8
+#EXTINF:-1 group-title="MOVIES",Comedy Redbox2
+https://comedy-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Stirr Movies
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 #EXTINF:-1 group-title="MOVIES",Comedy Dinamic

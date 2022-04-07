@@ -673,14 +673,12 @@ http://iptv12k.com:35461/8022022301/468985/2365
 #EXTINF:-1 group-title="SPORTS",Euro Sport2
 http://iptv12k.com:35461/8022022301/468985/2363
 ##http://1tv1.net:8080/omnia2021/123456/16126
-#EXTINF:-1 group-title="SPORTS",J-Sport1
-http://211.21.12.236:11935/live/cs05.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",J-Sport2
-http://211.21.12.236:11935/live/cs06.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",J-Sport3
-http://211.21.12.236:11935/live/cs07.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",J-Sport4
-http://211.21.12.236:11935/live/cs09.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS",B-Pre1
+http://51.195.234.238:8080/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS",B-Pre2
+http://51.195.234.238:8080/ar-s/B-S-pre-2-stop/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS",B-Pre3
+http://51.195.234.238:8080/ar-s/B-S-pre-3-stop/tracks-v1a1/mono.m3u8
 
 
 

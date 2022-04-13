@@ -535,6 +535,16 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/eroz_brebes.m3u8
 http://2serv.mylifeisgood.ml:8080/mfolive.m3u8?media=musicboxgold
 
 
+#EXTINF:-1  tvg-logo="" group-title="SPORT",Spotv
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/240994.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORT",btsport1
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/257083.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORT",btsport2
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/257084.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORT",Btsport3
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/257085.m3u8
+
+
 
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Fight SPort
 http://210.210.155.35:80/dr9445/h/h05/01.m3u8
@@ -673,12 +683,6 @@ http://iptv12k.com:35461/8022022301/468985/2365
 #EXTINF:-1 group-title="SPORTS",Euro Sport2
 http://iptv12k.com:35461/8022022301/468985/2363
 ##http://1tv1.net:8080/omnia2021/123456/16126
-#EXTINF:-1 group-title="SPORTS",B-Pre1
-http://51.195.234.238:8080/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS",B-Pre2
-http://51.195.234.238:8080/ar-s/B-S-pre-2-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS",B-Pre3
-http://51.195.234.238:8080/ar-s/B-S-pre-3-stop/tracks-v1a1/mono.m3u8
 
 
 

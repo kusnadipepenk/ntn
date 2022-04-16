@@ -16,10 +16,10 @@ http://203.77.246.50:5000/udp/239.1.3.80:5000
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="LOKAL NASIONAL",SCTV
 http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="LOKAL NASIONAL",MNCtv
-https://mnctv-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
-#EXTINF:-1  tvg-logo="" group-title="LOKAL NASIONAL",MNCtv2
 http://iptv12k.com:35461/8022022301/468985/2175
-##http://203.77.246.50:5000/udp/239.1.3.78:5000
+##https://mnctv-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
+#EXTINF:-1  tvg-logo="" group-title="LOKAL NASIONAL",MNCtv2
+http://203.77.246.50:5000/udp/239.1.3.78:5000
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="LOKAL NASIONAL",INDOSIAR
 http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="LOKAL NASIONAL",INDOSIAR Liga1
@@ -476,10 +476,6 @@ http://103.55.144.46/hls/mnx-hd.m3u8
 #EXTINF:-1 group-title="MOVIES",MN+
 http://103.55.144.46/hls/mn+.m3u8
 ##http://live.flixhub.net/hls/mn+.m3u8
-#EXTINF:-1 group-title="MOVIES",J Movie1
-http://211.21.12.236:11935/live/cs10.stream/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",J Movie2
-http://211.21.12.236:11935/live/cs27.stream/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Pixl
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 

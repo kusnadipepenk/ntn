@@ -446,8 +446,8 @@ http://103.55.144.46/hls/starmovies.m3u8
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1300000.m3u8
 ##https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(72d6d51e-c265-4ce1-bf21-a9bb75487bc5)/manifest.mpd
 #EXTINF:-1 tvg-id="HBO.US" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",Warner tv-U
-http://203.154.177.124:8899/live/ch12/playlist.m3u8
-##https://mkctvbro.my.id/horas/pakailah.m3u8?id=warner&bandwidth=default&sync=0
+http://61.19.242.134/feed/202105171329/LC28/index.m3u8
+##http://203.154.177.124:8899/live/ch12/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",Hollywood
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndFlix.in.png" group-title="MOVIES",Hallmark Movie
@@ -526,28 +526,20 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/eroz_brebes.m3u8
 #EXTINF:-1 group-title="Music",Musik Indonesia
 
 #EXTINF:-1 group-title="Music",TMusik
-
+http://61.19.242.134/feed/202105171329/LC31/index.m3u8
 #EXTINF:-1 group-title="Music",Box Gold
 http://2serv.mylifeisgood.ml:8080/mfolive.m3u8?media=musicboxgold
 
 
-#EXTINF:-1  tvg-logo="" group-title="SPORT",Spotv
-http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/240994
-#EXTINF:-1  tvg-logo="" group-title="SPORT",btsport1
-http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/257083
-#EXTINF:-1  tvg-logo="" group-title="SPORT",btsport2
-http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/257084
-#EXTINF:-1  tvg-logo="" group-title="SPORT",Btsport3
-http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/257085
+
 #EXTINF:-1  tvg-logo="" group-title="SPORT",sky
 http://93.152.174.144:4000/play/ssports1/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORT",sky2
 http://93.152.174.144:4000/play/skysports2/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORT",sky3
 http://93.152.174.144:4000/play/skysports3/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORT",lots
+#EXTINF:-1  tvg-logo="" group-title="SPORT",lotus
 http://nettvpro.live/hls/lotustv.php
-
 
 
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Fight SPort
@@ -695,8 +687,10 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="SPORTS",Jsport4
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-
+#EXTINF:-1 group-title="SPORTS",ZQ sport
+https://cdn.underfront.org/zqsport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS",ZQ sportFB
+https://cdn.underfront.org/zqfb/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Mola", MOLA 2

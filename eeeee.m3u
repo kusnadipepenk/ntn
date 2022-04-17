@@ -401,8 +401,8 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/101/101.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/102/102.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Holiwud action
-http://203.154.177.124:8899/live/ch7/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",box film
+http://61.19.242.134/feed/202105171329/LC31/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Showtime Movie
 http://iptv12k.com:35461/8022022301/468985/1826
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Runtime
@@ -410,7 +410,7 @@ https://ammoruntime-plex.amagi.tv/playlistR432p.m3u8
 #EXTINF:-1 group-title="MOVIES",Xumo Western
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/640x360_700000/index.m3u8
 #EXTINF:-1 group-title="MOVIES",&SONY PIX
-http://iptv12k.com:35461/8022022301/468985/2198
+##http://iptv12k.com:35461/8022022301/468985/2198
 ##http://live.flixhub.net/hls/sonypixhd.m3u8
 #EXTINF:-1 group-title="MOVIES",&SONY PIX2
 http://103.55.144.46/hls/sonypixhd.m3u8
@@ -526,7 +526,6 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/eroz_brebes.m3u8
 #EXTINF:-1 group-title="Music",Musik Indonesia
 
 #EXTINF:-1 group-title="Music",TMusik
-http://61.19.242.134/feed/202105171329/LC31/index.m3u8
 #EXTINF:-1 group-title="Music",Box Gold
 http://2serv.mylifeisgood.ml:8080/mfolive.m3u8?media=musicboxgold
 

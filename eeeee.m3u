@@ -3,7 +3,8 @@
 http://rr2.dens.tv/s/s08/index10.m3u8
 #http://210.210.155.35/session/6141d55e-70a0-11e9-8180-b82a72d63267/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="LOKAL NASIONAL",TRANSTV
-http://rr2.dens.tv/s/s05/index.m3u8
+http://203.77.246.50:5000/udp/239.1.1.100:5000
+##http://rr2.dens.tv/s/s05/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="LOKAL NASIONAL",TRANSTV(2)
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D5gBX8N/trans7.jpg" group-title="LOKAL NASIONAL",TRANS7

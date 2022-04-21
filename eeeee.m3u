@@ -313,7 +313,7 @@ https://livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist_b1200000.m3u8?tok
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Asia
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b1200000.m3u8?token=
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Asian
-http://iptv.tvfix.org/hls/discovery.m3u8
+http://203.77.246.50:5000/udp/239.1.2.224:5000
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY
 http://iptv12k.com:35461/8022022301/468985/2063
 ##https://link.zozotv.xyz/@nasanash/Lifetime8899/124
@@ -328,7 +328,7 @@ https://amagi-primary.akamaized.net/out/v1/3f7bf105c018444dbc8f74a3a283afaf/inde
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
 https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal2
-http://iptv.tvfix.org/hls/animal.m3u8
+http://203.77.246.50:5000/udp/239.1.2.226:5000
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",GameNfish
 https://obsession-media.sinclair.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",OUTDOOR CHANNEL
@@ -350,7 +350,8 @@ https://wildearth-roku.amagi.tv/master.m3u8
 https://ft-ifood-roku.amagi.tv/playlist288p.m3u8
 #EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
-
+#EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="",AFN
+http://203.77.246.50:5000/udp/239.1.2.228:5000
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOID

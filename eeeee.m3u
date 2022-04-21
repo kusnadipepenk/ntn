@@ -266,8 +266,8 @@ http://210.210.155.35:80/uq2663/h/h22/02.m3u8
 http://210.210.155.35:80/uq2663/h/h28/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Galaxy
 
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Galaxy Premium
-
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Hits Movie
+http://203.77.246.50:5000/udp/239.1.2.242:5000
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Warner TV
 http://iptv12k.com:35461/167121748/976890/2115
 ##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/86
@@ -352,6 +352,8 @@ https://ft-ifood-roku.amagi.tv/playlist288p.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
 #EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="",AFN
 http://203.77.246.50:5000/udp/239.1.2.228:5000
+#EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="",TLC2
+http://203.77.246.50:5000/udp/239.1.2.232:5000
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOID

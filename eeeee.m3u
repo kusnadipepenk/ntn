@@ -196,8 +196,6 @@ http://203.77.246.50:5000/udp/239.1.2.154:5000
 #EXTM3U
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvN
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvN2
-http://202.150.161.205:8030/udp/234.1.2.8:1234
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNMovies
 http://210.210.155.35:80/dr9445/h/h21/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN
@@ -270,7 +268,7 @@ http://210.210.155.35:80/uq2663/h/h22/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",LifeStyle
 http://210.210.155.35:80/uq2663/h/h28/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Paramount Pic
-http://202.150.161.205:8030/udp/234.1.2.12:1234
+
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Hits Movie
 http://203.77.246.50:5000/udp/239.1.2.242:5000
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Warner TV
@@ -324,8 +322,8 @@ http://iptv12k.com:35461/8022022301/468985/2063
 #EXTINF:-1 group-title="KNOWLEDGE",Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8?checkedby:iptvcat.com
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",History
-http://202.150.161.205:8030/udp/234.1.2.15:1234
-##http://iptv12k.com:35461/8022022301/468985/2065
+##http://202.150.161.205:8030/udp/234.1.2.15:1234
+http://iptv12k.com:35461/8022022301/468985/2065
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Techstorm
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",FoodChannel
@@ -364,13 +362,13 @@ http://202.150.161.205:8030/udp/234.1.2.16:1234
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOID
-##http://203.77.246.50:5000/udp/239.1.3.84:5000
-http://202.150.161.205:8030/udp/234.1.2.4:1234
+http://203.77.246.50:5000/udp/239.1.3.84:5000
+##http://202.150.161.205:8030/udp/234.1.2.4:1234
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOFamsID
 http://203.77.246.50:5000/udp/239.1.3.76:5000
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOsignID
-http://202.150.161.205:8030/udp/234.1.2.5:1234
-##http://203.77.246.50:5000/udp/239.1.3.74:5000
+##http://202.150.161.205:8030/udp/234.1.2.5:1234
+http://203.77.246.50:5000/udp/239.1.3.74:5000
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOhitsID
 http://203.77.246.50:5000/udp/239.1.3.82:5000
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",reds
@@ -690,8 +688,8 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 #EXTINF:-1 group-title="SPORTS",Fox Sport3
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 #EXTINF:-1 group-title="SPORTS",Euro Sport1
-http://202.150.161.205:8030/udp/234.1.2.2:1234
-##http://iptv12k.com:35461/8022022301/468985/2365
+##http://202.150.161.205:8030/udp/234.1.2.2:1234
+http://iptv12k.com:35461/8022022301/468985/2365
 ##http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49473
 #EXTINF:-1 group-title="SPORTS",Euro Sport2
 http://iptv12k.com:35461/8022022301/468985/2363

@@ -141,8 +141,8 @@ http://210.210.155.35/uq2663/h/h97/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Boomerang VI
 https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Boomerang
-http://iptv12k.com:35461/8022022301/468985/614
-##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/135
+http://203.77.246.50:5000/udp/239.1.2.158:5000
+##http://iptv12k.com:35461/8022022301/468985/614
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Dreamworks
 http://iptv12k.com:35461/8022022301/468985/2079
 ##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/134
@@ -189,6 +189,9 @@ https://siloh.pluto.tv/lilo/production/Nick/04/master_3.m3u8
 https://babyfirst.akamaized.net/hls/live/2028842/bftvusaott/2.m3u8
 #EXTINF:-1 group-title="KIDS",Toon Googles
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/640x360_700000/index.m3u8
+#EXTINF:-1 group-title="KIDS",Cartonito
+http://203.77.246.50:5000/udp/239.1.2.154:5000
+
 
 #EXTM3U
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvN
@@ -264,14 +267,13 @@ http://210.210.155.35/x6bnqe/s/s101/live.m3u8
 http://210.210.155.35:80/uq2663/h/h22/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",LifeStyle
 http://210.210.155.35:80/uq2663/h/h28/02.m3u8
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Galaxy
-
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Paramount Pic
+http://202.150.161.205:8030/udp/234.1.2.12:1234
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Hits Movie
 http://203.77.246.50:5000/udp/239.1.2.242:5000
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Warner TV
-http://iptv12k.com:35461/167121748/976890/2115
-##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/86
-##https://cubmu.superzap.xyz:8279/WARNER/playlist.m3u8
+http://203.77.246.50:5000/udp/239.1.2.156:5000
+##http://iptv12k.com:35461/167121748/976890/2115
 #EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",Ruang trampil
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",Bioskop Indonesia
@@ -681,7 +683,8 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 #EXTINF:-1 group-title="SPORTS",Fox Sport3
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 #EXTINF:-1 group-title="SPORTS",Euro Sport1
-http://iptv12k.com:35461/8022022301/468985/2365
+http://202.150.161.205:8030/udp/234.1.2.2:1234
+##http://iptv12k.com:35461/8022022301/468985/2365
 ##http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49473
 #EXTINF:-1 group-title="SPORTS",Euro Sport2
 http://iptv12k.com:35461/8022022301/468985/2363

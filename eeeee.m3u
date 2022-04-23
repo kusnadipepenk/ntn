@@ -554,13 +554,6 @@ http://182.50.65.213:8888/udp/239.239.0.35:3001
 http://nettvpro.live/hls/lotustv.php
 #EXTINF:-1  tvg-logo="" group-title="SPORT",DisneyX
 https://tinyurl.com/2p897e7k
-#EXTINF:-1  tvg-logo="" group-title="SPORT",1
-http://203.77.246.50:5000/udp/239.1.2.4:5000
-#EXTINF:-1  tvg-logo="" group-title="SPORT",23
-http://203.77.246.50:5000/udp/239.1.2.2:5000
-#EXTINF:-1  tvg-logo="" group-title="SPORT",3
-http://203.77.246.50:5000/udp/239.1.2.6:5000
-
 
 
 

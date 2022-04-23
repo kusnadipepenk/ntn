@@ -293,7 +293,7 @@ http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary2
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth
-http://125.209.88.166:45793/BRN/BBCEarthHD.stream/playlist.m3u8
+http://51.38.180.145:50000/BBC_Earth/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth2
 https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",TLC
@@ -566,6 +566,12 @@ https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORT",cine real
 https://cinereal-plex.amagi.tv/CineReal/master_4.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORT",Cornflix movie
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORT",Topcine
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_4.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORT",History
+http://51.38.180.145:50000/History_Channel/index.m3u8
 
 
 

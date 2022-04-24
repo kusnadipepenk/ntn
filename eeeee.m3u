@@ -426,8 +426,8 @@ http://103.55.144.46/hls/sonypixhd.m3u8
 #EXTINF:-1 group-title="MOVIES",&Prive
 ##http://103.153.39.36:8000/play/a01d
 
-#EXTINF:-1 group-title="MOVIES",&Flix
-
+#EXTINF:-1 group-title="MOVIES",Crackle
+http://crackle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Asylium
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/640x360_700000/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/jGzMaRD.png" group-title="MOVIES",FilmRise Movies

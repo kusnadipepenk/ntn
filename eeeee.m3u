@@ -765,22 +765,22 @@ http://rr3.dens.tv/s/s100/live.m3u8
 http://rr.dens.tv/h/h998/live.m3u8
 #EXTINF:-1 tvg-logo="htg" group-title="Test",news
 http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=inews
-#EXTINF:-1 tvg-logo="htg" group-title="Test",Natgeowild
-https://tvlivehometv.xyz/RHS/HOME-TVuseefullmpd.m3u8?channel=natgeowild
+#EXTINF:-1 tvg-logo="htg" group-title="Test",kid
+http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=mykids
 #EXTINF:-1 tvg-logo="htg" group-title="Test",CD
 http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=chinesedrama
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Boomerang
-https://tvlivehometv.xyz/RHS/HOME-TVuseefullmpd.m3u8?channel=boomerang
+
 #EXTINF:-1 tvg-logo="htg" group-title="Test",CN
-https://tvlivehometv.xyz/RHS/HOME-TVmpd.m3u8?channel=natgeo
+
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Nickjr
-https://tvlivehometv.xyz/RHS/HOME-TVmpd.m3u8?channel=natgeowild
+
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Nickelodeons
-https://tvlivehometv.xyz/RHS/HOME-TVmpd.m3u8?channel=disco
+
 #EXTINF:-1 tvg-logo="htg" group-title="Test",HGTV
-https://tvlivehometv.xyz/RHS/HOME-TVuseefullmpd.m3u8?channel=hgtv
+
 #EXTINF:-1 tvg-logo="htg" group-title="Test",imc
-https://tvlivehometv.xyz/RHS/HOME-TVuseefullmpd.m3u8?channel=imc
+
 #EXTINF:-1 tvg-logo="htg" group-title="Test",nat
 http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Wild
@@ -788,7 +788,7 @@ http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1 tvg-logo="htg" group-title="Test",OkeyTV
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #EXTINF:-1 tvg-logo="htg" group-title="Test",nicknick
-https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
+
 #EXTINF:-1 tvg-logo="htg" group-title="Test",MNCS
 http://202.150.172.34:4000/play/mnctvt2
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Cekidot

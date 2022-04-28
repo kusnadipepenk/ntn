@@ -358,7 +358,7 @@ http://203.77.246.50:5000/udp/239.1.2.228:5000
 #EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="",TLC2
 http://203.77.246.50:5000/udp/239.1.2.232:5000
 #EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="",Local Discovery
-https://linear-145.frequency.stream/dist/localnow/145/hls/master/playlist.m3u8
+https://linear-145.frequency.stream/dist/localnow/145/hls/master/playlist_640x360_m.m3u8
 #EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="",Law and Crime
 http://lawandcrime.samsung.wurl.com/manifest/index.m3u8
 

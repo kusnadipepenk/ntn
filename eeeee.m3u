@@ -357,8 +357,9 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
 http://203.77.246.50:5000/udp/239.1.2.228:5000
 #EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="",TLC2
 http://203.77.246.50:5000/udp/239.1.2.232:5000
-#EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="",SCI
-http://202.150.161.205:8030/udp/234.1.2.16:1234
+#EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="",Local Discovery
+https://linear-145.frequency.stream/dist/localnow/145/hls/master/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOID
@@ -487,8 +488,8 @@ http://103.55.144.46/hls/mn+.m3u8
 ##http://live.flixhub.net/hls/mn+.m3u8
 #EXTINF:-1 group-title="MOVIES",Pixl
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
-
-
+#EXTINF:-1 group-title="MOVIES",Netflix
+https://bit.ly/Netflixinsp?/playlist360p.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="Music",Startv

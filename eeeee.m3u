@@ -8,7 +8,8 @@ http://203.77.246.50:5000/udp/239.1.1.100:5000
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="LOKAL NASIONAL",TRANSTV(2)
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D5gBX8N/trans7.jpg" group-title="LOKAL NASIONAL",TRANS7
-http://rr.dens.tv/h/h11/index.m3u8
+http://203.77.246.50:5000/udp/239.1.1.102:5000
+##http://rr.dens.tv/h/h11/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D5gBX8N/trans7.jpg" group-title="LOKAL NASIONAL",TRANS7(2)
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="LOKAL NASIONAL",RCTI
@@ -24,7 +25,7 @@ http://203.77.246.50:5000/udp/239.1.3.78:5000
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="LOKAL NASIONAL",INDOSIAR
 http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="LOKAL NASIONAL",INDOSIAR Liga1
-https://cubmu.superzap.xyz:8279/indosiar/playlist.m3u8
+http://203.77.246.50:5000/udp/239.1.1.110:5000
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QNQrm50/antv.png" group-title="LOKAL NASIONAL",ANTV(2)
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QNQrm50/antv.png" group-title="LOKAL NASIONAL",ANTV
@@ -230,9 +231,8 @@ http://210.210.155.35/dr9445/h/h37/01.m3u8
 http://210.210.155.35/uq2663/h/h19/02.m3u8
 #EXTINF:-1  group-title="PREMIUM INDONESIA",CELESTIAL MOVIE
 http://210.210.155.35:80/dr9445/h/h14/01.m3u8
-##http://185.191.127.105:8080/wael2021/123456/70037?token=QhZdWUdRRwsQAF5RCFBXXwJUBwdVVgIHBwEDAVRRAFYJBwwNUVsGBAMbFENCERcDVQxpXwJEXAYBAwUFT0RERlxGalFQG18TAwkPUQRSR0oWFV9bA0RcAAcHAAVbUAEBDRgXSF1dRwsQCgBYBlFHShYETkIDFAhQXWxSVxUPUlAbDltNWFVJE11XZwVUCAQIUEMMFFdEShNYQEYQWQhEWVUYF1pdTRdQRlwaW18QCQoYQ1VZEwgSQ0gRDBAqIhMZG1FNTFFXFlhdVxpbExEWRBhDX0U5FANCRUFTUw4DQxcDFgUaGBsIUEpmWw5fCwAFQAhZWBVEXBMAERoQDglfXE1bR2dEUAETCBsLWQhTXERJ
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Kdrama
-http://202.150.172.35:8000/play/kdramas2
+http://203.77.246.50:5000/udp/239.1.1.76:5000
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vvKpnbc/kixx.jpg" group-title="PREMIUM INDONESIA",KIX(2)
 http://210.210.155.35/dr9445/h/h07/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/NsvtNb8/mycnema.jpg" group-title="PREMIUM INDONESIA",MY CINEMA
@@ -267,16 +267,16 @@ http://210.210.155.35/x6bnqe/s/s101/live.m3u8
 http://210.210.155.35:80/uq2663/h/h22/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",LifeStyle
 http://210.210.155.35:80/uq2663/h/h28/02.m3u8
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Paramount Pic
-
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Sinema Indoensia
+http://203.77.246.50:5000/udp/239.1.1.74:5000
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Hits Movie
 http://203.77.246.50:5000/udp/239.1.2.242:5000
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Warner TV
 http://203.77.246.50:5000/udp/239.1.2.156:5000
 ##http://iptv12k.com:35461/167121748/976890/2115
-#EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",Ruang trampil
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM INDONESIA",Ruang trampil
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="PREMIUM INDONESIA",Bioskop Indonesia
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM INDONESIA",Bioskop Indonesia
 ##https://cubmu.superzap.xyz:8279/bioskop/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",U-Channel
 http://210.210.155.35/x6bnqe/s/s73/S4/mnf.m3u8
@@ -534,8 +534,8 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 https://api.mbed.cc/youtube/live.m3u8?id=F4aby5WN1Rw
 #EXTINF:-1 group-title="Music",Portalfox mix
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/eroz_brebes.m3u8
-#EXTINF:-1 group-title="Music",Musik Indonesia
-
+#EXTINF:-1 group-title="Music",Chanel V
+http://203.77.246.50:5000/udp/239.1.1.144:5000
 #EXTINF:-1 group-title="Music",TMusik
 #EXTINF:-1 group-title="Music",Box Gold
 http://2serv.mylifeisgood.ml:8080/mfolive.m3u8?media=musicboxgold

@@ -170,8 +170,7 @@ https://happykids-roku.amagi.tv/playlist404pl.m3u8
 #EXTINF:-1 group-title="KIDS",HappyKids Junior
 https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
 #EXTINF:-1  group-title="KIDS",Carton networks
-##https://cubmu.superzap.xyz:8279/CARTOON/playlist.m3u8
-https://link.zozotv.xyz:443/@nasanash/Lifetime8899/132
+
 #EXTINF:-1 group-title="KIDS",Disney Jr
 http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
 #EXTINF:-1 group-title="KIDS",ZOOMOO
@@ -233,6 +232,8 @@ http://210.210.155.35/dr9445/h/h37/01.m3u8
 http://210.210.155.35/uq2663/h/h19/02.m3u8
 #EXTINF:-1  group-title="PREMIUM INDONESIA",CELESTIAL MOVIE
 http://210.210.155.35:80/dr9445/h/h14/01.m3u8
+#EXTINF:-1  group-title="PREMIUM INDONESIA",CELESTIAL2
+http://203.77.246.50:5000/udp/239.1.2.162:5000
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Kdrama
 http://203.77.246.50:5000/udp/239.1.1.76:5000
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vvKpnbc/kixx.jpg" group-title="PREMIUM INDONESIA",KIX(2)
@@ -274,7 +275,7 @@ http://203.77.246.50:5000/udp/239.1.1.74:5000
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Hits Movie
 http://203.77.246.50:5000/udp/239.1.2.242:5000
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Warner TV
-http://203.77.246.50:5000/udp/239.1.2.162:5000
+http://203.77.246.50:5000/udp/239.1.2.156:5000
 ##http://iptv12k.com:35461/167121748/976890/2115
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM INDONESIA",Ruang trampil
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8

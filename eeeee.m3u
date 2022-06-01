@@ -713,15 +713,15 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 #EXTINF:-1 group-title="SPORTS",Euro Sport1
 ##http://202.150.161.205:8030/udp/234.1.2.2:1234
-http://iptv12k.com:35461/80301051401/878900/2365
-##http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49473
+##http://iptv12k.com:35461/80301051401/878900/2365
+https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/217/stream.m3u8
 #EXTINF:-1 group-title="SPORTS",Euro Sport2
-http://iptv12k.com:35461/80301051401/878900/2363
-##http://1tv1.net:8080/omnia2021/123456/16126
-#EXTINF:-1 group-title="SPORTS",Jsport1
-
-#EXTINF:-1 group-title="SPORTS",Jsport2
-
+##http://iptv12k.com:35461/80301051401/878900/2363
+https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/219/stream.m3u8
+#EXTINF:-1 group-title="SPORTS",Trace Sport
+https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/303/stream.m3u8
+#EXTINF:-1 group-title="SPORTS",Viasat Sport
+https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/330/stream.m3u8
 #EXTINF:-1 group-title="SPORTS",Jsport3
 
 #EXTINF:-1 group-title="SPORTS",Jsport4

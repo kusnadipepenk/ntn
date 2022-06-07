@@ -158,7 +158,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb
 #EXTINF:-1 group-title="KIDS",Kids Pluto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="KIDS",NickJR
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/157546
+http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/290110
 ##http://iptv12k.com:35461/80301051401/878900/619
 #EXTINF:-1 group-title="KIDS",Nickelodeon
 http://mvu03.wanicelife.com:8880/SY12B1184/HDX6547A/28952
@@ -286,7 +286,7 @@ http://210.210.155.35/x6bnqe/s/s73/S4/mnf.m3u8
  
  
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/275124
+http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/275124
 ##http://iptv12k.com:35461/80301051401/878900/2059
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
@@ -301,7 +301,7 @@ https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",TLC
 https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/749
+http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/274080
 ##http://iptv12k.com:35461/8022022301/468985/2066
 ##https://link.zozotv.xyz/@nasanash/Lifetime8899/120
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo People
@@ -309,7 +309,7 @@ http://mvu03.wanicelife.com:8880/SY12B1184/HDX6547A/60484
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geos
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b1200000.m3u8?token=
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/174724
+http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/174724
 ##http://iptv12k.com:35461/80301051401/878900/2067
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild VI
 https://livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist_b1200000.m3u8?token=
@@ -682,7 +682,7 @@ http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eep
 #EXTINF:-1 group-title="SPORTS",Sporttv6
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/281487
 #EXTINF:-1 group-title="SPORTS",Motorsport
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/11638
+http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/11638
 #EXTINF:-1 group-title="SPORTS",Eleven 1
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1499
 #EXTINF:-1 group-title="SPORTS",Eleven 2

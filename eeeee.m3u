@@ -578,7 +578,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/
 #EXTINF:-1  tvg-logo="" group-title="SPORT",Topcine
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_4.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORT",History
-http://51.38.180.145:50000/History_Channel/index.m3u8
+https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
 
 
 
@@ -663,8 +663,8 @@ https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/219/stream.m3u8
 https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/303/stream.m3u8
 #EXTINF:-1 group-title="SPORTS",Viasat Sport
 https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/330/stream.m3u8
-#EXTINF:-1 group-title="SPORTS",Jsport3
-
+#EXTINF:-1 group-title="SPORTS",Stadium Sport
+https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS",Jsport4
 
 #EXTINF:-1 group-title="SPORTS",ZQ sport

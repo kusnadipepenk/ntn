@@ -645,6 +645,8 @@ http://103.55.144.46/hls/sonyten3.m3u8
 #EXTINF:-1 group-title="SPORTS",Sporttv Plus
 http://api.magiaiptv.com/live/800196/128093/m3_UCWbpolpkgstvp_1080p
 #EXTINF:-1 group-title="SPORTS",Motorsport
+http://iptv12k.com:35461/8032022060101/452381/5667
+#EXTINF:-1 group-title="SPORTS",Motorsport2
 http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/11638
 #EXTINF:-1 group-title="SPORTS",Fox Sport
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
@@ -665,8 +667,8 @@ https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/303/stream.m3u8
 https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/330/stream.m3u8
 #EXTINF:-1 group-title="SPORTS",Stadium Sport
 https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",Jsport4
-
+#EXTINF:-1 group-title="SPORTS",Skysportss1
+http://93.152.174.144:4000/play/ssports1/index.m3u8
 #EXTINF:-1 group-title="SPORTS",ZQ sport
 https://cdn.underfront.org/zqsport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS",ZQ sportFB

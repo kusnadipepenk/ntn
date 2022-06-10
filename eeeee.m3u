@@ -158,10 +158,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb
 #EXTINF:-1 group-title="KIDS",Kids Pluto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="KIDS",NickJR
-http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/290110
-##http://iptv12k.com:35461/80301051401/878900/619
+http://makanja.xyz/tot/ola/https://netwrk.ru.com/cdn/premium329/chunks.m3u8
+##http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/290110
 #EXTINF:-1 group-title="KIDS",Nickelodeon
-http://mvu03.wanicelife.com:8880/SY12B1184/HDX6547A/28952
+http://makanja.xyz/tot/ola/https://netwrk.ru.com/cdn/premium330/chunks.m3u8
 #EXTINF:-1 group-title="KIDS",Miaomix
 http://iptv12k.com:35461/80301051401/878900/2074
 #EXTINF:-1 group-title="KIDS",HappyKids

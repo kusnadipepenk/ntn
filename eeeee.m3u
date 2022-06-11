@@ -83,6 +83,8 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPapua)/Stream(02)/index.m3u8
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/HhJ5Gyn/bbc.png" group-title="BERITA",BBC NEWS
 http://27.254.149.109:8081/tumlive/BBC/playlist.m3u8?190.2.154.164/TV0624
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HhJ5Gyn/bbc.png" group-title="BERITA",BBC NEWS2
+http://203.77.246.50:5000/udp/239.1.2.152:5000
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hK7YYg4/cnn.jpg" group-title="BERITA",CNN NEWS
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_640x360_1200k.m3u8
 #EXTINF:-1  tvg-logo="" group-title="BERITA",CNBC(2)
@@ -201,9 +203,11 @@ http://210.210.155.35:80/dr9445/h/h21/01.m3u8
 http://203.77.246.50:5000/udp/239.1.2.234:5000
 ##http://45.126.83.51/dr9445/h/h141/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/T8fdzXn/blueantx.png" group-title="PREMIUM INDONESIA",BLUEANT EXTREME
-http://210.210.155.35/session/ca6ab734-6a2f-11e9-ae93-9813b3aa7f8f/dr9445/h/h15/01.m3u8
+http://203.77.246.50:5000/udp/239.1.2.132:5000
+##http://210.210.155.35/session/ca6ab734-6a2f-11e9-ae93-9813b3aa7f8f/dr9445/h/h15/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Q8xjNSc/blueantent.png" group-title="PREMIUM INDONESIA",BLUEANT ENTERTAINMENT
-http://210.210.155.35/session/e9b257c8-6a2f-11e9-a76f-b3759a40e2c1/dr9445/h/h16/01.m3u8
+http://203.77.246.50:5000/udp/239.1.2.130:5000
+##http://210.210.155.35/session/e9b257c8-6a2f-11e9-a76f-b3759a40e2c1/dr9445/h/h16/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/VTtxzXm/ciwo.jpg" group-title="PREMIUM INDONESIA",CINEMA WORLD
 http://210.210.155.35/dr9445/h/h04/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/VTtxzXm/ciwo.jpg" group-title="PREMIUM INDONESIA",CINEMA INdonesia
@@ -226,9 +230,11 @@ http://203.77.246.50:5000/udp/239.1.2.236:5000
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TDK9V0/mytv.jpg" group-title="PREMIUM INDONESIA",MYTV
 http://210.210.155.35:80/x6bnqe/s/s88/S4/mnf.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=109_MtH3Y5T8d_07P1VVEnD3sAkyX9_go" group-title="PREMIUM INDONESIA",HITS CH
-http://210.210.155.35/dr9445/h/h37/01.m3u8
+http://203.77.246.50:5000/udp/239.1.2.148:5000
+##http://210.210.155.35/dr9445/h/h37/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/0yswGZW/sgem.jpg" group-title="PREMIUM INDONESIA",SONY GEM
-http://210.210.155.35/uq2663/h/h19/02.m3u8
+http://203.77.246.50:5000/udp/239.1.2.146:5000
+##http://210.210.155.35/uq2663/h/h19/02.m3u8
 #EXTINF:-1  group-title="PREMIUM INDONESIA",CELESTIAL MOVIE
 http://210.210.155.35:80/dr9445/h/h14/01.m3u8
 #EXTINF:-1  group-title="PREMIUM INDONESIA",CELESTIAL2
@@ -242,7 +248,8 @@ http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/NsvtNb8/mycnema.jpg" group-title="PREMIUM INDONESIA",MY CINEMA2
 http://210.210.155.35/uq2663/h/h90/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/PYPLz36/trill.png" group-title="PREMIUM INDONESIA",THRILL
-http://210.210.155.35/session/453c7fb4-6a31-11e9-b1c1-bf03b175abaa/qwr9ew/s/s34/01.m3u8
+http://203.77.246.50:5000/udp/239.1.2.216:5000
+##http://210.210.155.35/session/453c7fb4-6a31-11e9-b1c1-bf03b175abaa/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",CCM
 http://rr2.dens.tv/s/s31/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ByFQvJQ/zeebioskop.jpg" group-title="PREMIUM INDONESIA",ZEE BIOSKOP
@@ -299,7 +306,8 @@ http://51.38.180.145:50000/BBC_Earth/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth2
 https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",TLC
-https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b1200000.m3u8
+http://203.77.246.50:5000/udp/239.1.2.140:5000
+##https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo
 http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/274080
 ##http://iptv12k.com:35461/8022022301/468985/2066

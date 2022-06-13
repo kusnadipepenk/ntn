@@ -590,8 +590,6 @@ http://210.210.155.35/uq2663/h/h09/01.m3u8
 https://siloh.pluto.tv/lilo/production/bein/1/master_3.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",BEIN Xtra2
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",Skysport F1
-http://api.magiaiptv.com/live/800196/128093/m1_skysportsf1_720p
 ##http://93.152.174.144:4000/play/ssportsf1/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",EdgeSport
 https://edgesport-samsungus.amagi.tv/playlist480p.m3u8
@@ -658,6 +656,59 @@ https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/59940
 #EXTINF:-1 group-title="SPORTS",Skysportss1
 http://93.152.174.144:4000/play/ssports1/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS1",sky sport fotbal
+http://makanja.xyz/tot/ola/https://netwrk.ru.com/cdn/premium35/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS1",sky sport arena
+http://makanja.xyz/tot/ola/https://netwrk.ru.com/cdn/premium36/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS1",FS1
+http://makanja.xyz/tot/ola/https://netwrk.ru.com/cdn/premium39/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS1",Euro SPort
+http://makanja.xyz/tot/ola/https://netwrk.ru.com/cdn/premium41/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS1",ESPN
+http://makanja.xyz/tot/ola/https://netwrk.ru.com/cdn/premium44/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS1",ESPN2
+http://makanja.xyz/tot/ola/https://netwrk.ru.com/cdn/premium45/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS1",Bein 3 Eng
+http://makanja.xyz/tot/ola/https://netwrk.ru.com/cdn/premium46/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS1",Sport tv
+http://makanja.xyz/tot/ola/https://netwrk.ru.com/cdn/premium49/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS1",Super Sport Fotbal
+http://makanja.xyz/tot/ola/https://netwrk.ru.com/cdn/premium54/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS1",Super Sport Fotbal2
+http://makanja.xyz/tot/ola/https://netwrk.ru.com/cdn/premium56/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS1",Bein 1 Eng
+http://makanja.xyz/tot/ola/https://netwrk.ru.com/cdn/premium61/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS1",Sky sport F1
+http://makanja.xyz/tot/ola/https://netwrk.ru.com/cdn/premium60/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS1",TUDN
+http://makanja.xyz/tot/ola/https://netwrk.ru.com/cdn/premium66/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS1",Eleven sport
+http://makanja.xyz/tot/ola/https://netwrk.ru.com/cdn/premium71/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS1",Eleven Sport2
+http://makanja.xyz/tot/ola/https://netwrk.ru.com/cdn/premium72/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS1",Sport tv 2
+http://makanja.xyz/tot/ola/https://netwrk.ru.com/cdn/premium74/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS1",Bein 2 Eng
+http://makanja.xyz/tot/ola/https://netwrk.ru.com/cdn/premium90/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS1",SK1
+http://makanja.xyz/tot/ola/https://netwrk.ru.com/cdn/premium101/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS1",SK2
+http://makanja.xyz/tot/ola/https://netwrk.ru.com/cdn/premium102/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS1",SK3
+http://makanja.xyz/tot/ola/https://netwrk.ru.com/cdn/premium103/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS1",SK4
+http://makanja.xyz/tot/ola/https://netwrk.ru.com/cdn/premium104/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS1",TSN1
+http://makanja.xyz/tot/ola/https://netwrk.ru.com/cdn/premium111/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS1",TSN2
+http://makanja.xyz/tot/ola/https://netwrk.ru.com/cdn/premium112/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS1",TSN3
+http://makanja.xyz/tot/ola/https://netwrk.ru.com/cdn/premium113/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS1",TSN4
+http://makanja.xyz/tot/ola/https://netwrk.ru.com/cdn/premium114/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS1",TSN5
+http://makanja.xyz/tot/ola/https://netwrk.ru.com/cdn/premium115/chunks.m3u8
 
 
 #EXTINF:-1   tvg-logo="" group-title="Relax",Beaches Live

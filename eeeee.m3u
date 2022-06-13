@@ -311,13 +311,10 @@ http://51.38.180.145:50000/BBC_Earth/index.m3u8
 http://203.77.246.50:5000/udp/239.1.2.140:5000
 ##https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo
-http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/274080
-##http://iptv12k.com:35461/8022022301/468985/2066
+https://cutt.ly/bJ8wBRp
 ##https://link.zozotv.xyz/@nasanash/Lifetime8899/120
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo People
 http://mvu03.wanicelife.com:8880/SY12B1184/HDX6547A/60484
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="KNOWLEDGE",National Geos
-https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b1200000.m3u8?token=
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild
 https://cutt.ly/iJ8qSgF
 ##http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
@@ -600,13 +597,13 @@ http://mvu03.wanicelife.com:8880/SY12B1184/HDX6547A/28917
 http://4digital.ddns.net:11222/ts/0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport1
-##http://makanja.xyz/tot/ola/https://netwrk.ru.com/cdn/premium31/chunks.m3u8
+https://cutt.ly/vJ8w4bA
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport1s
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2s
 http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2
-##http://makanja.xyz/tot/ola/https://netwrk.ru.com/cdn/premium32/chunks.m3u8
+https://cutt.ly/0J8eqfF
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport3
 ##http://makanja.xyz/tot/ola/https://netwrk.ru.com/cdn/premium33/chunks.m3u8
 #EXTINF:-1 group-title="SPORTS",TENNIS

@@ -755,12 +755,13 @@ http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=inews
 http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=mykids
 #EXTINF:-1 tvg-logo="htg" group-title="Test",CD
 http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=chinesedrama
-#EXTINF:-1 tvg-logo="htg" group-title="Test",Boomerang
+#EXTINF:-1 tvg-logo="htg" group-title="Test",Babybus EN
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=R_jkFFbodfU
+#EXTINF:-1 tvg-logo="htg" group-title="Test",KOmpas
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=Za5-fvwbPJI
 
-#EXTINF:-1 tvg-logo="htg" group-title="Test",CN
-
-#EXTINF:-1 tvg-logo="htg" group-title="Test",Nickjr
-
+#EXTINF:-1 tvg-logo="htg" group-title="Test",PawPatrol
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=szknQHibfJ0
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Nickelodeons
 
 #EXTINF:-1 tvg-logo="htg" group-title="Test",HGTV

@@ -753,19 +753,19 @@ http://rr.dens.tv/h/h998/live.m3u8
 http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=inews
 #EXTINF:-1 tvg-logo="htg" group-title="Test",kid
 http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=mykids
-#EXTINF:-1 tvg-logo="htg" group-title="Test",CD
+#EXTINF:-1 tvg-logo="htg" group-title="Test",Chines DRama
 http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=chinesedrama
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Babybus EN
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=R_jkFFbodfU
 #EXTINF:-1 tvg-logo="htg" group-title="Test",KOmpas
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=Za5-fvwbPJI
 
-#EXTINF:-1 tvg-logo="htg" group-title="Test",PawPatrol
+#EXTINF:-1 tvg-logo="htg" group-title="Test",Paw Pat & Friends
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=szknQHibfJ0
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Nickelodeons
 
-#EXTINF:-1 tvg-logo="htg" group-title="Test",HGTV
-
+#EXTINF:-1 tvg-logo="htg" group-title="Test",BabyBus ID
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=DE_N8Uj5wyE
 #EXTINF:-1 tvg-logo="htg" group-title="Test",imc
 
 #EXTINF:-1 tvg-logo="htg" group-title="Test",nat
@@ -774,12 +774,11 @@ http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd?checkedby
 http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1 tvg-logo="htg" group-title="Test",OkeyTV
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
-#EXTINF:-1 tvg-logo="htg" group-title="Test",nicknick
-
+#EXTINF:-1 tvg-logo="htg" group-title="Test",Paw Patrol
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=w8jIaF1RcS0
 #EXTINF:-1 tvg-logo="htg" group-title="Test",MNCS
-http://202.150.172.34:4000/play/mnctvt2
+
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Cekidot
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=history&gumisasakTV=default&sync=0
 
 
 
@@ -824,17 +823,17 @@ http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=history&gumisasakT
 #EXTINF:-1 tvg-id="nusantaratv" tvg-logo="http://kamiselaluada.com/img/ntv.png" group-title="VIDIO",Nusantara TV 
 #https://znjjprwzgeyyp.vidio.com/hls-p/ingest_7432_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/daaitv.png" group-title="VIDIO",TV 
-http://tvn.x10.bz/xchannel/master-5.m3u8
+##http://tvn.x10.bz/xchannel/master-5.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions1.png" group-title="VIDIO",Champions TV 1 
 https://cutt.ly/iKfnUMT
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions2.png" group-title="VIDIO",Champions TV 2 
 https://cutt.ly/fKfnP09
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions3.png" group-title="VIDIO",Champions TV 3 
-http://tvn.x10.bz/xchannel/master-8.m3u8
+https://cutt.ly/GKfm6s2
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions3.png" group-title="VIDIO",Champions TV 4
-http://tvn.x10.bz/xchannel/master-17.m3u8
+https://cutt.ly/mKfQr5M
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions3.png" group-title="VIDIO",Champions TV xtra
-http://tvn.x10.bz/xchannel/master-18.m3u8
+https://cutt.ly/JKfQiyN
 #EXTINF:-1 tvg-logo="" group-title="VIDIO",Bein1
 #==https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6299_720p/index.m3u8
 #https://newlivetv.my.id/vidio/6299-LiveTV.m3u8?livetv

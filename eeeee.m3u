@@ -483,6 +483,21 @@ http://103.55.144.46/hls/mn+.m3u8
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 group-title="MOVIES",Netflix
 https://bit.ly/Netflixinsp?/playlist360p.m3u8
+#EXTINF:-1 group-title="MOVIES",&ROmance
+http://5.9.150.76/romance/mono.m3u8
+#EXTINF:-1 group-title="MOVIES",&Horor
+http://5.9.150.76/horrorhd/mono.m3u8
+#EXTINF:-1 group-title="MOVIES",&Comedy 
+http://5.9.150.76/comedyhd/mono.m3u8
+#EXTINF:-1 group-title="MOVIES",&Drama
+http://5.9.150.76/dramahd/mono.m3u8
+#EXTINF:-1 group-title="MOVIES",&Action
+http://5.9.150.76/actionhd/mono.m3u8
+#EXTINF:-1 group-title="MOVIES",&Thriler
+http://5.9.150.76/thrillerhd/mono.m3u8
+
+
+
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="Music",Startv
@@ -810,9 +825,9 @@ http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=history&gumisasakT
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/daaitv.png" group-title="VIDIO",TV 
 http://tvn.x10.bz/xchannel/master-5.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions1.png" group-title="VIDIO",Champions TV 1 
-http://tvn.x10.bz/xchannel/master-6.m3u8
+https://cutt.ly/iKfnUMT
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions2.png" group-title="VIDIO",Champions TV 2 
-http://tvn.x10.bz/xchannel/master-7.m3u8
+https://cutt.ly/fKfnP09
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions3.png" group-title="VIDIO",Champions TV 3 
 http://tvn.x10.bz/xchannel/master-8.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions3.png" group-title="VIDIO",Champions TV 4
@@ -833,12 +848,11 @@ http://tvn.x10.bz/xchannel/master-18.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIDIO",FoxSport3
 #https://newlivetv.my.id/vidio/7650-LiveTV.m3u8?livetv
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvn.png" group-title="VIDIO",TVN 
-#https://newlivetv.my.id/vidio/6362-LiveTV.m3u8?livetv
+https://cutt.ly/OKfnHJV
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zeebioskop.png" group-title="VIDIO",Zee Bioskop 
 #https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6399_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/citrabioskop.png" group-title="VIDIO",Citra Bioskop 
-##http://tvn.x10.bz/vidio/master-1.m3u8
-#https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6684_720p/index.m3u8 
+https://cutt.ly/yKfnMzN 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/citradangdut.png" group-title="VIDIO",Citra Dangdut 
 #https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6587_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/citraentertainment.png" group-title="VIDIO",TV one 

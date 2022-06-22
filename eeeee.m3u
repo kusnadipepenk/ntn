@@ -161,7 +161,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb
 #EXTINF:-1 group-title="KIDS",Kids Pluto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="KIDS",Nick JRs
-https://cutt.ly/pKxinlq
+http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=nickjr
 ##https://netwrk.ru.com/cdn/premium329/chunks.m3u8
 #EXTINF:-1 group-title="KIDS",Nickelodeon
 https://netwrk.ru.com/cdn/premium330/chunks.m3u8
@@ -756,7 +756,7 @@ http://rr3.dens.tv/s/s100/live.m3u8
 #EXTINF : group-title="Test" tvg-logo="", Live Streaming 2
 http://rr.dens.tv/h/h998/live.m3u8
 #EXTINF:-1 tvg-logo="htg" group-title="Test",tvnmovies
-https://cutt.ly/AKxiZkB
+http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=tvnmovies
 #EXTINF:-1 tvg-logo="htg" group-title="Test",kid
 http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=mykids
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Chines DRama
@@ -773,7 +773,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v
 #EXTINF:-1 tvg-logo="htg" group-title="Test",BabyBus ID
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=DE_N8Uj5wyE
 #EXTINF:-1 tvg-logo="htg" group-title="Test",tvn
-https://cutt.ly/uKxiYbJ
+http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=tvn
 #EXTINF:-1 tvg-logo="htg" group-title="Test",nat
 http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Wild
@@ -783,9 +783,9 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Paw Patrol
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=w8jIaF1RcS0
 #EXTINF:-1 tvg-logo="htg" group-title="Test",discovery
-https://cutt.ly/uKxiFir
+http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=disco
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Galaxy
-https://cutt.ly/xKxiHMx
+http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=galaxy
 
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="VIDIO",mentariTV 

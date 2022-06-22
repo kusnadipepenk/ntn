@@ -756,7 +756,7 @@ http://rr3.dens.tv/s/s100/live.m3u8
 #EXTINF : group-title="Test" tvg-logo="", Live Streaming 2
 http://rr.dens.tv/h/h998/live.m3u8
 #EXTINF:-1 tvg-logo="htg" group-title="Test",tvnmovieskk
-http://60.251.59.180:8537/http:/jkt2.roll.my.id/manifest/uss/index.m3u8?id=tvnmovies
+http://60.251.59.180:8537/http/jkt2.roll.my.id/manifest/uss/index.m3u8?id=tvnmovies
 #EXTINF:-1 tvg-logo="htg" group-title="Test",kid
 http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=mykids
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Chines DRama

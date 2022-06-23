@@ -250,7 +250,7 @@ http://210.210.155.35/dr9445/h/h07/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/NsvtNb8/mycnema.jpg" group-title="PREMIUM INDONESIA",MY CINEMA
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/NsvtNb8/mycnema.jpg" group-title="PREMIUM INDONESIA",MY CINEMA2
-http://210.210.155.35/uq2663/h/h90/index.m3u8
+http://210.210.155.35/uq2663/h/h192/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/PYPLz36/trill.png" group-title="PREMIUM INDONESIA",THRILL
 http://203.77.246.50:5000/udp/239.1.2.216:5000
 ##http://210.210.155.35/session/453c7fb4-6a31-11e9-b1c1-bf03b175abaa/qwr9ew/s/s34/01.m3u8

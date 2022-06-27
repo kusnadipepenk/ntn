@@ -503,6 +503,19 @@ http://5.9.150.76/scihd/mono.m3u8
 http://5.9.150.76/crimehd/mono.m3u8
 #EXTINF:-1 group-title="MOVIES",cloud Cinema
 http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
+https://d1k4ybyeycgihx.cloudfront.net/hls/abc/chunks.m3u8
+#EXTINF:-1  tvg-logo="" group-title="MOVIES",AMC
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="MOVIES",AMC thrler
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="MOVIES",cine real
+https://cinereal-plex.amagi.tv/CineReal/master_4.m3u8
+#EXTINF:-1  tvg-logo="" group-title="MOVIES",Cornflix movie
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="MOVIES",Topcine
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_4.m3u8
+
+
 
 
 #EXTM3U
@@ -572,19 +585,6 @@ https://tinyurl.com/2p897e7k
 #EXTINF:-1  tvg-logo="" group-title="SPORT",TNT
 http://38.127.211.18/live/c2eds/TNTLA/HLS/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORT",abc
-https://d1k4ybyeycgihx.cloudfront.net/hls/abc/chunks.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORT",AMC
-https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORT",AMC thrler
-https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORT",AMC stori
-https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORT",cine real
-https://cinereal-plex.amagi.tv/CineReal/master_4.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORT",Cornflix movie
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORT",Topcine
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_4.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORT",History
 https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
 

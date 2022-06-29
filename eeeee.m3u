@@ -162,7 +162,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb
 #EXTINF:-1 group-title="KIDS",Kids Pluto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="KIDS",Nick JRs
-http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=nickjr
+http://starshare.live:8080/live/usman007/usman007/19834.m3u8
+##http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=nickjr
 ##https://netwrk.ru.com/cdn/premium329/chunks.m3u8
 #EXTINF:-1 group-title="KIDS",Nickelodeon
 https://netwrk.ru.com/cdn/premium330/chunks.m3u8
@@ -301,7 +302,7 @@ http://playlist.urfan.web.id/x6bnqe/s/s50/live.m3u8
  
  
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV
-http://188.241.218.174:8070/ce1eb8b3/fd28c06f6f/165054?token=ShUNAEFcElxECwJXDAFQU1MBV1AFAVRcUwVTBAVSUlMIAAEEUQQHXwAaGEZKTREDAFhpWAUVDwgABFNXA05DFkJSFz5bUBJcRA4BVA0KQUpDQV9cBBUPCAAEVVMGVVhUCRtHEVtQElxECwdQAABBSkNQTkUERVtYWm4HB0ELAgYTDQsUXlgcRAlWawBcVAIIBRcME1EVGRtfQhNADQwUD10bRwNbQEIHEl0WXhsLW1RRFxoTAlhAV0JDGkANQC8vExtHBEpAVQgVUVsKGwNBEhIXGhMIRGpLU0IXEFIDDAZDFV9DAxYcRAtZTDtaVg0IBFZCWA5ZRhsME1JXB1JDTxNaCg9bQF8UOUhdABsDQVdWBAIFQ0o=
+http://starshare.live:8080/live/usman007/usman007/19004.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary
@@ -621,15 +622,15 @@ http://mvu03.wanicelife.com:8880/SY12B1184/HDX6547A/28917
 http://4digital.ddns.net:11222/ts/0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport1
-https://netwrk.ru.com/cdn/premium31/chunks.m3u8
+http://starshare.live:8080/live/usman007/usman007/286.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport1s
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2s
 http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2
-https://netwrk.ru.com/cdn/premium32/chunks.m3u8
+http://starshare.live:8080/live/usman007/usman007/285.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport3
-https://netwrk.ru.com/cdn/premium33/chunks.m3u8
+http://starshare.live:8080/live/usman007/usman007/283.ts
 #EXTINF:-1 group-title="SPORTS",TENNIS
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 #EXTINF:-1 group-title="SPORTS",TNT SPORT1
@@ -653,7 +654,7 @@ http://103.55.144.46/hls/sonyten2.m3u8
 #EXTINF:-1 group-title="SPORTS",Sony Ten3
 http://103.55.144.46/hls/sonyten3.m3u8
 #EXTINF:-1 group-title="SPORTS",Motorsport2
-http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/11638
+http://starshare.live:8080/live/usman007/usman007/560.m3u8
 #EXTINF:-1 group-title="SPORTS",Fox Sport
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 #EXTINF:-1 group-title="SPORTS",Fox Sport2

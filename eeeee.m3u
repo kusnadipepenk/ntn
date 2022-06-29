@@ -162,9 +162,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb
 #EXTINF:-1 group-title="KIDS",Kids Pluto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="KIDS",Nick JRs
-http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/71086
+http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/28890
+##http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/71086
 ##http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=nickjr
-##https://netwrk.ru.com/cdn/premium329/chunks.m3u8
 #EXTINF:-1 group-title="KIDS",Nickelodeon
 http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/71085
 #EXTINF:-1 group-title="KIDS",Nicktoon
@@ -216,8 +216,6 @@ http://203.77.246.50:5000/udp/239.1.2.130:5000
 ##http://210.210.155.35/session/e9b257c8-6a2f-11e9-a76f-b3759a40e2c1/dr9445/h/h16/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/VTtxzXm/ciwo.jpg" group-title="PREMIUM INDONESIA",CINEMA WORLD
 http://210.210.155.35/dr9445/h/h04/01.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/VTtxzXm/ciwo.jpg" group-title="PREMIUM INDONESIA",CINEMA INdonesia
-http://202.150.172.35:8000/play/sinemaindonesias2
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",CinemA Europe
 http://210.210.155.35:80/uq2663/h/h18/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",MyCinema Asia
@@ -573,21 +571,21 @@ http://2serv.mylifeisgood.ml:8080/mfolive.m3u8?media=musicboxgold
 
 
 #EXTINF:-1  tvg-logo="" group-title="SPORT",skySelect1
-http://182.50.65.213:8888/udp/239.239.0.6:3001
+##http://182.50.65.213:8888/udp/239.239.0.6:3001
 #EXTINF:-1  tvg-logo="" group-title="SPORT",skyselect2
-http://182.50.65.213:8888/udp/239.239.0.5:3001
+##http://182.50.65.213:8888/udp/239.239.0.5:3001
 #EXTINF:-1  tvg-logo="" group-title="SPORT",ten1
-http://182.50.65.213:8888/udp/239.239.0.33:3001
+##http://182.50.65.213:8888/udp/239.239.0.33:3001
 #EXTINF:-1  tvg-logo="" group-title="SPORT",ten2
-http://182.50.65.213:8888/udp/239.239.0.34:3001
+##http://182.50.65.213:8888/udp/239.239.0.34:3001
 #EXTINF:-1  tvg-logo="" group-title="SPORT",ten3
-http://182.50.65.213:8888/udp/239.239.0.35:3001
+##http://182.50.65.213:8888/udp/239.239.0.35:3001
 #EXTINF:-1  tvg-logo="" group-title="SPORT",lotus
-http://nettvpro.live/hls/lotustv.php
+##http://nettvpro.live/hls/lotustv.php
 #EXTINF:-1  tvg-logo="" group-title="SPORT",DisneyX
-https://tinyurl.com/2p897e7k
+##https://tinyurl.com/2p897e7k
 #EXTINF:-1  tvg-logo="" group-title="SPORT",TNT
-http://38.127.211.18/live/c2eds/TNTLA/HLS/index.m3u8
+##http://38.127.211.18/live/c2eds/TNTLA/HLS/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORT",abc
 #EXTINF:-1  tvg-logo="" group-title="SPORT",History
 https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
@@ -807,7 +805,7 @@ http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=galaxy
 #EXTINF:-1 tvg-logo="" group-title="VIDIO",FoxSport3
 #https://newlivetv.my.id/vidio/7650-LiveTV.m3u8?livetv
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvn.png" group-title="VIDIO",TVN 
-https://cutt.ly/OKfnHJV
+##https://cutt.ly/OKfnHJV
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zeebioskop.png" group-title="VIDIO",Zee Bioskop 
 #https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6399_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/citrabioskop.png" group-title="VIDIO",Citra Bioskop 

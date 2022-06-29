@@ -162,11 +162,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb
 #EXTINF:-1 group-title="KIDS",Kids Pluto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="KIDS",Nick JRs
-http://starshare.live:8080/live/usman007/usman007/19834.m3u8
+http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/71086
 ##http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=nickjr
 ##https://netwrk.ru.com/cdn/premium329/chunks.m3u8
 #EXTINF:-1 group-title="KIDS",Nickelodeon
-https://netwrk.ru.com/cdn/premium330/chunks.m3u8
+http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/71085
 #EXTINF:-1 group-title="KIDS",Nicktoon
 http://208.86.19.13:81/15.stream/index.m3u8
 #EXTINF:-1 group-title="KIDS",Disney
@@ -302,7 +302,7 @@ http://playlist.urfan.web.id/x6bnqe/s/s50/live.m3u8
  
  
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV
-http://starshare.live:8080/live/usman007/usman007/19004.m3u8
+http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/71096
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary
@@ -310,19 +310,20 @@ http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary2
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth
-http://51.38.180.145:50000/BBC_Earth/index.m3u8
+http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/71119
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth2
 ##https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",TLC
 http://203.77.246.50:5000/udp/239.1.2.140:5000
 ##https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo
-https://cutt.ly/aKxiztZ
+http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/60484
 ##https://link.zozotv.xyz/@nasanash/Lifetime8899/120
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo W
 http://51.195.6.191:8080/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild
-http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
+http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/28950
+##http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Asian
 http://203.77.246.50:5000/udp/239.1.2.224:5000
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Turbo
@@ -605,6 +606,8 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1651977303~exp=9007200906718294~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_2/chunklist.m3u8*~hmac=c863c73293c9b625e06c9791
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Motorvision
 http://210.210.155.35/uq2663/h/h09/01.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Motorsports
+http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/60796
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Golf
 ##http://210.210.155.35/dr9445/h/h10/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",BEIN Xtra
@@ -622,15 +625,15 @@ http://mvu03.wanicelife.com:8880/SY12B1184/HDX6547A/28917
 http://4digital.ddns.net:11222/ts/0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport1
-http://starshare.live:8080/live/usman007/usman007/286.ts
+http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/2943
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport1s
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2s
 http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2
-http://starshare.live:8080/live/usman007/usman007/285.m3u8
+http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/2942
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport3
-http://starshare.live:8080/live/usman007/usman007/283.ts
+http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/2941
 #EXTINF:-1 group-title="SPORTS",TENNIS
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 #EXTINF:-1 group-title="SPORTS",TNT SPORT1
@@ -653,8 +656,6 @@ http://103.55.144.46/hls/sonyten1.m3u8
 http://103.55.144.46/hls/sonyten2.m3u8
 #EXTINF:-1 group-title="SPORTS",Sony Ten3
 http://103.55.144.46/hls/sonyten3.m3u8
-#EXTINF:-1 group-title="SPORTS",Motorsport2
-http://starshare.live:8080/live/usman007/usman007/560.m3u8
 #EXTINF:-1 group-title="SPORTS",Fox Sport
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 #EXTINF:-1 group-title="SPORTS",Fox Sport2
@@ -679,59 +680,6 @@ http://93.152.174.144:4000/play/ssports1/index.m3u8
 
 
 #######http://60.251.59.180:8537/https:/netwrk.ru.com/cdn/premium28/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTS1",sky sport fotbal
-https://netwrk.ru.com/cdn/premium35/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS1",sky sport arena
-https://netwrk.ru.com/cdn/premium36/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS1",FS1
-https://netwrk.ru.com/cdn/premium39/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS1",Euro SPort
-https://netwrk.ru.com/cdn/premium41/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS1",ESPN
-https://netwrk.ru.com/cdn/premium44/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS1",ESPN2
-https://netwrk.ru.com/cdn/premium45/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS1",Bein 3 Eng
-https://netwrk.ru.com/cdn/premium46/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS1",Sport tv
-https://netwrk.ru.com/cdn/premium49/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS1",Super Sport Fotbal
-https://netwrk.ru.com/cdn/premium54/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS1",Super Sport Fotbal2
-https://netwrk.ru.com/cdn/premium56/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS1",Bein 1 Eng
-https://netwrk.ru.com/cdn/premium61/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS1",Sky sport F1
-https://netwrk.ru.com/cdn/premium60/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS1",TUDN
-https://netwrk.ru.com/cdn/premium66/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS1",Eleven sport
-https://netwrk.ru.com/cdn/premium71/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS1",Eleven Sport2
-https://netwrk.ru.com/cdn/premium72/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS1",Sport tv 2
-https://netwrk.ru.com/cdn/premium74/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS1",Bein 2 Eng
-https://netwrk.ru.com/cdn/premium90/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS1",SK1
-https://netwrk.ru.com/cdn/premium101/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS1",SK2
-https://netwrk.ru.com/cdn/premium102/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS1",SK3
-https://netwrk.ru.com/cdn/premium103/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS1",SK4
-https://netwrk.ru.com/cdn/premium104/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS1",TSN1
-https://netwrk.ru.com/cdn/premium111/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS1",TSN2
-https://netwrk.ru.com/cdn/premium112/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS1",TSN3
-https://netwrk.ru.com/cdn/premium113/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS1",TSN4
-https://netwrk.ru.com/cdn/premium114/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS1",TSN5
-https://netwrk.ru.com/cdn/premium115/chunks.m3u8
 
 
 #EXTINF:-1   tvg-logo="" group-title="Relax",Beaches Live
@@ -836,15 +784,15 @@ http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=galaxy
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/daaitv.png" group-title="VIDIO",TV 
 ##http://tvn.x10.bz/xchannel/master-5.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions1.png" group-title="VIDIO",Champions TV 1 
-https://cutt.ly/iKfnUMT
+##https://cutt.ly/iKfnUMT
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions2.png" group-title="VIDIO",Champions TV 2 
-https://cutt.ly/fKfnP09
+##https://cutt.ly/fKfnP09
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions3.png" group-title="VIDIO",Champions TV 3 
-https://cutt.ly/GKfm6s2
+##https://cutt.ly/GKfm6s2
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions3.png" group-title="VIDIO",Champions TV 4
-https://cutt.ly/mKfQr5M
+##https://cutt.ly/mKfQr5M
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions3.png" group-title="VIDIO",Champions TV xtra
-https://cutt.ly/JKfQiyN
+##https://cutt.ly/JKfQiyN
 #EXTINF:-1 tvg-logo="" group-title="VIDIO",Bein1
 #==https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6299_720p/index.m3u8
 #https://newlivetv.my.id/vidio/6299-LiveTV.m3u8?livetv
@@ -863,7 +811,7 @@ https://cutt.ly/OKfnHJV
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zeebioskop.png" group-title="VIDIO",Zee Bioskop 
 #https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6399_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/citrabioskop.png" group-title="VIDIO",Citra Bioskop 
-https://cutt.ly/yKfnMzN 
+##https://cutt.ly/yKfnMzN 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/citradangdut.png" group-title="VIDIO",Citra Dangdut 
 #https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6587_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/citraentertainment.png" group-title="VIDIO",TV one 

@@ -588,7 +588,7 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Motorvision
 http://210.210.155.35/uq2663/h/h09/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Motorsports
-http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/60796
+http://ku03.wanicelife.com:8880/3M220016/25298437/60796
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Golf
 ##http://210.210.155.35/dr9445/h/h10/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",BEIN Xtra
@@ -606,15 +606,15 @@ http://mvu03.wanicelife.com:8880/SY12B1184/HDX6547A/28917
 http://4digital.ddns.net:11222/ts/0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport1
-http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/2943
+http://ku03.wanicelife.com:8880/3M220016/25298437/2943
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport1s
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2s
 http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2
-http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/2942
+http://ku03.wanicelife.com:8880/3M220016/25298437/2942
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport3
-http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/2941
+http://ku03.wanicelife.com:8880/3M220016/25298437/2941
 #EXTINF:-1 group-title="SPORTS",TENNIS
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 #EXTINF:-1 group-title="SPORTS",TNT SPORT1

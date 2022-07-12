@@ -393,6 +393,14 @@ http://ip2121.com:8081/live/hbo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOCinemax2 TH
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
 
+#EXTINF:-1 group-title="MOVIES",FXMovie
+http://rmvberantakan.com/usg/index.php?id=FXMovie
+#EXTINF:-1 group-title="MOVIES",FX
+http://rmvberantakan.com/usg/index.php?id=FX
+#EXTINF:-1 group-title="MOVIES",FXX
+http://rmvberantakan.com/usg/index.php?id=FXX
+#EXTINF:-1 group-title="MOVIES",Cinemax USA
+http://rmvberantakan.com/usg/index.php?id=Cinemax
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Fox
 http://45.92.69.72:8000/play/a0gm
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Fox Movie
@@ -410,9 +418,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/640x360_7000
 ##http://live.flixhub.net/hls/sonypixhd.m3u8
 #EXTINF:-1 group-title="MOVIES",&SONY PIX2
 http://103.55.144.46/hls/sonypixhd.m3u8
-#EXTINF:-1 group-title="MOVIES",FoxFAM
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/157570
-
 #EXTINF:-1 group-title="MOVIES",Crackle
 http://crackle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Asylium

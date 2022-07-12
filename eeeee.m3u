@@ -173,7 +173,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395
 #EXTINF:-1 group-title="KIDS",Nicktoon
 http://208.86.19.13:81/15.stream/index.m3u8
 #EXTINF:-1 group-title="KIDS",Disney
-http://208.86.19.13:81/14.stream/index.m3u8
+http://rmvberantakan.com/usg/index.php?id=Disney
+##http://208.86.19.13:81/14.stream/index.m3u8
 #EXTINF:-1 group-title="KIDS",DisneyXD
 http://208.86.19.13:81/10.stream/index.m3u8
 #EXTINF:-1 group-title="KIDS",HappyKids
@@ -183,7 +184,8 @@ https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
 #EXTINF:-1  group-title="KIDS",Carton networks
 http://203.77.246.50:5000/udp/239.1.2.154:5000
 #EXTINF:-1 group-title="KIDS",Disney Jr
-http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
+http://rmvberantakan.com/usg/index.php?id=DisneyJr
+##http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
 #EXTINF:-1 group-title="KIDS",ZOOMOO
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Toons kid
@@ -303,7 +305,7 @@ http://playlist.urfan.web.id/x6bnqe/s/s50/live.m3u8
  
  
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV
-##http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/71096
+http://rmvberantakan.com/usg/index.php?id=HGTV
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary
@@ -397,8 +399,8 @@ http://45.92.69.72:8000/play/a0gm
 http://45.92.69.72:8000/play/a0h0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",box film
 http://61.19.242.134/feed/202105171329/LC31/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Showtime Movie
-http://iptv12k.com:35461/80301051401/878900/1826
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",SYFY
+http://rmvberantakan.com/usg/index.php?id=SYFY
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Runtime
 https://ammoruntime-plex.amagi.tv/playlistR432p.m3u8
 #EXTINF:-1 group-title="MOVIES",Xumo Western

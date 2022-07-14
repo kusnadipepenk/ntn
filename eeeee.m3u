@@ -393,6 +393,9 @@ http://ip2121.com:8081/live/hbo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOCinemax2 TH
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
 
+
+#EXTINF:-1 group-title="MOVIES",BBC America
+http://rmvberantakan.com/usg/index.php?id=BBCAmerica
 #EXTINF:-1 group-title="MOVIES",FXMovie
 http://rmvberantakan.com/usg/index.php?id=FXMovie
 #EXTINF:-1 group-title="MOVIES",FX

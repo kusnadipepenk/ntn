@@ -319,10 +319,11 @@ http://203.77.246.50:5000/udp/239.1.2.140:5000
 ##https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo
 
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo Wi
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo Wild
 http://51.195.6.191:8080/NatGeoWild/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild
-http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild2
+http://rmvberantakan.com/usg/index.php?id=NatGEOWild
+##http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Asian
 http://203.77.246.50:5000/udp/239.1.2.224:5000
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Turbo

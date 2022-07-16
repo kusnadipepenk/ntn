@@ -154,7 +154,7 @@ http://210.210.155.35/uq2663/h/h97/index.m3u8
 http://203.77.246.50:5000/udp/239.1.2.158:5000
 ##http://iptv12k.com:35461/80301051401/878900/614
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Dreamworks
-http://iptv12k.com:35461/80301051401/878900/2079
+
 ##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/134
 #EXTINF:-1  group-title="KIDS",Kidsflix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
@@ -167,6 +167,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb
 #EXTINF:-1 group-title="KIDS",Kids Pluto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="KIDS",Nick JR
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157546
 ##http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=nickjr
 #EXTINF:-1 group-title="KIDS",Nickelodeon
 ##http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/71085
@@ -304,7 +305,7 @@ http://playlist.urfan.web.id/x6bnqe/s/s50/live.m3u8
  
  
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV
-##http://rmvberantakan.com/usg/index.php?id=HGTV
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157553
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary
@@ -321,7 +322,8 @@ http://203.77.246.50:5000/udp/239.1.2.140:5000
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo Wild
 http://51.195.6.191:8080/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild2
-http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/174724
+##http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Asian
 http://203.77.246.50:5000/udp/239.1.2.224:5000
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Turbo
@@ -394,15 +396,15 @@ http://ip2121.com:8081/live/cinemax/playlist.m3u8
 
 
 #EXTINF:-1 group-title="MOVIES",BBC America
-http://rmvberantakan.com/usg/index.php?id=BBCAmerica
+##http://rmvberantakan.com/usg/index.php?id=BBCAmerica
 #EXTINF:-1 group-title="MOVIES",FXMovie
-http://rmvberantakan.com/usg/index.php?id=FXMovie
+##http://rmvberantakan.com/usg/index.php?id=FXMovie
 #EXTINF:-1 group-title="MOVIES",FX
-http://rmvberantakan.com/usg/index.php?id=FX
+##http://rmvberantakan.com/usg/index.php?id=FX
 #EXTINF:-1 group-title="MOVIES",FXX
-http://rmvberantakan.com/usg/index.php?id=FXX
+##http://rmvberantakan.com/usg/index.php?id=FXX
 #EXTINF:-1 group-title="MOVIES",Cinemax USA
-http://rmvberantakan.com/usg/index.php?id=Cinemax
+##http://rmvberantakan.com/usg/index.php?id=Cinemax
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Fox
 http://45.92.69.72:8000/play/a0gm
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Fox Movie
@@ -410,13 +412,14 @@ http://45.92.69.72:8000/play/a0h0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",box film
 http://61.19.242.134/feed/202105171329/LC31/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",SYFY
-http://rmvberantakan.com/usg/index.php?id=SYFY
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/2359
+##http://rmvberantakan.com/usg/index.php?id=SYFY
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Runtime
 https://ammoruntime-plex.amagi.tv/playlistR432p.m3u8
 #EXTINF:-1 group-title="MOVIES",Xumo Western
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/640x360_700000/index.m3u8
 #EXTINF:-1 group-title="MOVIES",&SONY PIX
-##http://iptv12k.com:35461/80301051401/878900/2198
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/49539
 ##http://live.flixhub.net/hls/sonypixhd.m3u8
 #EXTINF:-1 group-title="MOVIES",&SONY PIX2
 http://103.55.144.46/hls/sonypixhd.m3u8
@@ -599,7 +602,7 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Motorvision
 http://210.210.155.35/uq2663/h/h09/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Motorsports
-http://ku03.wanicelife.com:8880/3M220016/25298437/60796
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/11638
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Golf
 ##http://210.210.155.35/dr9445/h/h10/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",BEIN Xtra
@@ -617,15 +620,15 @@ http://mvu03.wanicelife.com:8880/SY12B1184/HDX6547A/28917
 http://4digital.ddns.net:11222/ts/0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport1
-http://ku03.wanicelife.com:8880/3M220016/25298437/2943
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/270
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport1s
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2s
 http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2
-http://ku03.wanicelife.com:8880/3M220016/25298437/2942
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/273
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport3
-http://ku03.wanicelife.com:8880/3M220016/25298437/2941
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/271
 #EXTINF:-1 group-title="SPORTS",TENNIS
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 #EXTINF:-1 group-title="SPORTS",TNT SPORT1
@@ -670,7 +673,7 @@ https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/59940
 #EXTINF:-1 group-title="SPORTS",Skysportss1
 http://93.152.174.144:4000/play/ssports1/index.m3u8
 #EXTINF:-1 group-title="SPORTS",Race
-https:\\d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com\v1\master\82ded7a88773aef3d6dd1fedce15ba2d57eb6bca\viewmedia-7\live_099\HD\playlist.m3u8
+https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_099/HD/playlist.m3u8
 
 #######http://60.251.59.180:8537/https:/netwrk.ru.com/cdn/premium28/chunks.m3u8
 

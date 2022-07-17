@@ -579,11 +579,13 @@ http://2serv.mylifeisgood.ml:8080/mfolive.m3u8?media=musicboxgold
 ##http://182.50.65.213:8888/udp/239.239.0.35:3001
 #EXTINF:-1  tvg-logo="" group-title="SPORT",lotus
 ##http://nettvpro.live/hls/lotustv.php
-#EXTINF:-1  tvg-logo="" group-title="SPORT",DisneyX
+#EXTINF:-1  tvg-logo="" group-title="SPORT",WIld
+http://starshare.live:8080/live/usman007/usman007/19018.m3u8
 ##https://tinyurl.com/2p897e7k
 #EXTINF:-1  tvg-logo="" group-title="SPORT",TNT
 ##http://38.127.211.18/live/c2eds/TNTLA/HLS/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORT",abc
+#EXTINF:-1  tvg-logo="" group-title="SPORT",HGTV
+http://starshare.live:8080/live/usman007/usman007/19004.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORT",History
 https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
 

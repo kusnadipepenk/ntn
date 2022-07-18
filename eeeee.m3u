@@ -577,10 +577,10 @@ http://2serv.mylifeisgood.ml:8080/mfolive.m3u8?media=musicboxgold
 ##http://182.50.65.213:8888/udp/239.239.0.34:3001
 #EXTINF:-1  tvg-logo="" group-title="SPORT",ten3
 ##http://182.50.65.213:8888/udp/239.239.0.35:3001
-#EXTINF:-1  tvg-logo="" group-title="SPORT",lotus
-##http://nettvpro.live/hls/lotustv.php
-#EXTINF:-1  tvg-logo="" group-title="SPORT",WIld
-http://starshare.live:8080/live/usman007/usman007/19018.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORT",NickJr
+http://starshare.live:8080/live/usman007/usman007/561.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORT",WIlds
+http://starshare.live:8080/live/usman007/usman007/3360.m3u8
 ##https://tinyurl.com/2p897e7k
 #EXTINF:-1  tvg-logo="" group-title="SPORT",TNT
 ##http://38.127.211.18/live/c2eds/TNTLA/HLS/index.m3u8

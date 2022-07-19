@@ -513,7 +513,8 @@ https://cinereal-plex.amagi.tv/CineReal/master_4.m3u8
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",Topcine
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_4.m3u8
-
+#EXTINF:-1  tvg-logo="" group-title="MOVIES",Electric Now
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=53
 
 
 

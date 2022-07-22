@@ -385,6 +385,16 @@ http://203.77.246.50:5000/udp/239.1.3.74:5000
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDHBOhits
 http://203.77.246.50:5000/udp/239.1.3.82:5000
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",1
+http://189.91.128.146:4444/udp/227.10.20.98:1234
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",2
+http://189.91.128.146:4444/udp/227.10.20.97:1234
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",3
+http://189.91.128.146:4444/udp/227.10.20.96:1234
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",4
+http://189.91.128.146:4444/udp/227.10.20.95:1234
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",5
+http://189.91.128.146:4444/udp/227.10.20.94:1234
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",3HBo VI
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b1200000.m3u8?token=

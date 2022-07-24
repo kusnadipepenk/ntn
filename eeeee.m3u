@@ -154,8 +154,7 @@ http://210.210.155.35/uq2663/h/h97/index.m3u8
 http://203.77.246.50:5000/udp/239.1.2.158:5000
 ##http://iptv12k.com:35461/80301051401/878900/614
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Dreamworks
-
-##https://link.zozotv.xyz:443/@nasanash/Lifetime8899/134
+http://103.105.213.251:8443/live/Oq92S2Auwlaby0OELhOtyw/1658772208/23.m3u8
 #EXTINF:-1  group-title="KIDS",Kidsflix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1  group-title="KIDS",Kids Toons
@@ -167,9 +166,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb
 #EXTINF:-1 group-title="KIDS",Kids Pluto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="KIDS",Nick JR
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157546
+http://103.105.213.251:8443/live/Oq92S2Auwlaby0OELhOtyw/1658772208/27.m3u8
+##http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157546
 ##http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=nickjr
 #EXTINF:-1 group-title="KIDS",Nickelodeon
+http://103.105.213.251:8443/live/Oq92S2Auwlaby0OELhOtyw/1658772208/28.m3u8
 ##http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/71085
 #EXTINF:-1 group-title="KIDS",Nicktoon
 http://208.86.19.13:81/15.stream/index.m3u8
@@ -313,7 +314,8 @@ http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary2
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth2
-https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b1200000.m3u8
+http://103.105.213.251:8443/live/Oq92S2Auwlaby0OELhOtyw/1658772208/33.m3u8
+##https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",TLC
 http://203.77.246.50:5000/udp/239.1.2.140:5000
 ##https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b1200000.m3u8
@@ -386,9 +388,11 @@ http://203.77.246.50:5000/udp/239.1.3.74:5000
 http://203.77.246.50:5000/udp/239.1.3.82:5000
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",1
-http://189.91.128.146:4444/udp/227.10.20.98:1234
+http://103.105.213.251:8443/live/Oq92S2Auwlaby0OELhOtyw/1658772208/15.m3u8
+##http://189.91.128.146:4444/udp/227.10.20.98:1234
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",2
-http://189.91.128.146:4444/udp/227.10.20.97:1234
+http://103.105.213.251:8443/live/Oq92S2Auwlaby0OELhOtyw/1658772208/16.m3u8
+##http://189.91.128.146:4444/udp/227.10.20.97:1234
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",3
 http://189.91.128.146:4444/udp/227.10.20.96:1234
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",4
@@ -396,9 +400,9 @@ http://189.91.128.146:4444/udp/227.10.20.95:1234
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",5
 http://189.91.128.146:4444/udp/227.10.20.94:1234
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",3HBo VI
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBo VI
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b1200000.m3u8?token=
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",3Cinemax VI
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Cinemax VI
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b1200000.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO2 TH
 http://ip2121.com:8081/live/hbo/playlist.m3u8
@@ -602,7 +606,8 @@ http://starshare.live:8080/live/usman007/usman007/19004.m3u8
 https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
 
 
-
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",TOP sport
+http://103.105.213.251:8443/live/Oq92S2Auwlaby0OELhOtyw/1658772208/31.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Fight SPort
 http://210.210.155.35:80/dr9445/h/h05/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPO-TV

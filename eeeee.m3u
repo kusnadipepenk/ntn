@@ -636,9 +636,11 @@ https://edgesport-samsungus.amagi.tv/playlist480p.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FoXSport AUSTralia
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360_v3.m3u8
 #EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="" tvg-name"" group-title="SPORTS",BB1
-http://live.lordstreams.co:8080/david1/david1/21585
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live13.m3u8
+##http://live.lordstreams.co:8080/david1/david1/21585
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB2
-http://4digital.ddns.net:11222/ts/0
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live14.m3u8
+##http://4digital.ddns.net:11222/ts/0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport1
 http://iview.is:80/888694940829/279754878926/175183

@@ -138,9 +138,9 @@ http://31.220.41.88:8081/live/us-abcnews.stream/chunks.m3u8?token=null
 https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
 
 #EXTM3U
-#EXTINF:-1  tvg-logo="" group-title="KIDS",Miaomi
-##https://apichvod19.seezntv.com/OTM/10940_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
-https://apichvod19.seezntv.com/OTM/10940_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+#EXTINF:-1  tvg-logo="" group-title="KIDS",MiaomiX
+https://apichvod19.seezntv.com/OTM/10940_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+##https://apichvod19.seezntv.com/OTM/10940_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Anime
 https://contv-localnow.cinedigm.com/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/wyrQfKC/animax.jpg" group-title="KIDS",ANIMAX
@@ -157,7 +157,7 @@ http://210.210.155.35/uq2663/h/h97/index.m3u8
 http://203.77.246.50:5000/udp/239.1.2.158:5000
 ##http://iptv12k.com:35461/80301051401/878900/614
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Dreamworks
-https://apichvod19.seezntv.com/OTM/10760_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+https://apichvod19.seezntv.com/OTM/10760_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
 #EXTINF:-1  group-title="KIDS",Kidsflix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1  group-title="KIDS",Kids Toons

@@ -163,17 +163,17 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1  group-title="KIDS",Kids Toons
 http://210.210.155.35/session/a1b2362c-9d39-11e9-9cda-b82a72d63267/qwr9ew/s/s50/01.m3u8
 #EXTINF:-1 group-title="KIDS",cbabiess
-https://cutt.ly/qKodCUI
+
 #EXTINF:-1 group-title="KIDS",Kids Pluto2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="KIDS",Kids Pluto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="KIDS",Nick JR
 ##http://103.105.213.251:8443/live/Oq92S2Auwlaby0OELhOtyw/1658772208/27.m3u8
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157546
+##http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157546
 ##http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=nickjr
 #EXTINF:-1 group-title="KIDS",Nickelodeon
-http://103.105.213.251:8443/live/Oq92S2Auwlaby0OELhOtyw/1658772208/28.m3u8
+##http://103.105.213.251:8443/live/Oq92S2Auwlaby0OELhOtyw/1658772208/28.m3u8
 ##http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/71085
 #EXTINF:-1 group-title="KIDS",Nicktoon
 http://208.86.19.13:81/15.stream/index.m3u8
@@ -309,7 +309,7 @@ http://playlist.urfan.web.id/x6bnqe/s/s50/live.m3u8
  
  
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157553
+##http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157553
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary

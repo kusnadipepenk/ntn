@@ -497,12 +497,12 @@ http://rr.dens.tv/h/h192/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mycinemaasia_big.png" group-title="MOVIES", My Cinema Asia
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mycinemaasia_big.png" group-title="V-Movies", My Cinema Asia
 http://rr.dens.tv/h/h193/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Asia
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_new-myfamily_big.png" group-title="MOVIES", My Family Channel
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_new-myfamily_big.png" group-title="V-Movies", My Family Channel
 http://rr.dens.tv/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Family_Channel_Trial-
 
 <!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha-->

@@ -319,6 +319,9 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/zeebioskop.png" group-title="V-Movies",CINEMAX
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="V-Movies",Citra Bioskop
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/6684-citra-bioskop
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/mncsports.png" group-title="V-Sports",MNC Sports

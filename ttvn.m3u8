@@ -129,6 +129,10 @@ https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/ksa.jpg" group-title="V-Lokal", dutatv
 https://v2.siar.us/dutatv/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/ksa.jpg" group-title="V-Lokal",O Channel
+http://210.210.155.35/qwr9ew/s/s41/01.m3u8
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/idx.png" group-title="V-News",IDX
@@ -412,8 +416,11 @@ https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/nickjr.png" group-title="V-Kids",Nick Jr
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="V-Kids",Nick Jr
 https://liveanevia.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="V-Kids",Nick Jr Pluto
+https://siloh.pluto.tv/lilo/production/Nick/04/master_3.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1

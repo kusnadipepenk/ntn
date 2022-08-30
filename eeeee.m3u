@@ -534,6 +534,8 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_4.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",Electric Now
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=53
+#EXTINF:-1  tvg-logo="" group-title="MOVIES",ION
+https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8
 
 
 
@@ -615,10 +617,6 @@ https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/62407
 http://103.105.213.251:8443/live/Oq92S2Auwlaby0OELhOtyw/1658772208/31.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Fight SPort
 http://210.210.155.35:80/dr9445/h/h05/01.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPO-TV
-##https://cutt.ly/WJ8q8oB
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPO-TV2
-##https://cutt.ly/MJ8q7Rh
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV2
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV
@@ -668,22 +666,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8
 #EXTINF:-1 group-title="SPORTS",TNT SPORT2
 http://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8
-#EXTINF:-1 group-title="SPORTS",Star Sport
-http://iptv.tvfix.org/hls/starsports.m3u8
-#EXTINF:-1 group-title="SPORTS",Star Sport1
-http://103.55.144.46/hls/stersports1hd.m3u8
-#EXTINF:-1 group-title="SPORTS",Star Sport2
-http://103.55.144.46/hls/starsports2.m3u8
-#EXTINF:-1 group-title="SPORTS",Star Sport Select1
-http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
-#EXTINF:-1 group-title="SPORTS",Star Sport Select2
-http://103.55.144.46/hls/select2.m3u8
-#EXTINF:-1 group-title="SPORTS",Sony Ten1
-http://103.55.144.46/hls/sonyten1.m3u8
-#EXTINF:-1 group-title="SPORTS",Sony Ten2
-http://103.55.144.46/hls/sonyten2.m3u8
-#EXTINF:-1 group-title="SPORTS",Sony Ten3
-http://103.55.144.46/hls/sonyten3.m3u8
 #EXTINF:-1 group-title="SPORTS",Fox Sport
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 #EXTINF:-1 group-title="SPORTS",Fox Sport2
@@ -711,6 +693,9 @@ http://93.152.174.144:4000/play/ssports1/index.m3u8
 https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_099/HD/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS",Pace
 http://203.77.246.50:5000/udp/239.1.2.218:5000
+#EXTINF:-1 group-title="SPORTS",A Sport
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+
 
 #######http://60.251.59.180:8537/https:/netwrk.ru.com/cdn/premium28/chunks.m3u8
 

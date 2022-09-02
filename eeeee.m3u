@@ -54,7 +54,7 @@ http://210.210.155.35/qwr9ew/s/s11/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/7VVYNfZ/tvri.jpg" group-title="LOKAL NASIONAL",TVRI2
 http://202.80.222.130/000001/2/ch14041511560872104862/1002.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1  tvg-logo="" group-title="LOKAL NASIONAL",TVRI SPORT
-http://202.150.172.34:4000/play/tvrisporthdt2
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 ##http://210.210.155.35/session/4ef13212-a900-11e9-8ab6-b7d19fbdbf13/qwr9ew/s/s107/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/T2vhn7P/metro.jpg" group-title="LOKAL NASIONAL",METROTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w504410639_b1492000_sleng.m3u8

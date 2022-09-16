@@ -324,6 +324,13 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="V-Movies",Cinema Europe
 http://210.210.155.35:80/uq2663/h/h18/01.m3u8
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="V-Movies",Rock Entertainment
+http://203.77.246.50:5000/udp/239.1.2.130:5000
+
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="V-Movies",Rock Extreme
+http://203.77.246.50:5000/udp/239.1.2.132:5000
+
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="V-MalayTV",Drama Sangat
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8

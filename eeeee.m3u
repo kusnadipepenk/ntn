@@ -439,7 +439,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/640x360_7000
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/49539
 ##http://live.flixhub.net/hls/sonypixhd.m3u8
 #EXTINF:-1 group-title="MOVIES",&SONY PIX2
-http://103.55.144.46/hls/sonypixhd.m3u8
+http://103.162.136.235:4500/play/a00m/index.m3u8
 #EXTINF:-1 group-title="MOVIES",Crackle
 http://crackle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Asylium

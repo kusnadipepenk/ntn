@@ -121,7 +121,7 @@ http://210.210.155.35/uq2663/h/h29/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ypNvHyj/euronews.jpg" group-title="BERITA",EURONews
 http://210.210.155.35/qwr9ew/s/s15/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2yswB04/voa.jpg" group-title="BERITA",Euronews2
-http://dituduhmaling.xyz/US33T4/euronews.m3u8
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/bF6sgWT/dw.png" group-title="BERITA",DW News
 http://210.210.155.35/qwr9ew/s/s26/01.m3u8
 #EXTINF:-1  group-title="BERITA",Aljazeera
@@ -625,8 +625,7 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Motorvision
 http://210.210.155.35/uq2663/h/h09/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Motorsports
-http://live.lordstreams.co:8080/david1/david1/470018
-##http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/11638
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/11638
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Golf
 ##http://210.210.155.35/dr9445/h/h10/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",BEIN Xtra
@@ -646,21 +645,15 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live14.m3u8
 ##http://4digital.ddns.net:11222/ts/0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport1
-http://iview.is:80/888694940829/279754878926/175183
-##http://live.lordstreams.co:8080/david1/david1/2327
-##http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/270
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/270
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport1s
-http://93.152.174.144:4000/play/btsport1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2s
-http://93.152.174.144:4000/play/btsport2/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2
-http://iview.is:80/888694940829/279754878926/175185
-##http://live.lordstreams.co:8080/david1/david1/2326
-##http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/273
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/273
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport3
-http://iview.is:80/888694940829/279754878926/175187
-##http://live.lordstreams.co:8080/david1/david1/2325
-##http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/271
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/271
 #EXTINF:-1 group-title="SPORTS",TENNIS
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 #EXTINF:-1 group-title="SPORTS",TNT SPORT1
@@ -676,20 +669,18 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 #EXTINF:-1 group-title="SPORTS",Euro Sport11
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS",Euro Sport1
-##http://202.150.161.205:8030/udp/234.1.2.2:1234
-##http://iptv12k.com:35461/80301051401/878900/2365
+
 https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/217/stream.m3u8
 #EXTINF:-1 group-title="SPORTS",Euro Sport2
-##http://iptv12k.com:35461/80301051401/878900/2363
-https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/219/stream.m3u8
+
 #EXTINF:-1 group-title="SPORTS",Trace Sport
-https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/303/stream.m3u8
+
 #EXTINF:-1 group-title="SPORTS",Viasat Sport
-https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/330/stream.m3u8
+
 #EXTINF:-1 group-title="SPORTS",Stadium Sport
 https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS",Skysportss1
-http://93.152.174.144:4000/play/ssports1/index.m3u8
+
 #EXTINF:-1 group-title="SPORTS",Race
 https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_099/HD/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS",Pace

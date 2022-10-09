@@ -333,6 +333,9 @@ http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 ##http://203.77.246.50:5000/udp/239.1.2.132:5000
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="V-Movies",KBSWorld
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="V-MalayTV",Drama Sangat
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8

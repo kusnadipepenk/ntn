@@ -232,6 +232,8 @@ http://210.210.155.35:80/uq2663/h/h18/01.m3u8
 http://210.210.155.35/x6bnqe/h/h193/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",KBS WORLD
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",KBS WORLD2
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",MyCinemA Family
 http://210.210.155.35/x6bnqe/h/h194/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="PREMIUM INDONESIA",K+
@@ -408,7 +410,8 @@ https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b1200000.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Cinemax VI
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b1200000.m3u8?token=
 
-
+#EXTINF:-1 group-title="MOVIES",Rakuten TV
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",BBC America
 ##http://rmvberantakan.com/usg/index.php?id=BBCAmerica
 #EXTINF:-1 group-title="MOVIES",FXMovie

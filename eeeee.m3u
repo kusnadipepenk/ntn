@@ -15,12 +15,12 @@ http://rr.dens.tv/h/h11/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D5gBX8N/trans7.jpg" group-title="LOKAL NASIONAL",TRANS7(2)
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="LOKAL NASIONAL",RCTI
-http://203.77.246.50:5000/udp/239.1.3.80:5000
-##https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
+##http://203.77.246.50:5000/udp/239.1.3.80:5000
+http://54.151.201.145:5566/GG/Live/RcTi/mpegts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="LOKAL NASIONAL",SCTV
 http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="LOKAL NASIONAL",MNCtv
-http://188.241.218.174:8070/ce1eb8b3/fd28c06f6f/165054?token=ShUNAEFcElxECwJXDAFQU1MBV1AFAVRcUwVTBAVSUlMIAAEEUQQHXwAaGEZKTREDAFhpWAUVDwgABFNXA05DFkJSFz5bUBJcRA4BVA0KQUpDQV9cBBUPCAAEVVMGVVhUCRtHEVtQElxECwdQAABBSkNQTkUERVtYWm4HB0ELAgYTDQsUXlgcRAlWawBcVAIIBRcME1EVGRtfQhNADQwUD10bRwNbQEIHEl0WXhsLW1RRFxoTAlhAV0JDGkANQC8vExtHBEpAVQgVUVsKGwNBEhIXGhMIRGpLU0IXEFIDDAZDFV9DAxYcRAtZTDtaVg0IBFZCWA5ZRhsME1JXB1JDTxNaCg9bQF8UOUhdABsDQVdWBAIFQ0o=
+http://54.151.201.145:5566/GG/Live/MNCTV/mpegts
 ##https://mnctv-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
 #EXTINF:-1  tvg-logo="" group-title="LOKAL NASIONAL",MNCtv2
 http://203.77.246.50:5000/udp/239.1.3.78:5000
@@ -36,8 +36,8 @@ https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/li
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QNQrm50/antv.png" group-title="LOKAL NASIONAL",ANTV
 http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1uNGLnZUnUVO0BuZKQYN-KzIRVb9yXz1x" group-title="LOKAL NASIONAL",GLOBALTV
-http://203.77.246.50:5000/udp/239.1.3.68:5000
-##https://gtv-linier.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
+##http://203.77.246.50:5000/udp/239.1.3.68:5000
+##http://54.151.201.145:5566/GG/Live/GtV/mpegts
 #EXTINF:-1  group-title="LOKAL NASIONAL",TV ONE (2)
 http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1ZUCUkvAvWR5qJzRj8HG9wJ40MQ71vi5x" group-title="LOKAL NASIONAL",RTV

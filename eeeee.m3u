@@ -664,12 +664,12 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 #EXTINF:-1 group-title="SPORTS",Euro Sport1
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",Euro Sport2
-
-#EXTINF:-1 group-title="SPORTS",Trace Sport
-
-#EXTINF:-1 group-title="SPORTS",Viasat Sport
-
+#EXTINF:-1 group-title="SPORTS",Eleven 2
+http://213.13.19.35/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+#EXTINF:-1 group-title="SPORTS",Eleven 3
+http://213.13.19.35/shls/LIVE$Eleven_Sports_3_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+#EXTINF:-1 group-title="SPORTS",Eleven 4
+http://213.13.19.35/shls/LIVE$Eleven_Sports_4_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 #EXTINF:-1 group-title="SPORTS",Stadium Sport
 https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS",Skysportss1

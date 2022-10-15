@@ -212,9 +212,9 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/640x360_700
 
 #EXTM3U
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvN
-http://210.210.155.35:80/dr9445/h/h20/01.m3u8
+http://210.210.155.35:80/dr9445/h/h20/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNMovies
-http://210.210.155.35:80/dr9445/h/h21/01.m3u8
+http://210.210.155.35:80/dr9445/h/h21/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN
 ##http://203.77.246.50:5000/udp/239.1.2.234:5000
 http://45.126.83.51/dr9445/h/h141/01.m3u8
@@ -429,7 +429,6 @@ http://45.92.69.72:8000/play/a0h0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",box film
 http://61.19.242.134/feed/202105171329/LC31/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",SYFY
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/2359
 ##http://rmvberantakan.com/usg/index.php?id=SYFY
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Runtime
 https://ammoruntime-plex.amagi.tv/playlistR432p.m3u8
@@ -469,8 +468,7 @@ http://103.55.144.46/hls/starmovies.m3u8
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1300000.m3u8
 ##https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(72d6d51e-c265-4ce1-bf21-a9bb75487bc5)/manifest.mpd
 #EXTINF:-1 tvg-id="HBO.US" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",Warner tv-U
-http://61.19.242.134/feed/202105171329/LC28/index.m3u8
-##http://203.154.177.124:8899/live/ch12/playlist.m3u8
+http://190.83.119.67:8000/play/a0s6/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",Hollywood
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndFlix.in.png" group-title="MOVIES",Hallmark Movie
@@ -650,9 +648,9 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2s
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2
-
+http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport3
-
+http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTINF:-1 group-title="SPORTS",TENNIS
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 #EXTINF:-1 group-title="SPORTS",TNT SPORT1

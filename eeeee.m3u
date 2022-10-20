@@ -312,7 +312,7 @@ http://playlist.urfan.web.id/x6bnqe/s/s50/live.m3u8
  
  
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV
-##http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157553
+http://54.151.201.145:5566/GG/Live/hgtv/mpegts
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary
@@ -637,10 +637,10 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
 https://edgesport-samsungus.amagi.tv/playlist480p.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FoXSport AUSTralia
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360_v3.m3u8
-#EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="" tvg-name"" group-title="SPORTS",BB1
-
-#EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="" tvg-name"" group-title="SPORTS",BB2
-
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name"" group-title="SPORTS",UCee Sport1
+http://54.151.201.145:5566/GG/Live/ucee1/mpegts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name"" group-title="SPORTS",UCee Sport2
+http://54.151.201.145:5566/GG/Live/ucee2/mpegts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport1
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport1s

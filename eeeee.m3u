@@ -212,18 +212,18 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/640x360_700
 
 #EXTM3U
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvN
-http://210.210.155.35:80/dr9445/h/h20/02.m3u8
+http://210.210.155.35:80/dr9445/h/h20/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNMovies
-http://210.210.155.35:80/dr9445/h/h21/02.m3u8
+http://210.210.155.35:80/dr9445/h/h21/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN
 ##http://203.77.246.50:5000/udp/239.1.2.234:5000
-http://45.126.83.51/dr9445/h/h141/01.m3u8
+http://210.210.155.35:80/dr9445/h/h141/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/T8fdzXn/blueantx.png" group-title="PREMIUM INDONESIA",BLUEANT EXTREME
 ##http://203.77.246.50:5000/udp/239.1.2.132:5000
-http://210.210.155.35/session/ca6ab734-6a2f-11e9-ae93-9813b3aa7f8f/dr9445/h/h15/01.m3u8
+http://210.210.155.35:80/dr9445/h/h15/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Q8xjNSc/blueantent.png" group-title="PREMIUM INDONESIA",BLUEANT ENTERTAINMENT
 ##http://203.77.246.50:5000/udp/239.1.2.130:5000
-http://210.210.155.35/session/e9b257c8-6a2f-11e9-a76f-b3759a40e2c1/dr9445/h/h16/01.m3u8
+http://210.210.155.35:80/dr9445/h/h16/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/VTtxzXm/ciwo.jpg" group-title="PREMIUM INDONESIA",CINEMA WORLD
 http://210.210.155.35/dr9445/h/h04/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",CinemA Europe

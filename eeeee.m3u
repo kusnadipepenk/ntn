@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://i.ibb.co/L0x4cC6/net.jpg" group-title="LOKAL NASIONAL",NET.TV
-https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/875-net-tv
-##http://rr2.dens.tv/s/s08/index10.m3u8
+http://rr2.dens.tv/s/s08/index10.m3u8
 ##http://210.210.155.35/session/6141d55e-70a0-11e9-8180-b82a72d63267/qwr9ew/s/s08/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="LOKAL NASIONAL",TRANSTV
 ##http://203.77.246.50:5000/udp/239.1.1.100:5000
@@ -32,8 +31,8 @@ http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/205-indosiar
 #EXTINF:-1  tvg-logo="" group-title="LOKAL NASIONAL",INDOSIAR2
 https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/205-indosiar
-#EXTINF:-1  tvg-logo="https://i.ibb.co/QNQrm50/antv.png" group-title="LOKAL NASIONAL",ANTV(2)
-
+#EXTINF:-1  tvg-logo="https://i.ibb.co/QNQrm50/antv.png" group-title="LOKAL NASIONAL",MYtV
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/6711-mytv
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QNQrm50/antv.png" group-title="LOKAL NASIONAL",ANTV
 ##http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/02.m3u8
 https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/782-antv

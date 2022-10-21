@@ -216,9 +216,10 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/640x360_700
 http://210.210.155.35:80/dr9445/h/h20/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNMovies
 http://210.210.155.35:80/dr9445/h/h21/02.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN
+#EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN-T
+http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 ##http://203.77.246.50:5000/udp/239.1.2.234:5000
-http://210.210.155.35:80/dr9445/h/h141/01.m3u8
+##http://210.210.155.35:80/dr9445/h/h141/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/T8fdzXn/blueantx.png" group-title="PREMIUM INDONESIA",BLUEANT EXTREME
 ##http://203.77.246.50:5000/udp/239.1.2.132:5000
 http://210.210.155.35:80/dr9445/h/h15/02.m3u8
@@ -330,7 +331,7 @@ http://103.105.213.251:8443/live/Oq92S2Auwlaby0OELhOtyw/1658772208/64.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo Wild
 http://51.195.6.191:8080/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild2
-http://live.lordstreams.co:8080/david1/david1/3058
+http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 ##http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/174724
 ##http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Asian
@@ -385,26 +386,31 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 http://112.221.8.212:9981/stream/channelid/33?ticket=3D615FE787433E7D7BF89F560ACFC7EECDD03E5F
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDHBO
+http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
 ##http://203.77.246.50:5000/udp/239.1.3.84:5000
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDHBOFams
+http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 ##http://203.77.246.50:5000/udp/239.1.3.76:5000
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDHBOsign
+http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
 ##http://203.77.246.50:5000/udp/239.1.3.74:5000
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDHBOhits
 ##http://203.77.246.50:5000/udp/239.1.3.82:5000
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Cinemax
+http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",1
-http://103.105.213.251:8443/live/Oq92S2Auwlaby0OELhOtyw/1658772208/15.m3u8
+##http://103.105.213.251:8443/live/Oq92S2Auwlaby0OELhOtyw/1658772208/15.m3u8
 ##http://189.91.128.146:4444/udp/227.10.20.98:1234
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",2
-http://103.105.213.251:8443/live/Oq92S2Auwlaby0OELhOtyw/1658772208/16.m3u8
+##http://103.105.213.251:8443/live/Oq92S2Auwlaby0OELhOtyw/1658772208/16.m3u8
 ##http://189.91.128.146:4444/udp/227.10.20.97:1234
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",3
-http://189.91.128.146:4444/udp/227.10.20.96:1234
+##http://189.91.128.146:4444/udp/227.10.20.96:1234
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",4
-http://189.91.128.146:4444/udp/227.10.20.95:1234
+##http://189.91.128.146:4444/udp/227.10.20.95:1234
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",5
-http://189.91.128.146:4444/udp/227.10.20.94:1234
+##http://189.91.128.146:4444/udp/227.10.20.94:1234
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBo VI
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b1200000.m3u8?token=

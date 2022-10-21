@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://i.ibb.co/L0x4cC6/net.jpg" group-title="LOKAL NASIONAL",NET.TV
-http://rr2.dens.tv/s/s08/index10.m3u8
+http://rr2.dens.tv/s/s08/02.m3u8
 ##http://210.210.155.35/session/6141d55e-70a0-11e9-8180-b82a72d63267/qwr9ew/s/s08/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="LOKAL NASIONAL",TRANSTV
 ##http://203.77.246.50:5000/udp/239.1.1.100:5000
@@ -10,7 +10,7 @@ https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/li
 ##https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D5gBX8N/trans7.jpg" group-title="LOKAL NASIONAL",TRANS7
 ##http://203.77.246.50:5000/udp/239.1.1.102:5000
-http://rr.dens.tv/h/h11/index.m3u8
+http://rr.dens.tv/h/h11/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D5gBX8N/trans7.jpg" group-title="LOKAL NASIONAL",TRANS7(2)
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="LOKAL NASIONAL",RCTI
@@ -40,7 +40,7 @@ https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/li
 ##http://203.77.246.50:5000/udp/239.1.3.68:5000
 ##http://54.151.201.145:5566/GG/Live/GtV/mpegts
 #EXTINF:-1  group-title="LOKAL NASIONAL",TV ONE (2)
-http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105/01.m3u8
+http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105/02.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1ZUCUkvAvWR5qJzRj8HG9wJ40MQ71vi5x" group-title="LOKAL NASIONAL",RTV
 https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/1561-rtv
 ##http://210.210.155.35/dr9445/h/h10/02.m3u8
@@ -154,7 +154,7 @@ http://210.210.155.35/uq2663/h/h98/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",SpaceToon
 https://bravo.kugo.id/spacetoon/udp.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/d0RzNrk/space.png" group-title="KIDS",Lernings
-http://210.210.155.35/uq2663/h/h97/index.m3u8
+http://210.210.155.35/uq2663/h/h97/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Boomerang
 ##http://203.77.246.50:5000/udp/239.1.2.158:5000
 ##http://iptv12k.com:35461/80301051401/878900/614
@@ -197,13 +197,13 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Toons kid
 http://210.210.155.35/x6bnqe/s/s81/01.m3u8
 #EXTINF:-1 group-title="KIDS",Nick Pluto
-https://siloh.pluto.tv/lilo/production/Nick/01/master_3.m3u8
+https://siloh.pluto.tv/lilo/production/Nick/01/master_4.m3u8
 #EXTINF:-1 group-title="KIDS",Tiny POP
 https://3670.short.gy/channel/615
 #EXTINF:-1 group-title="KIDS",Nick Jr. Dora TV
-https://siloh.pluto.tv/lilo/production/Nick/03/master_3.m3u8
+https://siloh.pluto.tv/lilo/production/Nick/03/master_4.m3u8
 #EXTINF:-1 group-title="KIDS",Nick Jr. Pluto
-https://siloh.pluto.tv/lilo/production/Nick/04/master_3.m3u8
+https://siloh.pluto.tv/lilo/production/Nick/04/master_4.m3u8
 #EXTINF:-1 group-title="KIDS",Baby First
 https://babyfirst.akamaized.net/hls/live/2028842/bftvusaott/2.m3u8
 #EXTINF:-1 group-title="KIDS",Toon Googles

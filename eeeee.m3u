@@ -428,14 +428,8 @@ https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 ##http://rmvberantakan.com/usg/index.php?id=FX
 #EXTINF:-1 group-title="MOVIES",FXX
 ##http://rmvberantakan.com/usg/index.php?id=FXX
-#EXTINF:-1 group-title="MOVIES",Cinemax USA
-##http://rmvberantakan.com/usg/index.php?id=Cinemax
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Fox
-http://45.92.69.72:8000/play/a0gm
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Fox Movie
-http://45.92.69.72:8000/play/a0h0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",box film
-http://61.19.242.134/feed/202105171329/LC31/index.m3u8
+#EXTINF:-1 group-title="MOVIES",Comedy Channel
+https://uksono1-samsunguk.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",SYFY
 ##http://rmvberantakan.com/usg/index.php?id=SYFY
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Runtime

@@ -329,8 +329,8 @@ https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b1200000.m3u8
 ##https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo
 http://103.105.213.251:8443/live/Oq92S2Auwlaby0OELhOtyw/1658772208/64.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo Wild
-http://51.195.6.191:8080/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Wonder TV
+https://lds-wonder-samsungau.amagi.tv/playlist360-p.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild2
 http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 ##http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/174724

@@ -245,11 +245,10 @@ http://45.126.83.51/uq2663/h/h08/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/jWjxD83/sonson.jpg" group-title="PREMIUM INDONESIA",SonyOne
 ##http://203.77.246.50:5000/udp/239.1.2.236:5000
 http://210.210.155.35/uq2663/h/h143/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5TDK9V0/mytv.jpg" group-title="PREMIUM INDONESIA",MYTV
-http://210.210.155.35:80/x6bnqe/s/s88/S4/mnf.m3u8
+
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=109_MtH3Y5T8d_07P1VVEnD3sAkyX9_go" group-title="PREMIUM INDONESIA",HITS CH
 ##http://203.77.246.50:5000/udp/239.1.2.148:5000
-http://210.210.155.35/dr9445/h/h37/01.m3u8
+http://210.210.155.35/dr9445/h/h37/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/0yswGZW/sgem.jpg" group-title="PREMIUM INDONESIA",SONY GEM
 ##http://203.77.246.50:5000/udp/239.1.2.146:5000
 http://210.210.155.35/uq2663/h/h19/02.m3u8
@@ -267,11 +266,9 @@ http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
 http://210.210.155.35/uq2663/h/h192/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/PYPLz36/trill.png" group-title="PREMIUM INDONESIA",THRILL
 ##http://203.77.246.50:5000/udp/239.1.2.216:5000
-http://210.210.155.35/session/453c7fb4-6a31-11e9-b1c1-bf03b175abaa/qwr9ew/s/s34/01.m3u8
+http://210.210.155.35/session/453c7fb4-6a31-11e9-b1c1-bf03b175abaa/qwr9ew/s/s34/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",CCM
-http://rr2.dens.tv/s/s31/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/ByFQvJQ/zeebioskop.jpg" group-title="PREMIUM INDONESIA",ZEE BIOSKOP
-http://210.210.155.35/session/9b11be32-6a30-11e9-9e00-ade6bb5dc228/qwr9ew/s/s32/01.m3u8
+http://rr2.dens.tv/s/s31/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ByFQvJQ/zeebioskop.jpg" group-title="PREMIUM INDONESIA",ZEE BIOSKOP-2
 http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GCY30fN/hi.jpg" group-title="PREMIUM INDONESIA",Hi
@@ -283,7 +280,7 @@ http://210.210.155.35/session/d65d1e28-9d39-11e9-bb4c-b82a72d63267/uq2663/h/h01/
 #EXTINF:-1  tvg-logo="https://i.ibb.co/NCHDgCd/ucan.png" group-title="PREMIUM INDONESIA",U-Channel
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/NCHDgCd/ucan.png" group-title="PREMIUM INDONESIA",O Chanel
-http://210.210.155.35/qwr9ew/s/s41/01.m3u8
+http://210.210.155.35/qwr9ew/s/s41/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Life Channel (Christian)
 https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/dcCRKCj/iam.jpg" group-title="PREMIUM INDONESIA",IAM Channel
@@ -325,7 +322,7 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",TLC
 ##http://203.77.246.50:5000/udp/239.1.2.140:5000
-https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b1200000.m3u8
+##https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo
 http://103.105.213.251:8443/live/Oq92S2Auwlaby0OELhOtyw/1658772208/64.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo Wild

@@ -716,13 +716,13 @@ http://rr.dens.tv/h/h998/live.m3u8
 #EXTINF:-1 tvg-logo="htg" group-title="Test",tvn movies
 http://60.251.59.180:8537/http/jkt2.roll.my.id/manifest/uss/index.m3u8?id=tvnmovies
 #EXTINF:-1 tvg-logo="htg" group-title="Test",kid
-http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=mykids
+http://85.187.25.21:8888/udp/238.194.3.1:5501
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Chines DRama
 http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=chinesedrama
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Babybus EN
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=R_jkFFbodfU
-#EXTINF:-1 tvg-logo="htg" group-title="Test",KOmpas
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=Za5-fvwbPJI
+#EXTINF:-1 tvg-logo="htg" group-title="Test",KOmpasdfddf
+http://85.187.25.21:8888/udp/238.194.12.1:5501
 
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Paw Pat & Friends
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=szknQHibfJ0

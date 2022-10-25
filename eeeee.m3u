@@ -725,9 +725,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v
 http://85.187.25.21:8888/udp/238.194.12.1:5501
 
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Paw Pat & Friends
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=szknQHibfJ0
-#EXTINF:-1 tvg-logo="htg" group-title="Test",Nickelodeons
-
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=szknQHibfJ0
+#EXTINF:-1 tvg-logo="htg" group-title="Test",Paws
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=YwUh3PZo27Q
 #EXTINF:-1 tvg-logo="htg" group-title="Test",BabyBus ID
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=DE_N8Uj5wyE
 #EXTINF:-1 tvg-logo="htg" group-title="Test",tvn

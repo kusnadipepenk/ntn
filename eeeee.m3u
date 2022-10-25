@@ -713,8 +713,8 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 http://rr3.dens.tv/s/s100/live.m3u8
 #EXTINF : group-title="Test" tvg-logo="", Live Streaming 2
 http://rr.dens.tv/h/h998/live.m3u8
-#EXTINF:-1 tvg-logo="htg" group-title="Test",tvn movies
-http://60.251.59.180:8537/http/jkt2.roll.my.id/manifest/uss/index.m3u8?id=tvnmovies
+#EXTINF:-1 tvg-logo="htg" group-title="Test",nick jr
+http://angeltv.biz:6969/19481948/19481948/1147
 #EXTINF:-1 tvg-logo="htg" group-title="Test",kid
 http://85.187.25.21:8888/udp/238.194.3.1:5501
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Chines DRama

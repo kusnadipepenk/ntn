@@ -23,7 +23,7 @@ https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/li
 http://54.151.201.145:5566/GG/Live/MNCTV/mpegts
 ##https://mnctv-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
 #EXTINF:-1  tvg-logo="" group-title="LOKAL NASIONAL",MNCtv2
-http://203.77.246.50:5000/udp/239.1.3.78:5000
+http://syok.tv:25461/thomas/thomas/2106
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="LOKAL NASIONAL",INDOSIAR
 http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/02.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="LOKAL NASIONAL",INDOSIAR Liga1
@@ -207,6 +207,8 @@ https://3670.short.gy/channel/615
 https://siloh.pluto.tv/lilo/production/Nick/03/master_4.m3u8
 #EXTINF:-1 group-title="KIDS",Nick Jr. Pluto
 https://siloh.pluto.tv/lilo/production/Nick/04/master_4.m3u8
+#EXTINF:-1 group-title="KIDS",Nick Jr
+http://syok.tv:25461/thomas/thomas/231
 #EXTINF:-1 group-title="KIDS",Baby First
 https://babyfirst.akamaized.net/hls/live/2028842/bftvusaott/2.m3u8
 #EXTINF:-1 group-title="KIDS",Toon Googles
@@ -222,9 +224,9 @@ http://210.210.155.35:80/dr9445/h/h20/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNMovies
 http://210.210.155.35:80/dr9445/h/h21/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN-T
-http://eaglevision.visualsec.net:8443/live/-Gydhq9AqcmQQ4nX3K8xsQ/1666701699/227.m3u8
+http://syok.tv:25461/thomas/thomas/198
+##http://eaglevision.visualsec.net:8443/live/-Gydhq9AqcmQQ4nX3K8xsQ/1666701699/227.m3u8
 ##http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
-##http://203.77.246.50:5000/udp/239.1.2.234:5000
 ##http://210.210.155.35:80/dr9445/h/h141/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/T8fdzXn/blueantx.png" group-title="PREMIUM INDONESIA",BLUEANT EXTREME
 ##http://203.77.246.50:5000/udp/239.1.2.132:5000
@@ -331,11 +333,13 @@ http://eaglevision.visualsec.net:8443/live/-Gydhq9AqcmQQ4nX3K8xsQ/1666701699/230
 ##http://203.77.246.50:5000/udp/239.1.2.140:5000
 ##https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo
-http://103.105.213.251:8443/live/Oq92S2Auwlaby0OELhOtyw/1658772208/64.m3u8
+http://syok.tv:25461/thomas/thomas/215
+##http://103.105.213.251:8443/live/Oq92S2Auwlaby0OELhOtyw/1658772208/64.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Wonder TV
 https://lds-wonder-samsungau.amagi.tv/playlist360-p.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild2
-http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
+http://syok.tv:25461/thomas/thomas/217
+##http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 ##http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/174724
 ##http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Asian
@@ -354,7 +358,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-43
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",FoodChannel
 https://amagi-primary.akamaized.net/out/v1/3f7bf105c018444dbc8f74a3a283afaf/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
-https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b1200000.m3u8
+http://syok.tv:25461/thomas/thomas/214
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal2
 ##http://203.77.246.50:5000/udp/239.1.2.226:5000
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",GameNfish
@@ -398,11 +402,12 @@ https://aqfadtv.xyz/hbogo/hbofam/index.m3u8
 ##http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 ##http://203.77.246.50:5000/udp/239.1.3.76:5000
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDHBOsigns
-http://eaglevision.visualsec.net:8443/live/-Gydhq9AqcmQQ4nX3K8xsQ/1666701699/221.m3u8
+##http://eaglevision.visualsec.net:8443/live/-Gydhq9AqcmQQ4nX3K8xsQ/1666701699/221.m3u8
 ##http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
-##http://203.77.246.50:5000/udp/239.1.3.74:5000
+http://syok.tv:25461/thomas/thomas/98
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDHBOhits
-http://eaglevision.visualsec.net:8443/live/-Gydhq9AqcmQQ4nX3K8xsQ/1666701699/228.m3u8
+http://syok.tv:25461/thomas/thomas/99
+##http://eaglevision.visualsec.net:8443/live/-Gydhq9AqcmQQ4nX3K8xsQ/1666701699/228.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Cinemaxx
 https://aqfadtv.xyz/hbogo/cinemax/index.m3u8
 ##http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1

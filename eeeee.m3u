@@ -140,9 +140,8 @@ http://31.220.41.88:8081/live/us-abcnews.stream/chunks.m3u8?token=null
 https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
 
 #EXTM3U
-#EXTINF:-1  tvg-logo="" group-title="KIDS",MiaomiX
-https://apichvod19.seezntv.com/OTM/10940_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
-##https://apichvod19.seezntv.com/OTM/10940_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+#EXTINF:-1  tvg-logo="" group-title="KIDS",Boomerang
+http://syok.tv:25461/thomas/thomas/228
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Anime
 https://contv-localnow.cinedigm.com/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/wyrQfKC/animax.jpg" group-title="KIDS",ANIMAX
@@ -156,11 +155,8 @@ http://210.210.155.35/uq2663/h/h98/index.m3u8
 https://bravo.kugo.id/spacetoon/udp.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/d0RzNrk/space.png" group-title="KIDS",Lernings
 http://210.210.155.35/uq2663/h/h97/02.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",Boomerang
-##http://203.77.246.50:5000/udp/239.1.2.158:5000
-##http://iptv12k.com:35461/80301051401/878900/614
-#EXTINF:-1  tvg-logo="" group-title="KIDS",Dreamworks
-https://apichvod19.seezntv.com/OTM/10760_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",cartoon Network
+http://syok.tv:25461/thomas/thomas/229
 #EXTINF:-1  group-title="KIDS",Kidsflix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1  group-title="KIDS",TG JUnior
@@ -207,8 +203,6 @@ https://3670.short.gy/channel/615
 https://siloh.pluto.tv/lilo/production/Nick/03/master_4.m3u8
 #EXTINF:-1 group-title="KIDS",Nick Jr. Pluto
 https://siloh.pluto.tv/lilo/production/Nick/04/master_4.m3u8
-#EXTINF:-1 group-title="KIDS",Nick Jr
-http://syok.tv:25461/thomas/thomas/231
 #EXTINF:-1 group-title="KIDS",Baby First
 https://babyfirst.akamaized.net/hls/live/2028842/bftvusaott/2.m3u8
 #EXTINF:-1 group-title="KIDS",Toon Googles
@@ -394,27 +388,29 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 http://112.221.8.212:9981/stream/channelid/33?ticket=3D615FE787433E7D7BF89F560ACFC7EECDD03E5F
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDHBO
-https://aqfadtv.xyz/hbogo/hbo/index.m3u8
+http://syok.tv:25461/thomas/thomas/97
+##https://aqfadtv.xyz/hbogo/hbo/index.m3u8
 ##http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
 ##http://203.77.246.50:5000/udp/239.1.3.84:5000
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDHBOFams
-https://aqfadtv.xyz/hbogo/hbofam/index.m3u8
+http://syok.tv:25461/thomas/thomas/100
+##https://aqfadtv.xyz/hbogo/hbofam/index.m3u8
 ##http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 ##http://203.77.246.50:5000/udp/239.1.3.76:5000
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDHBOsigns
 ##http://eaglevision.visualsec.net:8443/live/-Gydhq9AqcmQQ4nX3K8xsQ/1666701699/221.m3u8
 ##http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
-http://syok.tv:25461/thomas/thomas/98
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDHBOhits
 http://syok.tv:25461/thomas/thomas/99
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDHBOhits
+http://syok.tv:25461/thomas/thomas/98
 ##http://eaglevision.visualsec.net:8443/live/-Gydhq9AqcmQQ4nX3K8xsQ/1666701699/228.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Cinemaxx
-https://aqfadtv.xyz/hbogo/cinemax/index.m3u8
+http://syok.tv:25461/thomas/thomas/101
+##https://aqfadtv.xyz/hbogo/cinemax/index.m3u8
 ##http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",1
-##http://103.105.213.251:8443/live/Oq92S2Auwlaby0OELhOtyw/1658772208/15.m3u8
-##http://189.91.128.146:4444/udp/227.10.20.98:1234
+http://syok.tv:25461/thomas/thomas/102
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",2
 ##http://103.105.213.251:8443/live/Oq92S2Auwlaby0OELhOtyw/1658772208/16.m3u8
 ##http://189.91.128.146:4444/udp/227.10.20.97:1234

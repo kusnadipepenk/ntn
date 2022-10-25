@@ -6,7 +6,8 @@ http://rr2.dens.tv/s/s08/02.m3u8
 ##http://203.77.246.50:5000/udp/239.1.1.100:5000
 http://rr2.dens.tv/s/s05/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="LOKAL NASIONAL",TRANSTV(2)
-https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/733-trans-tv
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+##https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/733-trans-tv
 ##https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D5gBX8N/trans7.jpg" group-title="LOKAL NASIONAL",TRANS7
 ##http://203.77.246.50:5000/udp/239.1.1.102:5000
@@ -17,8 +18,8 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 ##http://203.77.246.50:5000/udp/239.1.3.80:5000
 http://54.151.201.145:5566/GG/Live/RcTi/mpegts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="LOKAL NASIONAL",SCTV
-https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/204-sctv
-##http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/02.m3u8
+##https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/204-sctv
+http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="LOKAL NASIONAL",MNCtv
 http://54.151.201.145:5566/GG/Live/MNCTV/mpegts
 ##https://mnctv-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
@@ -34,16 +35,16 @@ https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/li
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QNQrm50/antv.png" group-title="LOKAL NASIONAL",MYtV
 https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/6711-mytv
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QNQrm50/antv.png" group-title="LOKAL NASIONAL",ANTV
-##http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/02.m3u8
-https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/782-antv
+http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/02.m3u8
+##https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/782-antv
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1uNGLnZUnUVO0BuZKQYN-KzIRVb9yXz1x" group-title="LOKAL NASIONAL",GLOBALTV
 ##http://203.77.246.50:5000/udp/239.1.3.68:5000
 ##http://54.151.201.145:5566/GG/Live/GtV/mpegts
 #EXTINF:-1  group-title="LOKAL NASIONAL",TV ONE (2)
 http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105/02.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1ZUCUkvAvWR5qJzRj8HG9wJ40MQ71vi5x" group-title="LOKAL NASIONAL",RTV
-https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/1561-rtv
-##http://210.210.155.35/dr9445/h/h10/02.m3u8
+##https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/1561-rtv
+http://210.210.155.35/dr9445/h/h10/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="LOKAL NASIONAL",Moji ochanel
 https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/206-moji
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1YTKkeDncS3PikKrWA8vuK6tdzee9Q7u3" group-title="LOKAL NASIONAL",JTV(2)
@@ -141,7 +142,7 @@ https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(9ce3f094-404
 
 #EXTM3U
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Boomerang
-http://syok.tv:25461/thomas/thomas/228
+
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Anime
 https://contv-localnow.cinedigm.com/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/wyrQfKC/animax.jpg" group-title="KIDS",ANIMAX
@@ -155,8 +156,6 @@ http://210.210.155.35/uq2663/h/h98/index.m3u8
 https://bravo.kugo.id/spacetoon/udp.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/d0RzNrk/space.png" group-title="KIDS",Lernings
 http://210.210.155.35/uq2663/h/h97/02.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="KIDS",cartoon Network
-http://syok.tv:25461/thomas/thomas/229
 #EXTINF:-1  group-title="KIDS",Kidsflix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1  group-title="KIDS",TG JUnior
@@ -170,9 +169,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb
 #EXTINF:-1 group-title="KIDS",Kids Pluto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="KIDS",Nick JR
-##http://103.105.213.251:8443/live/Oq92S2Auwlaby0OELhOtyw/1658772208/27.m3u8
-##http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157546
-##http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=nickjr
+
 #EXTINF:-1 group-title="KIDS",Nickelodeon
 ##http://103.105.213.251:8443/live/Oq92S2Auwlaby0OELhOtyw/1658772208/28.m3u8
 ##http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/71085
@@ -194,7 +191,7 @@ http://eaglevision.visualsec.net:8443/live/-Gydhq9AqcmQQ4nX3K8xsQ/1666701699/206
 #EXTINF:-1 group-title="KIDS",ZOOMOO
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Toons kid
-http://210.210.155.35/x6bnqe/s/s81/01.m3u8
+http://210.210.155.35/x6bnqe/s/s81/02.m3u8
 #EXTINF:-1 group-title="KIDS",Nick Pluto
 https://siloh.pluto.tv/lilo/production/Nick/01/master_4.m3u8
 #EXTINF:-1 group-title="KIDS",Tiny POP
@@ -218,8 +215,7 @@ http://210.210.155.35:80/dr9445/h/h20/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNMovies
 http://210.210.155.35:80/dr9445/h/h21/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN-T
-http://syok.tv:25461/thomas/thomas/198
-##http://eaglevision.visualsec.net:8443/live/-Gydhq9AqcmQQ4nX3K8xsQ/1666701699/227.m3u8
+http://eaglevision.visualsec.net:8443/live/-Gydhq9AqcmQQ4nX3K8xsQ/1666701699/227.m3u8
 ##http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 ##http://210.210.155.35:80/dr9445/h/h141/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/T8fdzXn/blueantx.png" group-title="PREMIUM INDONESIA",BLUEANT EXTREME
@@ -313,7 +309,7 @@ http://playlist.urfan.web.id/x6bnqe/s/s50/live.m3u8
  
  
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV
-http://54.151.201.145:5566/GG/Live/hgtv/mpegts
+
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary
@@ -327,13 +323,11 @@ http://eaglevision.visualsec.net:8443/live/-Gydhq9AqcmQQ4nX3K8xsQ/1666701699/230
 ##http://203.77.246.50:5000/udp/239.1.2.140:5000
 ##https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo
-http://syok.tv:25461/thomas/thomas/215
 ##http://103.105.213.251:8443/live/Oq92S2Auwlaby0OELhOtyw/1658772208/64.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Wonder TV
 https://lds-wonder-samsungau.amagi.tv/playlist360-p.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild2
-http://syok.tv:25461/thomas/thomas/217
-##http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
+http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 ##http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/174724
 ##http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Asian
@@ -351,8 +345,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4af1803e7983b391d73b
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",FoodChannel
 https://amagi-primary.akamaized.net/out/v1/3f7bf105c018444dbc8f74a3a283afaf/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
-http://syok.tv:25461/thomas/thomas/214
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal2
 ##http://203.77.246.50:5000/udp/239.1.2.226:5000
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",GameNfish
@@ -388,25 +380,18 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 http://112.221.8.212:9981/stream/channelid/33?ticket=3D615FE787433E7D7BF89F560ACFC7EECDD03E5F
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDHBO
-http://syok.tv:25461/thomas/thomas/97
-##https://aqfadtv.xyz/hbogo/hbo/index.m3u8
-##http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
+http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
 ##http://203.77.246.50:5000/udp/239.1.3.84:5000
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDHBOFams
-http://syok.tv:25461/thomas/thomas/100
-##https://aqfadtv.xyz/hbogo/hbofam/index.m3u8
-##http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 ##http://203.77.246.50:5000/udp/239.1.3.76:5000
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDHBOsigns
-##http://eaglevision.visualsec.net:8443/live/-Gydhq9AqcmQQ4nX3K8xsQ/1666701699/221.m3u8
+http://eaglevision.visualsec.net:8443/live/-Gydhq9AqcmQQ4nX3K8xsQ/1666701699/221.m3u8
 ##http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
-http://syok.tv:25461/thomas/thomas/99
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDHBOhits
-http://syok.tv:25461/thomas/thomas/98
-##http://eaglevision.visualsec.net:8443/live/-Gydhq9AqcmQQ4nX3K8xsQ/1666701699/228.m3u8
+http://eaglevision.visualsec.net:8443/live/-Gydhq9AqcmQQ4nX3K8xsQ/1666701699/228.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Cinemaxx
-http://syok.tv:25461/thomas/thomas/101
-##https://aqfadtv.xyz/hbogo/cinemax/index.m3u8
+https://aqfadtv.xyz/hbogo/cinemax/index.m3u8
 ##http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",1
@@ -422,9 +407,9 @@ http://syok.tv:25461/thomas/thomas/102
 ##http://189.91.128.146:4444/udp/227.10.20.94:1234
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBo VI
-https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b1200000.m3u8?token=
+##https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b1200000.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Cinemax VI
-https://aqfadtv.xyz/hbogo/cinemax/index.m3u8
+##https://aqfadtv.xyz/hbogo/cinemax/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES",Rakuten TV
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8

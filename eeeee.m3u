@@ -312,7 +312,8 @@ http://playlist.urfan.web.id/x6bnqe/s/s50/live.m3u8
  
  
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV
-http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54253
+http://server.sibfungold.info:8080/osamafoze/Cn0BkWosamaEt9x/3048
+##http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54253
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary
@@ -331,7 +332,8 @@ http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54197
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Wonder TV
 https://lds-wonder-samsungau.amagi.tv/playlist360-p.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild2
-http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54229
+http://server.sibfungold.info:8080/osamafoze/Cn0BkWosamaEt9x/46885
+##http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54229
 ##http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 ##http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/174724
 ##http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
@@ -351,7 +353,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-43
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",FoodChannel
 https://amagi-primary.akamaized.net/out/v1/3f7bf105c018444dbc8f74a3a283afaf/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal2
-http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54847
+http://server.sibfungold.info:8080/osamafoze/Cn0BkWosamaEt9x/50853
+##http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54847
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",GameNfish
 https://obsession-media.sinclair.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",OUTDOOR CHANNEL

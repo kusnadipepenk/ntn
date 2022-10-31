@@ -402,16 +402,18 @@ http://eaglevision.visualsec.net:8443/live/-Gydhq9AqcmQQ4nX3K8xsQ/1666701699/228
 https://aqfadtv.xyz/hbogo/cinemax/index.m3u8
 ##http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",1
-http://syok.tv:25461/thomas/thomas/102
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",2
-##http://103.105.213.251:8443/live/Oq92S2Auwlaby0OELhOtyw/1658772208/16.m3u8
-##http://189.91.128.146:4444/udp/227.10.20.97:1234
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Hbo
+http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/47020
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",hbo3
+http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/653
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",max1
+http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/46033
 ##http://189.91.128.146:4444/udp/227.10.20.96:1234
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",4
+
 ##http://189.91.128.146:4444/udp/227.10.20.95:1234
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",5
+
 ##http://189.91.128.146:4444/udp/227.10.20.94:1234
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBo VI

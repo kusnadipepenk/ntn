@@ -497,9 +497,9 @@ https://mytime-tcl.amagi.tv/playlist404-p.m3u8
 https://moviesphere-samsung-samsungus.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 group-title="MOVIES",Movies Now
 
-#EXTINF:-1 group-title="MOVIES",And Prive
-https://aqfadtv.xyz/live/&flix/index.m3u8
-#EXTINF:-1 group-title="MOVIES",And Flix
+#EXTINF:-1 group-title="MOVIES",AndPrive
+https://aqfadtv.xyz/live/&prive/index.m3u8
+#EXTINF:-1 group-title="MOVIES",AndFlix-
 https://aqfadtv.xyz/live/&flix/index.m3u8
 #EXTINF:-1 group-title="MOVIES",Pixl
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07

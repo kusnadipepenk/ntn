@@ -352,6 +352,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4af1803e7983b391d73b
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",FoodChannel
 https://amagi-primary.akamaized.net/out/v1/3f7bf105c018444dbc8f74a3a283afaf/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
+https://tv.googledrivelinks.com/live.php?c=Animal_Planet_HD&q=800&e=.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal2
 http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/50853
 ##http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54847
@@ -441,8 +443,8 @@ https://ammoruntime-plex.amagi.tv/playlistR432p.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/640x360_700000/index.m3u8
 #EXTINF:-1 group-title="MOVIES",&SONY PIX
 ##http://103.16.24.54:8080/channel2/index.m3u8
-#EXTINF:-1 group-title="MOVIES",&SONY PIX2
-##http://103.162.136.235:4500/play/a00m/index.m3u8
+#EXTINF:-1 group-title="MOVIES",SONY PIX2
+https://tv.googledrivelinks.com/live.php?c=Sony_Pix_HD&q=400&e=.m3u8
 #EXTINF:-1 group-title="MOVIES",Crackle
 http://crackle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Asylium
@@ -494,8 +496,7 @@ https://mytime-tcl.amagi.tv/playlist404-p.m3u8
 #EXTINF:-1 group-title="MOVIES",Movie Sphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 group-title="MOVIES",Movies Now
-http://103.55.144.46/hls/movies-now.m3u8
-##http://live.flixhub.net/hls/movies-now.m3u8
+https://tv.googledrivelinks.com/live.php?c=Movies_Now_HD&q=400&e=.m3u8
 #EXTINF:-1 group-title="MOVIES",MNX
 http://103.55.144.46/hls/mnx-hd.m3u8
 ##http://live.flixhub.net/hls/mnx-hd.m3u8
@@ -504,8 +505,8 @@ http://103.55.144.46/hls/mn+.m3u8
 ##http://live.flixhub.net/hls/mn+.m3u8
 #EXTINF:-1 group-title="MOVIES",Pixl
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
-#EXTINF:-1 group-title="MOVIES",Netflix
-https://bit.ly/Netflixinsp?/playlist360p.m3u8
+#EXTINF:-1 group-title="MOVIES",And Pictures
+https://tv.googledrivelinks.com/live.php?c=And_Pictures_HD&q=400&e=.m3u8
 #EXTINF:-1 group-title="MOVIES",&ROmance
 http://5.9.150.76/romance/mono.m3u8
 #EXTINF:-1 group-title="MOVIES",&Horor

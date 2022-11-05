@@ -141,6 +141,8 @@ http://31.220.41.88:8081/live/us-abcnews.stream/chunks.m3u8?token=null
 https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
 
 #EXTM3U
+#EXTINF:-1  group-title="KIDS",CArtoon Network
+http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/51109
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Boomerang
 http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54202
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Anime
@@ -168,9 +170,6 @@ https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="KIDS",Kids Pluto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="KIDS",Nick JR-US
-##http://server.sibfungold.info:8080/osamafoze/Cn0BkWosamaEt9x/46762
-http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54257
 #EXTINF:-1 group-title="KIDS",Nickelodeon
 ##http://103.105.213.251:8443/live/Oq92S2Auwlaby0OELhOtyw/1658772208/28.m3u8
 ##http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/71085
@@ -195,6 +194,9 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 http://210.210.155.35/x6bnqe/s/s81/02.m3u8
 #EXTINF:-1 group-title="KIDS",Nick Pluto
 https://siloh.pluto.tv/lilo/production/Nick/01/master_4.m3u8
+#EXTINF:-1 group-title="KIDS",Nick JR-US
+##http://server.sibfungold.info:8080/osamafoze/Cn0BkWosamaEt9x/46762
+http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54257
 #EXTINF:-1 group-title="KIDS",Tiny POP
 https://3670.short.gy/channel/615
 #EXTINF:-1 group-title="KIDS",Nick Jr. Dora TV
@@ -207,8 +209,7 @@ http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/2051
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
 #EXTINF:-1  group-title="KIDS",CArtoon Jr
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=33
-#EXTINF:-1  group-title="KIDS",CArtoon Network
-http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/51109
+
 
 
 
@@ -672,8 +673,10 @@ https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/ind
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
 #EXTINF:-1 group-title="SPORTS",Fox Sport3
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
-#EXTINF:-1 group-title="SPORTS",Euro Sport1
+#EXTINF:-1 group-title="SPORTS",Euro Sport
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS",Euro Sport1
+http://77.72.22.42:8080/9247/index.m3u8
 #EXTINF:-1 group-title="SPORTS",Eleven 2
 http://213.13.19.35/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 #EXTINF:-1 group-title="SPORTS",Eleven 3

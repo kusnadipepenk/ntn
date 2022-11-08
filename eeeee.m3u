@@ -312,8 +312,9 @@ http://playlist.urfan.web.id/x6bnqe/s/s50/live.m3u8
  
  
  
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV
-http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/3048
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV UC
+http://iptvid.my.id:80/hmm/hgtv.m3u8
+##http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/3048
 ##http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54253
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
@@ -328,8 +329,8 @@ http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54166
 ##http://203.77.246.50:5000/udp/239.1.2.140:5000
 ##https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo
-http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54197
-##http://103.105.213.251:8443/live/Oq92S2Auwlaby0OELhOtyw/1658772208/64.m3u8
+http://iptvid.my.id:80/hmm/natgeo.m3u8
+##http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54197
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Wonder TV
 https://lds-wonder-samsungau.amagi.tv/playlist360-p.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild2
@@ -592,31 +593,6 @@ https://kmtvnow-samsung-us.plex.wurl.tv/playlist.m3u8
 http://2serv.mylifeisgood.ml:8080/mfolive.m3u8?media=musicboxgold
 
 
-
-#EXTINF:-1  tvg-logo="" group-title="SPORT",skySelect1
-http://51.79.82.208:16024
-#EXTINF:-1  tvg-logo="" group-title="SPORT",skyselect2
-##http://182.50.65.213:8888/udp/239.239.0.5:3001
-#EXTINF:-1  tvg-logo="" group-title="SPORT",ten1
-##http://182.50.65.213:8888/udp/239.239.0.33:3001
-#EXTINF:-1  tvg-logo="" group-title="SPORT",ten2
-##http://182.50.65.213:8888/udp/239.239.0.34:3001
-#EXTINF:-1  tvg-logo="" group-title="SPORT",ten3
-##http://182.50.65.213:8888/udp/239.239.0.35:3001
-#EXTINF:-1  tvg-logo="" group-title="SPORT",NickJr
-http://starshare.live:8080/live/usman007/usman007/561.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORT",WIlds
-http://starshare.live:8080/live/usman007/usman007/3360.m3u8
-##https://tinyurl.com/2p897e7k
-#EXTINF:-1  tvg-logo="" group-title="SPORT",TNT
-##http://38.127.211.18/live/c2eds/TNTLA/HLS/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORT",HGTV
-http://starshare.live:8080/live/usman007/usman007/19004.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORT",History
-https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
-
-
-
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein 2
 http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54469
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein 1
@@ -627,6 +603,10 @@ http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54471
 http://103.105.213.251:8443/live/Oq92S2Auwlaby0OELhOtyw/1658772208/31.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Fight SPort
 http://210.210.155.35:80/dr9445/h/h05/01.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Spotv Alt
+http://iptvid.my.id:80/hmm/spotv.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Spotv2 Alt
+http://iptvid.my.id:80/hmm/spotv2.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV-2
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV
@@ -723,9 +703,7 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 http://rr3.dens.tv/s/s100/live.m3u8
 #EXTINF : group-title="Test" tvg-logo="", Live Streaming 2
 http://rr.dens.tv/h/h998/live.m3u8
-#EXTINF:-1 tvg-logo="htg" group-title="Test",nick jr
-http://angeltv.biz:6969/19481948/19481948/1147
-#EXTINF:-1 tvg-logo="htg" group-title="Test",kid
+#EXTINF:-1 tvg-logo="htg" group-title="Test",History
 http://85.187.25.21:8888/udp/238.194.3.1:5501
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Chines DRama
 http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=chinesedrama
@@ -740,8 +718,6 @@ https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/
 https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=YwUh3PZo27Q
 #EXTINF:-1 tvg-logo="htg" group-title="Test",BabyBus ID
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=DE_N8Uj5wyE
-#EXTINF:-1 tvg-logo="htg" group-title="Test",tvn
-http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=tvn
 #EXTINF:-1 tvg-logo="htg" group-title="Test",nat
 http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Wild
@@ -750,10 +726,7 @@ http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Paw Patrol
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=w8jIaF1RcS0
-#EXTINF:-1 tvg-logo="htg" group-title="Test",discovery
-http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=disco
-#EXTINF:-1 tvg-logo="htg" group-title="Test",Galaxy
-http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=galaxy
+
 
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="VIDIO",mentariTV 

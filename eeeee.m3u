@@ -413,16 +413,19 @@ http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/653
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",max1
 http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/46033
 ##http://189.91.128.146:4444/udp/227.10.20.96:1234
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",4
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOID
+http://iptv12k.com:35461/80201100806/423322/1892
 ##http://189.91.128.146:4444/udp/227.10.20.95:1234
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",5
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOFAM iD
+http://iptv12k.com:35461/80201100806/423322/1890
 ##http://189.91.128.146:4444/udp/227.10.20.94:1234
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBo VI
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOHITS ID
+http://iptv12k.com:35461/80201100806/423322/1888
 ##https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b1200000.m3u8?token=
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Cinemax VI
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOSIG ID
+http://iptv12k.com:35461/80201100806/423322/1886
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Cinemax ID
+http://iptv12k.com:35461/80201100806/423322/1882
 ##https://aqfadtv.xyz/hbogo/cinemax/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES",Rakuten TV

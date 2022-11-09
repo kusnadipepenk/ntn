@@ -194,9 +194,9 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 http://210.210.155.35/x6bnqe/s/s81/02.m3u8
 #EXTINF:-1 group-title="KIDS",Nick Pluto
 https://siloh.pluto.tv/lilo/production/Nick/01/master_4.m3u8
-#EXTINF:-1 group-title="KIDS",Nick JR-US
-##http://server.sibfungold.info:8080/osamafoze/Cn0BkWosamaEt9x/46762
-http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54257
+#EXTINF:-1 group-title="KIDS",Nick JR
+http://iptvid.my.id:80/hmm/nickjr.m3u8
+##http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54257
 #EXTINF:-1 group-title="KIDS",Tiny POP
 https://3670.short.gy/channel/615
 #EXTINF:-1 group-title="KIDS",Nick Jr. Dora TV
@@ -219,8 +219,8 @@ http://210.210.155.35:80/dr9445/h/h20/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNMovies
 http://210.210.155.35:80/dr9445/h/h21/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN
-http://iptvid.my.id:80/hmm/axn.m3u8
-##http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54201
+##http://iptvid.my.id:80/hmm/axn.m3u8
+http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54201
 ##http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 ##http://210.210.155.35:80/dr9445/h/h141/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/T8fdzXn/blueantx.png" group-title="PREMIUM INDONESIA",BLUEANT EXTREME

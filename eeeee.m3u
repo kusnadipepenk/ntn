@@ -194,9 +194,10 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 http://210.210.155.35/x6bnqe/s/s81/02.m3u8
 #EXTINF:-1 group-title="KIDS",Nick Pluto
 https://siloh.pluto.tv/lilo/production/Nick/01/master_4.m3u8
-#EXTINF:-1 group-title="KIDS",Nick JR
+#EXTINF:-1 group-title="KIDS",Nick JR1
 http://iptvid.my.id:80/hmm/nickjr.m3u8
-##http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54257
+#EXTINF:-1 group-title="KIDS",Nick JR2
+http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54257
 #EXTINF:-1 group-title="KIDS",Tiny POP
 https://3670.short.gy/channel/615
 #EXTINF:-1 group-title="KIDS",Nick Jr. Dora TV
@@ -457,7 +458,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/640x360_7000
 #EXTINF:-1 group-title="MOVIES",&SONY PIX
 ##http://103.16.24.54:8080/channel2/index.m3u8
 #EXTINF:-1 group-title="MOVIES",SONY PIX2
-https://tv.googledrivelinks.com/live.php?c=Sony_Pix_HD&q=400&e=.m3u8
+https://tv.googledrivelinks.com/live.php?c=Sony_Pix_HD&q=600&e=.m3u8
 #EXTINF:-1 group-title="MOVIES",Crackle
 http://crackle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Asylium

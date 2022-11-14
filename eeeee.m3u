@@ -408,7 +408,7 @@ https://aqfadtv.xyz/hbogo/hbofam/index.m3u8
 http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDHBOhits
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDCinemaxx
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDCinemax
 https://aqfadtv.xyz/hbogo/cinemax/index.m3u8
 ##http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
 
@@ -420,18 +420,18 @@ http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/653
 http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/46033
 ##http://189.91.128.146:4444/udp/227.10.20.96:1234
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOIDs
-http://iptv12k.com:35461/80201100806/423322/1892.ts
+http://iptv12k.com:35461/live/80201100806/423322/1892.ts
 ##http://189.91.128.146:4444/udp/227.10.20.95:1234
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOFAM iD
-http://iptv12k.com:35461/80201100806/423322/1890.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOFAMiD
+http://iptv12k.com:35461/live/80201100806/423322/1890.ts
 ##http://189.91.128.146:4444/udp/227.10.20.94:1234
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOHITS ID
-http://iptv12k.com:35461/80201100806/423322/1888.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOHITSID
+http://iptv12k.com:35461/live/80201100806/423322/1888.ts
 ##https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b1200000.m3u8?token=
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOSIG ID
-http://iptv12k.com:35461/80201100806/423322/1886.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Cinemax ID
-http://iptv12k.com:35461/80201100806/423322/1882.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOSIGID
+http://iptv12k.com:35461/live/80201100806/423322/1886.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",CinemaxID
+http://iptv12k.com:35461/live/80201100806/423322/1882.ts
 ##https://aqfadtv.xyz/hbogo/cinemax/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Showcase
 http://iptv12k.com:35461/live/80201100806/423322/1826.ts

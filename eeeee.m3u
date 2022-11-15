@@ -223,7 +223,7 @@ http://210.210.155.35:80/dr9445/h/h20/02.m3u8
 http://210.210.155.35:80/dr9445/h/h21/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN
 ##http://iptvid.my.id:80/hmm/axn.m3u8
-http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54201
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54201
 ##http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 ##http://198.16.64.10:8278/Axn/playlist.m3u8?tid=MDAD8374621983746219&ct=19225&tsum=60883af30a38d2c40db4c04f8651ffaa
 ##http://210.210.155.35:80/dr9445/h/h141/01.m3u8
@@ -340,9 +340,9 @@ http://iptvid.my.id:80/hmm/natgeo.m3u8
 ##http://89.216.39.24/stream/15/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Wonder TV
 https://lds-wonder-samsungau.amagi.tv/playlist360-p.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild2
-http://iptvid.my.id/hmm/ngwild.m3u8
-##http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/46885
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild
+##http://iptvid.my.id/hmm/ngwild.m3u8
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/46885
 ##http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54229
 ##http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 ##http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/174724

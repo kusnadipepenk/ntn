@@ -142,9 +142,11 @@ https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(9ce3f094-404
 
 #EXTM3U
 #EXTINF:-1  group-title="KIDS",CArtoon Network
-http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/51109
+##http://iptvid.my.id/hmm/cn.m3u8
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/51109
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Boomerang
-http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54202
+##http://iptvid.my.id/hmm/boomerang.m3u8 
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54202
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Anime
 https://contv-localnow.cinedigm.com/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/wyrQfKC/animax.jpg" group-title="KIDS",ANIMAX
@@ -186,8 +188,8 @@ https://happykids-roku.amagi.tv/playlist404pl.m3u8
 https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
 #EXTINF:-1  group-title="KIDS",Carton networks
 ##http://203.77.246.50:5000/udp/239.1.2.154:5000
-#EXTINF:-1 group-title="KIDS",Cbebies
-http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/53738
+#EXTINF:-1 group-title="KIDS",Dreamworks
+http://iptvid.my.id/hmm/drmwrk.m3u8
 #EXTINF:-1 group-title="KIDS",ZOOMOO
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Toons kid
@@ -197,7 +199,7 @@ https://siloh.pluto.tv/lilo/production/Nick/01/master_4.m3u8
 #EXTINF:-1 group-title="KIDS",Nick JR1
 http://iptvid.my.id:80/hmm/nickjr.m3u8
 #EXTINF:-1 group-title="KIDS",Nick JR2
-http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54257
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54257
 #EXTINF:-1 group-title="KIDS",Tiny POP
 https://3670.short.gy/channel/615
 #EXTINF:-1 group-title="KIDS",Nick Jr. Dora TV
@@ -327,7 +329,7 @@ http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary2
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth2
-http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54166
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54166
 ##https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",TLC
 ##http://203.77.246.50:5000/udp/239.1.2.140:5000
@@ -363,7 +365,7 @@ https://amagi-primary.akamaized.net/out/v1/3f7bf105c018444dbc8f74a3a283afaf/inde
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
 https://tv.googledrivelinks.com/live.php?c=Animal_Planet_HD&q=600&e=.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal2
-http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/50853
+##http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/50853
 ##http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54847
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",GameNfish
 https://obsession-media.sinclair.wurl.com/manifest/1200.m3u8
@@ -414,11 +416,11 @@ https://aqfadtv.xyz/hbogo/cinemax/index.m3u8
 ##http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Hbo
-http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/47020
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/47020
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",hbo3
-http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/653
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/653
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",max1
-http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/46033
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/46033
 ##http://189.91.128.146:4444/udp/227.10.20.96:1234
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOIDs
 http://iptv12k.com:35461/live/80201100806/423322/1892.ts

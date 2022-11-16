@@ -324,10 +324,10 @@ http://playlist.urfan.web.id/x6bnqe/s/s50/live.m3u8
  
  
  
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV UC
-http://iptvid.my.id:80/hmm/hgtv.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV
+##http://iptvid.my.id:80/hmm/hgtv.m3u8
 ##http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/3048
-##http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54253
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54253
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary

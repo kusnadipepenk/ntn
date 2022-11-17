@@ -82,16 +82,10 @@ https://d1akid76fpbq4x.cloudfront.net/live/eds/INEWS_2021/live_fta/INEWS_2021-mp
 https://d2oaub8o4ti3xm.cloudfront.net/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=7-mp4a_96000=2.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yBWB003/cnnin.png" group-title="BERITA",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
-#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1ORGoY9MMi6-DWGqhEjc5dHr2DAqTOBax" group-title="BERITA",BERITA SATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
 #EXTINF:-1  group-title="BERITA",BeritaSatuworld
 https://b1world.beritasatumedia.com/Beritasatu/B1World_960x540.m3u8
-#EXTINF:-1  group-title="BERITA",IDX Channel
-http://62.210.127.9:25461/FQWA9E9wHF/nWYRuhPJwe/28764?token=TURYAhZYEAwSBQBRDldQB1RRAAMFWApTUFJUVAVcUVIAXgQGVFNXUgZGTxBLF0AGVA9uD1IbCQQJBFIBShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARQCVRWA14cQRVZVhQKRlcFDVMQTxcHSRJTS11XXWwAUBBQBQAUXF4WCVweFF8KPFZdDlMNUUALRAcbHxRYQBQXXFcTCVpKEgEMREBXRAFBCBpSA1QMQB1EVVZGWEVBHRdcGy8hFEoSBh1EV1hDDQxcGlkQF0ZAHURfSmxEVEAQRwNYCwBERApBVRIeFF0FG21bDFwNUAFFD1lXQBQLEVUXShsLClgPRAwXb0JfVEZZEAxUAVEXHw==
 #EXTINF:-1  group-title="BERITA",The Indonesian Chanel
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/03.m3u8
-#EXTINF:-1  group-title="BERITA",JAKARTA GLOBE NEWS CHANNEL
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b906000.m3u8
 #EXTINF:-1  group-title="BERITA",TV PARLEMEN
 
 #EXTINF:-1  group-title="BERITA",TVRI PAPUA
@@ -102,8 +96,6 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPapua)/Stream(02)/index.m3u8
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/HhJ5Gyn/bbc.png" group-title="BERITA",BBC NEWS
 http://27.254.149.109:8081/tumlive/BBC/playlist.m3u8?190.2.154.164/TV0624
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HhJ5Gyn/bbc.png" group-title="BERITA",BBC NEWS2
-http://203.77.246.50:5000/udp/239.1.2.152:5000
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hK7YYg4/cnn.jpg" group-title="BERITA",CNN NEWS
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_640x360_1200k.m3u8
 #EXTINF:-1  tvg-logo="" group-title="BERITA",CNBC(2)
@@ -112,26 +104,22 @@ http://ott-cdn.ucom.am/s65/03.m3u8
 http://ott-cdn.ucom.am/s65/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="BERITA",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1725438040_b192000_sleng.m3u8
-#EXTINF:-1  group-title="BERITA",Wion
-http://rr.dens.tv/h/h91/index2.m3u8
 #EXTINF:-1  group-title="BERITA",CCTV4
 http://210.210.155.35/qwr9ew/s/s19/02.m3u8
-#EXTINF:-1  group-title="BERITA",TV5 Monde
-http://210.210.155.35/qwr9ew/s/s24/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/mGNPfpD/tbn.png" group-title="BERITA",TBN Asia
 http://210.210.155.35/qwr9ew/s/s39/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="BERITA",Bloomberg
-http://210.210.155.35/uq2663/h/h03/01.m3u8
+http://210.210.155.35:80/uq2663/h/h03/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="BERITA",Bloomberg2
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8MQW4MG/NHK.png" group-title="BERITA",NHK
-http://210.210.155.35/uq2663/h/h23/01.m3u8
+##http://210.210.155.35/uq2663/h/h23/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8MQW4MG/NHK.png" group-title="BERITA",NHK(2)
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_200.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/j5qX0NS/download.png" group-title="BERITA",ChannelNewsAsia
 http://210.210.155.35/uq2663/h/h29/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ypNvHyj/euronews.jpg" group-title="BERITA",EURONews
-http://210.210.155.35/qwr9ew/s/s15/01.m3u8
+##http://210.210.155.35/qwr9ew/s/s15/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2yswB04/voa.jpg" group-title="BERITA",Euronews2
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/bF6sgWT/dw.png" group-title="BERITA",DW News
@@ -143,7 +131,7 @@ http://210.210.155.35/qwr9ew/s/s17/01.m3u8
 #EXTINF:-1  group-title="BERITA",TRT World
 
 #EXTINF:-1  group-title="BERITA",RT News
-http://210.210.155.35/qwr9ew/s/s23/01.m3u8
+##http://210.210.155.35/qwr9ew/s/s23/01.m3u8
 #EXTINF:-1  group-title="BERITA",ABC news
 http://31.220.41.88:8081/live/us-abcnews.stream/chunks.m3u8?token=null
 #EXTINF:-1  group-title="BERITA",SeA Todays

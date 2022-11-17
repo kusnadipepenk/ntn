@@ -196,7 +196,8 @@ https://siloh.pluto.tv/lilo/production/Nick/01/master_4.m3u8
 #EXTINF:-1 group-title="KIDS",Nick JR1
 http://iptvid.my.id:80/hmm/nickjr.m3u8
 #EXTINF:-1 group-title="KIDS",Nick JR2
-http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54257
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/46762
+##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54257
 #EXTINF:-1 group-title="KIDS",Tiny POP
 https://3670.short.gy/channel/615
 #EXTINF:-1 group-title="KIDS",Nick Jr. Dora TV

@@ -610,6 +610,38 @@ https://kmtvnow-samsung-us.plex.wurl.tv/playlist.m3u8
 http://2serv.mylifeisgood.ml:8080/mfolive.m3u8?media=musicboxgold
 
 
+#EXTINF:-1 tvg-logo="" group-title="BEIN",BEIN SPORTS SD
+http://comag.rip:8000/50000294027085/23534165557770/31927
+#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS 1 PREMIUM SD
+http://comag.rip:8000/50000294027085/23534165557770/156428
+#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS 2 PREMIUM SD
+http://comag.rip:8000/50000294027085/23534165557770/189746
+#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS 3 PREMIUM SD
+http://comag.rip:8000/50000294027085/23534165557770/156426
+#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS 1 SD
+http://comag.rip:8000/50000294027085/23534165557770/156425
+#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS 2 SD
+http://comag.rip:8000/50000294027085/23534165557770/156424
+#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS 3 SD
+http://comag.rip:8000/50000294027085/23534165557770/156423
+#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS 4 SD
+http://comag.rip:8000/50000294027085/23534165557770/156422
+#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS 5 SD
+http://comag.rip:8000/50000294027085/23534165557770/156421
+#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS 6 SD
+http://comag.rip:8000/50000294027085/23534165557770/156420
+#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS 7 SD
+http://comag.rip:8000/50000294027085/23534165557770/156419
+#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS MAX 1 SD
+http://comag.rip:8000/50000294027085/23534165557770/176203
+#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS MAX 2 SD
+http://comag.rip:8000/50000294027085/23534165557770/176202
+#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS MAX 3 SD
+http://comag.rip:8000/50000294027085/23534165557770/176201
+#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS MAX 4 SD
+http://comag.rip:8000/50000294027085/23534165557770/176200
+
+
 
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",CH 1
 http://tv.zonanime.my.id/vidio/championstv1.m3u8
@@ -617,12 +649,18 @@ http://tv.zonanime.my.id/vidio/championstv1.m3u8
 http://tv.zonanime.my.id/vidio/championstv2.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",CH 3
 http://tv.zonanime.my.id/vidio/championstv3.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein 2
-http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54469
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein 1
-http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54470
+http://comag.rip:8000/50000294027085/23534165557770/156448
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein 2
+http://comag.rip:8000/50000294027085/23534165557770/156446
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein 3
-http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54471
+http://comag.rip:8000/50000294027085/23534165557770/158822
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",beINSPORTS PREMIUM 1
+http://comag.rip:8000/50000294027085/23534165557770/156445
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",beINSPORTS PREMIUM  2
+http://comag.rip:8000/50000294027085/23534165557770/156444
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",beINSPORTS PREMIUM  3
+http://comag.rip:8000/50000294027085/23534165557770/156443
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",TOP sport
 http://103.105.213.251:8443/live/Oq92S2Auwlaby0OELhOtyw/1658772208/31.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Fight SPort

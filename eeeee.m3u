@@ -241,7 +241,7 @@ http://210.210.155.35:80/uq2663/h/h18/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",MyCinema Asia
 http://210.210.155.35:80/x6bnqe/h/h193/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",KBS WORLD
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b1200000.m3u8
+##https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",KBS WORLD2
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",MyCinemA Family
@@ -537,6 +537,8 @@ http://5.9.150.76/scihd/mono.m3u8
 http://5.9.150.76/crimehd/mono.m3u8
 #EXTINF:-1 group-title="MOVIES",cloud Cinema
 http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="MOVIES",AMC S
+https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/profile_0/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",AMC
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",AMC thrler

@@ -16,8 +16,8 @@ http://rr.dens.tv/h/h11/02.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="LOKAL NASIONAL",RCTI
 https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8|User-Agent=android-R+
-https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-mp4a_64000=2-avc1_100000=7.m3u8
-https://d2oaub8o4ti3xm.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
+##https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-mp4a_64000=2-avc1_100000=7.m3u8
+##https://d2oaub8o4ti3xm.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
 ##http://54.151.201.145:5566/GG/Live/RcTi/mpegts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="LOKAL NASIONAL",SCTV
 ##https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/204-sctv
@@ -27,8 +27,8 @@ http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s
 ##https://d33j155pv2xyba.cloudfront.net/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOKAL NASIONAL",MNCtv2
 https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8|User-Agent=android-R+
-https://d1akid76fpbq4x.cloudfront.net/live/eds/MNCTV_2021/live_fta/MNCTV_2021-mp4a_64000=2-avc1_800000=6.m3u8
-https://d2oaub8o4ti3xm.cloudfront.net/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
+##https://d1akid76fpbq4x.cloudfront.net/live/eds/MNCTV_2021/live_fta/MNCTV_2021-mp4a_64000=2-avc1_800000=6.m3u8
+##https://d2oaub8o4ti3xm.cloudfront.net/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
 ##http://syok.tv:25461/thomas/thomas/2106
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="LOKAL NASIONAL",INDOSIAR
 http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/02.m3u8
@@ -139,11 +139,11 @@ https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(9ce3f094-404
 
 #EXTM3U
 #EXTINF:-1  group-title="KIDS",CArtoon Network
-##http://iptvid.my.id/hmm/cn.m3u8
-http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/51109
+http://iptvid.my.id/hmm/cn.m3u8
+##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/51109
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Boomerang
-##http://iptvid.my.id/hmm/boomerang.m3u8 
-http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54202
+http://iptvid.my.id/hmm/boomerang.m3u8 
+##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54202
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Anime
 https://contv-localnow.cinedigm.com/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/wyrQfKC/animax.jpg" group-title="KIDS",ANIMAX
@@ -196,7 +196,7 @@ https://siloh.pluto.tv/lilo/production/Nick/01/master_4.m3u8
 #EXTINF:-1 group-title="KIDS",Nick JR1
 http://iptvid.my.id:80/hmm/nickjr.m3u8
 #EXTINF:-1 group-title="KIDS",Nick JR2
-http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/46762
+##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/46762
 ##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54257
 #EXTINF:-1 group-title="KIDS",Tiny POP
 https://3670.short.gy/channel/615
@@ -335,14 +335,14 @@ http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54166
 ##http://203.77.246.50:5000/udp/239.1.2.140:5000
 ##https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo
-##http://iptvid.my.id:80/hmm/natgeo.m3u8
-http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54197
+http://iptvid.my.id:80/hmm/natgeo.m3u8
+##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54197
 ##http://89.216.39.24/stream/15/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Wonder TV
 https://lds-wonder-samsungau.amagi.tv/playlist360-p.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild
-##http://iptvid.my.id/hmm/ngwild.m3u8
-http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/46885
+http://iptvid.my.id/hmm/ngwild.m3u8
+##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/46885
 ##http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54229
 ##http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 ##http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/174724

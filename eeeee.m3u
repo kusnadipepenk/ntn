@@ -618,20 +618,6 @@ http://comag.rip:8000/50000294027085/23534165557770/156428
 http://comag.rip:8000/50000294027085/23534165557770/189746
 #EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS 3 PREMIUM SD
 http://comag.rip:8000/50000294027085/23534165557770/156426
-#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS 1 SD
-http://comag.rip:8000/50000294027085/23534165557770/156425
-#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS 2 SD
-http://comag.rip:8000/50000294027085/23534165557770/156424
-#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS 3 SD
-http://comag.rip:8000/50000294027085/23534165557770/156423
-#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS 4 SD
-http://comag.rip:8000/50000294027085/23534165557770/156422
-#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS 5 SD
-http://comag.rip:8000/50000294027085/23534165557770/156421
-#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS 6 SD
-http://comag.rip:8000/50000294027085/23534165557770/156420
-#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS 7 SD
-http://comag.rip:8000/50000294027085/23534165557770/156419
 #EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS MAX 1 SD
 http://comag.rip:8000/50000294027085/23534165557770/176203
 #EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS MAX 2 SD
@@ -641,15 +627,19 @@ http://comag.rip:8000/50000294027085/23534165557770/176201
 #EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS MAX 4 SD
 http://comag.rip:8000/50000294027085/23534165557770/176200
 #EXTINF:-1 group-title="BEIN",beIN SPORTS MAX 1 -ss
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/osta.m3u
-#EXTINF:-1 group-title="BEIN",beIN SPORTS MAX 2 -360P
-http://red.ipfox.org:8080/osama2022/osama2023/52359
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/bein1.m3u8
+#EXTINF:-1 group-title="BEIN",beIN SPORTS MAX 2 -ss
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/bein2.m3u8
+##http://red.ipfox.org:8080/osama2022/osama2023/52359
 #EXTINF:-1 group-title="BEIN",beIN SPORTS MAX 3 -360P
-http://red.ipfox.org:8080/osama2022/osama2023/52360
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/bein3.m3u8
+##http://red.ipfox.org:8080/osama2022/osama2023/52360
 #EXTINF:-1 group-title="BEIN",beIN SPORTS MAX 4 -360P
-http://red.ipfox.org:8080/osama2022/osama2023/52361
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/bein4.m3u8
+##http://red.ipfox.org:8080/osama2022/osama2023/52361
 #EXTINF:-1 group-title="BEIN",beIN SPORTS MAX 5 -360P
-http://red.ipfox.org:8080/osama2022/osama2023/52362
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/bein5.m3u8
+##http://red.ipfox.org:8080/osama2022/osama2023/52362
 #EXTINF:-1 group-title="BEIN",beIN SPORTS MAX 6 -360P
 http://red.ipfox.org:8080/osama2022/osama2023/52363
 

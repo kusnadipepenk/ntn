@@ -422,9 +422,8 @@ http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/653
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",max1
 http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/46033
 ##http://189.91.128.146:4444/udp/227.10.20.96:1234
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOIDs
-http://iptv12k.com:35461/live/80201100806/423322/1892.ts
-##http://189.91.128.146:4444/udp/227.10.20.95:1234
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOID
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/hbo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOFAMiD
 http://iptv12k.com:35461/live/80201100806/423322/1890.ts
 ##http://189.91.128.146:4444/udp/227.10.20.94:1234

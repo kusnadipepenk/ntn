@@ -654,7 +654,14 @@ http://red.ipfox.org:8080/osama2022/osama2023/52362
 http://red.ipfox.org:8080/osama2022/osama2023/52363
 
 
-
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPortv1
+http://warkop.cf/89/sporttv/01.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPortv2
+http://warkop.cf/89/sporttv/02.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPortv3
+http://warkop.cf/89/sporttv/03.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPortv4
+http://warkop.cf/89/sporttv/04.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",CH 1
 http://tv.zonanime.my.id/vidio/championstv1.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",CH 2

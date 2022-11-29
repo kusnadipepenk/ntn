@@ -604,7 +604,8 @@ https://kmtvnow-samsung-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Music",Box Gold
 http://2serv.mylifeisgood.ml:8080/mfolive.m3u8?media=musicboxgold
 
-
+#EXTINF:-1 tvg-logo="" group-title="BEIN",Pildun
+http://live-ali2.tv360.vn/manifest/vtv2/master.m3u8?timestamp=1669730472&token=304aba13361aee67ab3b0fab0cd8c285&manifestfilter=video_bitrate:1-4194304
 #EXTINF:-1 tvg-logo="" group-title="BEIN",BEIN SPORTS SD
 http://comag.rip:8000/50000294027085/23534165557770/31927
 #EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS 1 PREMIUM SD

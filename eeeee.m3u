@@ -450,8 +450,8 @@ http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/17
 http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/18
 #EXTINF:-1 group-title="MOVIES",Comedy Channel
 https://uksono1-samsunguk.amagi.tv/playlist480p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",SYFY
-http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/46730
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",AMC
+http://62.176.77.22:9781/play/a008
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Runtime
 https://ammoruntime-plex.amagi.tv/playlistR432p.m3u8
 #EXTINF:-1 group-title="MOVIES",Xumo Western

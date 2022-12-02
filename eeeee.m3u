@@ -465,9 +465,9 @@ http://crackle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Asylium
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/640x360_700000/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/jGzMaRD.png" group-title="MOVIES",FilmRise Movies
-http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/FcN1OKo.png" group-title="MOVIES",FilmRise Sci-Fi
-http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", Sci-Fi Movies
 https://v2.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1 group-title="MOVIES",XUMO Free Movie
@@ -510,9 +510,11 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 group-title="MOVIES",Movies Now
 
 #EXTINF:-1 group-title="MOVIES",AndPrive
-https://aqfadtv.xyz/live/&prive/index.m3u8
-#EXTINF:-1 group-title="MOVIES",AndFlix-
-https://aqfadtv.xyz/live/&flix/index.m3u8
+http://platinumxmedia.xyz:8080/@smarters2121/B8wDqaEt5qTe/53453
+##https://aqfadtv.xyz/live/&prive/index.m3u8
+#EXTINF:-1 group-title="MOVIES",AndFlix
+http://platinumxmedia.xyz:8080/@smarters2121/B8wDqaEt5qTe/53420
+##https://aqfadtv.xyz/live/&flix/index.m3u8
 #EXTINF:-1 group-title="MOVIES",Pixl
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 group-title="MOVIES",&ROmance

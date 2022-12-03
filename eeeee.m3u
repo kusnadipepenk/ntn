@@ -442,12 +442,6 @@ https://aqfadtv.xyz/hbogo/cinemax/index.m3u8
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",BBC America
 ##http://rmvberantakan.com/usg/index.php?id=BBCAmerica
-#EXTINF:-1 group-title="MOVIES",FoXMovie
-http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/53024
-#EXTINF:-1 group-title="MOVIES",Bein Action Prem
-http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/17
-#EXTINF:-1 group-title="MOVIES",Bein Action
-http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/18
 #EXTINF:-1 group-title="MOVIES",Comedy Channel
 https://uksono1-samsunguk.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",AMC
@@ -651,12 +645,6 @@ http://warkop.cf/89/sporttv/02.m3u8
 http://warkop.cf/89/sporttv/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPortv4
 http://warkop.cf/89/sporttv/04.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",CH 1
-http://tv.zonanime.my.id/vidio/championstv1.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",CH 2
-http://tv.zonanime.my.id/vidio/championstv2.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",CH 3
-http://tv.zonanime.my.id/vidio/championstv3.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein 1
 http://comag.rip:8000/50000294027085/23534165557770/156448
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein 2
@@ -669,14 +657,8 @@ http://comag.rip:8000/50000294027085/23534165557770/156445
 http://comag.rip:8000/50000294027085/23534165557770/156444
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",beINSPORTS PREMIUM  3
 http://comag.rip:8000/50000294027085/23534165557770/156443
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",TOP sport
-http://103.105.213.251:8443/live/Oq92S2Auwlaby0OELhOtyw/1658772208/31.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Fight SPort
 http://210.210.155.35:80/dr9445/h/h05/01.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",Spotv Alt
-http://iptvid.my.id:80/hmm/spotv.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",Spotv2 Alt
-http://iptvid.my.id:80/hmm/spotv2.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV-2
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV
@@ -684,8 +666,6 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 ##https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1651977303~exp=9007200906718294~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_2/chunklist.m3u8*~hmac=c863c73293c9b625e06c9791
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Motorvision
 http://210.210.155.35/uq2663/h/h09/01.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",One Sport
-http://eaglevision.visualsec.net:8443/live/-Gydhq9AqcmQQ4nX3K8xsQ/1666701699/236.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Golf
 ##http://210.210.155.35/dr9445/h/h10/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",BEIN Xtra
@@ -717,31 +697,17 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8
 #EXTINF:-1 group-title="SPORTS",TNT SPORT2
 http://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8
-#EXTINF:-1 group-title="SPORTS",Fox Sport
-https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
-#EXTINF:-1 group-title="SPORTS",Fox Sport2
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
-#EXTINF:-1 group-title="SPORTS",Fox Sport3
-https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 #EXTINF:-1 group-title="SPORTS",Euro Sport
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",Euro Sport1
-http://77.72.22.42:8080/9247/index.m3u8
-#EXTINF:-1 group-title="SPORTS",Eleven 2
-http://213.13.19.35/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-#EXTINF:-1 group-title="SPORTS",Eleven 3
-http://213.13.19.35/shls/LIVE$Eleven_Sports_3_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-#EXTINF:-1 group-title="SPORTS",Eleven 4
-http://213.13.19.35/shls/LIVE$Eleven_Sports_4_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 #EXTINF:-1 group-title="SPORTS",Stadium Sport
 https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",NBA
-http://eaglevision.visualsec.net:8443/live/-Gydhq9AqcmQQ4nX3K8xsQ/1666701699/235.m3u8
+#EXTINF:-1 group-title="SPORTS",DAZN
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
+#EXTINF:-1 group-title="SPORTS",DAZN2
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
 #EXTINF:-1 group-title="SPORTS",Race
 https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_099/HD/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",Pace
-##http://203.77.246.50:5000/udp/239.1.2.218:5000
-#EXTINF:-1 group-title="SPORTS",A Sport
+
 
 
 #######http://60.251.59.180:8537/https:/netwrk.ru.com/cdn/premium28/chunks.m3u8

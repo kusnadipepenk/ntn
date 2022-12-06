@@ -525,10 +525,6 @@ https://anevia114.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainme
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="V-Lifestyle",DFC FOOD
 http://playlist.urfan.web.id/x6bnqe/s/s50/live.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="V-Lifestyle",,KBS WORLD
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b1200000.m3u8
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/hFrZwVC/VSDAD.png" group-title="V-Movies",tvN

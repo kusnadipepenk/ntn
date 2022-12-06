@@ -385,8 +385,8 @@ https://anevia114.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/soccerchannel.png" group-title="V-Sports",Soccer Channel
 https://anevia114.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="V-Sports",Pace Sport
-http://203.77.246.50:5000/udp/239.1.2.218:5000
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="V-Sports",Edge Sport
+https://edgesport-samsungus.amagi.tv/playlist480p.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="V-Sports",Tennis
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8

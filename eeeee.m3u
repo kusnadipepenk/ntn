@@ -669,8 +669,7 @@ http://210.210.155.35/uq2663/h/h09/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Golf
 ##http://210.210.155.35/dr9445/h/h10/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",BEIN Xtra
-https://bein-xtra-roku-us.amagi.tv/playlist.m3u8
-##https://siloh.pluto.tv/lilo/production/bein/1/master_3.m3u8
+https://siloh.pluto.tv/lilo/production/bein/1/master_3.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",BEIN Xtra2
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
 ##http://93.152.174.144:4000/play/ssportsf1/index.m3u8

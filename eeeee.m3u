@@ -155,7 +155,8 @@ http://eaglevision.visualsec.net:8443/live/-Gydhq9AqcmQQ4nX3K8xsQ/1666701699/212
 #EXTINF:-1  tvg-logo="https://i.ibb.co/JBh6DYD/aniplus.jpg" group-title="KIDS",ANIPLUS
 http://210.210.155.35/session/5a96d1bc-6a30-11e9-afe2-91cea6c769ee/dr9445/h/h02/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",MY KIDS
-http://210.210.155.35/uq2663/h/h98/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/130/indikids/chunklist_w1259170906_b1004100_sleng.m3u8?enc=h8piJJ9tJz50l5k43SV3oA&uid=&exp=1670839238
+##http://210.210.155.35/uq2663/h/h98/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",SpaceToon
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/d0RzNrk/space.png" group-title="KIDS",Lernings

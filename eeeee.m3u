@@ -11,7 +11,8 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 ##https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D5gBX8N/trans7.jpg" group-title="LOKAL NASIONAL",TRANS7
 ##http://203.77.246.50:5000/udp/239.1.1.102:5000
-http://rr.dens.tv/h/h11/02.m3u8
+##http://rr.dens.tv/h/h11/02.m3u8
+https://cdnbpp1.indihometv.com/joss/133/trans7/chunklist_w1010966313_b1244100_sleng.m3u8?enc=qmO8QC9ImO2mwCLgZ0SGWA&uid=&exp=1670838558
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D5gBX8N/trans7.jpg" group-title="LOKAL NASIONAL",TRANS7(2)
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="LOKAL NASIONAL",RCTI+
@@ -77,10 +78,11 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d
 
 
 
-#EXTINF:-1  group-title="BERITA",Inews
-https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8|User-Agent=android-R+
-https://d1akid76fpbq4x.cloudfront.net/live/eds/INEWS_2021/live_fta/INEWS_2021-mp4a_64000=2-avc1_100000=7.m3u8
-https://d2oaub8o4ti3xm.cloudfront.net/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=7-mp4a_96000=2.m3u8
+#EXTINF:-1  group-title="BERITA",Inewss
+https://cdn09jtedge.indihometv.com/joss/134/inews/chunklist_w428563632_b1004100_sleng.m3u8?enc=laUINp-mTkX_hHUey7lw_A&uid=&exp=1670838139
+#https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8|User-Agent=android-R+
+#https://d1akid76fpbq4x.cloudfront.net/live/eds/INEWS_2021/live_fta/INEWS_2021-mp4a_64000=2-avc1_100000=7.m3u8
+#https://d2oaub8o4ti3xm.cloudfront.net/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=7-mp4a_96000=2.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yBWB003/cnnin.png" group-title="BERITA",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 #EXTINF:-1  group-title="BERITA",BeritaSatuworld

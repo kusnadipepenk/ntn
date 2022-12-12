@@ -24,6 +24,7 @@ https://rcti-linier.rctiplus.id/RCTI2022.m3u8|User-Agent=android-R+
 ##https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/204-sctv
 http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="LOKAL NASIONAL",MNCtv1
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/bein6.m3u8
 ##http://54.151.201.145:5566/GG/Live/MNCTV/mpegts
 ##https://d33j155pv2xyba.cloudfront.net/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOKAL NASIONAL",MNCtv

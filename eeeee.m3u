@@ -38,9 +38,7 @@ http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="LOKAL NASIONAL",INDOSIAR Liga1
 http://iptvid.my.id/hmm/indosiar.m3u8
 ##http://tv.zonanime.my.id/vidio/indosiar.m3u8
-##http://203.77.246.50:5000/udp/239.1.1.110:5000
 ##http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/205-indosiar
-#EXTINF:-1  tvg-logo="" group-title="LOKAL NASIONAL",INDOSIAR2
 https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/205-indosiar
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QNQrm50/antv.png" group-title="LOKAL NASIONAL",MYtV
 https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/6711-mytv
@@ -57,10 +55,9 @@ http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105
 ##https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/1561-rtv
 http://210.210.155.35/dr9445/h/h10/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="LOKAL NASIONAL",Moji ochanel
-https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/206-moji
-#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1YTKkeDncS3PikKrWA8vuK6tdzee9Q7u3" group-title="LOKAL NASIONAL",JTV(2)
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
-##https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
+##https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/206-moji
+#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1YTKkeDncS3PikKrWA8vuK6tdzee9Q7u3" group-title="LOKAL NASIONAL",JTV
+http://rr3.dens.tv/s/s91/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GCkTFqZ/elshin.jpg" group-title="LOKAL NASIONAL",ELSHINTA TV
 http://210.210.155.35:80/session/9064e496-2ed8-11eb-9242-b82a72d63267/qwr9ew/s/s10/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/7VVYNfZ/tvri.jpg" group-title="LOKAL NASIONAL",TVRI
@@ -72,10 +69,11 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 ##http://210.210.155.35/session/4ef13212-a900-11e9-8ab6-b7d19fbdbf13/qwr9ew/s/s107/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/T2vhn7P/metro.jpg" group-title="LOKAL NASIONAL",METROTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w504410639_b1492000_sleng.m3u8
-##http://45.126.83.51/uq2663/h/h12/01.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/T2vhn7P/metro.jpg" group-title="LOKAL NASIONAL",METROTV2
+http://45.126.83.51/uq2663/h/h12/02.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1Yx6l54PwaAnm2d25XMAGJENd81AISjnu" group-title="LOKAL NASIONAL",KOMPASTV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
-##http://210.210.155.35/session/b44f53c0-1a28-11ea-980f-a261a2f9ca81/qwr9ew/s/s104/01.m3u8
+##https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+http://210.210.155.35/session/b44f53c0-1a28-11ea-980f-a261a2f9ca81/qwr9ew/s/s104/02.m3u8
 
 
 
@@ -249,8 +247,6 @@ http://210.210.155.35:80/uq2663/h/h18/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",MyCinema Asia
 http://210.210.155.35:80/x6bnqe/h/h193/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",KBS WORLD
-##https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",KBS WORLD2
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",MyCinemA Family
 http://210.210.155.35/x6bnqe/h/h194/index.m3u8
@@ -318,8 +314,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4b
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM INDONESIA",Bioskop Indonesia
 ##https://cubmu.superzap.xyz:8279/bioskop/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",U-Channel
-##http://210.210.155.35/x6bnqe/s/s73/S4/mnf.m3u8
-http://iptvid.my.id/hmm/uchannel.m3u8
+http://210.210.155.35/x6bnqe/s/s73/S4/mnf.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",DFC food
 http://playlist.urfan.web.id/x6bnqe/s/s50/live.m3u8
 
@@ -407,20 +402,20 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 http://112.221.8.212:9981/stream/channelid/33?ticket=3D615FE787433E7D7BF89F560ACFC7EECDD03E5F
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDHBO
-https://aqfadtv.xyz/hbogo/hbo/index.m3u8
-##http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
+##https://aqfadtv.xyz/hbogo/hbo/index.m3u8
+http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
 ##http://203.77.246.50:5000/udp/239.1.3.84:5000
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDHBOFams
-https://aqfadtv.xyz/hbogo/hbofam/index.m3u8
-##http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+##https://aqfadtv.xyz/hbogo/hbofam/index.m3u8
+http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 ##http://203.77.246.50:5000/udp/239.1.3.76:5000
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDHBOsigns
 http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDHBOhits
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDCinemax
-https://aqfadtv.xyz/hbogo/cinemax/index.m3u8
-##http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
+##https://aqfadtv.xyz/hbogo/cinemax/index.m3u8
+http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Hbo
 ##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/47020
@@ -455,24 +450,17 @@ https://uksono1-samsunguk.amagi.tv/playlist480p.m3u8
 http://62.176.77.22:9781/play/a008
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Runtime
 https://ammoruntime-plex.amagi.tv/playlistR432p.m3u8
-#EXTINF:-1 group-title="MOVIES",Xumo Western
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/640x360_700000/index.m3u8
 #EXTINF:-1 group-title="MOVIES",&SONY PIX
 ##http://103.16.24.54:8080/channel2/index.m3u8
 #EXTINF:-1 group-title="MOVIES",SONY PIX2
 https://tv.googledrivelinks.com/live.php?c=Sony_Pix_HD&q=600&e=.m3u8
 #EXTINF:-1 group-title="MOVIES",Crackle
 http://crackle-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",Asylium
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/640x360_700000/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/jGzMaRD.png" group-title="MOVIES",FilmRise Movies
 https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/FcN1OKo.png" group-title="MOVIES",FilmRise Sci-Fi
-
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", Sci-Fi Movies
 https://v2.catcast.tv/content/38801/index.m3u8
-#EXTINF:-1 group-title="MOVIES",XUMO Free Movie
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/640x360_440000/index.m3u8
 #EXTINF:-1 group-title="MOVIES",Hallmark mysteri
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmmsl/hallmarkmmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 group-title="MOVIES",FAmily Flik
@@ -511,10 +499,8 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 group-title="MOVIES",HOLIWOOD CN
 https://epg.pm/stream/c1c13e670fed041fa1d531c6b4ee4ad962f9852d2af9adfe13007297af26afa3.ctv
 #EXTINF:-1 group-title="MOVIES",AndPrives
-http://45.148.147.125:8080/@smarters2121/B8wDqaEt5qTe/53453?token=QhNcUUpYElsXW1VUVwsEXFBSAAACUlcEUwUDCwEACQcBAwdWDQAFWAIbH0QXTEEBAgttXVQTDwVSUgMBGxJFF1xDa1ldEgpDBAABVUYUERAKC1cWCgADBlhfAAUCBwlIG0FdVBsKElAHCwRESBpWHBcDQFpRXWpUBBBfUVISCgpMXVgcG19ePlFcXgcKXBFeQVcQGBJYRkBDXFhHW1wcRltYQEJYRFVDD1dGCggUEQcME1xAQkgXCkMvchAbElUcTVRaQ1BfXkMPG0cVRhQRDRA5QFFDRUdVAAtTQBUKElUbHRZdWEhvAlpXXQMHTFoLDRUQDhICBRJNRFtdWVlEC0tuRFldEgpDAAgGUFcaTg==
 ##https://aqfadtv.xyz/live/&prive/index.m3u8
 #EXTINF:-1 group-title="MOVIES",AndFlixs
-http://45.148.147.125:8080/@smarters2121/B8wDqaEt5qTe/53420?token=QhNcUUpYElsXW1VUVwsEXFBSAAACUlcEUwUDCwEACQcBAwdWDQAFWAIbH0QXTEEBAgttXVQTDwVSUgMBGxJFF1xDa1ldEgpDBAABVUYUERAKC1cWCgADBlhfAAUCBwlIG0FdVBsKElAHCwRESBpWHBcDQFpRXWpUBBBfUVISCgpMXVgcG19ePlFcXgcKXBFeQVcQGBJYRkBDXFhHW1wcRltYQEJYRFVDD1dGCggUEQcME1xAQkgXCkMvchAbElUcTVRaQ1BfXkMPG0cVRhQRDRA5QFFDRUdVAAtTQBUKElUbHRZdWEhvAlpXXQMHTFoLDRUQDhICBRJNRFtdWVlEC0tuRFldEgpDAAgGUFcaTg==
 ##https://aqfadtv.xyz/live/&flix/index.m3u8
 #EXTINF:-1 group-title="MOVIES",Pixl
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07

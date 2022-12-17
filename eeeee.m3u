@@ -129,8 +129,8 @@ https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 http://210.210.155.35/qwr9ew/s/s26/01.m3u8
 #EXTINF:-1  group-title="BERITA",Aljazeera
 http://210.210.155.35/qwr9ew/s/s17/01.m3u8
-#EXTINF:-1  group-title="BERITA",ABC Australia
-
+#EXTINF:-1  group-title="BERITA",SKY news
+https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 #EXTINF:-1  group-title="BERITA",TRT World
 
 #EXTINF:-1  group-title="BERITA",RT News

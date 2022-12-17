@@ -245,7 +245,7 @@ http://210.210.155.35/dr9445/h/h04/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",CinemA Europe
 http://210.210.155.35:80/uq2663/h/h18/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",MyCinema Asia
-http://210.210.155.35:80/x6bnqe/h/h193/02.m3u8
+http://210.210.155.35:80/x6bnqe/h/h193/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",KBS WORLD
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",MyCinemA Family
@@ -267,8 +267,7 @@ http://210.210.155.35/dr9445/h/h37/02.m3u8
 http://210.210.155.35/uq2663/h/h19/02.m3u8
 #EXTINF:-1  group-title="PREMIUM INDONESIA",CELESTIAL MOVIE
 http://210.210.155.35:80/dr9445/h/h14/02.m3u8
-#EXTINF:-1  group-title="PREMIUM INDONESIA",CELESTIAL2
-http://203.77.246.50:5000/udp/239.1.2.162:5000
+
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Kdrama
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vvKpnbc/kixx.jpg" group-title="PREMIUM INDONESIA",KIX(2)

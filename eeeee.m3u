@@ -675,8 +675,8 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 ##http://54.151.201.145:5566/GG/Live/ucee1/mpegts
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name"" group-title="SPORTS",UCee Sport2
 ##http://54.151.201.145:5566/GG/Live/ucee2/mpegts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport1
-
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Jsport
+http://123.30.146.172:21585/1420/mpegts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport1s
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BTsport2s

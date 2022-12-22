@@ -410,8 +410,8 @@ http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21ab
 ##http://203.77.246.50:5000/udp/239.1.3.76:5000
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDHBOsigns
 http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDHBOhits
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO fams
+http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDCinemax
 ##https://aqfadtv.xyz/hbogo/cinemax/index.m3u8
 http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1

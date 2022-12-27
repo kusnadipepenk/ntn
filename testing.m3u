@@ -718,7 +718,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="USA TV",AndPrive
 https://aqfadtv.xyz/live/&prive/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA TV",AndFlix-
+#EXTINF:-1 tvg-logo="" group-title="USA TV",AndFlixx
 https://aqfadtv.xyz/live/&flix/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="USA TV",Sony PIX

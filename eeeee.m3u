@@ -355,9 +355,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-43
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",FoodChannel
 https://amagi-primary.akamaized.net/out/v1/3f7bf105c018444dbc8f74a3a283afaf/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
-https://tv.googledrivelinks.com/live.php?c=Animal_Planet_HD&q=600&e=.m3u8
+https://tv.googledrivelinks.com/live.php?c=Animal_Planet_HD&q=500&e=.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal2
-http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/50853
+##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/50853
 ##http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54847
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",GameNfish
 https://obsession-media.sinclair.wurl.com/manifest/1200.m3u8

@@ -586,63 +586,25 @@ https://kmtvnow-samsung-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Music",Box Gold
 http://2serv.mylifeisgood.ml:8080/mfolive.m3u8?media=musicboxgold
 
-#EXTINF:-1 tvg-logo="" group-title="BEIN",Pildun
-http://live-ali2.tv360.vn/manifest/vtv2/master.m3u8?timestamp=1669730472&token=304aba13361aee67ab3b0fab0cd8c285&manifestfilter=video_bitrate:1-4194304
-#EXTINF:-1 tvg-logo="" group-title="BEIN",BEIN SPORTS SD
-http://comag.rip:8000/50000294027085/23534165557770/31927
-#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS 1 PREMIUM SD
-http://comag.rip:8000/50000294027085/23534165557770/156428
-#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS 2 PREMIUM SD
-http://comag.rip:8000/50000294027085/23534165557770/189746
-#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS 3 PREMIUM SD
-http://comag.rip:8000/50000294027085/23534165557770/156426
-#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS MAX 1 SD
-http://comag.rip:8000/50000294027085/23534165557770/176203
-#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS MAX 2 SD
-http://comag.rip:8000/50000294027085/23534165557770/176202
-#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS MAX 3 SD
-http://comag.rip:8000/50000294027085/23534165557770/176201
-#EXTINF:-1 tvg-logo="" group-title="BEIN",beIN SPORTS MAX 4 SD
-http://comag.rip:8000/50000294027085/23534165557770/176200
-#EXTINF:-1 group-title="BEIN",beIN SPORTS MAX 1 -ss
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/bein1.m3u8
-#EXTINF:-1 group-title="BEIN",beIN SPORTS MAX 2 -ss
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/bein2.m3u8
-##http://red.ipfox.org:8080/osama2022/osama2023/52359
-#EXTINF:-1 group-title="BEIN",beIN SPORTS MAX 3 -360P
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/bein3.m3u8
-##http://red.ipfox.org:8080/osama2022/osama2023/52360
-#EXTINF:-1 group-title="BEIN",beIN SPORTS MAX 4 -360P
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/bein4.m3u8
-##http://red.ipfox.org:8080/osama2022/osama2023/52361
-#EXTINF:-1 group-title="BEIN",beIN SPORTS MAX 5 -360P
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/bein5.m3u8
-##http://red.ipfox.org:8080/osama2022/osama2023/52362
-#EXTINF:-1 group-title="BEIN",beIN SPORTS MAX 6 -ss
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/bein6.m3u8
-##http://red.ipfox.org:8080/osama2022/osama2023/52363
-
 
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPortv1
-http://warkop.cf/89/sporttv/01.m3u8
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70844
+##http://warkop.cf/89/sporttv/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPortv2
-http://warkop.cf/89/sporttv/02.m3u8
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70846
+##http://warkop.cf/89/sporttv/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPortv3
-http://warkop.cf/89/sporttv/03.m3u8
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70848
+##http://warkop.cf/89/sporttv/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPortv4
-http://warkop.cf/89/sporttv/04.m3u8
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70849
+##http://warkop.cf/89/sporttv/04.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein 1
-http://comag.rip:8000/50000294027085/23534165557770/156448
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/271516
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein 2
-http://comag.rip:8000/50000294027085/23534165557770/156446
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/271518
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein 3
-http://comag.rip:8000/50000294027085/23534165557770/158822
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",beINSPORTS PREMIUM 1
-http://comag.rip:8000/50000294027085/23534165557770/156445
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",beINSPORTS PREMIUM  2
-http://comag.rip:8000/50000294027085/23534165557770/156444
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",beINSPORTS PREMIUM  3
-http://comag.rip:8000/50000294027085/23534165557770/156443
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/271520
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",O Chanel-Moji
 http://210.210.155.35/qwr9ew/s/s41/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Fight SPort

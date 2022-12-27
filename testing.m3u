@@ -722,7 +722,7 @@ https://aqfadtv.xyz/live/&prive/index.m3u8
 https://aqfadtv.xyz/live/&flix/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="USA TV",Sony PIX
-https://tv.googledrivelinks.com/live.php?c=Sony_Pix_HD&q=500&e=.m3u8
+https://tv.googledrivelinks.com/live.php?c=Sony_Pix_HD&q=400&e=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="USA TV",Runtime
 https://ammoruntime-plex.amagi.tv/playlist.m3u8

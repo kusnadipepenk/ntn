@@ -364,6 +364,14 @@ https://anevia114.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/jv3gyNy/bein2-home-tv.png" group-title="V-Sports",beIN Sport 2
 https://anevia114.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
+#EXTINF:-1  tvg-logo="https://epg.beinsports.com/id_sports/BS1.svg" group-title="V-Sports",Bein 1
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/271517
+#EXTINF:-1  tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="V-Sports",Bein 2
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/271518
+#EXTINF:-1  tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="V-Sports",Bein 3
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/271520
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/s5xQfGD/Spotv.png" group-title="V-Sports",SPOTV
@@ -406,7 +414,7 @@ http://210.210.155.35/session/5a96d1bc-6a30-11e9-afe2-91cea6c769ee/dr9445/h/h02/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/disneyjunior.png" group-title="V-Kids",ZooMoo
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="V-Kids",ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 <!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha-->
@@ -416,50 +424,50 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/cartoonnetwork.png" group-title="V-Kids",Cartoon Network
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="V-Kids",Cartoon Network
 https://anevia114.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/boomerang.png" group-title="V-Kids",Boomerang
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="V-Kids",Boomerang
 https://anevia114.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/animax.png" group-title="V-Kids",Animax
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.animaxtv.com/images/logo_animax.png" group-title="V-Kids",Animax
 https://anevia114.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/miaomi.png" group-title="V-Kids",MiaoMi
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="V-Kids",MiaoMi
 https://anevia114.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/babytv.png" group-title="V-Kids",Baby TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="V-Kids",Baby TV
 https://anevia114.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/nickelodeon.png" group-title="V-Kids",Nickelodeon
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="V-Kids",Nickelodeon
 https://anevia114.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="V-Kids",Nick Jr
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png" group-title="V-Kids",Nick Jr
 https://anevia114.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="V-Kids",Nick Jr Pluto
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png" group-title="V-Kids",Nick Jr Pluto
 https://siloh.pluto.tv/lilo/production/Nick/04/master_3.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/cbeebies.png" group-title="V-Kids",CBeebies
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png" group-title="V-Kids",CBeebies
 https://anevia114.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/kidstv.png" group-title="V-Kids",Kids Channel
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/59/KidsChannel.png/200px-KidsChannel.png" group-title="V-Kids",Kids Channel
 https://anevia114.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

@@ -5,35 +5,35 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/net.png" group-title="V-Lokal",NET
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/pimages/logo_net_small1.png" group-title="V-Lokal",NET
 https://anevia114.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/indosiar.png" group-title="V-Lokal",Indosiar
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png" group-title="V-Lokal",Indosiar
 ##https://anevia114.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
 https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/205-indosiar
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/sctv.png" group-title="V-Lokal",SCTV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png" group-title="V-Lokal",SCTV
 ##https://anevia114.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/rcti.png" group-title="V-Lokal",RCTI
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="V-Lokal",RCTI
 https://anevia114.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/gtv.png" group-title="V-Lokal",GTV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="V-Lokal",GTV
 https://anevia114.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/mnctv.png" group-title="V-Lokal",MNCTV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="V-Lokal",MNCTV
 https://anevia114.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 <!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha-->
@@ -48,7 +48,7 @@ https://anevia114.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/inews.png" group-title="V-Lokal",iNewsTV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="V-Lokal",iNewsTV
 https://anevia114.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -328,12 +328,12 @@ https://anevia114.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="V-Movies",Cinema Europe
 http://210.210.155.35:80/uq2663/h/h18/01.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="V-Movies",Rock Entertainment
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://images.useetv.com/logo_blueant_small.png" group-title="V-Movies",Rock Entertainment
 http://iptvid.my.id/hmm/rock.m3u8
 ##http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="V-Movies",Rock Extreme
+#EXTINF:0 tvg-id="" tvg-name="h" tvg-logo="https://images.useetv.com/logo_blueantext_small.png" group-title="V-Movies",Rock Extreme
 http://iptvid.my.id/hmm/rockext.m3u8
 ##http://210.210.155.35:80/dr9445/h/h15/01.m3u8
 
@@ -406,7 +406,7 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-VvbUqgHc5Pw/VJIJWAJLxfI/AAAAAAAAHi0/A0nDmO29zwk/s1600/Logo%2BDisney_Junior.png" group-title="V-Kids",Disney Jr Channel
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://x1.cdn.broiptv.com/img/disney_junior.png" group-title="V-Kids",Disney Jr Channel
 ##https://anevia114.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
 http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70382
 

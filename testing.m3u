@@ -135,7 +135,8 @@ https://v2.siar.us/dutatv/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="V-Lokal",O Channel
-http://210.210.155.35/qwr9ew/s/s41/01.m3u8
+http://iptvid.my.id/hmm/ochannel.m3u8 
+##http://210.210.155.35/qwr9ew/s/s41/01.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -328,13 +329,13 @@ https://anevia114.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 http://210.210.155.35:80/uq2663/h/h18/01.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="V-Movies",Rock Entertainment
-##http://203.77.246.50:5000/udp/239.1.2.130:5000
-http://210.210.155.35:80/dr9445/h/h16/01.m3u8
+http://iptvid.my.id/hmm/rock.m3u8
+##http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="V-Movies",Rock Extreme
-##http://203.77.246.50:5000/udp/239.1.2.132:5000
-http://210.210.155.35:80/dr9445/h/h15/01.m3u8
+http://iptvid.my.id/hmm/rockext.m3u8
+##http://210.210.155.35:80/dr9445/h/h15/01.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="V-Movies",KBSWorld
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
@@ -541,7 +542,8 @@ https://anevia114.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.infotelevisi.com/asset/images/tv/k_plus.jpg" group-title="V-Movies",KPlus
-http://rr.dens.tv/h/h08/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=K-PLUS_HD
+http://iptvid.my.id/hmm/kplus.m3u8
+##http://rr.dens.tv/h/h08/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=K-PLUS_HD
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1

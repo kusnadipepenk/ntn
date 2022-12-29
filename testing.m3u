@@ -12,14 +12,15 @@ https://anevia114.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png" group-title="V-Lokal",Indosiar
 ##https://anevia114.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
-http://iptvid.my.id/hmm/indosiar.m3u8
+http://210.210.155.35:80/qwr9ew/s/s04/02.m3u8
+##http://iptvid.my.id/hmm/indosiar.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png" group-title="V-Lokal",SCTV
 ##https://anevia114.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
-http://iptvid.my.id:80/hmm/hgtv.m3u8
-##http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
+##http://iptvid.my.id:80/hmm/hgtv.m3u8
+http://210.210.155.35:80/qwr9ew/s/s03/02.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

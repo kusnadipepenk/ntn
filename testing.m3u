@@ -375,8 +375,8 @@ https://anevia114.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/jv3gyNy/bein2-home-tv.png" group-title="V-Sports",beIN Sport 2
 https://anevia114.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
-#EXTINF:-1  tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="V-Sports",Bein 1
-http://kusnadipepenk.github.io/ntn/bein1.m3u8
+#EXTINF:-1  tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="V-Sports",Bein 1s
+https://kusnadipepenk.github.io/ntn/bein1.m3u8
 #EXTINF:-1  tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="V-Sports",Bein 2
 http://kusnadipepenk.github.io/ntn/bein2.m3u8
 #EXTINF:-1  tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="V-Sports",Bein 3

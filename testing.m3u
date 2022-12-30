@@ -376,22 +376,23 @@ https://anevia114.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 https://anevia114.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #EXTINF:-1  tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="V-Sports",Bein 1s
-https://kusnadipepenk.github.io/ntn/bein1.m3u8
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70427
 #EXTINF:-1  tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="V-Sports",Bein 2
-http://kusnadipepenk.github.io/ntn/bein2.m3u8
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/271518
 #EXTINF:-1  tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="V-Sports",Bein 3
-http://kusnadipepenk.github.io/ntn/bein3.m3u8
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/33499
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658" group-title="V-Sports",BEIN Xtra
-http://kusnadipepenk.github.io/ntn/beinxtr.m3u8
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70428
+
 
 #EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv1.png" group-title="V-Sports",Sporttv 1
-http://kusnadipepenk.github.io/ntn/sportv.m3u8
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70844
 #EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2.png" group-title="V-Sports",Sporttv 2
-http://kusnadipepenk.github.io/ntn/sportv2.m3u8
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70846
 #EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2.png" group-title="V-Sports",Sporttv 3
-http://kusnadipepenk.github.io/ntn/sportv3.m3u8
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70848
 #EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2.png" group-title="V-Sports",Sporttv 4
-http://kusnadipepenk.github.io/ntn/sportv4.m3u8
+http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70849
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1

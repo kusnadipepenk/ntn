@@ -750,32 +750,29 @@ https://aqfadtv.xyz/live/&prive/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/andflix-logo.jpg" group-title="USA TV",AndFlix
 https://aqfadtv.xyz/live/&flix/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Sony_Pix_2013.svg/revision/latest?cb=20200122045551" group-title="USA TV",Sony PIX
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" group-title="USA TV",Sony PIX
 https://tv.googledrivelinks.com/live.php?c=Sony_Pix_HD&q=400&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/3cfdef9e1ea26dc7e4cc835dd4c02f5ad3b2c9ca3da090296225a713a480d119.png" group-title="USA TV",Runtime
-https://ammoruntime-plex.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Sony_Crackle_Logo.png/revision/latest?cb=20190917114804" group-title="USA TV",Crackle
-http://crackle-xumo.amagi.tv/playlist.m3u8
+http://crackle-xumo.amagi.tv/playlistX432p.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--gBrQRyxY--/t_full/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1434689610/hallmark-channel-logo.jpg" group-title="USA TV",Hallmark
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmmsl/hallmarkmmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 
 #EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/601b338c59852720716748a2/200?webp=1" group-title="USA TV",FAmily Flik
-https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist_640x360_m.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="USA TV",REDBOX
-https://comedy-redbox.amagi.tv/playlist.m3u8
+https://comedy-redbox.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="USA TV",MyTime
 https://mytime-tcl.amagi.tv/playlist404-p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="USA TV",Movie SPhere UK
-https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+https://moviesphere-samsung-samsungus.amagi.tv/playlist480p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="USA TV",Movie SPhere US
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+https://moviesphereuk-samsunguk.amagi.tv/playlist480p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="USA TV",PixL
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
@@ -789,9 +786,6 @@ https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1  tvg-logo="" group-title="USA TV",Cine Real
 https://cinereal-plex.amagi.tv/CineReal/master_4.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="USA TV",Cornflix movie
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="" group-title="USA TV",Topcine
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_4.m3u8
 
@@ -799,4 +793,4 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_4.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=53
 
 #EXTINF:-1  tvg-logo="" group-title="USA TV",ION
-https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8
+https://scripps-ion-1-us.samsung.wurl.tv/playlist_960x540_2000k.m3u8

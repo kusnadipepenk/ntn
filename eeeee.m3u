@@ -16,7 +16,7 @@ https://cdnbpp1.indihometv.com/joss/133/trans7/chunklist_w1010966313_b1244100_sl
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D5gBX8N/trans7.jpg" group-title="LOKAL NASIONAL",TRANS7(2)
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="LOKAL NASIONAL",RCTI+
-https://rcti-linier.rctiplus.id/RCTI2022.m3u8|User-Agent=android-R+
+##https://rcti-linier.rctiplus.id/RCTI2022.m3u8|User-Agent=android-R+
 ##https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-mp4a_64000=2-avc1_100000=7.m3u8
 ##https://d2oaub8o4ti3xm.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
 http://hometv.live:25461/TenIPTV/171222/6
@@ -25,7 +25,6 @@ http://hometv.live:25461/TenIPTV/171222/6
 ##https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/204-sctv
 http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="LOKAL NASIONAL",MNCtv1
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/bein6.m3u8
 ##http://54.151.201.145:5566/GG/Live/MNCTV/mpegts
 ##https://d33j155pv2xyba.cloudfront.net/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOKAL NASIONAL",MNCtvs

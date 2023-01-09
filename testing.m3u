@@ -376,23 +376,27 @@ https://anevia114.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 https://anevia114.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #EXTINF:-1  tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="V-Sports",Bein 1s
-http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70427
+http://hometv.live:25461/TenIPTV/171222/4638
+##http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70427
 #EXTINF:-1  tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="V-Sports",Bein 2
-http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/271518
+http://hometv.live:25461/TenIPTV/171222/4639
+##http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/271518
 #EXTINF:-1  tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="V-Sports",Bein 3
-http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/33499
+http://hometv.live:25461/TenIPTV/171222/4872
+##http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/33499
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658" group-title="V-Sports",BEIN Xtra
-http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70428
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
+##http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70428
 
 
 #EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv1.png" group-title="V-Sports",Sporttv 1
-http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70844
+http://hometv.live:25461/TenIPTV/171222/5025
 #EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2.png" group-title="V-Sports",Sporttv 2
-http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70846
-#EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2.png" group-title="V-Sports",Sporttv 3
-http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70848
-#EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2.png" group-title="V-Sports",Sporttv 4
-http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70849
+http://hometv.live:25461/TenIPTV/171222/5026
+#EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv3.png" group-title="V-Sports",Sporttv 3
+http://hometv.live:25461/TenIPTV/171222/5027
+#EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv4.png" group-title="V-Sports",Sporttv 4
+http://hometv.live:25461/TenIPTV/171222/5028
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1

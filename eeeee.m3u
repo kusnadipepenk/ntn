@@ -19,6 +19,7 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 https://rcti-linier.rctiplus.id/RCTI2022.m3u8|User-Agent=android-R+
 ##https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-mp4a_64000=2-avc1_100000=7.m3u8
 ##https://d2oaub8o4ti3xm.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
+http://hometv.live:25461/TenIPTV/171222/6
 ##http://54.151.201.145:5566/GG/Live/RcTi/mpegts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="LOKAL NASIONAL",SCTV
 ##https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/204-sctv
@@ -32,7 +33,8 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/bein6.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 ##https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8|User-Agent=android-R+
 ##https://d33j155pv2xyba.cloudfront.net/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
-http://172.107.94.243:9000/live/premium/free/20030.ts
+http://hometv.live:25461/TenIPTV/171222/7
+##http://172.107.94.243:9000/live/premium/free/20030.ts
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="LOKAL NASIONAL",INDOSIAR
 http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/02.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="LOKAL NASIONAL",INDOSIAR Liga1

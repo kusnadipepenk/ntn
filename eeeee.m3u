@@ -626,8 +626,8 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
 https://edgesport-samsungus.amagi.tv/playlist480p.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FoXSport AUSTralia
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360_v3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name"" group-title="SPORTS",UCee Sport1
-##http://54.151.201.145:5566/GG/Live/ucee1/mpegts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name"" group-title="SPORTS",Premier league (SS)
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/71713
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name"" group-title="SPORTS",UCee Sport2
 ##http://54.151.201.145:5566/GG/Live/ucee2/mpegts
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Jsport

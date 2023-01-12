@@ -180,7 +180,7 @@ http://208.86.19.13:81/15.stream/index.m3u8
 ##http://rmvberantakan.com/usg/index.php?id=Disney
 http://208.86.19.13:81/14.stream/index.m3u8
 #EXTINF:-1 group-title="KIDS",DisneyXD
-http://208.86.19.13:81/10.stream/index.m3u8
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/disn.m3u8
 #EXTINF:-1 group-title="KIDS",HappyKids
 https://happykids-roku.amagi.tv/playlist404pl.m3u8
 #EXTINF:-1 group-title="KIDS",HappyKids Junior
@@ -311,8 +311,7 @@ http://playlist.urfan.web.id/x6bnqe/s/s50/live.m3u8
  
  
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV
-http://iptvid.my.id:80/hmm/hgtv.m3u8
-##http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/3048
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/hgtv.m3u8
 ##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54253
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
@@ -353,7 +352,7 @@ https://amagi-primary.akamaized.net/out/v1/3f7bf105c018444dbc8f74a3a283afaf/inde
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
 https://tv.googledrivelinks.com/live.php?c=Animal_Planet_HD&q=400&e=.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal2
-##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/50853
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/animal.m3u8
 ##http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54847
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",GameNfish
 https://obsession-media.sinclair.wurl.com/manifest/1200.m3u8

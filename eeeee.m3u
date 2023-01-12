@@ -144,11 +144,11 @@ http://31.220.41.88:8081/live/us-abcnews.stream/chunks.m3u8?token=null
 https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
 
 #EXTM3U
-#EXTINF:-1  group-title="KIDS",CArtoon Net
+#EXTINF:-1  group-title="KIDS",CArtoon Network
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/cn.m3u8
 ##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/51109
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Boomerangs
-http://clientsportals.com:80/live/d4Je5xwD/yadTXB63/17596.m3u8 
+http://clientsportals.com:2095/live/d4Je5xwD/yadTXB63/17596.m3u8 
 ##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54202
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Anime
 https://contv-localnow.cinedigm.com/playlist.m3u8

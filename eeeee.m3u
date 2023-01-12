@@ -179,8 +179,8 @@ http://208.86.19.13:81/15.stream/index.m3u8
 #EXTINF:-1 group-title="KIDS",Disney
 ##http://rmvberantakan.com/usg/index.php?id=Disney
 http://208.86.19.13:81/14.stream/index.m3u8
-#EXTINF:-1 group-title="KIDS",DisneyXD
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/disn.m3u8
+#EXTINF:-1 group-title="KIDS",Disney JR
+http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/15330
 #EXTINF:-1 group-title="KIDS",HappyKids
 https://happykids-roku.amagi.tv/playlist404pl.m3u8
 #EXTINF:-1 group-title="KIDS",HappyKids Junior
@@ -413,18 +413,17 @@ http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=1
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",max1
 ##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/46033
 ##http://189.91.128.146:4444/udp/227.10.20.96:1234
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOID
-##https://raw.githubusercontent.com/kusnadipepenk/ntn/master/hbo.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOFAMiD
-##http://iptv12k.com:35461/live/80201100806/423322/1890.ts
-##http://189.91.128.146:4444/udp/227.10.20.94:1234
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOHITSID
-##http://iptv12k.com:35461/live/80201100806/423322/1888.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO1
+https://s.id/1vRVI
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO2
+https://s.id/1vRW0
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO3
+https://s.id/1vRWo
 ##https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b1200000.m3u8?token=
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOSIGID
-##http://iptv12k.com:35461/live/80201100806/423322/1886.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",CinemaxID
-##http://iptv12k.com:35461/live/80201100806/423322/1882.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO4
+https://s.id/1vRWS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Cinemax
+https://s.id/1vRX7
 ##https://aqfadtv.xyz/hbogo/cinemax/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Showcase
 ##http://iptv12k.com:35461/live/80201100806/423322/1826.ts

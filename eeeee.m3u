@@ -325,7 +325,7 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/bbce.m3u8
 ##http://203.77.246.50:5000/udp/239.1.2.140:5000
 ##https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo
-http://iptvid.my.id:80/hmm/natgeo.m3u8
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/natgeo.m3u8
 ##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54197
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Wonder TV
 https://lds-wonder-samsungau.amagi.tv/playlist360-p.m3u8

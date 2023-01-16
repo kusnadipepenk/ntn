@@ -33,7 +33,6 @@ http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s
 ##https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8|User-Agent=android-R+
 ##https://d33j155pv2xyba.cloudfront.net/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
 https://s.id/1vPde
-##http://hometv.live:25461/TenIPTV/171222/7
 ##http://172.107.94.243:9000/live/premium/free/20030.ts
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="LOKAL NASIONAL",INDOSIAR
 http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/02.m3u8
@@ -246,7 +245,7 @@ http://210.210.155.35/x6bnqe/h/h194/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="PREMIUM INDONESIA",K+
 http://45.126.83.51/uq2663/h/h08/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="PREMIUM INDONESIA",ParaMnt
-http://iptvid.my.id:80/hmm/paramount.m3u8
+https://s.id/1wh3r
 ##https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/jWjxD83/sonson.jpg" group-title="PREMIUM INDONESIA",SonyOne
 ##http://203.77.246.50:5000/udp/239.1.2.236:5000
@@ -292,12 +291,11 @@ http://210.210.155.35:80/uq2663/h/h22/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",LifeStyle
 http://210.210.155.35:80/uq2663/h/h28/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Glxy
-https://bit.ly/GlxyUnv
+https://s.id/1wh25
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",GlxyPrem
-https://bit.ly/GlxyPrem
+https://s.id/1wh2z
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Warner TV
-http://iptvid.my.id/hmm/wrnr.m3u8
-##http://iptv12k.com:35461/167121748/976890/2115
+https://s.id/1wh1N
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM INDONESIA",Ruang trampil
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM INDONESIA",Bioskop Indonesia
@@ -305,13 +303,13 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4b
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",U-Channel
 http://210.210.155.35/x6bnqe/s/s73/S4/mnf.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",DFC food
-http://playlist.urfan.web.id/x6bnqe/s/s50/live.m3u8
+
 
  
  
- 
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/hgtv.m3u8
+https://s.id/1wh1m
+##https://raw.githubusercontent.com/kusnadipepenk/ntn/master/hgtv.m3u8
 ##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54253
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
@@ -320,21 +318,22 @@ http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary2
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth2
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/bbce.m3u8
+https://s.id/1wh17
+##https://raw.githubusercontent.com/kusnadipepenk/ntn/master/bbce.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",TLC
 ##http://203.77.246.50:5000/udp/239.1.2.140:5000
 ##https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/natgeo.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National GeoGraphic
+https://s.id/1wh0M
+##https://raw.githubusercontent.com/kusnadipepenk/ntn/master/natgeo.m3u8
 ##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54197
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Wonder TV
 https://lds-wonder-samsungau.amagi.tv/playlist360-p.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/wild.m3u8
+https://s.id/1wh0A
+##https://raw.githubusercontent.com/kusnadipepenk/ntn/master/wild.m3u8
 ##http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54229
 ##http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
-##http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/174724
-##http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Asian
 
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Turbo
@@ -612,8 +611,7 @@ http://210.210.155.35/uq2663/h/h09/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Golf
 ##http://210.210.155.35/dr9445/h/h10/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Premier
-http://172.93.110.132:14451/
-##https://siloh.pluto.tv/lilo/production/bein/1/master_3.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",BEIN Xtra2
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
 ##http://93.152.174.144:4000/play/ssportsf1/index.m3u8
@@ -622,7 +620,8 @@ https://edgesport-samsungus.amagi.tv/playlist480p.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FoXSport AUSTralia
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360_v3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name"" group-title="SPORTS",Premier league (SS)
-http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/71713
+https://s.id/1wh4y
+##http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/71713
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name"" group-title="SPORTS",UCee Sport2
 ##http://54.151.201.145:5566/GG/Live/ucee2/mpegts
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Trace sport
@@ -651,7 +650,7 @@ http://190.61.102.67:31589/play/a08j/index.m3u8
 #EXTINF:-1 group-title="SPORTS",TUDN2
 https://channel-tdn-cdn.blim.com/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS",Sportv Brazil
-http://45.58.126.146:14478
+
 #EXTINF:-1 group-title="SPORTS",Race
 https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_099/HD/playlist.m3u8
 
@@ -683,30 +682,30 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 
 #EXTINF : group-title="Test" tvg-logo="", Live Streaming 1
-http://rr3.dens.tv/s/s100/live.m3u8
+##http://rr3.dens.tv/s/s100/live.m3u8
 #EXTINF : group-title="Test" tvg-logo="", Live Streaming 2
-http://rr.dens.tv/h/h998/live.m3u8
+###http://rr.dens.tv/h/h998/live.m3u8
 #EXTINF:-1 tvg-logo="htg" group-title="Test",History
-http://85.187.25.21:8888/udp/238.194.3.1:5501
+##http://85.187.25.21:8888/udp/238.194.3.1:5501
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Chines DRama
-http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=chinesedrama
+##http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=chinesedrama
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Babybus EN
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=R_jkFFbodfU
+##http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=R_jkFFbodfU
 #EXTINF:-1 tvg-logo="htg" group-title="Test",KOmpasdfddf
-http://85.187.25.21:8888/udp/238.194.12.1:5501
+##http://85.187.25.21:8888/udp/238.194.12.1:5501
 
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Paw Pat & Friends
-https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=szknQHibfJ0
+##https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=szknQHibfJ0
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Paws
-https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=YwUh3PZo27Q
+##https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=YwUh3PZo27Q
 #EXTINF:-1 tvg-logo="htg" group-title="Test",BabyBus ID
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=DE_N8Uj5wyE
+##http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=DE_N8Uj5wyE
 #EXTINF:-1 tvg-logo="htg" group-title="Test",nat
-http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd?checkedby
+##http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Wild
-http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
+##http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1 tvg-logo="htg" group-title="Test",OkeyTV
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+##https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Paw Patrol
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=w8jIaF1RcS0
+##http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=w8jIaF1RcS0
 

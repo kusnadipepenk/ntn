@@ -484,6 +484,7 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 group-title="MOVIES",HOLIWOOD CN
 https://epg.pm/stream/c1c13e670fed041fa1d531c6b4ee4ad962f9852d2af9adfe13007297af26afa3.ctv
 #EXTINF:-1 group-title="MOVIES",AndPrives
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
 ##https://aqfadtv.xyz/live/&prive/index.m3u8
 #EXTINF:-1 group-title="MOVIES",AndFlixs
 ##https://aqfadtv.xyz/live/&flix/index.m3u8

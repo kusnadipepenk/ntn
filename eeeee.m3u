@@ -641,8 +641,9 @@ http://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS",EuroSport 1 RU
 http://sg.cvmedia.vthanhtivi.com/es1
-#EXTINF:-1 group-title="SPORTS",EuroSport 2 RU
-http://sg.cvmedia.vthanhtivi.com/es2
+#EXTINF:-1 group-title="SPORTS",EuroSport 2
+http://hls.stb.md/EUROSPORT2HD_H264/tracks-v2a2/mono.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwMy4yMjYuMjM0LjEwIiwibmJmIjoxNjc0NDMxNjc4LCJleHAiOjE2NzQ1MTgwNzgsImlhdCI6MTY3NDQzMTY3OCwiaXNzIjoic3RiLnN0YXJuZXQubWQifQ.bE5K-OoLhhsgFL7DqqMaD30ykScgycRIFvTm263CeAM
+##http://sg.cvmedia.vthanhtivi.com/es2
 #EXTINF:-1 group-title="SPORTS",Stadium Sport
 https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS",TUDN

@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-http://clientsportals.com:2095/play/live.php?mac=00:1A:79:AE:8E:4D&stream=25359&extension=ts&play_token=msUKooUfNl
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:AE:8E:4D&stream=25359&extension=m3u8&play_token=msUKooUfNl
 ##http://clientsportals.com:2095/live/d4Je5xwD/yadTXB63/11374.m3u8

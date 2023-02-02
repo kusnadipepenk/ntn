@@ -588,8 +588,8 @@ http://warkop.cf/89/sporttv/02.m3u8
 http://warkop.cf/89/sporttv/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPortv4
 http://warkop.cf/89/sporttv/04.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein 1s
-https://kusnadipepenk.github.io/ntn/bs1.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein 1
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:AE:8E:4D&stream=94486&extension=m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein 2
 http://warkop.cf/89/bein/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein 3

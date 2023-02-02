@@ -140,10 +140,10 @@ https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(9ce3f094-404
 
 #EXTM3U
 #EXTINF:-1  group-title="KIDS",CArtoon Network
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/cn.m3u8
+https://kusnadipepenk.github.io/ntn/cn.m3u8
 ##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/51109
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Boomerangs
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/boom.m3u8 
+https://kusnadipepenk.github.io/ntn/boom.m3u8 
 ##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54202
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Anime
 https://contv-localnow.cinedigm.com/playlist.m3u8
@@ -221,7 +221,7 @@ http://210.210.155.35:80/dr9445/h/h20/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNMovies
 http://210.210.155.35:80/dr9445/h/h21/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/axn.m3u8
+https://kusnadipepenk.github.io/ntn/axn.m3u8
 ##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54201
 ##http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 ##http://210.210.155.35:80/dr9445/h/h141/01.m3u8
@@ -307,7 +307,7 @@ http://210.210.155.35/x6bnqe/s/s73/S4/mnf.m3u8
  
  
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/hgtv.m3u8
+https://kusnadipepenk.github.io/ntn/hgtv.m3u8
 ##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54253
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
@@ -321,7 +321,7 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/bbce.m3u8
 ##http://203.77.246.50:5000/udp/239.1.2.140:5000
 ##https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National GeoGraphic
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/natgeo.m3u8
+https://kusnadipepenk.github.io/ntn/natgeo.m3u8
 ##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54197
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Wonder TV
 https://lds-wonder-samsungau.amagi.tv/playlist360-p.m3u8

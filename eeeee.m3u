@@ -423,6 +423,8 @@ https://s.id/1vRX7
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Showcase
 ##http://iptv12k.com:35461/live/80201100806/423322/1826.ts
 
+#EXTINF:-1 group-title="MOVIES",Brat TV
+https://brat-rakuten.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 group-title="MOVIES",Rakuten TV
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",BBC America

@@ -665,7 +665,7 @@ https://anevia114.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/0mWZ02V/love.png" group-title="V-Knowledge",Love Nature
 ##https://anevia114.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
-http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/69365
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/lovenat.m3u8
 ##http://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

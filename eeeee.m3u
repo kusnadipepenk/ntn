@@ -434,12 +434,9 @@ https://uksono1-samsunguk.amagi.tv/playlist480p.m3u8
 http://62.176.77.22:9781/play/a008
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Runtime
 https://ammoruntime-plex.amagi.tv/playlistR432p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",,AndPrive
-https://aqfadtv.xyz/live/&prive/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",,AndFlix-
-https://aqfadtv.xyz/live/&flix/index.m3u8
 #EXTINF:-1 group-title="MOVIES",SONY PIX2
-https://tv.googledrivelinks.com/live.php?c=Sony_Pix_HD&q=400&e=.m3u8
+https://kusnadipepenk.github.io/ntn/spix.m3u8
+##https://tv.googledrivelinks.com/live.php?c=Sony_Pix_HD&q=400&e=.m3u8
 #EXTINF:-1 group-title="MOVIES",Crackle
 http://crackle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/jGzMaRD.png" group-title="MOVIES",FilmRise Movies

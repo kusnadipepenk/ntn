@@ -316,7 +316,8 @@ http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary2
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth2
-https://kusnadipepenk.github.io/ntn/bbce.m3u8
+https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
+##https://kusnadipepenk.github.io/ntn/bbce.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",TLC
 https://varun-iptv.netlify.app/m3u/TLC.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National GeoGraphic
@@ -330,7 +331,7 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/wild.m3u8
 ##http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Science
 https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY-2
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Turbo
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-turboin-samsungin/f4af20b4-be04-4f91-b4e0-33b7b43b2f7e/2.m3u8
@@ -432,8 +433,9 @@ https://uksono1-samsunguk.amagi.tv/playlist480p.m3u8
 http://62.176.77.22:9781/play/a008
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Runtime
 https://ammoruntime-plex.amagi.tv/playlistR432p.m3u8
-#EXTINF:-1 group-title="MOVIES",SONY PIX2
-https://kusnadipepenk.github.io/ntn/spix.m3u8
+#EXTINF:-1 group-title="MOVIES",SONY PIX
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+##https://kusnadipepenk.github.io/ntn/spix.m3u8
 ##https://tv.googledrivelinks.com/live.php?c=Sony_Pix_HD&q=400&e=.m3u8
 #EXTINF:-1 group-title="MOVIES",Crackle
 http://crackle-xumo.amagi.tv/playlist.m3u8
@@ -458,7 +460,7 @@ http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/1765
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1300000.m3u8
 ##https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(72d6d51e-c265-4ce1-bf21-a9bb75487bc5)/manifest.mpd
 #EXTINF:-1 tvg-id="HBO.US" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",Warner tv-U
-http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54180
+
 ##http://190.83.119.67:8000/play/a0s6/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",Hollywood
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
@@ -504,7 +506,7 @@ http://5.9.150.76/scihd/mono.m3u8
 http://5.9.150.76/crimehd/mono.m3u8
 #EXTINF:-1 group-title="MOVIES",cloud Cinema
 http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="MOVIES",AMC S
+#EXTINF:-1  tvg-logo="" group-title="MOVIES",AMC-S
 https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/profile_0/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",AMC
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8

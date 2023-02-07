@@ -354,7 +354,8 @@ https://obsession-media.sinclair.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",OUTDOOR CHANNEL
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Love Nature
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/lovenat.m3u8
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+##https://raw.githubusercontent.com/kusnadipepenk/ntn/master/lovenat.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",OutsideTV
 https://outsidetvplus-stirr.amagi.tv/playlistR480p.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",INWILD
@@ -607,8 +608,6 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 http://210.210.155.35/uq2663/h/h09/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Golf
 ##http://210.210.155.35/dr9445/h/h10/01.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",Premier
-
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",BEIN Xtra2
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
 ##http://93.152.174.144:4000/play/ssportsf1/index.m3u8
@@ -616,10 +615,6 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
 https://edgesport-samsungus.amagi.tv/playlist480p.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FoXSport AUSTralia
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360_v3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name"" group-title="SPORTS",Premier league (SS)
-
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name"" group-title="SPORTS",UCee Sport2
-
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Trace sport
 https://trace-sportstars-samsungnz.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Trace sport (Alt)
@@ -639,19 +634,20 @@ http://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8
 http://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8
 #EXTINF:-1 group-title="SPORTS",Euro Sport
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",EuroSport 1 RU
-http://sg.cvmedia.vthanhtivi.com/es1
-#EXTINF:-1 group-title="SPORTS",EuroSport 2
-http://hls.stb.md/EUROSPORT2HD_H264/tracks-v2a2/mono.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwMy4yMjYuMjM0LjEwIiwibmJmIjoxNjc0NDMxNjc4LCJleHAiOjE2NzQ1MTgwNzgsImlhdCI6MTY3NDQzMTY3OCwiaXNzIjoic3RiLnN0YXJuZXQubWQifQ.bE5K-OoLhhsgFL7DqqMaD30ykScgycRIFvTm263CeAM
-##http://sg.cvmedia.vthanhtivi.com/es2
 #EXTINF:-1 group-title="SPORTS",Stadium Sport
 https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS",TUDN
 http://190.61.102.67:31589/play/a08j/index.m3u8
 #EXTINF:-1 group-title="SPORTS",TUDN2
 https://channel-tdn-cdn.blim.com/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",Sportv Brazil
-
+#EXTINF:-1 group-title="SPORTS",Sony Ten 1
+https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+#EXTINF:-1 group-title="SPORTS",Sony Ten 2
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+#EXTINF:-1 group-title="SPORTS",Sony Ten 3
+https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+#EXTINF:-1 group-title="SPORTS",Sony Ten 4
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTINF:-1 group-title="SPORTS",Race
 https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_099/HD/playlist.m3u8
 

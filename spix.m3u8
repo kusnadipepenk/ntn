@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+https://lin-gd-001-cf.slivcdn.com/out/v1/f88af37f57d94cbd8c584cd5e83d92aa/master_8.m3u8?hdntl=exp=1675787327~acl=*~hmac=8cd63f83306eb353c2f41fe4bfb213765f0c590f6bac9a299dab641d389078dd&originpath=/linear/hls/pb/event/x7rXWd2ERZ2tvyQWPmO1HA/stream/4bbff381-0167-4dfa-a867-f2f595bdd752:SIN/variant/df77843c8df4dd8ac84efc315df064ba/bandwidth/2752948.m3u8

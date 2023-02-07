@@ -316,10 +316,9 @@ http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary2
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth2
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/bbce.m3u8
+https://kusnadipepenk.github.io/ntn/bbce.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",TLC
-##http://203.77.246.50:5000/udp/239.1.2.140:5000
-##https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b1200000.m3u8
+https://varun-iptv.netlify.app/m3u/TLC.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National GeoGraphic
 https://kusnadipepenk.github.io/ntn/natgeo.m3u8
 ##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54197
@@ -329,8 +328,10 @@ https://lds-wonder-samsungau.amagi.tv/playlist360-p.m3u8
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/wild.m3u8
 ##http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54229
 ##http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Asian
-
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Science
+https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY
+https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Turbo
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-turboin-samsungin/f4af20b4-be04-4f91-b4e0-33b7b43b2f7e/2.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Discovery
@@ -341,12 +342,11 @@ https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8?checkedby:iptvcat.co
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4af1803e7983b391d73b13/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Techstorm
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",FoodChannel
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Food Channel
 https://amagi-primary.akamaized.net/out/v1/3f7bf105c018444dbc8f74a3a283afaf/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
-https://tv.googledrivelinks.com/live.php?c=Animal_Planet_HD&q=400&e=.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal2
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/animal.m3u8
+##https://tv.googledrivelinks.com/live.php?c=Animal_Planet_HD&q=400&e=.m3u8
 ##http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54847
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",GameNfish
 https://obsession-media.sinclair.wurl.com/manifest/1200.m3u8
@@ -371,10 +371,8 @@ https://wildearth-roku.amagi.tv/master.m3u8
 https://ft-ifood-roku.amagi.tv/playlist288p.m3u8
 #EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
-#EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="",AFN
-##http://203.77.246.50:5000/udp/239.1.2.228:5000
-#EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="",TLC2
-##http://203.77.246.50:5000/udp/239.1.2.232:5000
+#EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="",TRVL CH
+https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
 #EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="",Law and Crime
 http://lawandcrime.samsung.wurl.com/manifest/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="",TravelXP

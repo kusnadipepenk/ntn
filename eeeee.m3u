@@ -178,8 +178,8 @@ http://208.86.19.13:81/15.stream/index.m3u8
 #EXTINF:-1 group-title="KIDS",Disney
 ##http://rmvberantakan.com/usg/index.php?id=Disney
 http://208.86.19.13:81/14.stream/index.m3u8
-#EXTINF:-1 group-title="KIDS",Disney JRs
-http://clientsportals.com:2095/play/live.php?mac=00:1A:79:AE:8E:4D&stream=16770&extension=ts&play_token=msUKooUfNl
+#EXTINF:-1 group-title="KIDS",Disney JR
+https://kusnadipepenk.github.io/ntn/disn.m3u8
 #EXTINF:-1 group-title="KIDS",HappyKids
 https://happykids-roku.amagi.tv/playlist404pl.m3u8
 #EXTINF:-1 group-title="KIDS",HappyKids Junior
@@ -429,7 +429,7 @@ https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 ##http://rmvberantakan.com/usg/index.php?id=BBCAmerica
 #EXTINF:-1 group-title="MOVIES",Comedy Channel
 https://uksono1-samsunguk.amagi.tv/playlist480p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",AMC
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",AMC rr
 http://62.176.77.22:9781/play/a008
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Runtime
 https://ammoruntime-plex.amagi.tv/playlistR432p.m3u8
@@ -459,8 +459,6 @@ http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/1765
 #EXTINF:-1 tvg-id="HBO.US" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",Sky-Movies Comedy
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1300000.m3u8
 ##https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(72d6d51e-c265-4ce1-bf21-a9bb75487bc5)/manifest.mpd
-#EXTINF:-1 tvg-id="HBO.US" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",Warner tv-U
-
 ##http://190.83.119.67:8000/play/a0s6/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",Hollywood
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
@@ -591,7 +589,7 @@ http://warkop.cf/89/sporttv/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPortv4
 http://warkop.cf/89/sporttv/04.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein 1
-https://kusnadipepenk.github.io/ntn/bs1.m3u8
+http://warkop.cf/89/bein/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein 2
 http://warkop.cf/89/bein/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein 3

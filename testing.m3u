@@ -665,8 +665,9 @@ https://anevia114.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/0mWZ02V/love.png" group-title="V-Knowledge",Love Nature
 ##https://anevia114.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/lovenat.m3u8
-##http://bamus-eng-roku.amagi.tv/playlist404p.m3u8
+##https://raw.githubusercontent.com/kusnadipepenk/ntn/master/lovenat.m3u8
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -675,6 +676,15 @@ https://anevia114.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvesti
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="V-Knowledge",Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2012/12/19/Science-logo-horizontal.jpg" group-title="V-Knowledge",Discovery Science
+https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/134-1341950_discovery-turbo-logo-discovery-turbo.png" group-title="V-Knowledge",DISCOVERY Turbo
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-turboin-samsungin/f4af20b4-be04-4f91-b4e0-33b7b43b2f7e/2.m3u8
+
+#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/a/a8/Travel_Channel.png" group-title="V-Knowledge" tvg-logo="",TRVL CH
+https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -755,7 +765,7 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
 https://aqfadtv.xyz/live/&flix/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" group-title="USA TV",Sony PIX
-https://tv.googledrivelinks.com/live.php?c=Sony_Pix_HD&q=400&e=.m3u8
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Sony_Crackle_Logo.png/revision/latest?cb=20190917114804" group-title="USA TV",Crackle
 http://crackle-xumo.amagi.tv/playlistX432p.m3u8
@@ -773,6 +783,9 @@ https://rush-redbox.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="USA TV",MyTime
 https://mytime-tcl.amagi.tv/playlist404-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/abstract-letter-k-logo-negative-260nw-403225240.jpg" group-title="USA TV",K-Cinema
+https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="USA TV",Movie SPhere UK
 https://moviesphere-samsung-samsungus.amagi.tv/playlist480p.m3u8

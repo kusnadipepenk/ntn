@@ -522,6 +522,8 @@ https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8
 http://208.86.19.13:81/16.stream/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",CMA
 http://208.86.19.13:81/22.stream/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="MOVIES",K-Drama
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",K-Movies
 https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",K-IDS

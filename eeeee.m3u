@@ -137,12 +137,12 @@ http://31.220.41.88:8081/live/us-abcnews.stream/chunks.m3u8?token=null
 https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
 
 #EXTM3U
-#EXTINF:-1  group-title="KIDS",CArtoon Network
-##https://kusnadipepenk.github.io/ntn/cn.m3u8
-http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/51109
+#EXTINF:-1  group-title="KIDS",CArtoon Networks
+https://kusnadipepenk.github.io/ntn/cn.m3u8
+##http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/51109
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Boomerangs
-##https://kusnadipepenk.github.io/ntn/boom.m3u8 
-http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/54202
+https://kusnadipepenk.github.io/ntn/boom.m3u8 
+##http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/54202
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Anime
 https://contv-localnow.cinedigm.com/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/wyrQfKC/animax.jpg" group-title="KIDS",ANIMAX
@@ -219,9 +219,8 @@ http://210.210.155.35:80/dr9445/h/h20/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNMovies
 http://210.210.155.35:80/dr9445/h/h21/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN
-##https://kusnadipepenk.github.io/ntn/axn.m3u8
-http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/54201
-##http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
+https://kusnadipepenk.github.io/ntn/axn.m3u8
+##http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/54201
 ##http://210.210.155.35:80/dr9445/h/h141/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/T8fdzXn/blueantx.png" group-title="PREMIUM INDONESIA",BLUEANT EXTREME
 ##http://203.77.246.50:5000/udp/239.1.2.132:5000

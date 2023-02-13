@@ -138,11 +138,11 @@ https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(9ce3f094-404
 
 #EXTM3U
 #EXTINF:-1  group-title="KIDS",CArtoon Network
-https://kusnadipepenk.github.io/ntn/cn.m3u8
-##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/51109
+##https://kusnadipepenk.github.io/ntn/cn.m3u8
+http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/51109
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Boomerangs
-https://kusnadipepenk.github.io/ntn/boom.m3u8 
-##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54202
+##https://kusnadipepenk.github.io/ntn/boom.m3u8 
+http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/54202
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Anime
 https://contv-localnow.cinedigm.com/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/wyrQfKC/animax.jpg" group-title="KIDS",ANIMAX
@@ -219,8 +219,8 @@ http://210.210.155.35:80/dr9445/h/h20/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNMovies
 http://210.210.155.35:80/dr9445/h/h21/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN
-https://kusnadipepenk.github.io/ntn/axn.m3u8
-##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54201
+##https://kusnadipepenk.github.io/ntn/axn.m3u8
+http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/54201
 ##http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 ##http://210.210.155.35:80/dr9445/h/h141/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/T8fdzXn/blueantx.png" group-title="PREMIUM INDONESIA",BLUEANT EXTREME
@@ -398,11 +398,11 @@ http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8
 http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Hbo
-##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/47020
+##http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/47020
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",hbo3
-##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/653
+##http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/653
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",max1
-##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/46033
+##http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/46033
 ##http://189.91.128.146:4444/udp/227.10.20.96:1234
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO1
 http://kuchini.site:8080/live/tomstme300/tomasarenatelegramme300/197972.ts
@@ -451,7 +451,7 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a4
 #EXTINF:-1  tvg-logo="h" group-title="MOVIES",Star Movies
 ##http://221.120.204.4:80/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1  tvg-logo="h" group-title="MOVIES",Star Movies2
-http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/1765
+http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/1765
 ##http://182.50.65.213:8888/udp/239.239.0.17:3001
 ##http://103.166.253.222/hls/starmovies.m3u8
 #EXTINF:-1 tvg-id="HBO.US" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",Sky-Movies Comedy

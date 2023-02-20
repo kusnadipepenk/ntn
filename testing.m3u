@@ -395,6 +395,16 @@ http://warkop.cf/89/sporttv/03.m3u8
 #EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv4.png" group-title="V-Sports",Sporttv 4
 http://warkop.cf/89/sporttv/04.m3u8
 
+#EXTINF:-1  tvg-logo="" group-title="V-Sports",Diema Sport
+http://204.12.247.162:8080/premium465/mono.m3u8
+#EXTINF:-1  tvg-logo="" group-title="V-Sports",Diema Sport 2
+http://204.12.247.162:8080/premium466/mono.m3u8
+#EXTINF:-1  tvg-logo="" group-title="V-Sports",Diema Sport 3
+http://204.12.247.162:8080/premium467/mono.m3u8
+#EXTINF:-1  tvg-logo="" group-title="V-Sports",Diema Sport Xtra
+http://204.12.247.162:8080/premium468/mono.m3u8
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/s5xQfGD/Spotv.png" group-title="V-Sports",SPOTV

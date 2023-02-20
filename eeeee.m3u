@@ -30,7 +30,7 @@ http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 ##https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8|User-Agent=android-R+
 ##https://d33j155pv2xyba.cloudfront.net/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
-http://kuchini.site:8080/live/tomstme300/tomasarenatelegramme300/165054.ts
+http://kuchini.site:8080/live/joeBt/e229c03d/165054.ts
 ##http://172.107.94.243:9000/live/premium/free/20030.ts
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="LOKAL NASIONAL",INDOSIAR
 http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/02.m3u8
@@ -78,7 +78,7 @@ http://210.210.155.35/session/b44f53c0-1a28-11ea-980f-a261a2f9ca81/qwr9ew/s/s104
 
 
 #EXTINF:-1  group-title="BERITA",Inewss
-http://kuchini.site:8080/live/tomstme300/tomasarenatelegramme300/157579.ts
+http://kuchini.site:8080/live/joeBt/e229c03d/157579.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yBWB003/cnnin.png" group-title="BERITA",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 #EXTINF:-1  group-title="BERITA",BeritaSatuworld
@@ -404,9 +404,9 @@ http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=1
 ##http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/46033
 ##http://189.91.128.146:4444/udp/227.10.20.96:1234
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO1
-http://kuchini.site:8080/live/tomstme300/tomasarenatelegramme300/197972.ts
+http://kuchini.site:8080/live/joeBt/e229c03d/197972.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO2
-http://kuchini.site:8080/live/tomstme300/tomasarenatelegramme300/196480.ts
+http://kuchini.site:8080/live/joeBt/e229c03d/196480.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO3
 https://s.id/1vRWo
 ##https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b1200000.m3u8?token=
@@ -625,7 +625,7 @@ http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",Jsport3
 http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",SS Premier league
-http://kuchini.site:8080/live/tomstme300/tomasarenatelegramme300/11642.ts
+http://kuchini.site:8080/live/joeBt/e229c03d/11642.ts
 #EXTINF:-1 group-title="SPORTS",TENNIS
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 #EXTINF:-1 group-title="SPORTS",TNT SPORT1

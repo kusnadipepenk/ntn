@@ -177,7 +177,8 @@ http://208.86.19.13:81/15.stream/index.m3u8
 ##http://rmvberantakan.com/usg/index.php?id=Disney
 http://208.86.19.13:81/14.stream/index.m3u8
 #EXTINF:-1 group-title="KIDS",Disney JR
-https://kusnadipepenk.github.io/ntn/disn.m3u8
+http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/3684
+##https://kusnadipepenk.github.io/ntn/disn.m3u8
 #EXTINF:-1 group-title="KIDS",HappyKids
 https://happykids-roku.amagi.tv/playlist404pl.m3u8
 #EXTINF:-1 group-title="KIDS",HappyKids Junior
@@ -185,7 +186,7 @@ https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
 #EXTINF:-1  group-title="KIDS",Carton networks
 ##http://203.77.246.50:5000/udp/239.1.2.154:5000
 #EXTINF:-1 group-title="KIDS",Dreamworks
-http://clientsportals.com:2095/play/live.php?mac=00:1A:79:AE:8E:4D&stream=35394&extension=m3u8&play_token=msUKooUfNl
+http://clientsportals.com:2095/live/d4Je5xwD/yadTXB63/35394.m3u8
 #EXTINF:-1 group-title="KIDS",ZOOMOO
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Toons kid

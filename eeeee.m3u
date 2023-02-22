@@ -600,7 +600,7 @@ http://204.12.247.162:8080/premium465/mono.m3u8
 http://204.12.247.162:8080/premium466/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Diema Sport 3
 http://204.12.247.162:8080/premium467/mono.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",Diema Sport Xtra
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Nova Sport
 http://204.12.247.162:8080/premium468/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPortv1
 http://warkop.cf/89/sporttv/01.m3u8
@@ -611,11 +611,14 @@ http://warkop.cf/89/sporttv/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPortv4
 http://warkop.cf/89/sporttv/04.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein 1
-http://warkop.cf/89/bein/01.m3u8
+http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/54470
+##http://warkop.cf/89/bein/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein 2
-http://warkop.cf/89/bein/02.m3u8
+http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/54471
+##http://warkop.cf/89/bein/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein 3
-http://warkop.cf/89/bein/03.m3u8
+http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/54469
+##http://warkop.cf/89/bein/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",O Chanel-Moji
 http://210.210.155.35/qwr9ew/s/s41/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Fight SPort
@@ -671,15 +674,6 @@ https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
 https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
 #EXTINF:-1 group-title="SPORTS",Sony Ten 4
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
-#EXTINF:-1 group-title="SPORTS",Astro 1
-http://clientsportals.com:2095/play/live.php?mac=00:1A:79:AE:8E:4D&stream=115615&extension=m3u8&play_token=msUKooUfNl
-#EXTINF:-1 group-title="SPORTS",Astro 2
-http://clientsportals.com:2095/play/live.php?mac=00:1A:79:AE:8E:4D&stream=115616&extension=m3u8&play_token=msUKooUfNl
-#EXTINF:-1 group-title="SPORTS",Astro 3
-http://clientsportals.com:2095/play/live.php?mac=00:1A:79:AE:8E:4D&stream=115617&extension=m3u8&play_token=msUKooUfNl
-#EXTINF:-1 group-title="SPORTS",Astro 4
-http://clientsportals.com:2095/play/live.php?mac=00:1A:79:AE:8E:4D&stream=115618&extension=m3u8&play_token=msUKooUfNl
-
 #EXTINF:-1 group-title="SPORTS",Race
 https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_099/HD/playlist.m3u8
 

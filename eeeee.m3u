@@ -625,10 +625,19 @@ http://210.210.155.35/qwr9ew/s/s41/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Fight SPort
 http://210.210.155.35:80/dr9445/h/h05/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV-2
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
+http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/501510.m3u8
+##https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-##https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1651977303~exp=9007200906718294~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_2/chunklist.m3u8*~hmac=c863c73293c9b625e06c9791
+http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/501509.m3u8
+##https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",2SPOTV
+http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/485574.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",2SPOTV2
+http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/485575.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",3SPOTV
+http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/497720.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",3SPOTV2
+http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/497721.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Motorvision
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 ##http://210.210.155.35/uq2663/h/h09/01.m3u8

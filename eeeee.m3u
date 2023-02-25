@@ -382,8 +382,8 @@ http://112.221.8.212:9981/stream/channelid/33?ticket=3D615FE787433E7D7BF89F560AC
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDHBO
-##https://aqfadtv.xyz/hbogo/hbo/index.m3u8
-http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
+https://1036164025.vnns.net/hda1/hbo_vhls.smil/chunklist_b1800000.m3u8
+##http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
 ##http://203.77.246.50:5000/udp/239.1.3.84:5000
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDHBOFams
 ##https://aqfadtv.xyz/hbogo/hbofam/index.m3u8
@@ -394,8 +394,8 @@ http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D94297947942979
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO fams
 http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDCinemax
-##https://aqfadtv.xyz/hbogo/cinemax/index.m3u8
-http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
+https://1036164025.vnns.net/hda1/cinemax_vhls.smil/chunklist_b1800000.m3u8
+##http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Hbo
 ##http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/47020

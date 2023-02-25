@@ -612,15 +612,12 @@ http://warkop.cf/89/sporttv/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPortv4
 http://warkop.cf/89/sporttv/04.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein 1
-http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/54470
-##http://warkop.cf/89/bein/01.m3u8
+http://warkop.cf/89/bein/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein 2
-http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/54471
-##http://warkop.cf/89/bein/02.m3u8
+http://warkop.cf/89/bein/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein 3
-http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/54469
-##http://warkop.cf/89/bein/03.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",O Chanel-Moji
+http://warkop.cf/89/bein/03.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",OChanel-Moji
 http://210.210.155.35/qwr9ew/s/s41/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Fight SPort
 http://210.210.155.35:80/dr9445/h/h05/01.m3u8
@@ -631,13 +628,13 @@ http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/501510.m3u8
 http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/501509.m3u8
 ##https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",2SPOTV
-http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/485574.m3u8
+http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/485574.ts
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",2SPOTV2
-http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/485575.m3u8
+http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/485575.ts
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",3SPOTV
-http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/497720.m3u8
+http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/497720.ts
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",3SPOTV2
-http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/497721.m3u8
+http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/497721.ts
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Motorvision
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 ##http://210.210.155.35/uq2663/h/h09/01.m3u8
@@ -648,8 +645,6 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
 ##http://93.152.174.144:4000/play/ssportsf1/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",EdgeSport
 https://edgesport-samsungus.amagi.tv/playlist480p.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",FoXSport AUSTralia
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360_v3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Trace sport
 https://trace-sportstars-samsungnz.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Trace sport (Alt)

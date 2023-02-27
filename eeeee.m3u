@@ -603,14 +603,18 @@ http://204.12.247.162:8080/premium466/mono.m3u8
 http://204.12.247.162:8080/premium467/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Nova Sport
 http://204.12.247.162:8080/premium468/mono.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPortv1
-http://warkop.cf/89/sporttv/01.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPortv1s
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:AE:8E:4D&stream=68989&extension=m3u8&play_token=msUKooUfNl
+##http://warkop.cf/89/sporttv/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPortv2
-http://warkop.cf/89/sporttv/02.m3u8
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:AE:8E:4D&stream=68992&extension=m3u8&play_token=msUKooUfNl
+##http://warkop.cf/89/sporttv/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPortv3
-http://warkop.cf/89/sporttv/03.m3u8
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:AE:8E:4D&stream=68994&extension=m3u8&play_token=msUKooUfNl
+##http://warkop.cf/89/sporttv/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPortv4
-http://warkop.cf/89/sporttv/04.m3u8
+http://clientsportals.com:2095/play/live.php?mac=00:1A:79:AE:8E:4D&stream=68997&extension=m3u8&play_token=msUKooUfNl
+##http://warkop.cf/89/sporttv/04.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein 1
 http://warkop.cf/89/bein/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein 2

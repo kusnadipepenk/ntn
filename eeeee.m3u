@@ -619,9 +619,11 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv4.m3u8
 https://kusnadipepenk.github.io/ntn/bs1.m3u8
 ##http://warkop.cf/89/bein/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein 2
-http://warkop.cf/89/bein/02.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein 3
-http://warkop.cf/89/bein/03.m3u8
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/bs2.m3u8
+##http://warkop.cf/89/bein/02.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Bein 3s
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/bs3.m3u8
+##http://warkop.cf/89/bein/03.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",OChanel-Moji
 http://210.210.155.35/qwr9ew/s/s41/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Fight SPort

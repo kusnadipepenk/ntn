@@ -725,13 +725,13 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF : group-title="Test" tvg-logo="", Live Streaming 2
 ###http://rr.dens.tv/h/h998/live.m3u8
 #EXTINF:-1 tvg-logo="htg" group-title="Test",History
-##http://85.187.25.21:8888/udp/238.194.3.1:5501
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Chines DRama
 ##http://jkt2.roll.my.id/manifest/uss/index.m3u8?id=chinesedrama
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Babybus EN
 ##http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=R_jkFFbodfU
 #EXTINF:-1 tvg-logo="htg" group-title="Test",KOmpasdfddf
-##http://85.187.25.21:8888/udp/238.194.12.1:5501
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
 
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Paw Pat & Friends
 ##https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=szknQHibfJ0

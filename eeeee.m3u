@@ -10,8 +10,8 @@ http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=6
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 ##https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/733-trans-tv
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D5gBX8N/trans7.jpg" group-title="LOKAL NASIONAL",TRANS7
-##http://203.77.246.50:5000/udp/239.1.1.102:5000
-http://rr.dens.tv/h/h11/02.m3u8
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683116&extension=ts&play_token=RmFK3j6FUm
+##http://rr.dens.tv/h/h11/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D5gBX8N/trans7.jpg" group-title="LOKAL NASIONAL",TRANS7(2)
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="LOKAL NASIONAL",RCTI-
@@ -44,13 +44,14 @@ https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/li
 https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/6711-mytv
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QNQrm50/antv.png" group-title="LOKAL NASIONAL",ANTV
 ##http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/02.m3u8
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683154&extension=ts&play_token=RmFK3j6FUm
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683153&extension=ts&play_token=RmFK3j6FUm
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1uNGLnZUnUVO0BuZKQYN-KzIRVb9yXz1x" group-title="LOKAL NASIONAL",GLOBALTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://s.id/1vR9k
-#EXTINF:-1  group-title="LOKAL NASIONAL",TV ONE (2)
-http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105/02.m3u8
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683121&extension=ts&play_token=RmFK3j6FUm
+#EXTINF:-1  group-title="LOKAL NASIONAL",TV ONE
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683101&extension=ts&play_token=RmFK3j6FUm
+##http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105/02.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1ZUCUkvAvWR5qJzRj8HG9wJ40MQ71vi5x" group-title="LOKAL NASIONAL",RTV
 http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683095&extension=ts&play_token=RmFK3j6FUm
 ##http://210.210.155.35/dr9445/h/h10/02.m3u8
@@ -70,10 +71,12 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 #EXTINF:-1  tvg-logo="https://i.ibb.co/T2vhn7P/metro.jpg" group-title="LOKAL NASIONAL",METROTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w504410639_b1492000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/T2vhn7P/metro.jpg" group-title="LOKAL NASIONAL",METROTV2
-http://45.126.83.51/uq2663/h/h12/02.m3u8
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683181&extension=ts&play_token=RmFK3j6FUm
+##http://45.126.83.51/uq2663/h/h12/02.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1Yx6l54PwaAnm2d25XMAGJENd81AISjnu" group-title="LOKAL NASIONAL",KOMPASTV
 ##https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
-http://210.210.155.35/session/b44f53c0-1a28-11ea-980f-a261a2f9ca81/qwr9ew/s/s104/02.m3u8
+##http://210.210.155.35/session/b44f53c0-1a28-11ea-980f-a261a2f9ca81/qwr9ew/s/s104/02.m3u8
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683194&extension=ts&play_token=RmFK3j6FUm
 
 
 
@@ -147,7 +150,8 @@ https://kusnadipepenk.github.io/ntn/boom.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",Anime
 https://contv-localnow.cinedigm.com/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/wyrQfKC/animax.jpg" group-title="KIDS",ANIMAX
-http://clientsportals.com:80/live/d4Je5xwD/yadTXB63/40750.m3u8
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683165&extension=ts&play_token=RmFK3j6FUm
+##http://clientsportals.com:80/live/d4Je5xwD/yadTXB63/40750.m3u8
 ##http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/JBh6DYD/aniplus.jpg" group-title="KIDS",ANIPLUS
 http://210.210.155.35/session/5a96d1bc-6a30-11e9-afe2-91cea6c769ee/dr9445/h/h02/02.m3u8
@@ -157,8 +161,8 @@ http://210.210.155.35/session/5a96d1bc-6a30-11e9-afe2-91cea6c769ee/dr9445/h/h02/
 http://210.210.155.35/uq2663/h/h191/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/d0RzNrk/space.png" group-title="KIDS",Lernings
 http://210.210.155.35/uq2663/h/h97/02.m3u8
-#EXTINF:-1  group-title="KIDS",Kidsflix
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+#EXTINF:-1  group-title="KIDS",Miaomi
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683169&extension=ts&play_token=RmFK3j6FUm
 #EXTINF:-1  group-title="KIDS",TG JUnior
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
 #EXTINF:-1  group-title="KIDS",Kids Toons
@@ -223,8 +227,8 @@ http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=6
 http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683149&extension=ts&play_token=RmFK3j6FUm
 ##http://210.210.155.35:80/dr9445/h/h21/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN
-##https://kusnadipepenk.github.io/ntn/axn.m3u8
-http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/54201
+https://kusnadipepenk.github.io/ntn/axn.m3u8
+##http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/54201
 ##http://210.210.155.35:80/dr9445/h/h141/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/T8fdzXn/blueantx.png" group-title="PREMIUM INDONESIA",BLUEANT EXTREME
 ##http://203.77.246.50:5000/udp/239.1.2.132:5000
@@ -247,7 +251,7 @@ http://210.210.155.35:80/uq2663/h/h08/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="PREMIUM INDONESIA",ParaMnt
 http://portal.geniptv.com:8080/8Um1e7qjJo/jyAz2eYPuk/18563
 #EXTINF:-1  tvg-logo="https://i.ibb.co/jWjxD83/sonson.jpg" group-title="PREMIUM INDONESIA",SonyOne
-http://portal.geniptv.com:8080/8Um1e7qjJo/jyAz2eYPuk/62190
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683130&extension=ts&play_token=RmFK3j6FUm
 ##http://iptvid.my.id:80/hmm/sone.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=109_MtH3Y5T8d_07P1VVEnD3sAkyX9_go" group-title="PREMIUM INDONESIA",HITS CH
 ##http://203.77.246.50:5000/udp/239.1.2.148:5000
@@ -255,16 +259,18 @@ http://210.210.155.35/dr9445/h/h37/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/0yswGZW/sgem.jpg" group-title="PREMIUM INDONESIA",SONY GEM
 
 #EXTINF:-1  group-title="PREMIUM INDONESIA",CELESTIAL MOVIE
-http://210.210.155.35:80/dr9445/h/h14/02.m3u8
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683142&extension=ts&play_token=RmFK3j6FUm
+##http://210.210.155.35:80/dr9445/h/h14/02.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Kdrama
-
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",life CH
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683125&extension=ts&play_token=RmFK3j6FUm
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vvKpnbc/kixx.jpg" group-title="PREMIUM INDONESIA",KIX(2)
-http://210.210.155.35/dr9445/h/h07/02.m3u8
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683134&extension=ts&play_token=RmFK3j6FUm
+##http://210.210.155.35/dr9445/h/h07/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/NsvtNb8/mycnema.jpg" group-title="PREMIUM INDONESIA",MY CINEMA2
 http://210.210.155.35/uq2663/h/h192/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/PYPLz36/trill.png" group-title="PREMIUM INDONESIA",THRILL
-http://portal.geniptv.com:8080/8Um1e7qjJo/jyAz2eYPuk/62189
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683154&extension=ts&play_token=RmFK3j6FUm
 ##http://210.210.155.35/session/453c7fb4-6a31-11e9-b1c1-bf03b175abaa/qwr9ew/s/s34/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",CCM
 http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683110&extension=ts&play_token=RmFK3j6FUm
@@ -300,8 +306,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4b
 ##https://cubmu.superzap.xyz:8279/bioskop/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",U-Channel
 http://210.210.155.35/x6bnqe/s/s73/S4/mnf.m3u8
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",DFC food
-
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Reformed21
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683112&extension=ts&play_token=RmFK3j6FUm
 
  
  
@@ -392,12 +398,12 @@ http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=6
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDHBOhits
 http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683151&extension=ts&play_token=RmFK3j6FUm
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDHBOsigns
-http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683156&extension=ts&play_token=RmFK3j6FUm
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO fams
 http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDCinemax
-https://1036164025.vnns.net/hda1/cinemax_vhls.smil/chunklist_b1800000.m3u8
-##http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683156&extension=ts&play_token=RmFK3j6FUm
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Hbo
 ##http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/47020
@@ -633,7 +639,7 @@ http://210.210.155.35:80/dr9445/h/h05/01.m3u8
 http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/501510.m3u8
 ##https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV
-http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/501509.m3u8
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683111&extension=ts&play_token=RmFK3j6FUm
 ##https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",2SPOTV
 http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/485574.ts

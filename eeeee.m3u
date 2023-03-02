@@ -40,8 +40,6 @@ http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/
 ##http://tv.zonanime.my.id/vidio/indosiar.m3u8
 ##http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/205-indosiar
 https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/205-indosiar
-#EXTINF:-1  tvg-logo="https://i.ibb.co/QNQrm50/antv.png" group-title="LOKAL NASIONAL",MYtV
-https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/6711-mytv
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QNQrm50/antv.png" group-title="LOKAL NASIONAL",ANTV
 ##http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/02.m3u8
 http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683153&extension=ts&play_token=RmFK3j6FUm
@@ -168,7 +166,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
 #EXTINF:-1  group-title="KIDS",Kids Toons
 http://210.210.155.35/session/a1b2362c-9d39-11e9-9cda-b82a72d63267/qwr9ew/s/s50/02.m3u8
 #EXTINF:-1 group-title="KIDS",DuckTV
-https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 group-title="KIDS",Kids Pluto2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="KIDS",Kids Pluto
@@ -197,8 +195,8 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Toons kid
 #EXTINF:-1 group-title="KIDS",Nick Pluto
 https://siloh.pluto.tv/lilo/production/Nick/01/master_4.m3u8
-#EXTINF:-1 group-title="KIDS",Nick JR1
-
+#EXTINF:-1 group-title="KIDS",Nick JRs
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=926163&extension=ts&play_token=RmFK3j6FUm
 #EXTINF:-1 group-title="KIDS",Nick JR2
 ##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/46762
 ##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54257
@@ -430,6 +428,7 @@ https://s.id/1vRX7
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Showcase
 ##http://iptv12k.com:35461/live/80201100806/423322/1826.ts
 
+
 #EXTINF:-1 group-title="MOVIES",Brat TV
 https://brat-rakuten.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 group-title="MOVIES",Rakuten TV
@@ -480,8 +479,10 @@ https://comedy-redbox.amagi.tv/amRdirect/p=Redbox&subp=RedboxdesktopWebLinux/hls
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 #EXTINF:-1 group-title="MOVIES",Comedy Dinamic
 https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
-#EXTINF:-1 group-title="MOVIES",Comedy league CH
-http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8
+#EXTINF:-1 group-title="MOVIES",Movies Now
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1116477&extension=ts&play_token=RmFK3j6FUm
+#EXTINF:-1 group-title="MOVIES",MN Plus
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1116476&extension=ts&play_token=RmFK3j6FUm
 #EXTINF:-1 group-title="MOVIES",MY TIME
 https://mytime-tcl.amagi.tv/playlist404-p.m3u8
 #EXTINF:-1 group-title="MOVIES",Movie Sphere
@@ -489,9 +490,11 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 group-title="MOVIES",HOLIWOOD CN
 https://epg.pm/stream/c1c13e670fed041fa1d531c6b4ee4ad962f9852d2af9adfe13007297af26afa3.ctv
 #EXTINF:-1 group-title="MOVIES",AndPrives
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=155746&extension=ts&play_token=RmFK3j6FUm
+##https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
 ##https://aqfadtv.xyz/live/&prive/index.m3u8
-#EXTINF:-1 group-title="MOVIES",AndFlixs
+#EXTINF:-1 group-title="MOVIES",AndFlix
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=282632&extension=ts&play_token=RmFK3j6FUm
 ##https://aqfadtv.xyz/live/&flix/index.m3u8
 #EXTINF:-1 group-title="MOVIES",Pixl
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
@@ -511,8 +514,8 @@ http://5.9.150.76/thrillerhd/mono.m3u8
 http://5.9.150.76/scihd/mono.m3u8
 #EXTINF:-1 group-title="MOVIES",&Crime
 http://5.9.150.76/crimehd/mono.m3u8
-#EXTINF:-1 group-title="MOVIES",cloud Cinema
-http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
+#EXTINF:-1 group-title="MOVIES",Star Movies
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=155727&extension=ts&play_token=RmFK3j6FUm
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",AMC-S
 https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/profile_0/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",AMC

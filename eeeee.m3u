@@ -429,6 +429,12 @@ https://s.id/1vRX7
 ##http://iptv12k.com:35461/live/80201100806/423322/1826.ts
 
 
+#EXTINF:-1 group-title="MOVIES",AnyMovies
+http://174.44.3.13:8183/play/movies_.m3u8
+#EXTINF:-1 group-title="MOVIES",A&E
+http://174.44.3.13:8183/play/a_e.m3u8
+#EXTINF:-1 group-title="MOVIES",Lifetime
+http://174.44.3.13:8183/play/lifetime.m3u8
 #EXTINF:-1 group-title="MOVIES",Brat TV
 https://brat-rakuten.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 group-title="MOVIES",Rakuten TV

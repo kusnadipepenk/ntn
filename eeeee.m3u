@@ -750,7 +750,7 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF : group-title="Test" tvg-logo="", Live Streaming 1
 ##http://rr3.dens.tv/s/s100/live.m3u8
 #EXTINF : group-title="Test" tvg-logo="", Live Streaming 2
-###http://rr.dens.tv/h/h998/live.m3u8
+http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=683144&extension=m3u8&play_token=xdbt7BgLik
 #EXTINF:-1 tvg-logo="htg" group-title="Test",History
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Chines DRama

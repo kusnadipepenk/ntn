@@ -385,7 +385,6 @@ http://warkop.cf/89/bein/03.m3u8
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
 ##http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70428
 
-
 #EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv1.png" group-title="V-Sports",Sporttv 1
 http://warkop.cf/89/sporttv/01.m3u8
 #EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2.png" group-title="V-Sports",Sporttv 2
@@ -402,21 +401,21 @@ http://204.12.247.162:8080/premium466/mono.m3u8
 http://204.12.247.162:8080/premium467/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="V-Sports",Diema Sport Xtra
 http://204.12.247.162:8080/premium468/mono.m3u8
-#EXTINF:-1  tvg-logo="" group-title="V-Sports",Sky Sport Football
+#EXTINF:-1  tvg-logo="https://archive.org/download/SkySportsFootball_201708//sky%20sports%20football_thumb.jpg" group-title="V-Sports",Sky Sport Football
 http://204.12.247.162:8080/premium35/mono.m3u8
-#EXTINF:-1  tvg-logo="" group-title="V-Sports",Sky Sport Arena
+#EXTINF:-1  tvg-logo="https://archive.org/download/SkySportsArena_201708/sky%20sports%20arena.png" group-title="V-Sports",Sky Sport Arena
 http://204.12.247.162:8080/premium36/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="V-Sports",Dazn 1 Sport
 http://204.12.247.162:8080/premium426/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="V-Sports",Dazn 2 Sport
 http://204.12.247.162:8080/premium427/mono.m3u8
-#EXTINF:-1  tvg-logo="" group-title="V-Sports",Arena 1 Sport
+#EXTINF:-1  tvg-logo="https://toploni.com/wp-content/uploads/2022/10/arena_sport_1.png" group-title="V-Sports",Arena 1 Sport
 http://204.12.247.162:8080/premium429/mono.m3u8
-#EXTINF:-1  tvg-logo="" group-title="V-Sports",Arena 2 Sport
+#EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Arena_Sport_2.png" group-title="V-Sports",Arena 2 Sport
 http://204.12.247.162:8080/premium582/mono.m3u8
-#EXTINF:-1  tvg-logo="" group-title="V-Sports",Arena 3 Sport
+#EXTINF:-1  tvg-logo="https://toploni.com/wp-content/uploads/2022/10/Arena-Sport-3-1.png" group-title="V-Sports",Arena 3 Sport
 http://204.12.247.162:8080/premium431/mono.m3u8
-#EXTINF:-1  tvg-logo="" group-title="V-Sports",Arena 4 Sport
+#EXTINF:-1  tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport4.png" group-title="V-Sports",Arena 4 Sport
 http://204.12.247.162:8080/premium581/mono.m3u8
 
 #EXTINF:-1 group-title="V-Sports",Sony Ten 1
@@ -427,11 +426,11 @@ https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
 https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
 #EXTINF:-1 group-title="V-Sports",Sony Ten 4
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
-#EXTINF:-1 group-title="SPORTS",True football 1
+#EXTINF:-1 group-title="V-Sports",True football 1
 http://live.apicold.com/streaming/02_PremierHD1_720p/chunklist.m3u8?token=MTMzMzQzNDNhM2Q2ZjYzNmUyMzc1Njk2NjdmNmQ2ZjZmNjQ2NTY2Nzk2YzZlMjQ3MjdmNjA3MzdmMmYyYTMzNzA3NDc0Nzg2
-#EXTINF:-1 group-title="SPORTS",True football 2
+#EXTINF:-1 group-title="V-Sports",True football 2
 http://live.apicold.com/streaming/02_PremierHD2_720p/chunklist.m3u8?token=MTMzMzQzNDNhM2Q2ZjYzNmUyMzc1Njk2NjdmNmQ2ZjZmNjQ2NTY2Nzk2YzZlMjQ3MjdmNjA3MzdmMmYyYTMzNzA3NDc0Nzg2
-#EXTINF:-1 group-title="SPORTS",Bein2 True
+#EXTINF:-1 group-title="V-Sports",Bein2 True
 http://live.apicold.com/streaming/02_PremierHD5_720p/chunklist.m3u8?token=MTMzMzQzNDNhM2Q2ZjYzNmUyMzc1Njk2NjdmNmQ2ZjZmNjQ2NTY2Nzk2YzZlMjQ3MjdmNjA3MzdmMmYyYTMzNzA3NDc0Nzg2
 
 
@@ -798,11 +797,11 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="USA TV",Star Movie
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="USA TV",Star Movie
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/strmvi.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA TV",Movies Now
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnnow.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA TV",MN Plus
+#EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/101462-moviesnow.jpg" group-title="USA TV",Movies Now
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" group-title="USA TV",MN Plus
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnpls.m3u8
 #EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2017/09/andPrive-HD_6.jpg" group-title="USA TV",AndPrive
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8

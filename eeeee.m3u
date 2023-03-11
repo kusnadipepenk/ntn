@@ -601,7 +601,7 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/arns1.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Arena 2 Sport
 https://kusnadipepenk.github.io/ntn/arns2.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Arena 3 Sport
-https://kusnadipepenk.github.io/ntn/arns2.m3u8
+https://kusnadipepenk.github.io/ntn/arns3.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Arena 4 Sport
 https://kusnadipepenk.github.io/ntn/arns4.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Eleven 1
@@ -609,7 +609,7 @@ https://kusnadipepenk.github.io/ntn/ele1.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Eleven 2
 https://kusnadipepenk.github.io/ntn/ele2.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Eleven 3
-https://kusnadipepenk.github.io/ntn/ele4.m3u8
+https://kusnadipepenk.github.io/ntn/ele3.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Nova Sport
 http://204.12.247.162:8080/premium468/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPortv1
@@ -681,9 +681,9 @@ http://kuchini.site:8080/live/joeBt/e229c03d/11642.ts
 #EXTINF:-1 group-title="SPORTS",TENNIS
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 #EXTINF:-1 group-title="SPORTS",TNT SPORT1
-http://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8
+http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1 group-title="SPORTS",TNT SPORT2
-http://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8
+http://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 group-title="SPORTS",Euro Sport
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS",Stadium Sport

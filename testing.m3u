@@ -402,13 +402,13 @@ http://warkop.cf/89/sporttv/02.m3u8
 http://warkop.cf/89/sporttv/03.m3u8
 #EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv4.png" group-title="C-Sports",Sporttv 4
 http://warkop.cf/89/sporttv/04.m3u8
-#EXTINF:-1  tvg-logo="" group-title="C-Sports",Diema Sport
-http://204.12.247.162:8080/premium465/mono.m3u8
-#EXTINF:-1  tvg-logo="" group-title="C-Sports",Diema Sport 2
-http://204.12.247.162:8080/premium466/mono.m3u8
-#EXTINF:-1  tvg-logo="" group-title="C-Sports",Diema Sport 3
-http://204.12.247.162:8080/premium467/mono.m3u8
-#EXTINF:-1  tvg-logo="" group-title="C-Sports",Diema Sport Xtra
+#EXTINF:-1  tvg-logo="" group-title="C-Sports",Eleven 1
+https://kusnadipepenk.github.io/ntn/ele1.m3u8
+#EXTINF:-1  tvg-logo="" group-title="C-Sports",Eleven 2
+https://kusnadipepenk.github.io/ntn/ele1.m3u8
+#EXTINF:-1  tvg-logo="" group-title="C-Sports",Eleven 3
+https://kusnadipepenk.github.io/ntn/ele1.m3u8
+#EXTINF:-1  tvg-logo="" group-title="C-Sports",Nova Sport
 http://204.12.247.162:8080/premium468/mono.m3u8
 #EXTINF:-1  tvg-logo="https://archive.org/download/SkySportsFootball_201708//sky%20sports%20football_thumb.jpg" group-title="C-Sports",Sky Sport Football
 http://204.12.247.162:8080/premium35/mono.m3u8
@@ -418,14 +418,18 @@ http://204.12.247.162:8080/premium36/mono.m3u8
 http://204.12.247.162:8080/premium426/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="C-Sports",Dazn 2 Sport
 http://204.12.247.162:8080/premium427/mono.m3u8
+#EXTINF:-1 group-title="C-Sports",TNT SPORT1
+http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 group-title="C-Sports",TNT SPORT2
+http://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1  tvg-logo="https://toploni.com/wp-content/uploads/2022/10/arena_sport_1.png" group-title="C-Sports",Arena 1 Sport
-http://204.12.247.162:8080/premium429/mono.m3u8
+https://kusnadipepenk.github.io/ntn/arns1.m3u8
 #EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Arena_Sport_2.png" group-title="C-Sports",Arena 2 Sport
-http://204.12.247.162:8080/premium582/mono.m3u8
+https://kusnadipepenk.github.io/ntn/arns2.m3u8
 #EXTINF:-1  tvg-logo="https://toploni.com/wp-content/uploads/2022/10/Arena-Sport-3-1.png" group-title="C-Sports",Arena 3 Sport
-http://204.12.247.162:8080/premium431/mono.m3u8
+https://kusnadipepenk.github.io/ntn/arns3.m3u8
 #EXTINF:-1  tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport4.png" group-title="C-Sports",Arena 4 Sport
-http://204.12.247.162:8080/premium581/mono.m3u8
+https://kusnadipepenk.github.io/ntn/arns4.m3u8
 
 #EXTINF:-1 group-title="C-Sports",Sony Ten 1
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8

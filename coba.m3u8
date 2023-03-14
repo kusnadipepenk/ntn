@@ -1,5 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683117&extension=ts&play_token=RmFK3j6FUm
-##http://cod5.me/play/live.php?mac=00:1a:79:1e:4f:3a&stream=704415&extension=m3u8
+http://cod5.me/play/live.php?mac=00:1a:79:1e:4f:3a&stream=704415&extension=m3u8

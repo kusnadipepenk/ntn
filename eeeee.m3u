@@ -457,15 +457,15 @@ https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 #EXTINF:-1 group-title="MOVIES",Comedy Dinamic
 https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
 #EXTINF:-1 group-title="MOVIES",Movies Now
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1116477&extension=ts&play_token=RmFK3j6FUm
+https://kusnadipepenk.github.io/ntn/mnow.m3u8
 #EXTINF:-1 group-title="MOVIES",MN Plus
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1116476&extension=ts&play_token=RmFK3j6FUm
+https://kusnadipepenk.github.io/ntn/mnplus.m3u8
 #EXTINF:-1 group-title="MOVIES",MY TIME
 https://mytime-tcl.amagi.tv/playlist404-p.m3u8
 #EXTINF:-1 group-title="MOVIES",Movie Sphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist480p.m3u8
-#EXTINF:-1 group-title="MOVIES",HOLIWOOD CN
-https://epg.pm/stream/c1c13e670fed041fa1d531c6b4ee4ad962f9852d2af9adfe13007297af26afa3.ctv
+#EXTINF:-1 group-title="MOVIES",Paramount
+https://kusnadipepenk.github.io/campeign/prmont.m3u8
 #EXTINF:-1 group-title="MOVIES",AndPrives
 ##http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=155746&extension=ts&play_token=RmFK3j6FUm
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8

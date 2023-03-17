@@ -1,24 +1,20 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://i.ibb.co/L0x4cC6/net.jpg" group-title="LOKAL NASIONAL",NET.TV
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683093&extension=ts&play_token=RmFK3j6FUm
-##http://rr2.dens.tv/s/s08/02.m3u8
+https://kusnadipepenk.github.io/campeign/netv.m3u8
 ##http://210.210.155.35/session/6141d55e-70a0-11e9-8180-b82a72d63267/qwr9ew/s/s08/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="LOKAL NASIONAL",TRANSTV
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683100&extension=ts&play_token=RmFK3j6FUm
+https://kusnadipepenk.github.io/campeign/trns.m3u8
 ##http://rr2.dens.tv/s/s05/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="LOKAL NASIONAL",TRANSTV(2)
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 ##https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/733-trans-tv
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D5gBX8N/trans7.jpg" group-title="LOKAL NASIONAL",TRANS7
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683116&extension=ts&play_token=RmFK3j6FUm
+https://kusnadipepenk.github.io/campeign/trns7.m3u8
 ##http://rr.dens.tv/h/h11/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D5gBX8N/trans7.jpg" group-title="LOKAL NASIONAL",TRANS7(2)
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="LOKAL NASIONAL",RCTI-
-##https://rcti-linier.rctiplus.id/RCTI2022.m3u8|User-Agent=android-R+
-##https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-mp4a_64000=2-avc1_100000=7.m3u8
-##https://d2oaub8o4ti3xm.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683099&extension=ts&play_token=RmFK3j6FUm
+#EXTINF:-1  tvg-logo="https://i.ibb.co/p1ws8h8/rcti.png" group-title="LOKAL NASIONAL",RCTI
+https://kusnadipepenk.github.io/campeign/rcti.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="LOKAL NASIONAL",SCTV
 ##https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/204-sctv
 http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/02.m3u8
@@ -26,31 +22,26 @@ http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s
 ##http://54.151.201.145:5566/GG/Live/MNCTV/mpegts
 ##https://d33j155pv2xyba.cloudfront.net/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOKAL NASIONAL",MNCtv
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-##http://portal.geniptv.com:8080/8Um1e7qjJo/jyAz2eYPuk/62214
 ##http://kuchini.site:8080/live/joeBt/e229c03d/165054.ts
-http://cod5.me/play/live.php?mac=00:1a:79:1e:4f:3a&stream=704434&extension=ts
-##http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683098&extension=ts&play_token=RmFK3j6FUm
+##http://cod5.me/play/live.php?mac=00:1a:79:1e:4f:3a&stream=704434&extension=ts
+https://kusnadipepenk.github.io/campeign/mnc.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="LOKAL NASIONAL",INDOSIAR
 http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/02.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="LOKAL NASIONAL",INDOSIAR Liga1
 ##http://iptvid.my.id/hmm/indosiar.m3u8
 ##http://tv.zonanime.my.id/vidio/indosiar.m3u8
 ##http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/205-indosiar
-https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/205-indosiar
+##https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/205-indosiar
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QNQrm50/antv.png" group-title="LOKAL NASIONAL",ANTV
 ##http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/02.m3u8
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683153&extension=ts&play_token=RmFK3j6FUm
+https://kusnadipepenk.github.io/campeign/antv.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1uNGLnZUnUVO0BuZKQYN-KzIRVb9yXz1x" group-title="LOKAL NASIONAL",GLOBALTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683121&extension=ts&play_token=RmFK3j6FUm
+https://kusnadipepenk.github.io/campeign/global.m3u8
 #EXTINF:-1  group-title="LOKAL NASIONAL",TV ONE
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683101&extension=ts&play_token=RmFK3j6FUm
+https://kusnadipepenk.github.io/campeign/tvone.m3u8
 ##http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105/02.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1ZUCUkvAvWR5qJzRj8HG9wJ40MQ71vi5x" group-title="LOKAL NASIONAL",RTV
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683095&extension=ts&play_token=RmFK3j6FUm
+https://kusnadipepenk.github.io/campeign/rtv.m3u8
 ##http://210.210.155.35/dr9445/h/h10/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="LOKAL NASIONAL",Moji ochanel
 ##https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/206-moji
@@ -68,12 +59,12 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 #EXTINF:-1  tvg-logo="https://i.ibb.co/T2vhn7P/metro.jpg" group-title="LOKAL NASIONAL",METROTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w504410639_b1492000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/T2vhn7P/metro.jpg" group-title="LOKAL NASIONAL",METROTV2
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683181&extension=ts&play_token=RmFK3j6FUm
+https://kusnadipepenk.github.io/campeign/metro.m3u8
 ##http://45.126.83.51/uq2663/h/h12/02.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1Yx6l54PwaAnm2d25XMAGJENd81AISjnu" group-title="LOKAL NASIONAL",KOMPASTV
 ##https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 ##http://210.210.155.35/session/b44f53c0-1a28-11ea-980f-a261a2f9ca81/qwr9ew/s/s104/02.m3u8
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683194&extension=ts&play_token=RmFK3j6FUm
+https://kusnadipepenk.github.io/campeign/kompas.m3u8
 
 
 #EXTINF:-1  group-title="BERITA",Inewss

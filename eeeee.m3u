@@ -373,11 +373,9 @@ https://kusnadipepenk.github.io/campeign/hbo.m3u8
 https://kusnadipepenk.github.io/campeign/hbofam.m3u8
 ##http://203.77.246.50:5000/udp/239.1.3.76:5000
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDHBOhits
-https://kusnadipepenk.github.io/campeign/hbohit.m3u8
+https://kusnadipepenk.github.io/campeign/hbihit.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDHBOsigns
 https://kusnadipepenk.github.io/campeign/hbosi.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO fams
-http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDCinemax
 https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
 
@@ -389,15 +387,15 @@ https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
 ##http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/46033
 ##http://189.91.128.146:4444/udp/227.10.20.96:1234
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO1
-http://kuchini.site:8080/live/joeBt/e229c03d/197972.ts
+##http://kuchini.site:8080/live/joeBt/e229c03d/197972.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO2
-http://kuchini.site:8080/live/joeBt/e229c03d/196480.ts
+##http://kuchini.site:8080/live/joeBt/e229c03d/196480.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO3
-http://portal.geniptv.com:8080/8Um1e7qjJo/jyAz2eYPuk/62172
+##h#ttp://portal.geniptv.com:8080/8Um1e7qjJo/jyAz2eYPuk/62172
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO4
-http://baidu.douyincdn.freetvtv.com/hbohits/index.m3u8
+##http://baidu.douyincdn.freetvtv.com/hbohits/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Cinemax
-https://s.id/1vRX7
+##https://s.id/1vRX7
 ##https://aqfadtv.xyz/hbogo/cinemax/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Showcase
 ##http://iptv12k.com:35461/live/80201100806/423322/1826.ts
@@ -689,12 +687,12 @@ https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTINF:-1 group-title="SPORTS",Race
 https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_099/HD/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",True football 1
-http://live.apicold.com/streaming/02_PremierHD1_720p/chunklist.m3u8?token=MTMzMzQzNDNhM2Q2ZjYzNmUyMzc1Njk2NjdmNmQ2ZjZmNjQ2NTY2Nzk2YzZlMjQ3MjdmNjA3MzdmMmYyYTMzNzA3NDc0Nzg2
-#EXTINF:-1 group-title="SPORTS",True football 2
-http://150.95.25.221:8000/True%20TPE2HD?u=IIll00yIllq:p=1212uoIIlllI
-#EXTINF:-1 group-title="SPORTS",Bein True
-http://live.apicold.com/streaming/02_PremierHD5_720p/chunklist.m3u8?token=MTMzMzQzNDNhM2Q2ZjYzNmUyMzc1Njk2NjdmNmQ2ZjZmNjQ2NTY2Nzk2YzZlMjQ3MjdmNjA3MzdmMmYyYTMzNzA3NDc0Nzg2
+#EXTINF:-1 group-title="SPORTS",Eleven Sport 1
+https://kusnadipepenk.github.io/ntn/elesp1.m3u8
+#EXTINF:-1 group-title="SPORTS",Eleven Sport 2
+https://kusnadipepenk.github.io/ntn/elesp2.m3u8
+#EXTINF:-1 group-title="SPORTS",Eleven Sport 3
+https://kusnadipepenk.github.io/ntn/elesp3.m3u8
 
 
 #######http://60.251.59.180:8537/https:/netwrk.ru.com/cdn/premium28/chunks.m3u8

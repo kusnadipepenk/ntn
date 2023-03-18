@@ -144,8 +144,6 @@ http://210.210.155.35/session/5a96d1bc-6a30-11e9-afe2-91cea6c769ee/dr9445/h/h02/
 ##http://210.210.155.35/uq2663/h/h98/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS",MY KIDZ
 http://210.210.155.35/uq2663/h/h191/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/d0RzNrk/space.png" group-title="KIDS",Lernings
-http://210.210.155.35/uq2663/h/h97/02.m3u8
 #EXTINF:-1  group-title="KIDS",Miaomi
 https://kusnadipepenk.github.io/campeign/miaomi.m3u8
 #EXTINF:-1  group-title="KIDS",TG JUnior
@@ -173,10 +171,9 @@ https://happykids-roku.amagi.tv/playlist404pl.m3u8
 #EXTINF:-1 group-title="KIDS",HappyKids Junior
 https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 group-title="KIDS",Dreamworks
-http://clientsportals.com:2095/live/d4Je5xwD/yadTXB63/35394.m3u8
+https://kusnadipepenk.github.io/campeign/drmwk.m3u8
 #EXTINF:-1 group-title="KIDS",ZOOMOO
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",Toons kid
 #EXTINF:-1 group-title="KIDS",Nick Pluto
 https://siloh.pluto.tv/lilo/production/Nick/01/master_4.m3u8
 #EXTINF:-1 group-title="KIDS",Nick JRs
@@ -184,7 +181,6 @@ https://kusnadipepenk.github.io/campeign/nika.m3u8
 #EXTINF:-1 group-title="KIDS",Nick JR2
 ##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/46762
 ##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54257
-#EXTINF:-1 group-title="KIDS",Tiny POP
 #EXTINF:-1 group-title="KIDS",Nick Jr. Dora TV
 https://siloh.pluto.tv/lilo/production/Nick/03/master_4.m3u8
 #EXTINF:-1 group-title="KIDS",Nick Jr. Pluto
@@ -228,31 +224,25 @@ http://210.210.155.35/x6bnqe/h/h194/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="PREMIUM INDONESIA",K+
 http://210.210.155.35:80/uq2663/h/h08/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="PREMIUM INDONESIA",K+ Ph
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=926172&extension=ts&play_token=RmFK3j6FUm
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="PREMIUM INDONESIA",ParaMnt
-http://portal.geniptv.com:8080/8Um1e7qjJo/jyAz2eYPuk/18563
+https://kusnadipepenk.github.io/campeign/kplus.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/jWjxD83/sonson.jpg" group-title="PREMIUM INDONESIA",SonyOne
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683130&extension=ts&play_token=RmFK3j6FUm
+https://kusnadipepenk.github.io/campeign/sone.m3u8
 ##http://iptvid.my.id:80/hmm/sone.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=109_MtH3Y5T8d_07P1VVEnD3sAkyX9_go" group-title="PREMIUM INDONESIA",HITS CH
-##http://203.77.246.50:5000/udp/239.1.2.148:5000
 http://210.210.155.35/dr9445/h/h37/02.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/0yswGZW/sgem.jpg" group-title="PREMIUM INDONESIA",SONY GEM
 #EXTINF:-1  group-title="PREMIUM INDONESIA",CELESTIAL MOVIE
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683142&extension=ts&play_token=RmFK3j6FUm
+https://kusnadipepenk.github.io/campeign/celmov.m3u8
 ##http://210.210.155.35:80/dr9445/h/h14/02.m3u8
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",life CH
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683125&extension=ts&play_token=RmFK3j6FUm
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vvKpnbc/kixx.jpg" group-title="PREMIUM INDONESIA",KIX(2)
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683134&extension=ts&play_token=RmFK3j6FUm
+https://kusnadipepenk.github.io/campeign/kix.m3u8
 ##http://210.210.155.35/dr9445/h/h07/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/NsvtNb8/mycnema.jpg" group-title="PREMIUM INDONESIA",MY CINEMA2
 http://210.210.155.35/uq2663/h/h192/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/PYPLz36/trill.png" group-title="PREMIUM INDONESIA",THRILL
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683154&extension=ts&play_token=RmFK3j6FUm
+https://kusnadipepenk.github.io/campeign/thril.m3u8
 ##http://210.210.155.35/session/453c7fb4-6a31-11e9-b1c1-bf03b175abaa/qwr9ew/s/s34/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",CCM
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683110&extension=ts&play_token=RmFK3j6FUm
+https://kusnadipepenk.github.io/campeign/ccm.m3u8
 ##http://rr2.dens.tv/s/s31/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ByFQvJQ/zeebioskop.jpg" group-title="PREMIUM INDONESIA",ZEE BIOSKOP-2
 http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/02.m3u8
@@ -262,30 +252,19 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0b50f52d-2491-40
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Style TV
 http://210.210.155.35/session/d65d1e28-9d39-11e9-bb4c-b82a72d63267/uq2663/h/h01/02.m3u8
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Citra Bioskop
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/dcCRKCj/iam.jpg" group-title="PREMIUM INDONESIA",IAM Channel
-http://iamchannel.org:1935/tes/1/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",ESL
-http://210.210.155.35/x6bnqe/s/s101/live.m3u8
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",EGG NETWORk
-http://210.210.155.35:80/uq2663/h/h22/02.m3u8
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",LifeStyle
-http://210.210.155.35:80/uq2663/h/h28/02.m3u8
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Glxy
-
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",GlxyPrem
-
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Warner
-##http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683173&extension=ts&play_token=RmFK3j6FUm
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Warner TV
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/wrnr.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM INDONESIA",Ruang trampil
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM INDONESIA",Bioskop Indonesia
-##https://cubmu.superzap.xyz:8279/bioskop/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",U-Channel
+
+
+#EXTINF:-1  tvg-logo="" group-title="RELIGI",life CH
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683125&extension=ts&play_token=RmFK3j6FUm
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dcCRKCj/iam.jpg" group-title="RELIGI",IAM Channel
+http://iamchannel.org:1935/tes/1/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="RELIGI",U-Channel
 http://210.210.155.35/x6bnqe/s/s73/S4/mnf.m3u8
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Reformed21
+#EXTINF:-1  tvg-logo="" group-title="RELIGI",Reformed21
 http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683112&extension=ts&play_token=RmFK3j6FUm
  
  
@@ -295,8 +274,7 @@ https://kusnadipepenk.github.io/ntn/hgtv.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary
-http://210.210.155.35/qwr9ew/s/s20/01.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary2
+##http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth2
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
@@ -311,7 +289,6 @@ https://lds-wonder-samsungau.amagi.tv/playlist360-p.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",National Geo wild
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/wild.m3u8
 ##http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54229
-##http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY Science
 https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",DISCOVERY-2
@@ -323,7 +300,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-sam
 #EXTINF:-1 group-title="KNOWLEDGE",Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8?checkedby:iptvcat.com
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",History
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683091&extension=ts&play_token=RmFK3j6FUm
+https://kusnadipepenk.github.io/campeign/histo.m3u8
 ##http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4af1803e7983b391d73b13/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Techstorm
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
@@ -335,8 +312,6 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/animal.m3u8
 ##http://server.sibfungold.info:8080/topsat1976/qcniXVddLG/54847
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",GameNfish
 https://obsession-media.sinclair.wurl.com/manifest/1200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",OUTDOOR CHANNEL
-https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 ##https://raw.githubusercontent.com/kusnadipepenk/ntn/master/lovenat.m3u8
@@ -363,20 +338,20 @@ https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
 http://lawandcrime.samsung.wurl.com/manifest/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="",TravelXP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="",
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDHBO
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",ID HBO
 https://kusnadipepenk.github.io/campeign/hbo.m3u8
 ##http://203.77.246.50:5000/udp/239.1.3.84:5000
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDHBOFams
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",ID HBOFams
 https://kusnadipepenk.github.io/campeign/hbofam.m3u8
 ##http://203.77.246.50:5000/udp/239.1.3.76:5000
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDHBOhits
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",ID HBOhits
 https://kusnadipepenk.github.io/campeign/hbihit.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDHBOsigns
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",ID HBOsigns
 https://kusnadipepenk.github.io/campeign/hbosi.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",IDCinemax
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",ID Cinemax
 https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Hbo
@@ -390,15 +365,7 @@ https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
 ##http://kuchini.site:8080/live/joeBt/e229c03d/197972.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO2
 ##http://kuchini.site:8080/live/joeBt/e229c03d/196480.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO3
-##h#ttp://portal.geniptv.com:8080/8Um1e7qjJo/jyAz2eYPuk/62172
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO4
-##http://baidu.douyincdn.freetvtv.com/hbohits/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Cinemax
-##https://s.id/1vRX7
-##https://aqfadtv.xyz/hbogo/cinemax/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Showcase
-##http://iptv12k.com:35461/live/80201100806/423322/1826.ts
+
 
 
 #EXTINF:-1 group-title="MOVIES",AnyMovies
@@ -416,7 +383,7 @@ https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",Comedy Channel
 https://uksono1-samsunguk.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",SYFY
-http://clientsportals.com:2095/live/d4Je5xwD/yadTXB63/9659.ts
+https://kusnadipepenk.github.io/ntn/syfy.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Runtime
 https://ammoruntime-plex.amagi.tv/playlistR432p.m3u8
 #EXTINF:-1 group-title="MOVIES",SONY PIX
@@ -467,11 +434,9 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 group-title="MOVIES",Paramount
 https://kusnadipepenk.github.io/campeign/prmont.m3u8
 #EXTINF:-1 group-title="MOVIES",AndPrives
-##http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=155746&extension=ts&play_token=RmFK3j6FUm
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
 ##https://aqfadtv.xyz/live/&prive/index.m3u8
 #EXTINF:-1 group-title="MOVIES",AndFlix
-##http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=282632&extension=ts&play_token=RmFK3j6FUm
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 ##https://aqfadtv.xyz/live/&flix/index.m3u8
 #EXTINF:-1 group-title="MOVIES",Pixl
@@ -493,7 +458,7 @@ http://5.9.150.76/scihd/mono.m3u8
 #EXTINF:-1 group-title="MOVIES",&Crime
 http://5.9.150.76/crimehd/mono.m3u8
 #EXTINF:-1 group-title="MOVIES",Star Movies
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=155727&extension=ts&play_token=RmFK3j6FUm
+https://kusnadipepenk.github.io/ntn/strmvi.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",AMC-S
 https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/profile_0/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",AMC
@@ -544,32 +509,14 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:-1 group-title="Music",CMT music
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-#EXTINF:-1 group-title="Music",music Karaoke
-https://stirr.ott-channels.stingray.com/karaoke/master_768x432_1000kbps.m3u8
-#EXTINF:-1 group-title="Music",Djazzz
-https://stirr.ott-channels.stingray.com/djazz/master_768x432_1000kbps.m3u8
 #EXTINF:-1 group-title="Music",Music TOp
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1  group-title="Music",M2OTV Music
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://ecable.tv/wp-content/uploads/2019/02/1.png" group-title="Music",Afrobeats 24/7
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 tvg-logo="http://commodusprod.hooq.tv/cdnimagesprod/assets/feed/7657074b8f5b.png" group-title="Music",3ABN music
-https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/SQs/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://musicfouryou.com/wp-content/uploads/2015/09/imageedit_1_8709468454.gif" group-title="Music",Music4U
-http://203.154.243.89:1213
 #EXTINF:-1 group-title="Music",Kpop
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 group-title="Music",Kpop2
 https://api.mbed.cc/youtube/live.m3u8?id=F4aby5WN1Rw
-#EXTINF:-1 group-title="Music",Portalfox mix
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/eroz_brebes.m3u8
-#EXTINF:-1 group-title="Music",Chanel V
-http://203.77.246.50:5000/udp/239.1.1.144:5000
-#EXTINF:-1 group-title="Music",KMTV
-https://kmtvnow-samsung-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Music",Box Gold
-http://2serv.mylifeisgood.ml:8080/mfolive.m3u8?media=musicboxgold
 
 
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Sky Sport Football

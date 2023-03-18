@@ -569,12 +569,10 @@ http://210.210.155.35/qwr9ew/s/s41/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Fight SPort
 http://210.210.155.35:80/dr9445/h/h05/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV-2
-http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/501510.m3u8
+https://kusnadipepenk.github.io/ntn/spotv2.m3u8
 ##https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV
-http://cod5.me/play/live.php?mac=00:1a:79:1e:4f:3a&stream=704415&extension=ts
-##http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683117&extension=ts&play_token=RmFK3j6FUm
-##http://ys-users.com:8080/Lolo/jENcZgQKEQ/501509
+https://kusnadipepenk.github.io/ntn/spotv1.m3u8
 ##https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV Alt
 http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/485574.ts
@@ -588,11 +586,6 @@ http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/485575.ts
 ##http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/497720.ts
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",4SPOTV2
 ##http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/497721.ts
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",Motorvision
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-##http://210.210.155.35/uq2663/h/h09/01.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",Golf
-##http://210.210.155.35/dr9445/h/h10/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",BEIN Xtra2
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
 ##http://93.152.174.144:4000/play/ssportsf1/index.m3u8
@@ -642,7 +635,7 @@ https://kusnadipepenk.github.io/ntn/elesp2.m3u8
 https://kusnadipepenk.github.io/ntn/elesp3.m3u8
 #EXTINF:-1 group-title="SPORTS",TruFootball 1
 https://kusnadipepenk.github.io/ntn/truf1.m3u8
-#EXTINF:-1 group-title="SPORTS",TruFootball 1
+#EXTINF:-1 group-title="SPORTS",TruFootball 2
 https://kusnadipepenk.github.io/ntn/truf2.m3u8
 
 

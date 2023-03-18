@@ -576,18 +576,18 @@ http://cod5.me/play/live.php?mac=00:1a:79:1e:4f:3a&stream=704415&extension=ts
 ##http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683117&extension=ts&play_token=RmFK3j6FUm
 ##http://ys-users.com:8080/Lolo/jENcZgQKEQ/501509
 ##https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",2SPOTV
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV Alt
 http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/485574.ts
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",2SPOTV2
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV2 Alt
 http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/485575.ts
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",3SPOTV
-http://myportal.live:8080/Keepitrealexch/MMCCy6XRMX/313522
+##http://myportal.live:8080/Keepitrealexch/MMCCy6XRMX/313522
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",3SPOTV2
-http://myportal.live:8080/Keepitrealexch/MMCCy6XRMX/440358
+##http://myportal.live:8080/Keepitrealexch/MMCCy6XRMX/440358
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",4SPOTV
-http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/497720.ts
+##http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/497720.ts
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",4SPOTV2
-http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/497721.ts
+##http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/497721.ts
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Motorvision
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 ##http://210.210.155.35/uq2663/h/h09/01.m3u8

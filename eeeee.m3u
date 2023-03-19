@@ -205,11 +205,11 @@ https://kusnadipepenk.github.io/campeign/tvnmovies.m3u8
 https://kusnadipepenk.github.io/ntn/axn.m3u8
 ##http://210.210.155.35:80/dr9445/h/h141/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/T8fdzXn/blueantx.png" group-title="PREMIUM INDONESIA",BLUEANT EXTREME
-##http://203.77.246.50:5000/udp/239.1.2.132:5000
-http://210.210.155.35:80/dr9445/h/h15/02.m3u8
+https://kusnadipepenk.github.io/campeign/bluext.m3u8
+##http://210.210.155.35:80/dr9445/h/h15/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Q8xjNSc/blueantent.png" group-title="PREMIUM INDONESIA",BLUEANT ENTERTAINMENT
-##http://203.77.246.50:5000/udp/239.1.2.130:5000
-http://210.210.155.35:80/dr9445/h/h16/02.m3u8
+https://kusnadipepenk.github.io/campeign/bluent.m3u8
+##http://210.210.155.35:80/dr9445/h/h16/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/VTtxzXm/ciwo.jpg" group-title="PREMIUM INDONESIA",CINEMA WORLD
 http://210.210.155.35/dr9445/h/h04/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",CinemA Europe
@@ -308,7 +308,7 @@ https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8?checkedby:iptvcat.co
 https://kusnadipepenk.github.io/campeign/histo.m3u8
 ##http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4af1803e7983b391d73b13/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Techstorm
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
+##https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Food Channel
 https://amagi-primary.akamaized.net/out/v1/3f7bf105c018444dbc8f74a3a283afaf/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
@@ -333,8 +333,6 @@ https://xplore-plex.amagi.tv/playlist.m3u8
 ==http://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="",Wild Earth
 https://wildearth-roku.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="",iFood
-https://ft-ifood-roku.amagi.tv/playlist288p.m3u8
 #EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
 #EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="",TRVL CH
@@ -446,22 +444,6 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 ##https://aqfadtv.xyz/live/&flix/index.m3u8
 #EXTINF:-1 group-title="MOVIES",Pixl
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
-#EXTINF:-1 group-title="MOVIES",&ROmance
-http://5.9.150.76/romance/mono.m3u8
-#EXTINF:-1 group-title="MOVIES",&Horor
-http://5.9.150.76/horrorhd/mono.m3u8
-#EXTINF:-1 group-title="MOVIES",&Comedy 
-http://5.9.150.76/comedyhd/mono.m3u8
-#EXTINF:-1 group-title="MOVIES",&Drama
-http://5.9.150.76/dramahd/mono.m3u8
-#EXTINF:-1 group-title="MOVIES",&Action
-http://5.9.150.76/actionhd/mono.m3u8
-#EXTINF:-1 group-title="MOVIES",&Thriler
-http://5.9.150.76/thrillerhd/mono.m3u8
-#EXTINF:-1 group-title="MOVIES",&Sci
-http://5.9.150.76/scihd/mono.m3u8
-#EXTINF:-1 group-title="MOVIES",&Crime
-http://5.9.150.76/crimehd/mono.m3u8
 #EXTINF:-1 group-title="MOVIES",Star Movies
 https://kusnadipepenk.github.io/ntn/strmvi.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",AMC-S
@@ -490,6 +472,23 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
 https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",K-IDS
 https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES",&ROmance
+##http://5.9.150.76/romance/mono.m3u8
+#EXTINF:-1 group-title="MOVIES",&Horor
+##http://5.9.150.76/horrorhd/mono.m3u8
+#EXTINF:-1 group-title="MOVIES",&Comedy 
+##http://5.9.150.76/comedyhd/mono.m3u8
+#EXTINF:-1 group-title="MOVIES",&Drama
+##http://5.9.150.76/dramahd/mono.m3u8
+#EXTINF:-1 group-title="MOVIES",&Action
+##http://5.9.150.76/actionhd/mono.m3u8
+#EXTINF:-1 group-title="MOVIES",&Thriler
+##http://5.9.150.76/thrillerhd/mono.m3u8
+#EXTINF:-1 group-title="MOVIES",&Sci
+##http://5.9.150.76/scihd/mono.m3u8
+#EXTINF:-1 group-title="MOVIES",&Crime
+##http://5.9.150.76/crimehd/mono.m3u8
+
 
 
 #EXTM3U
@@ -618,10 +617,6 @@ http://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS",Stadium Sport
 https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",TUDN
-http://190.61.102.67:31589/play/a08j/index.m3u8
-#EXTINF:-1 group-title="SPORTS",TUDN2
-https://channel-tdn-cdn.blim.com/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS",Sony Ten 1
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
 #EXTINF:-1 group-title="SPORTS",Sony Ten 2

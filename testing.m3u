@@ -671,8 +671,8 @@ https://anevia114.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium
 #EXTINF:-1 tvg-logo="test/cgtndoc.png" group-title="C-Entertainment",Channel 8 SG
 https://kusnadipepenk.github.io/campeign/chan8.m3u8
 
-EXTINF:-1 tvg-logo="test/cgtndoc.png" group-title="C-Entertainment",Channel U
-https://kusnadipepenk.github.io/campeign/chanu.m3u8
+EXTINF:-1 tvg-logo="test/cgtndoc.png" group-title="C-Entertainment",Chan U
+https://kusnadipepenk.github.io/campeign/chanyu.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

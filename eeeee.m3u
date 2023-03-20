@@ -112,7 +112,8 @@ https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/bF6sgWT/dw.png" group-title="BERITA",DW News
 http://210.210.155.35/qwr9ew/s/s26/01.m3u8
 #EXTINF:-1  group-title="BERITA",Aljazeera
-http://210.210.155.35/qwr9ew/s/s17/01.m3u8
+##http://210.210.155.35/qwr9ew/s/s17/01.m3u8
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1  group-title="BERITA",SKY news
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 #EXTINF:-1  group-title="BERITA",TRT World

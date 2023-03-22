@@ -254,17 +254,14 @@ http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/56yF6Zx/simin.jpg" group-title="PREMIUM INDONESIA",Bisnet Adventure.
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Style TV
-http://210.210.155.35/session/d65d1e28-9d39-11e9-bb4c-b82a72d63267/uq2663/h/h01/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Warner TV
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/wrnr.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM INDONESIA",Ruang trampil
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM INDONESIA",Paramount
+https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f092c2ba-4baa-4ebb-bd60-1cfb1af07da5)/index.m3u8
 
 
-#EXTINF:-1  tvg-logo="" group-title="RELIGI",life CH-
-https://kusnadipepenk.github.io/ntn/coba.m3u8
-##http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683125&extension=ts&play_token=RmFK3j6FUm
+#EXTINF:-1  tvg-logo="" group-title="RELIGI",life CH
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683125&extension=ts&play_token=RmFK3j6FUm
 #EXTINF:-1  tvg-logo="https://i.ibb.co/dcCRKCj/iam.jpg" group-title="RELIGI",IAM Channel
 http://iamchannel.org:1935/tes/1/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="RELIGI",U-Channel

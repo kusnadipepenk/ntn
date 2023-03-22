@@ -430,6 +430,10 @@ https://kusnadipepenk.github.io/ntn/arns2.m3u8
 https://kusnadipepenk.github.io/ntn/arns3.m3u8
 #EXTINF:-1  tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport4.png" group-title="C-Sports",Arena 4 Sport
 https://kusnadipepenk.github.io/ntn/arns4.m3u8
+#EXTINF:-1 group-title="C-Sports",True Football 1
+https://kusnadipepenk.github.io/ntn/truf1.m3u8
+#EXTINF:-1 group-title="C-Sports",True Football 2
+https://kusnadipepenk.github.io/ntn/truf2.m3u8
 
 #EXTINF:-1 group-title="C-Sports",Sony Ten 1
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
@@ -455,7 +459,6 @@ https://anevia114.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/s5xQfGD/Spotv.png" group-title="C-Sports",SPOTV2
 https://anevia114.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz

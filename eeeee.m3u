@@ -310,8 +310,8 @@ https://kusnadipepenk.github.io/campeign/histo.m3u8
 ##http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4af1803e7983b391d73b13/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Techstorm
 ##https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Food Channel
-https://amagi-primary.akamaized.net/out/v1/3f7bf105c018444dbc8f74a3a283afaf/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Motorvision
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Animal Planet
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/animal.m3u8
 ##https://tv.googledrivelinks.com/live.php?c=Animal_Planet_HD&q=400&e=.m3u8
@@ -331,7 +331,7 @@ https://insighttv-vizio.amagi.tv/playlist480p.m3u8
 https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE", Xplore
 https://xplore-plex.amagi.tv/playlist.m3u8
-==http://xlpore-samsungus.amagi.tv/playlist.m3u8
+##http://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="",Wild Earth
 https://wildearth-roku.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="",NASA TV
@@ -523,7 +523,8 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 group-title="Music",Kpop2
 https://api.mbed.cc/youtube/live.m3u8?id=F4aby5WN1Rw
 
-
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",Real Madrid TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Sky Sport Football
 http://204.12.247.162:8080/premium35/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Sky Sport Arena
@@ -572,7 +573,8 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/bs3.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",OChanel-Moji
 http://210.210.155.35/qwr9ew/s/s41/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",Fight SPort
-http://210.210.155.35:80/dr9445/h/h05/01.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=778
+##http://210.210.155.35:80/dr9445/h/h05/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV-2
 https://kusnadipepenk.github.io/ntn/spotv2.m3u8
 ##https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8

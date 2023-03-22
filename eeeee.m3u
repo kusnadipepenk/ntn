@@ -258,8 +258,9 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/wrnr.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
 
 
-#EXTINF:-1  tvg-logo="" group-title="RELIGI",life CH
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683125&extension=ts&play_token=RmFK3j6FUm
+#EXTINF:-1  tvg-logo="" group-title="RELIGI",life CH-
+https://kusnadipepenk.github.io/ntn/coba.m3u8
+##http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683125&extension=ts&play_token=RmFK3j6FUm
 #EXTINF:-1  tvg-logo="https://i.ibb.co/dcCRKCj/iam.jpg" group-title="RELIGI",IAM Channel
 http://iamchannel.org:1935/tes/1/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="RELIGI",U-Channel

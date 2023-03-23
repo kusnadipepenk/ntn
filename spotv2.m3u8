@@ -1,9 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(64020ecc-da92-4710-889d-48b34479e669)/index.m3u8
-
-
-##http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=941563&extension=m3u8&play_token=xdbt7BgLik
+http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=941563&extension=m3u8&play_token=xdbt7BgLik
 ##http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/501510.m3u8
 ##http://clientsportals.com:2095/play/live.php?mac=00:1A:79:AE:8E:4D&stream=68989&extension=m3u8&play_token=msUKooUfNl

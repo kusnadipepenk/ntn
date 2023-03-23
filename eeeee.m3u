@@ -101,8 +101,7 @@ http://210.210.155.35/qwr9ew/s/s19/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/mGNPfpD/tbn.png" group-title="BERITA",TBN Asia
 http://210.210.155.35/qwr9ew/s/s39/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="BERITA",Bloomberg
-http://210.210.155.35:80/uq2663/h/h03/01.m3u8
-#EXTINF:-1  tvg-logo="" group-title="BERITA",Bloomberg2
+https://siloh.pluto.tv/lilo/production/Bloomberg/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8MQW4MG/NHK.png" group-title="BERITA",NHK
 ##http://210.210.155.35/uq2663/h/h23/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8MQW4MG/NHK.png" group-title="BERITA",NHK(2)
@@ -120,7 +119,8 @@ http://210.210.155.35/qwr9ew/s/s26/01.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1  group-title="BERITA",SKY news
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
-#EXTINF:-1  group-title="BERITA",TRT World
+#EXTINF:-1  group-title="BERITA",CBSN
+https://siloh.pluto.tv/lilo/production/CBSN/master.m3u8
 #EXTINF:-1  group-title="BERITA",RT News
 ##http://210.210.155.35/qwr9ew/s/s23/01.m3u8
 #EXTINF:-1  group-title="BERITA",ABC news

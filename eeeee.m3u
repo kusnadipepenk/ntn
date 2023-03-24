@@ -251,8 +251,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0b50f52d-2491-40
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Warner TV
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/wrnr.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM INDONESIA",Paramount
-https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f092c2ba-4baa-4ebb-bd60-1cfb1af07da5)/index.m3u8
 
 
 #EXTINF:-1  tvg-logo="" group-title="RELIGI",life CH

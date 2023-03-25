@@ -690,6 +690,6 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=skd://drmtoday?assetId=HLSNETDRM&variantId=&keyId=a563d484bdbc36b5bdd647239c5c77de
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="test",NETsa
+#KODIPROP:inputstream.adaptive.license_key=https://drmtoday?assetId=HLSNETDRM&variantId=&keyId=a563d484bdbc36b5bdd647239c5c77de
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="test",NET
 https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(3ea35639-9807-470c-a701-50033b12abfb)/02.m3u8

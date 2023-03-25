@@ -84,7 +84,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1725438040_b
 #EXTINF:-1  tvg-logo="https://i.ibb.co/HhJ5Gyn/bbc.png" group-title="BERITA",BBC WORLD
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/HhJ5Gyn/bbc.png" group-title="BERITA",BBC NEWS
-http://27.254.149.109:8081/tumlive/BBC/playlist.m3u8?190.2.154.164/TV0624
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hK7YYg4/cnn.jpg" group-title="BERITA",CNN NEWS
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_640x360_1200k.m3u8
 #EXTINF:-1  tvg-logo="" group-title="BERITA",CNBC(2)
@@ -245,8 +245,6 @@ https://kusnadipepenk.github.io/campeign/ccm.m3u8
 ##http://rr2.dens.tv/s/s31/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ByFQvJQ/zeebioskop.jpg" group-title="PREMIUM INDONESIA",ZEE BIOSKOP-2
 http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/02.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/GCY30fN/hi.jpg" group-title="PREMIUM INDONESIA",Hi
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/03.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/56yF6Zx/simin.jpg" group-title="PREMIUM INDONESIA",Bisnet Adventure.
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Warner TV
@@ -324,8 +322,6 @@ https://inwild-samsung-uk.amagi.tv/playlist360-p.m3u8
 https://insighttv-vizio.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE", TasteMade Travel
 https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE", Xplore
-https://xplore-plex.amagi.tv/playlist.m3u8
 ##http://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="",Wild Earth
 https://wildearth-roku.amagi.tv/master.m3u8
@@ -393,9 +389,6 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 http://crackle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/jGzMaRD.png" group-title="MOVIES",FilmRise Movies
 https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/FcN1OKo.png" group-title="MOVIES",FilmRise Sci-Fi
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", Sci-Fi Movies
-https://v2.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1 group-title="MOVIES",Hallmark mysteri
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmmsl/hallmarkmmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 group-title="MOVIES",FAmily Flik
@@ -691,5 +684,5 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmtoday?assetId=HLSNETDRM&variantId=&keyId=a563d484bdbc36b5bdd647239c5c77de
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="test",NET
-https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(3ea35639-9807-470c-a701-50033b12abfb)/02.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="test",NETg
+https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(3ea35639-9807-470c-a701-50033b12abfb)/index.m3u8

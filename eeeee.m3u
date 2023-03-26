@@ -96,10 +96,8 @@ http://210.210.155.35/qwr9ew/s/s19/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/mGNPfpD/tbn.png" group-title="BERITA",TBN Asia
 http://210.210.155.35/qwr9ew/s/s39/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="BERITA",Bloomberg
-https://siloh.pluto.tv/lilo/production/Bloomberg/master.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8MQW4MG/NHK.png" group-title="BERITA",NHK
-##http://210.210.155.35/uq2663/h/h23/01.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8MQW4MG/NHK.png" group-title="BERITA",NHK(2)
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_200.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/j5qX0NS/download.png" group-title="BERITA",ChannelNewsAsia
 http://210.210.155.35/uq2663/h/h29/01.m3u8
@@ -113,9 +111,9 @@ http://210.210.155.35/qwr9ew/s/s26/01.m3u8
 ##http://210.210.155.35/qwr9ew/s/s17/01.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1  group-title="BERITA",SKY news
-https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+
 #EXTINF:-1  group-title="BERITA",CBSN
-https://siloh.pluto.tv/lilo/production/CBSN/master.m3u8
+
 #EXTINF:-1  group-title="BERITA",RT News
 ##http://210.210.155.35/qwr9ew/s/s23/01.m3u8
 #EXTINF:-1  group-title="BERITA",ABC news
@@ -173,17 +171,12 @@ https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
 https://kusnadipepenk.github.io/campeign/drmwk.m3u8
 #EXTINF:-1 group-title="KIDS",ZOOMOO
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",Nick Pluto
-https://siloh.pluto.tv/lilo/production/Nick/01/master_4.m3u8
 #EXTINF:-1 group-title="KIDS",Nick JRs
 https://kusnadipepenk.github.io/campeign/nika.m3u8
-#EXTINF:-1 group-title="KIDS",Nick JR2
+#EXTINF:-1 group-title="KIDS",Nickelodeon
+https://kusnadipepenk.github.io/campeign/nike.m3u8
 ##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/46762
 ##http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54257
-#EXTINF:-1 group-title="KIDS",Nick Jr. Dora TV
-https://siloh.pluto.tv/lilo/production/Nick/03/master_4.m3u8
-#EXTINF:-1 group-title="KIDS",Nick Jr. Pluto
-https://siloh.pluto.tv/lilo/production/Nick/04/master_4.m3u8
 #EXTINF:-1 group-title="KIDS",Baby First
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=442
 #EXTINF:-1 group-title="KIDS",Toon Googles
@@ -567,21 +560,8 @@ https://kusnadipepenk.github.io/ntn/spotv2.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV
 https://kusnadipepenk.github.io/ntn/spotv1.m3u8
 ##https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV Alt
-http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/485574.ts
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SPOTV2 Alt
-http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/485575.ts
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",3SPOTV
-##http://myportal.live:8080/Keepitrealexch/MMCCy6XRMX/313522
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",3SPOTV2
-##http://myportal.live:8080/Keepitrealexch/MMCCy6XRMX/440358
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",4SPOTV
-##http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/497720.ts
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",4SPOTV2
-##http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/497721.ts
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",BEIN Xtra2
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
-##http://93.152.174.144:4000/play/ssportsf1/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SPORTS",EdgeSport
 https://edgesport-samsungus.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Trace sport
@@ -680,10 +660,4 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 ##https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #EXTINF:-1 tvg-logo="htg" group-title="Test",Paw Patrol
 ##http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=w8jIaF1RcS0
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmtoday?assetId=HLSNETDRM&variantId=&keyId=a563d484bdbc36b5bdd647239c5c77de
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="test",NETds
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(3ea35639-9807-470c-a701-50033b12abfb)/manifest.mpd
 

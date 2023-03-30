@@ -44,7 +44,8 @@ http://103.167.167.5:8111/play/a01x/index.m3u8
 http://103.167.167.5:8111/play/a010/index.m3u8
 #EXTINF:-1 group-title="test",chanel 8
 http://103.167.167.5:8111/play/a016/index.m3u8
-
+#EXTINF:-1 group-title="test",warner
+http://103.167.167.5:8111/play/a017/index.m3u8
 
 
 

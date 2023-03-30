@@ -66,6 +66,7 @@ http://103.167.167.5:8111/play/a00k/index.m3u8
 http://103.167.167.5:8111/play/a00m/index.m3u8
 #EXTINF:-1 group-title="test",trans7
 http://103.167.167.5:8111/play/a00o/index.m3u8
+http://103.167.167.5:8111/play/a048/index.m3u8
 #EXTINF:-1 group-title="test",kix
 http://103.167.167.5:8111/play/a00p/index.m3u8
 #EXTINF:-1 group-title="test",mtv now
@@ -98,6 +99,15 @@ http://103.167.167.5:8111/play/a03c/index.m3u8
 http://103.167.167.5:8111/play/a03g/index.m3u8
 #EXTINF:-1 group-title="test",44
 http://103.167.167.5:8111/play/a03n/index.m3u8
+#EXTINF:-1 group-title="test",natgeo
+http://103.167.167.5:8111/play/a036/index.m3u8
+#EXTINF:-1 group-title="test",kompas
+http://103.167.167.5:8111/play/a04k/index.m3u8
+#EXTINF:-1 group-title="test",Net
+http://103.167.167.5:8111/play/a041/index.m3u8
+#EXTINF:-1 group-title="test",
+http://103.167.167.5:8111/play/a03a/index.m3u8
+
 
 
 #EXTM3U

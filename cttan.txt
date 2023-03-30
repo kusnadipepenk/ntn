@@ -8,6 +8,8 @@ https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/ind
 http://hdcable.zapto.org:9981/stream/mux/e3a1d0ccd45a76214d94c3fa89dc8fe7
 #EXTINF:-1 group-title="test",Hbo 
 http://hdcable.zapto.org:9981/stream/mux/b22809780206e53173a4d7bf6115760c
+#EXTINF:-1 group-title="test",bein1
+http://103.167.167.5:8111/play/a02m/index.m3u8
 #EXTINF:-1 group-title="test",RCTI
 http://103.167.167.5:8111/play/a01c/index.m3u8
 #EXTINF:-1 group-title="test",mnctv

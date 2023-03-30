@@ -1,13 +1,51 @@
+#EXTM3U
+##http://alchacha.com/?protocol=http:&play_ts=http://teledunet.com:8080/live/2080367773/2080367773/10190.m3u8
 
-http://alchacha.com/?protocol=http:&play_ts=http://teledunet.com:8080/live/2080367773/2080367773/10190.m3u8
 
-
-#EXTINF:-1 group-title="test",1
+#EXTINF:-1 group-title="test",foxsport
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
-#EXTINF:-1 group-title="test",2
+#EXTINF:-1 group-title="test",Hbo
 http://hdcable.zapto.org:9981/stream/mux/e3a1d0ccd45a76214d94c3fa89dc8fe7
-#EXTINF:-1 group-title="test",3
+#EXTINF:-1 group-title="test",Hbo 
 http://hdcable.zapto.org:9981/stream/mux/b22809780206e53173a4d7bf6115760c
+#EXTINF:-1 group-title="test",RCTI
+http://103.167.167.5:8111/play/a01c/index.m3u8
+#EXTINF:-1 group-title="test",mnctv
+http://103.167.167.5:8111/play/a011/index.m3u8
+#EXTINF:-1 group-title="test",gtv
+http://103.167.167.5:8111/play/a014/index.m3u8
+#EXTINF:-1 group-title="test",animax
+http://103.167.167.5:8111/play/a030/index.m3u8
+#EXTINF:-1 group-title="test",aniplus
+http://103.167.167.5:8111/play/a033/index.m3u8
+#EXTINF:-1 group-title="test",wild
+http://103.167.167.5:8111/play/a01d/index.m3u8
+#EXTINF:-1 group-title="test",cinemaworld
+http://103.167.167.5:8111/play/a01f/index.m3u8
+#EXTINF:-1 group-title="test",MCA
+http://103.167.167.5:8111/play/a01g/index.m3u8
+#EXTINF:-1 group-title="test",MCN
+http://103.167.167.5:8111/play/a01h/index.m3u8
+#EXTINF:-1 group-title="test",trhill
+http://103.167.167.5:8111/play/a01l/index.m3u8
+#EXTINF:-1 group-title="test",champ 1
+http://103.167.167.5:8111/play/a01p/index.m3u8
+#EXTINF:-1 group-title="test",champ 2
+http://103.167.167.5:8111/play/a01q/index.m3u8
+#EXTINF:-1 group-title="test",ccm
+http://103.167.167.5:8111/play/a01r/index.m3u8
+#EXTINF:-1 group-title="test",bloomberg
+http://103.167.167.5:8111/play/a01t/index.m3u8
+#EXTINF:-1 group-title="test",tvri
+http://103.167.167.5:8111/play/a01v/index.m3u8
+#EXTINF:-1 group-title="test",tvri sport
+http://103.167.167.5:8111/play/a01x/index.m3u8
+#EXTINF:-1 group-title="test",spotv2
+http://103.167.167.5:8111/play/a010/index.m3u8
+#EXTINF:-1 group-title="test",chanel 8
+http://103.167.167.5:8111/play/a016/index.m3u8
+
+
 
 
 #EXTM3U

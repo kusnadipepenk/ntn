@@ -117,7 +117,7 @@ https://anevia114.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 <!--https://anevia114.mncnow.id/live/eds/Sea-Channel/sa_dash_vmx/Sea-Channel.mpd-->
 
 #EXTINF:-1 tvg-logo="test/ksa.jpg" group-title="C-Nasional", dutatv
-https://v2.siar.us/dutatv/live/playlist.m3u8
+##https://v2.siar.us/dutatv/live/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -336,12 +336,11 @@ http://210.210.155.35:80/uq2663/h/h18/01.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://images.useetv.com/logo_blueant_small.png" group-title="C-Movies",Rock Entertainment
 ##http://iptvid.my.id/hmm/rock.m3u8
-http://210.210.155.35:80/dr9445/h/h16/01.m3u8
-
+https://kusnadipepenk.github.io/campeign/bluent.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="h" tvg-logo="https://images.useetv.com/logo_blueantext_small.png" group-title="C-Movies",Rock Extreme
 ##http://iptvid.my.id/hmm/rockext.m3u8
-http://210.210.155.35:80/dr9445/h/h15/01.m3u8
+https://kusnadipepenk.github.io/campeign/bluext.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png" group-title="C-Movies",KBSWorld
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8

@@ -411,9 +411,9 @@ http://204.12.247.162:8080/premium35/mono.m3u8
 #EXTINF:-1  tvg-logo="https://archive.org/download/SkySportsArena_201708/sky%20sports%20arena.png" group-title="C-Sports",Sky Sport Arena
 http://204.12.247.162:8080/premium36/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="C-Sports",Dazn 1 Sport
-http://204.12.247.162:8080/premium426/mono.m3u8
+https://kusnadipepenk.github.io/ntn/daz1.m3u8
 #EXTINF:-1  tvg-logo="" group-title="C-Sports",Dazn 2 Sport
-http://204.12.247.162:8080/premium427/mono.m3u8
+https://kusnadipepenk.github.io/ntn/daz2.m3u8
 #EXTINF:-1 group-title="C-Sports",TNT SPORT1
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1 group-title="C-Sports",TNT SPORT2

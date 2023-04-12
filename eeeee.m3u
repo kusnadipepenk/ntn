@@ -49,7 +49,7 @@ http://rr3.dens.tv/s/s91/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GCkTFqZ/elshin.jpg" group-title="LOKAL NASIONAL",ELSHINTA TV
 http://210.210.155.35:80/session/9064e496-2ed8-11eb-9242-b82a72d63267/qwr9ew/s/s10/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/7VVYNfZ/tvri.jpg" group-title="LOKAL NASIONAL",TVRI
-http://210.210.155.35/qwr9ew/s/s11/01.m3u8
+##http://210.210.155.35/qwr9ew/s/s11/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/7VVYNfZ/tvri.jpg" group-title="LOKAL NASIONAL",TVRI2
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="LOKAL NASIONAL",TVRI SPORT
@@ -69,7 +69,7 @@ https://kusnadipepenk.github.io/campeign/inews.m3u8
 ##http://kuchini.site:8080/live/joeBt/e229c03d/157579.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yBWB003/cnnin.png" group-title="LOKAL NASIONAL",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
-#EXTINF:-1  group-title="LOKAL NASIONAL",BeritaSatuworld
+#EXTINF:-1  group-title="LOKAL NASIONAL",BeritaSatu world
 https://b1world.beritasatumedia.com/Beritasatu/B1World_960x540.m3u8
 #EXTINF:-1  group-title="LOKAL NASIONAL",The Indonesian Chanel
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/03.m3u8
@@ -222,11 +222,11 @@ https://kusnadipepenk.github.io/campeign/kplus.m3u8
 https://kusnadipepenk.github.io/campeign/sone.m3u8
 ##http://iptvid.my.id:80/hmm/sone.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=109_MtH3Y5T8d_07P1VVEnD3sAkyX9_go" group-title="PREMIUM INDONESIA",HITS CH
-http://210.210.155.35/dr9445/h/h37/02.m3u8
+https://kusnadipepenk.github.io/campeign/hit.m3u8
 #EXTINF:-1  group-title="PREMIUM INDONESIA",CELESTIAL MOVIE
 https://kusnadipepenk.github.io/campeign/celmov.m3u8
 ##http://210.210.155.35:80/dr9445/h/h14/02.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vvKpnbc/kixx.jpg" group-title="PREMIUM INDONESIA",KIX(2)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/vvKpnbc/kixx.jpg" group-title="PREMIUM INDONESIA",KIX
 https://kusnadipepenk.github.io/campeign/kix.m3u8
 ##http://210.210.155.35/dr9445/h/h07/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/NsvtNb8/mycnema.jpg" group-title="PREMIUM INDONESIA",MY CINEMA2
@@ -237,8 +237,9 @@ https://kusnadipepenk.github.io/campeign/thril.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",CCM
 https://kusnadipepenk.github.io/campeign/ccm.m3u8
 ##http://rr2.dens.tv/s/s31/02.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/ByFQvJQ/zeebioskop.jpg" group-title="PREMIUM INDONESIA",ZEE BIOSKOP-2
-http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/02.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/ByFQvJQ/zeebioskop.jpg" group-title="PREMIUM INDONESIA",ZEE BIOSKOP
+https://kusnadipepenk.github.io/campeign/zeeb.m3u8
+##http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/56yF6Zx/simin.jpg" group-title="PREMIUM INDONESIA",Bisnet Adventure.
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Warner TV
@@ -269,7 +270,7 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ys5GTSy/cgtn.jpg" group-title="KNOWLEDGE",CGTN Documentary
 ##http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth2
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",BBC Earth
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 ##https://kusnadipepenk.github.io/ntn/bbce.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",TLC
@@ -358,8 +359,6 @@ https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
 
 
 
-#EXTINF:-1 group-title="MOVIES",AnyMovies
-http://174.44.3.13:8183/play/movies_.m3u8
 #EXTINF:-1 group-title="MOVIES",A&E
 http://174.44.3.13:8183/play/a_e.m3u8
 #EXTINF:-1 group-title="MOVIES",Lifetime

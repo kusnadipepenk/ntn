@@ -130,8 +130,6 @@ https://kusnadipepenk.github.io/ntn/cn.m3u8
 #EXTINF:-1 tvg-logo="https://w0.peakpx.com/wallpaper/7/658/HD-wallpaper-pororo-other-penguin-thumbnail.jpg" group-title="KIDS",Boomerangs
 https://kusnadipepenk.github.io/ntn/boom.m3u8 
 ##http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/54202
-#EXTINF:-1 tvg-logo="https://w0.peakpx.com/wallpaper/7/658/HD-wallpaper-pororo-other-penguin-thumbnail.jpg" group-title="KIDS",Anime
-https://contv-localnow.cinedigm.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wyrQfKC/animax.jpg" group-title="KIDS",ANIMAX
 https://kusnadipepenk.github.io/campeign/amax.m3u8
 ##http://clientsportals.com:80/live/d4Je5xwD/yadTXB63/40750.m3u8
@@ -163,8 +161,6 @@ http://208.86.19.13:81/14.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://w0.peakpx.com/wallpaper/7/658/HD-wallpaper-pororo-other-penguin-thumbnail.jpg" group-title="KIDS",Disney JR
 ##http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/3684
 https://kusnadipepenk.github.io/ntn/disn.m3u8
-#EXTINF:-1 tvg-logo="https://w0.peakpx.com/wallpaper/7/658/HD-wallpaper-pororo-other-penguin-thumbnail.jpg" group-title="KIDS",HappyKids
-https://happykids-roku.amagi.tv/playlist404pl.m3u8
 #EXTINF:-1 tvg-logo="https://w0.peakpx.com/wallpaper/7/658/HD-wallpaper-pororo-other-penguin-thumbnail.jpg" group-title="KIDS",HappyKids Junior
 https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 tvg-logo="https://w0.peakpx.com/wallpaper/7/658/HD-wallpaper-pororo-other-penguin-thumbnail.jpg" group-title="KIDS",Dreamworks
@@ -608,6 +604,8 @@ https://kusnadipepenk.github.io/ntn/truf1.m3u8
 https://kusnadipepenk.github.io/ntn/truf2.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/soccer-volleyball-baseball-rugby-equipment_1441-4026.jpg" group-title="SPORTS",V-Sport
 https://kusnadipepenk.github.io/ntn/vspom.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/soccer-volleyball-baseball-rugby-equipment_1441-4026.jpg" group-title="SPORTS",Sky Sport EPL
+https://kusnadipepenk.github.io/ntn/skyprem.m3u8
 ##http://204.12.247.162:8080/premium68/mono.m3u8
 
 

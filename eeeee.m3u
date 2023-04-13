@@ -245,20 +245,20 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/wrnr.m3u8
 
 
-#EXTINF:-1  tvg-logo="" group-title="RELIGI",life CH
+#EXTINF:-1  tvg-logo="https://pcwyoming.org/wp-content/uploads/2020/04/prayer-hands.jpeg" group-title="RELIGI",life CH
 http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683125&extension=ts&play_token=RmFK3j6FUm
 #EXTINF:-1  tvg-logo="https://i.ibb.co/dcCRKCj/iam.jpg" group-title="RELIGI",IAM Channel
 http://iamchannel.org:1935/tes/1/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="RELIGI",U-Channel
+#EXTINF:-1  tvg-logo="https://pcwyoming.org/wp-content/uploads/2020/04/prayer-hands.jpeg" group-title="RELIGI",U-Channel
 http://210.210.155.35/x6bnqe/s/s73/S4/mnf.m3u8
-#EXTINF:-1  tvg-logo="" group-title="RELIGI",Reformed21
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683112&extension=ts&play_token=RmFK3j6FUm
-#EXTINF:-1  tvg-logo="" group-title="RELIGI",Alquran AlKarem
+#EXTINF:-1  tvg-logo="https://pcwyoming.org/wp-content/uploads/2020/04/prayer-hands.jpeg" group-title="RELIGI",Reformed 21
+http://185.243.7.13:8000/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683112&extension=m3u8&play_token=RmFK3j6FUm
+#EXTINF:-1  tvg-logo="https://pcwyoming.org/wp-content/uploads/2020/04/prayer-hands.jpeg" group-title="RELIGI",Alquran AlKarem
 http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683102&extension=ts&play_token=RmFK3j6FUm
-#EXTINF:-1  tvg-logo="" group-title="RELIGI",TV Muhammadiyah
+#EXTINF:-1  tvg-logo="https://pcwyoming.org/wp-content/uploads/2020/04/prayer-hands.jpeg" group-title="RELIGI",TV Muhammadiyah
 http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683108&extension=ts&play_token=RmFK3j6FUm
-#EXTINF:-1  tvg-logo="" group-title="RELIGI",Muslim TV
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683103&extension=ts&play_token=RmFK3j6FUm
+#EXTINF:-1  tvg-logo="https://pcwyoming.org/wp-content/uploads/2020/04/prayer-hands.jpeg" group-title="RELIGI",Muslim TV
+http://185.243.7.13/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683103&extension=m3u8&play_token=RmFK3j6FUm
 
  
 #EXTINF:-1  tvg-logo="https://img.lovepik.com/photo/50044/4947.jpg_wh300.jpg" group-title="KNOWLEDGE",HGTV
@@ -318,15 +318,15 @@ https://insighttv-vizio.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 tvg-logo="https://img.lovepik.com/photo/50044/4947.jpg_wh300.jpg" group-title="KNOWLEDGE", TasteMade Travel
 https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 ##http://xlpore-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.lovepik.com/photo/50044/4947.jpg_wh300.jpg" group-title="KNOWLEDGE" tvg-logo="",Wild Earth
+#EXTINF:-1 tvg-logo="https://img.lovepik.com/photo/50044/4947.jpg_wh300.jpg" group-title="KNOWLEDGE",Wild Earth
 https://wildearth-roku.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-logo="https://img.lovepik.com/photo/50044/4947.jpg_wh300.jpg" group-title="KNOWLEDGE" tvg-logo="",NASA TV
+#EXTINF:-1 tvg-logo="https://img.lovepik.com/photo/50044/4947.jpg_wh300.jpg" group-title="KNOWLEDGE",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
-#EXTINF:-1 tvg-logo="https://img.lovepik.com/photo/50044/4947.jpg_wh300.jpg" group-title="KNOWLEDGE" tvg-logo="",TRVL CH
+#EXTINF:-1 tvg-logo="https://img.lovepik.com/photo/50044/4947.jpg_wh300.jpg" group-title="KNOWLEDGE",TRVL CH
 https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
-#EXTINF:-1 tvg-logo="https://img.lovepik.com/photo/50044/4947.jpg_wh300.jpg" group-title="KNOWLEDGE" tvg-logo="",Law and Crime
+#EXTINF:-1 tvg-logo="https://img.lovepik.com/photo/50044/4947.jpg_wh300.jpg" group-title="KNOWLEDGE",Law and Crime
 http://lawandcrime.samsung.wurl.com/manifest/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.lovepik.com/photo/50044/4947.jpg_wh300.jpg" group-title="KNOWLEDGE" tvg-logo="",TravelXP
+#EXTINF:-1 tvg-logo="https://img.lovepik.com/photo/50044/4947.jpg_wh300.jpg" group-title="KNOWLEDGE",TravelXP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 

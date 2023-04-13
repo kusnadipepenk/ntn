@@ -246,19 +246,19 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/wrnr.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://pcwyoming.org/wp-content/uploads/2020/04/prayer-hands.jpeg" group-title="RELIGI",life CH
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683125&extension=ts&play_token=RmFK3j6FUm
-#EXTINF:-1  tvg-logo="https://i.ibb.co/dcCRKCj/iam.jpg" group-title="RELIGI",IAM Channel
+https://kusnadipepenk.github.io/campeign/life.m3u8
+#EXTINF:-1  tvg-logo="https://pcwyoming.org/wp-content/uploads/2020/04/prayer-hands.jpeg" group-title="RELIGI",IAM Channel
 http://iamchannel.org:1935/tes/1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://pcwyoming.org/wp-content/uploads/2020/04/prayer-hands.jpeg" group-title="RELIGI",U-Channel
 http://210.210.155.35/x6bnqe/s/s73/S4/mnf.m3u8
 #EXTINF:-1  tvg-logo="https://pcwyoming.org/wp-content/uploads/2020/04/prayer-hands.jpeg" group-title="RELIGI",Reformed 21
-http://185.243.7.13:8000/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683112&extension=m3u8&play_token=RmFK3j6FUm
+https://kusnadipepenk.github.io/campeign/reform.m3u8
 #EXTINF:-1  tvg-logo="https://pcwyoming.org/wp-content/uploads/2020/04/prayer-hands.jpeg" group-title="RELIGI",Alquran AlKarem
 http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683102&extension=ts&play_token=RmFK3j6FUm
 #EXTINF:-1  tvg-logo="https://pcwyoming.org/wp-content/uploads/2020/04/prayer-hands.jpeg" group-title="RELIGI",TV Muhammadiyah
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683108&extension=ts&play_token=RmFK3j6FUm
+https://kusnadipepenk.github.io/campeign/muhtv.m3u8
 #EXTINF:-1  tvg-logo="https://pcwyoming.org/wp-content/uploads/2020/04/prayer-hands.jpeg" group-title="RELIGI",Muslim TV
-http://185.243.7.13/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683103&extension=m3u8&play_token=RmFK3j6FUm
+https://kusnadipepenk.github.io/campeign/muslim.m3u8
 
  
 #EXTINF:-1  tvg-logo="https://img.lovepik.com/photo/50044/4947.jpg_wh300.jpg" group-title="KNOWLEDGE",HGTV
@@ -331,17 +331,17 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",ID HBO
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.seekpng.com/png/detail/223-2235525_hbo-logo-vector-hbo-png.png" group-title="HBOgrup",ID HBO
 https://kusnadipepenk.github.io/campeign/hbo.m3u8
 ##http://203.77.246.50:5000/udp/239.1.3.84:5000
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",ID HBO Family
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.seekpng.com/png/detail/223-2235525_hbo-logo-vector-hbo-png.png" group-title="HBOgrup",ID HBO Family
 https://kusnadipepenk.github.io/campeign/hbofam.m3u8
 ##http://203.77.246.50:5000/udp/239.1.3.76:5000
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",ID HBO Hits
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.seekpng.com/png/detail/223-2235525_hbo-logo-vector-hbo-png.png" group-title="HBOgrup",ID HBO Hits
 https://kusnadipepenk.github.io/campeign/hbihit.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",ID HBO Signs
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.seekpng.com/png/detail/223-2235525_hbo-logo-vector-hbo-png.png" group-title="HBOgrup",ID HBO Signs
 https://kusnadipepenk.github.io/campeign/hbosi.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",ID Cinemax
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.seekpng.com/png/detail/223-2235525_hbo-logo-vector-hbo-png.png" group-title="HBOgrup",ID Cinemax
 https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Hbo
@@ -358,99 +358,99 @@ https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
 
 
 
-#EXTINF:-1 group-title="MOVIES",A&E
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",A&E
 http://174.44.3.13:8183/play/a_e.m3u8
-#EXTINF:-1 group-title="MOVIES",Lifetime
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",Lifetime
 http://174.44.3.13:8183/play/lifetime.m3u8
-#EXTINF:-1 group-title="MOVIES",Brat TV
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",Brat TV
 https://brat-rakuten.amagi.tv/playlist480p.m3u8
-#EXTINF:-1 group-title="MOVIES",Rakuten TV
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",Rakuten TV
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",BBC America
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",BBC America
 ##http://rmvberantakan.com/usg/index.php?id=BBCAmerica
-#EXTINF:-1 group-title="MOVIES",Comedy Channel
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",Comedy Channel
 https://uksono1-samsunguk.amagi.tv/playlist480p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",SYFY
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",SYFY
 https://kusnadipepenk.github.io/ntn/syfy.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Runtime
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",Runtime
 https://ammoruntime-plex.amagi.tv/playlistR432p.m3u8
-#EXTINF:-1 group-title="MOVIES",SONY PIX
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",SONY PIX
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 ##https://kusnadipepenk.github.io/ntn/spix.m3u8
 ##https://tv.googledrivelinks.com/live.php?c=Sony_Pix_HD&q=400&e=.m3u8
-#EXTINF:-1 group-title="MOVIES",Crackle
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",Crackle
 http://crackle-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/jGzMaRD.png" group-title="MOVIES",FilmRise Movies
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",FilmRise Movies
 https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
-#EXTINF:-1 group-title="MOVIES",Hallmark mysteri
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",Hallmark mysteri
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmmsl/hallmarkmmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
-#EXTINF:-1 group-title="MOVIES",FAmily Flik
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",FAmily Flik
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="MOVIES",Paramount2
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",Paramount2
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung%2FSM-T720%2F10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile%20TV%20Plus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="" group-title="MOVIES",Star Movies
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",Star Movies
 https://kusnadipepenk.github.io/ntn/strmvi.m3u8
 ##http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/1765
 ##http://182.50.65.213:8888/udp/239.239.0.17:3001
 ##http://103.166.253.222/hls/starmovies.m3u8
-#EXTINF:-1 tvg-id="HBO.US" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",Sky-Movies Comedy
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",Sky-Movies Comedy
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1300000.m3u8
 ##https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(72d6d51e-c265-4ce1-bf21-a9bb75487bc5)/manifest.mpd
 ##http://190.83.119.67:8000/play/a0s6/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="MOVIES",Hollywood
+#EXTINF:-1  tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",Hollywood
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndPrive.in.png" group-title="MOVIES",Comedy Central
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",Comedy Central
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="MOVIES",Comedy Redbox
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",Comedy Redbox
 https://comedy-redbox.amagi.tv/amRdirect/p=Redbox&subp=RedboxdesktopWebLinux/hls/amagi_hls_data_redboxAAA-comedy/CDN/640x360_765600/index.m3u8
 ##https://comedy-redbox.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",Stirr Movies
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",Stirr Movies
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 #EXTINF:-1 group-title="MOVIES",Comedy Dinamic
 https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
-#EXTINF:-1 group-title="MOVIES",Movies Now
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",Movies Now
 https://kusnadipepenk.github.io/ntn/mnow.m3u8
-#EXTINF:-1 group-title="MOVIES",MN Plus
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",MN Plus
 https://kusnadipepenk.github.io/ntn/mnpls.m3u8
-#EXTINF:-1 group-title="MOVIES",MY TIME
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",MY TIME
 https://mytime-tcl.amagi.tv/playlist404-p.m3u8
-#EXTINF:-1 group-title="MOVIES",Movie Sphere
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",Movie Sphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist480p.m3u8
-#EXTINF:-1 group-title="MOVIES",Paramount
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",Paramount
 https://kusnadipepenk.github.io/campeign/prmont.m3u8
-#EXTINF:-1 group-title="MOVIES",AndPrives
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",AndPrives
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
 ##https://aqfadtv.xyz/live/&prive/index.m3u8
-#EXTINF:-1 group-title="MOVIES",AndFlix
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",AndFlix
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 ##https://aqfadtv.xyz/live/&flix/index.m3u8
-#EXTINF:-1 group-title="MOVIES",Pixl
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",Pixl
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
-#EXTINF:-1  tvg-logo="" group-title="MOVIES",AMC-S
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",AMC-S
 https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/profile_0/chunklist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="MOVIES",AMC
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",AMC
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="MOVIES",AMC thrler
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",AMC thrler
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="MOVIES",cine real
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",cine real
 https://cinereal-plex.amagi.tv/CineReal/master_4.m3u8
-#EXTINF:-1  tvg-logo="" group-title="MOVIES",Cornflix movie
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",Cornflix movie
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="MOVIES",Topcine
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",Topcine
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_4.m3u8
-#EXTINF:-1  tvg-logo="" group-title="MOVIES",Electric Now
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",Electric Now
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=53
-#EXTINF:-1  tvg-logo="" group-title="MOVIES",ION
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",ION
 https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",TNT Film
 http://208.86.19.13:81/16.stream/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="MOVIES",CMA
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",CMA
 http://208.86.19.13:81/22.stream/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="MOVIES",K-Drama
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",K-Drama
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
-#EXTINF:-1  tvg-logo="" group-title="MOVIES",K-Movies
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",K-Movies
 https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="MOVIES",K-IDS
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",K-IDS
 https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",&ROmance
 ##http://5.9.150.76/romance/mono.m3u8
@@ -466,40 +466,40 @@ https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/
 ##http://5.9.150.76/thrillerhd/mono.m3u8
 #EXTINF:-1 group-title="MOVIES",&Sci
 ##http://5.9.150.76/scihd/mono.m3u8
-#EXTINF:-1 group-title="MOVIES",&Crime
+#EXTINF:-1  group-title="MOVIES",&Crime
 ##http://5.9.150.76/crimehd/mono.m3u8
 
 
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="Music",Urban Trace
+#EXTINF:-1 tvg-logo="https://daily.jstor.org/wp-content/uploads/2023/01/good_times_with_bad_music_1050x700.jpg" group-title="Music",Urban Trace
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",Spirit TV
+#EXTINF:-1  tvg-logo="https://daily.jstor.org/wp-content/uploads/2023/01/good_times_with_bad_music_1050x700.jpg" group-title="Music",Spirit TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",Hits Music
+#EXTINF:-1 tvg-logo="https://daily.jstor.org/wp-content/uploads/2023/01/good_times_with_bad_music_1050x700.jpg" group-title="Music",Hits Music
 https://xumo-redbox.ott-channels.stingray.com/155/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",Hot Country
+#EXTINF:-1 tvg-logo="https://daily.jstor.org/wp-content/uploads/2023/01/good_times_with_bad_music_1050x700.jpg" group-title="Music",Hot Country
 https://xumo-redbox.ott-channels.stingray.com/108/master_768x432_500kbps.m3u8
 #https://dai.google.com/linear/hls/event/SgCez41rR36rmiw8Odu8FA/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",Hit Redbox
+#EXTINF:-1 tvg-logo="https://daily.jstor.org/wp-content/uploads/2023/01/good_times_with_bad_music_1050x700.jpg" group-title="Music",Hit Redbox
 https://xumo-redbox.ott-channels.stingray.com/107/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",POPMUsic 
+#EXTINF:-1 tvg-logo="https://daily.jstor.org/wp-content/uploads/2023/01/good_times_with_bad_music_1050x700.jpg" group-title="Music",POPMUsic 
 http://stream1.ninmedia.tv:1935/popmusik/udp.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",MTV Live 
+#EXTINF:-1 tvg-logo="https://daily.jstor.org/wp-content/uploads/2023/01/good_times_with_bad_music_1050x700.jpg" group-title="Music",MTV Live 
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",MTV Block
+#EXTINF:-1 tvg-logo="https://daily.jstor.org/wp-content/uploads/2023/01/good_times_with_bad_music_1050x700.jpg" group-title="Music",MTV Block
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",MTV Yo
+#EXTINF:-1 tvg-logo="https://daily.jstor.org/wp-content/uploads/2023/01/good_times_with_bad_music_1050x700.jpg" group-title="Music",MTV Yo
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-#EXTINF:-1 group-title="Music",CMT music
+#EXTINF:-1 tvg-logo="https://daily.jstor.org/wp-content/uploads/2023/01/good_times_with_bad_music_1050x700.jpg" group-title="Music",CMT music
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-#EXTINF:-1 group-title="Music",Music TOp
+#EXTINF:-1 tvg-logo="https://daily.jstor.org/wp-content/uploads/2023/01/good_times_with_bad_music_1050x700.jpg" group-title="Music",Music TOp
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ecable.tv/wp-content/uploads/2019/02/1.png" group-title="Music",Afrobeats 24/7
+#EXTINF:-1 tvg-logo="https://daily.jstor.org/wp-content/uploads/2023/01/good_times_with_bad_music_1050x700.jpg" group-title="Music",Afrobeats 24/7
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 group-title="Music",Kpop
+#EXTINF:-1 tvg-logo="https://daily.jstor.org/wp-content/uploads/2023/01/good_times_with_bad_music_1050x700.jpg" group-title="Music",Kpop
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-#EXTINF:-1 group-title="Music",Kpop2
+#EXTINF:-1 tvg-logo="https://daily.jstor.org/wp-content/uploads/2023/01/good_times_with_bad_music_1050x700.jpg" group-title="Music",Kpop2
 https://api.mbed.cc/youtube/live.m3u8?id=F4aby5WN1Rw
 
 

@@ -91,7 +91,7 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_640x360_120
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/News_Live_title_card.jpg" group-title="BERITA",CNBC
 http://ott-cdn.ucom.am/s65/01.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/News_Live_title_card.jpg" group-title="BERITA",CCTV4
-http://210.210.155.35/qwr9ew/s/s19/02.m3u8
+http://210.210.155.35/qwr9ew/s/s19/01.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/News_Live_title_card.jpg" group-title="BERITA",TBN Asia
 http://210.210.155.35/qwr9ew/s/s39/01.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/News_Live_title_card.jpg" group-title="BERITA",Bloomberg
@@ -104,8 +104,8 @@ http://210.210.155.35/uq2663/h/h29/01.m3u8
 ##http://210.210.155.35/qwr9ew/s/s15/01.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/News_Live_title_card.jpg" group-title="BERITA",Euronews2
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/News_Live_title_card.jpg" group-title="BERITA",DW News
-http://210.210.155.35/qwr9ew/s/s26/01.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/News_Live_title_card.jpg" group-title="BERITA",NBC News
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/News_Live_title_card.jpg" group-title="BERITA",Aljazeera
 ##http://210.210.155.35/qwr9ew/s/s17/01.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -116,7 +116,7 @@ https://newsmax-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1  group-title="BERITA",RT News
 ##http://210.210.155.35/qwr9ew/s/s23/01.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/News_Live_title_card.jpg" group-title="BERITA",ABC news
-http://31.220.41.88:8081/live/us-abcnews.stream/chunks.m3u8?token=null
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_42.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/News_Live_title_card.jpg" group-title="BERITA",SeA Todays
 https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
 
@@ -137,7 +137,8 @@ https://kusnadipepenk.github.io/campeign/anplus.m3u8
 #EXTINF:-1  tvg-logo="https://w0.peakpx.com/wallpaper/7/658/HD-wallpaper-pororo-other-penguin-thumbnail.jpg" group-title="KIDS",INdi KIDS
 ##http://210.210.155.35/uq2663/h/h98/index.m3u8
 #EXTINF:-1  tvg-logo="https://w0.peakpx.com/wallpaper/7/658/HD-wallpaper-pororo-other-penguin-thumbnail.jpg" group-title="KIDS",MY KIDZ
-http://210.210.155.35/uq2663/h/h191/index.m3u8
+##http://210.210.155.35/uq2663/h/h191/index.m3u8
+https://sv1.mixstreams.net/dens1/session/96525fa2-db04-11ed-aeaf-b82a72d63267/x6bnqe/h/h191/index.m3u8
 #EXTINF:-1 tvg-logo="https://w0.peakpx.com/wallpaper/7/658/HD-wallpaper-pororo-other-penguin-thumbnail.jpg" group-title="KIDS",Miaomi
 https://kusnadipepenk.github.io/campeign/miaomi.m3u8
 #EXTINF:-1 tvg-logo="https://w0.peakpx.com/wallpaper/7/658/HD-wallpaper-pororo-other-penguin-thumbnail.jpg" group-title="KIDS",TG JUnior
@@ -182,8 +183,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=33
 
 
 #EXTM3U
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Galax
-https://sv2.mixstreams.net/anevi/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvN
 https://kusnadipepenk.github.io/campeign/tvn.m3u8
 ##http://210.210.155.35:80/dr9445/h/h20/02.m3u8
@@ -202,15 +201,16 @@ https://kusnadipepenk.github.io/campeign/bluent.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/VTtxzXm/ciwo.jpg" group-title="PREMIUM INDONESIA",CINEMA WORLD
 http://210.210.155.35/dr9445/h/h04/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",CinemA Europe
-http://210.210.155.35:80/uq2663/h/h18/02.m3u8
+https://sv1.mixstreams.net/dens1/session/847f3244-db06-11ed-b1c0-b82a72d63267/uq2663/h/h18/01.m3u8
+##http://210.210.155.35:80/uq2663/h/h18/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",MyCinema Asia
-http://210.210.155.35:80/x6bnqe/h/h193/index.m3u8
+https://sv2.mixstreams.net/dens1/session/b9440470-db18-11ed-9bc4-81329f40283f/x6bnqe/h/h193/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",KBS WORLD
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",MyCinemA Family
 http://210.210.155.35/x6bnqe/h/h194/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="PREMIUM INDONESIA",K+
-http://210.210.155.35:80/uq2663/h/h08/02.m3u8
+https://sv1.mixstreams.net/dens1/session/28e2724e-db19-11ed-adc1-86388d9454ae/uq2663/h/h08/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="PREMIUM INDONESIA",K+ Ph
 https://kusnadipepenk.github.io/campeign/kplus.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/jWjxD83/sonson.jpg" group-title="PREMIUM INDONESIA",SonyOne
@@ -225,7 +225,8 @@ https://kusnadipepenk.github.io/campeign/celmov.m3u8
 https://kusnadipepenk.github.io/campeign/kix.m3u8
 ##http://210.210.155.35/dr9445/h/h07/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/NsvtNb8/mycnema.jpg" group-title="PREMIUM INDONESIA",MY CINEMA2
-http://210.210.155.35/uq2663/h/h192/index.m3u8
+https://sv2.mixstreams.net/dens1/session/a14d3804-db05-11ed-b03c-b82a72d63267/x6bnqe/h/h192/index.m3u8
+##http://210.210.155.35/uq2663/h/h192/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/PYPLz36/trill.png" group-title="PREMIUM INDONESIA",THRILL
 https://kusnadipepenk.github.io/campeign/thril.m3u8
 ##http://210.210.155.35/session/453c7fb4-6a31-11e9-b1c1-bf03b175abaa/qwr9ew/s/s34/02.m3u8

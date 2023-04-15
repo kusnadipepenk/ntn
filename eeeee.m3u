@@ -73,7 +73,7 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b2800
 https://b1world.beritasatumedia.com/Beritasatu/B1World_960x540.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",The Indonesian Chanel
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png"group-title="LOKAL NASIONAL",IDX Ch
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",IDX Ch
 https://kusnadipepenk.github.io/campeign/idx.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",TVRI PAPUA
 ##http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPapua)/Stream(02)/index.m3u8
@@ -98,7 +98,7 @@ http://210.210.155.35/qwr9ew/s/s39/01.m3u8
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/News_Live_title_card.jpg" group-title="BERITA",NHK
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_200.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/News_Live_title_card.jpg" group-title="BERITA",ChannelNewsAsia
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/News_Live_title_card.jpg" group-title="BERITA",Channel News Asia
 http://210.210.155.35/uq2663/h/h29/01.m3u8
 #EXTINF:-1 group-title="BERITA",EURONews
 ##http://210.210.155.35/qwr9ew/s/s15/01.m3u8
@@ -201,16 +201,15 @@ https://kusnadipepenk.github.io/campeign/bluent.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/VTtxzXm/ciwo.jpg" group-title="PREMIUM INDONESIA",CINEMA WORLD
 http://210.210.155.35/dr9445/h/h04/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",CinemA Europe
-https://sv1.mixstreams.net/dens1/session/847f3244-db06-11ed-b1c0-b82a72d63267/uq2663/h/h18/01.m3u8
-##http://210.210.155.35:80/uq2663/h/h18/02.m3u8
+http://210.210.155.35:80/uq2663/h/h18/01.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",MyCinema Asia
-https://sv2.mixstreams.net/dens1/session/b9440470-db18-11ed-9bc4-81329f40283f/x6bnqe/h/h193/index.m3u8
+http://210.210.155.35:80/session/b9440470-db18-11ed-9bc4-81329f40283f/x6bnqe/h/h193/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",KBS WORLD
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",MyCinemA Family
 http://210.210.155.35/x6bnqe/h/h194/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="PREMIUM INDONESIA",K+
-https://sv1.mixstreams.net/dens1/session/28e2724e-db19-11ed-adc1-86388d9454ae/uq2663/h/h08/01.m3u8
+http://210.210.155.35:80/session/28e2724e-db19-11ed-adc1-86388d9454ae/uq2663/h/h08/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="PREMIUM INDONESIA",K+ Ph
 https://kusnadipepenk.github.io/campeign/kplus.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/jWjxD83/sonson.jpg" group-title="PREMIUM INDONESIA",SonyOne
@@ -225,7 +224,7 @@ https://kusnadipepenk.github.io/campeign/celmov.m3u8
 https://kusnadipepenk.github.io/campeign/kix.m3u8
 ##http://210.210.155.35/dr9445/h/h07/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/NsvtNb8/mycnema.jpg" group-title="PREMIUM INDONESIA",MY CINEMA2
-https://sv2.mixstreams.net/dens1/session/a14d3804-db05-11ed-b03c-b82a72d63267/x6bnqe/h/h192/index.m3u8
+http://210.210.155.35:80/session/a14d3804-db05-11ed-b03c-b82a72d63267/x6bnqe/h/h192/index.m3u8
 ##http://210.210.155.35/uq2663/h/h192/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/PYPLz36/trill.png" group-title="PREMIUM INDONESIA",THRILL
 https://kusnadipepenk.github.io/campeign/thril.m3u8

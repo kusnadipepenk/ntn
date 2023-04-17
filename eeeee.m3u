@@ -7,13 +7,13 @@ https://kusnadipepenk.github.io/campeign/netv.m3u8
 https://kusnadipepenk.github.io/campeign/trns.m3u8
 ##http://rr2.dens.tv/s/s05/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",TRANSTV(2)
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1317535298_b544100_sleng.m3u8
 ##https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/733-trans-tv
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",TRANS7
 https://kusnadipepenk.github.io/campeign/trns7.m3u8
 ##http://rr.dens.tv/h/h11/02.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png group-title="LOKAL NASIONAL",TRANS7(2)
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1820541708_b744100_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",RCTI
 https://kusnadipepenk.github.io/campeign/rcti.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",SCTV

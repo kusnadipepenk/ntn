@@ -502,9 +502,11 @@ https://api.mbed.cc/youtube/live.m3u8?id=F4aby5WN1Rw
 #EXTINF:-1  tvg-logo="https://img.freepik.com/free-vector/soccer-volleyball-baseball-rugby-equipment_1441-4026.jpg" group-title="SPORTS",Real Madrid TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 #EXTINF:-1  tvg-logo="https://img.freepik.com/free-vector/soccer-volleyball-baseball-rugby-equipment_1441-4026.jpg" group-title="SPORTS",Sky Sport Football
-http://204.12.247.162:8080/premium35/mono.m3u8
+https://kusnadipepenk.github.io/ntn/skyfut.m3u8
+##http://204.12.247.162:8080/premium35/mono.m3u8
 #EXTINF:-1  tvg-logo="https://img.freepik.com/free-vector/soccer-volleyball-baseball-rugby-equipment_1441-4026.jpg" group-title="SPORTS",Sky Sport Arena
-http://204.12.247.162:8080/premium36/mono.m3u8
+https://kusnadipepenk.github.io/ntn/skyare.m3u8
+##http://204.12.247.162:8080/premium36/mono.m3u8
 #EXTINF:-1  tvg-logo="https://img.freepik.com/free-vector/soccer-volleyball-baseball-rugby-equipment_1441-4026.jpg" group-title="SPORTS",Dazn 1 Sport
 https://kusnadipepenk.github.io/ntn/daz1.m3u8
 #EXTINF:-1  tvg-logo="https://img.freepik.com/free-vector/soccer-volleyball-baseball-rugby-equipment_1441-4026.jpg" group-title="SPORTS",Dazn 2 Sport

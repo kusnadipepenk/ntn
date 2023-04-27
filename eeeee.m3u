@@ -17,8 +17,8 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1820541708_b744100_sl
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",RCTI
 https://kusnadipepenk.github.io/campeign/rcti.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",SCTV
-https://kusnadipepenk.github.io/campeign/sctv.m3u8
-##https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/204-sctv
+https://beetv.my.id/x/usee-sctv-gojokkk.m3u8
+##https://kusnadipepenk.github.io/campeign/sctv.m3u8
 ##http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/02.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",MNCtv
 ##http://kuchini.site:8080/live/joeBt/e229c03d/165054.ts
@@ -186,7 +186,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=33
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvN
 https://kusnadipepenk.github.io/campeign/tvn.m3u8
 ##http://210.210.155.35:80/dr9445/h/h20/02.m3u8
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",tvNMovies
+#EXTINF:-1  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png" group-title="PREMIUM INDONESIA",tvNMovies
 https://kusnadipepenk.github.io/campeign/tvnmovies.m3u8
 ##http://210.210.155.35:80/dr9445/h/h21/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/D521B0s/axn.png" group-title="PREMIUM INDONESIA",AXN
@@ -237,8 +237,10 @@ https://kusnadipepenk.github.io/campeign/zeeb.m3u8
 ##http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/56yF6Zx/simin.jpg" group-title="PREMIUM INDONESIA",Bisnet Adventure.
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",Warner TV
+#EXTINF:-1  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/270_144.png" group-title="PREMIUM INDONESIA",Warner TV
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/wrnr.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-in.png" group-title="PREMIUM INDONESIA",GEM
+https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 
 
 #EXTINF:-1  tvg-logo="https://pcwyoming.org/wp-content/uploads/2020/04/prayer-hands.jpeg" group-title="RELIGI",life CH
@@ -608,6 +610,9 @@ https://kusnadipepenk.github.io/ntn/truf2.m3u8
 https://kusnadipepenk.github.io/ntn/vspom.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/soccer-volleyball-baseball-rugby-equipment_1441-4026.jpg" group-title="SPORTS",Sky Sport EPL
 https://kusnadipepenk.github.io/ntn/skyprem.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/soccer-volleyball-baseball-rugby-equipment_1441-4026.jpg" group-title="SPORTS",Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0 
+https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 ##http://204.12.247.162:8080/premium68/mono.m3u8
 
 

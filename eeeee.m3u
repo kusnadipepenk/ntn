@@ -239,8 +239,6 @@ https://kusnadipepenk.github.io/campeign/zeeb.m3u8
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/270_144.png" group-title="PREMIUM INDONESIA",Warner TV
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/wrnr.m3u8
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-in.png" group-title="PREMIUM INDONESIA",GEM
-https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 
 
 #EXTINF:-1  tvg-logo="https://pcwyoming.org/wp-content/uploads/2020/04/prayer-hands.jpeg" group-title="RELIGI",life CH

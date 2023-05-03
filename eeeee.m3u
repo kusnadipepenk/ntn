@@ -17,8 +17,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1820541708_b744100_sl
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",RCTI
 https://kusnadipepenk.github.io/campeign/rcti.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",SCTV
-https://cdn09jtedge.indihometv.com/dvr/139/inews/manifest.mpd?o1=194575080&o2=194575000&o3=194575000&o4=194575000&oa=194575000
-##https://kusnadipepenk.github.io/campeign/sctv.m3u8
+https://kusnadipepenk.github.io/campeign/sctv.m3u8
 ##http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/02.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",MNCtv
 ##http://kuchini.site:8080/live/joeBt/e229c03d/165054.ts
@@ -65,7 +64,8 @@ https://kusnadipepenk.github.io/campeign/metro.m3u8
 ##http://210.210.155.35/session/b44f53c0-1a28-11ea-980f-a261a2f9ca81/qwr9ew/s/s104/02.m3u8
 https://kusnadipepenk.github.io/campeign/kompas.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",Inews
-https://kusnadipepenk.github.io/campeign/inews.m3u8
+https://cdn09jtedge.indihometv.com/dvr/139/inews/manifest.mpd?o1=194575080&o2=194575000&o3=194575000&o4=194575000&oa=194575000
+##https://kusnadipepenk.github.io/campeign/inews.m3u8
 ##http://kuchini.site:8080/live/joeBt/e229c03d/157579.ts
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8

@@ -39,6 +39,14 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf10
 #EXTINF:-1 group-title="Livestream Alt" ,ROCK Action (Singapore Feed) 
 https://aqfadtv.xyz/live/mewatch/rockaction/index.mpd
 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mstr
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="Livestream Alt",GTV
+https://anevia114.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+
+
 #EXTINF:-1  tvg-logo="" group-title="Livestream Alt",tesss
 https://ddy1.onlinewebtv.lol:443/ddy1/premium31/tracks-v1a1/mono.m3u8
 

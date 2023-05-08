@@ -453,6 +453,9 @@ https://kusnadipepenk.github.io/ntn/truf1.m3u8
 https://kusnadipepenk.github.io/ntn/truf2.m3u8
 #EXTINF:-1 group-title="C-Sports",SuperSport Motor
 https://kusnadipepenk.github.io/ntn/vspom.m3u8
+#EXTINF:-1 group-title="C-Sports",ESPN
+https://kusnadipepenk.github.io/ntn/espn.m3u8
+
 
 #EXTINF:-1 group-title="C-Sports",Sony Ten 1
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8

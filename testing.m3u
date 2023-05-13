@@ -279,20 +279,32 @@ https://anevia114.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/Indon
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="C-Movies",HBO
 https://anevia114.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="C-Movies",HBO (alt)
+https://kusnadipepenk.github.io/campeign/hbo.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png" group-title="C-Movies",HBO Family
 https://anevia114.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png" group-title="C-Movies",HBO Family (alt)
+https://kusnadipepenk.github.io/campeign/hbofam.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/pQW1JcG/xyfs.png" group-title="C-Movies",HBO Hits
 https://anevia114.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/pQW1JcG/xyfs.png" group-title="C-Movies",HBO Hits (alt)
+https://kusnadipepenk.github.io/campeign/hbihit.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png" group-title="C-Movies",HBO Signature
 https://anevia114.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png" group-title="C-Movies",HBO Signature (alt)
+https://kusnadipepenk.github.io/campeign/hbosi.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -354,6 +366,9 @@ https://anevia114.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/2560px-Cinemax_%28Yellow%29.svg.png" group-title="C-Movies",CINEMAX
 https://anevia114.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/2560px-Cinemax_%28Yellow%29.svg.png" group-title="C-Movies",CINEMAX (alt)
+https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Logo_TV_2015.svg" group-title="C-Movies",Cinema Europe
 http://210.210.155.35:80/uq2663/h/h18/01.m3u8

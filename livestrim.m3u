@@ -96,4 +96,15 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856ea34e35016ef8e9fdf
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
+#EXTINF:-1 group-title="HBOGO" tvg-id="" tvg-logo="",sssctv
+https://mibitivi.xyz/sc/playhls.m3u8?tekon=skyactiv&channel=sctv
+
+#EXTINF:-1 group-title="HBOGO" tvg-id="" tvg-logo="",para
+https://mibitivi.xyz/sc/playhls.m3u8?tekon=skyactiv&channel=paramount
+
+#EXTINF:-1 group-title="HBOGO" tvg-id="" tvg-logo="",spotv
+https://mibitivi.xyz/sc/playhls.m3u8?tekon=skyactiv&channel=spotv
+
+#EXTINF:-1 group-title="HBOGO" tvg-id="" tvg-logo="",spotv2
+https://mibitivi.xyz/sc/playhls.m3u8?tekon=skyactiv&channel=spotv2
 

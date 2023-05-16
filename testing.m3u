@@ -506,7 +506,7 @@ https://kusnadipepenk.github.io/ntn/elesp2.m3u8
 https://kusnadipepenk.github.io/ntn/elesp3.m3u8
 #EXTINF:-1 group-title="C-Sports",OneGolf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 group-title="C-Sports",V-Sport GOLF
+#EXTINF:-1 group-title="C-Sports",Sky Sport GOLF
 https://kusnadipepenk.github.io/ntn/golf.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

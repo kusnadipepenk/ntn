@@ -490,7 +490,6 @@ https://kusnadipepenk.github.io/ntn/vspom.m3u8
 #EXTINF:-1 group-title="C-Sports",ESPN
 https://kusnadipepenk.github.io/ntn/espn.m3u8
 
-
 #EXTINF:-1 group-title="C-Sports",Sony Ten 1
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
 #EXTINF:-1 group-title="C-Sports",Sony Ten 2
@@ -505,11 +504,21 @@ https://kusnadipepenk.github.io/ntn/elesp1.m3u8
 https://kusnadipepenk.github.io/ntn/elesp2.m3u8
 #EXTINF:-1 group-title="C-Sports",Eleven Sport 3
 https://kusnadipepenk.github.io/ntn/elesp3.m3u8
+#EXTINF:-1 group-title="C-Sports",OneGolf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 group-title="C-Sports",V-Sport GOLF
+https://kusnadipepenk.github.io/ntn/golf.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/s5xQfGD/Spotv.png" group-title="C-Sports",SPOTV
 https://anevia114.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#EXTINF:-1 group-title="C-Sports" tvg-id="" tvg-logo="",Spotv (alt)
+https://mibitivi.xyz/sc/playhls.m3u8?tekon=skyactiv&channel=spotv
+
+#EXTINF:-1 group-title="C-Sports" tvg-id="" tvg-logo="",Spotv2 (alt)
+https://mibitivi.xyz/sc/playhls.m3u8?tekon=skyactiv&channel=spotv2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -634,6 +643,14 @@ https://anevia114.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gJBkjCt/dghjc.png" group-title="C-Lifestyle",HGTV (alt)
 https://kusnadipepenk.github.io/ntn/hgtv.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/lifetime.png" group-title="C-Lifestyle",Fashion TV
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="C-Lifestyle",MNC Lifestyle & Fashion
+https://anevia114.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz

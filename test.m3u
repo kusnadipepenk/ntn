@@ -17,13 +17,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:0 tvg-id="CartoonNetwork.Id" tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Cartoon-Network-Emblem.png " group-title="GRATIS",Cartoon Network
+#EXTINF:0 tvg-id="CartoonNetwork.Id" tvg-logo="" group-title="GRATIS",Dreamwork
 https://nyanv-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:0 tvg-id="HBO.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png " group-title="GRATIS",HBO
-https://nyanv-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+#EXTINF:0 tvg-id="HBO.Id" tvg-logo="" group-title="GRATIS",CNN INT
+https://anevia114.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
@@ -32,8 +32,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:0 tvg-id="AnimalPlanet.Id" tvg-logo="https://static.visionplus.id/images/channel/8355c2f6-035.png " group-title="GRATIS",Animal Planet
-https://nyanv-live-cdn.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+#EXTINF:0 tvg-id="AnimalPlanet.Id" tvg-logo="" group-title="GRATIS",Nat Geo
+https://anevia114.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #EXTINF:-1 group-title="GRATIS",True football 1
 https://kusnadipepenk.github.io/ntn/truf1.m3u8

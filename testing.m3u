@@ -525,8 +525,8 @@ https://kusnadipepenk.github.io/ntn/elesp1.m3u8
 https://kusnadipepenk.github.io/ntn/elesp2.m3u8
 #EXTINF:-1 group-title="C-Sports",Eleven Sport 3
 https://kusnadipepenk.github.io/ntn/elesp3.m3u8
-#EXTINF:-1 group-title="C-Sports",OneGolf
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 group-title="C-Sports",Golf Supersport
+https://kusnadipepenk.github.io/ntn/golf2.m3u8
 #EXTINF:-1 group-title="C-Sports",Sky Sport GOLF
 https://kusnadipepenk.github.io/ntn/golf.m3u8
 
@@ -535,10 +535,10 @@ https://kusnadipepenk.github.io/ntn/golf.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/s5xQfGD/Spotv.png" group-title="C-Sports",SPOTV
 https://anevia114.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
-#EXTINF:-1 group-title="C-Sports" tvg-id="" tvg-logo="",Spotv (alt)
+#EXTINF:-1 group-title="C-Sports" tvg-id="" tvg-logo=""https://i.ibb.co/s5xQfGD/Spotv.png,Spotv (alt)
 https://mibitivi.xyz/sc/playhls.m3u8?tekon=skyactiv&channel=spotv
 
-#EXTINF:-1 group-title="C-Sports" tvg-id="" tvg-logo="",Spotv2 (alt)
+#EXTINF:-1 group-title="C-Sports" tvg-id="" tvg-logo="https://i.ibb.co/s5xQfGD/Spotv.png",Spotv2 (alt)
 https://mibitivi.xyz/sc/playhls.m3u8?tekon=skyactiv&channel=spotv2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

@@ -532,11 +532,11 @@ https://kusnadipepenk.github.io/ntn/golf.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/s5xQfGD/Spotv.png" group-title="C-Sports",SPOTV
 https://anevia114.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
-#EXTINF:-1 group-title="C-Sports" tvg-id="" tvg-logo=""https://i.ibb.co/s5xQfGD/Spotv.png",Spotv (alt)
-https://mibitivi.xyz/sc/playhls.m3u8?tekon=skyactiv&channel=spotv
+#EXTINF:-1 group-title="C-Sports" tvg-id="" tvg-logo="https://i.ibb.co/s5xQfGD/Spotv.png",Spotv (alt)
+http://beetv.my.id/x/usee-spotv-gojokkk.m3u8
 
 #EXTINF:-1 group-title="C-Sports" tvg-id="" tvg-logo="https://i.ibb.co/s5xQfGD/Spotv.png",Spotv2 (alt)
-https://mibitivi.xyz/sc/playhls.m3u8?tekon=skyactiv&channel=spotv2
+http://beetv.my.id/x/usee-spotv2-gojokkk.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz

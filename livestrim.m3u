@@ -111,8 +111,9 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c
 #EXTINF:-1 group-title="HBOGO" tvg-id="" tvg-logo="",parammm
 https://mibitivi.xyz/sc/playhls.m3u8?tekon=skyactiv&channel=paramount
 
-#EXTINF:-1 group-title="HBOGO" tvg-id="" tvg-logo="",spotv
-https://mibitivi.xyz/sc/playhls.m3u8?tekon=skyactiv&channel=spotv
+#EXTINF:-1 group-title="HBOGO" tvg-id="" tvg-logo="",spotva
+http://beetv.my.id/x/usee-spotv-gojokkk.m3u8
+##https://mibitivi.xyz/sc/playhls.m3u8?tekon=skyactiv&channel=spotv
 
 #EXTINF:-1 group-title="HBOGO" tvg-id="" tvg-logo="",spotv2
 https://mibitivi.xyz/sc/playhls.m3u8?tekon=skyactiv&channel=spotv2

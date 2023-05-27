@@ -158,3 +158,10 @@ http://202.150.172.59:80/CNN_Indonesia/index.m3u8
 #EXTINF:-1 group-title="HBOGO" tvg-id="" tvg-logo="",CNNNNuyuyuy
 http://202.150.172.59:80/MNCTV/index.m3u8
 
+http://202.150.172.59:80/AXN/tracks-v1a1/mono.m3u8
+
+
+https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd
+
+
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c68565fa79ce01665868040a343f/manifest.mpd

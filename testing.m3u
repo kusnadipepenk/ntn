@@ -454,13 +454,19 @@ https://anevia114.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/b352L2b/bein1-home-tv.png" group-title="C-Sports",beIN Sport 1
-https://anevia114.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="C-Sports",bBT Sport 1
+https://kusnadipepenk.github.io/ntn/bt1.m3u8
+###https://anevia114.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/jv3gyNy/bein2-home-tv.png" group-title="C-Sports",beIN Sport 2
-https://anevia114.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="C-Sports",BT Sport 2
+https://kusnadipepenk.github.io/ntn/bt2.m3u8
+##https://anevia114.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="C-Sports",BT Sport 3
+https://kusnadipepenk.github.io/ntn/bt3.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="C-Sports",Bein 1
 https://kusnadipepenk.github.io/ntn/bs1.m3u8

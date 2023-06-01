@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:eb:c5&stream=148671&extension=m3u8&play_token
+http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=148671&extension=m3u8&play_token=xdbt7BgLik107433
 ##http://clientsportals.com:2095/play/live.php?mac=00:1A:79:AE:8E:4D&stream=68994&extension=m3u8&play_token=msUKooUfNl

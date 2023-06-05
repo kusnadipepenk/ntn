@@ -941,7 +941,8 @@ https://anevia114.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 http://iamchannel.org:1935/tes/1/playlist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="https://images.useetv.com/logo_uchannel_big1.png" tvg-logo="" group-title="C-Religi",U-Channel
-http://210.210.155.35/x6bnqe/s/s73/S4/mnf.m3u8
+https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel.m3u8
+##http://210.210.155.35/x6bnqe/s/s73/S4/mnf.m3u8
 
 <!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha-->
 <!--#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz-->

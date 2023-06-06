@@ -26,7 +26,7 @@ https://kusnadipepenk.github.io/campeign/tvone.m3u8
 http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=683095&extension=m3u8&play_token=xdbt7BgLik
 ##http://210.210.155.35/dr9445/h/h10/02.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",JTV
-http://rr3.dens.tv/s/s91/index.m3u8
+http://rr3.dens.tv/s/s91/S4/mnf.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",ELSHINTA TV
 http://210.210.155.35:80/session/9064e496-2ed8-11eb-9242-b82a72d63267/qwr9ew/s/s10/02.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",TVRI2

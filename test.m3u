@@ -1,29 +1,29 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",NET.TV
-https://kusnadipepenk.github.io/campeign/netv.m3u8
+http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=683093&extension=m3u8&play_token=xdbt7BgLik
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",TRANSTV(alt)
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1317535298_b544100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",TRANS7(alt)
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1820541708_b744100_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",RCTI
-https://kusnadipepenk.github.io/campeign/rcti.m3u8
+http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=683099&extension=m3u8&play_token=xdbt7BgLik
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",SCTV
 https://kusnadipepenk.github.io/campeign/sctv.m3u8
 ##http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/02.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",MNCtv
-https://kusnadipepenk.github.io/campeign/mnc.m3u8
+http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=683098&extension=m3u8&play_token=xdbt7BgLik
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",INDOSIAR
 https://kusnadipepenk.github.io/campeign/indos.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",ANTV
 ##http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/02.m3u8
 https://kusnadipepenk.github.io/campeign/antv.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",GLOBALTV
-https://kusnadipepenk.github.io/campeign/global.m3u8
+http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=683121&extension=m3u8&play_token=xdbt7BgLik
 #EXTINF:-1  group-title="LOKAL NASIONAL",TV ONE
 https://kusnadipepenk.github.io/campeign/tvone.m3u8
 ##http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105/02.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",RTV
-https://kusnadipepenk.github.io/campeign/rtv.m3u8
+http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=683095&extension=m3u8&play_token=xdbt7BgLik
 ##http://210.210.155.35/dr9445/h/h10/02.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",JTV
 http://rr3.dens.tv/s/s91/index.m3u8
@@ -50,7 +50,5 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-48
 https://kusnadipepenk.github.io/campeign/idx.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" tvg-logo="" group-title="LOKAL NASIONAL",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1725438040_b192000_sleng.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/News_Live_title_card.jpg" group-title=""LOKAL NASIONAL",BBC WORLD
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/News_Live_title_card.jpg" group-title="LOKAL NASIONAL",SeA Todays
 https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8

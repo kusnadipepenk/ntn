@@ -788,7 +788,7 @@ https://anevia114.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
 https://anevia114.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 ##http://rr.dens.tv/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Family_Channel_Trial-
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_new-myfamily_big.png" group-title="C-Movies",Paramount
+#EXTINF:-1 tvg-logo="hg" group-title="C-Movies",Paramount
 https://kusnadipepenk.github.io/campeign/prmont.m3u8
 
 <!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha-->
@@ -1055,3 +1055,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=53
 
 #EXTINF:-1  tvg-logo="" group-title="TV MANCANEGARA-FILM",ION
 https://scripps-ion-1-us.samsung.wurl.tv/playlist_960x540_2000k.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="TV MANCANEGARA-FILM",Circle
+https://circle-roku.amagi.tv/playlist.m3u8
+

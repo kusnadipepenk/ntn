@@ -839,6 +839,9 @@ https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.m
 #EXTINF:-1 tvg-logo="test/cgtndoc.png" group-title="C-Entertainment",Channel U-
 https://kusnadipepenk.github.io/campeign/chanyu.m3u8
 
+#EXTINF:-1 tvg-logo="test/cgtndoc.png" group-title="C-Entertainment",Formosa TV
+https://kusnadipepenk.github.io/campeign/formosa.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz

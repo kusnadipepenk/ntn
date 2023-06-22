@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=m3u8&stream=594509
+http://ddy1.cdnhks.lol/ddy1/premium123/tracks-v1a1/mono.m3u8
+##http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=m3u8&stream=594509
 ##http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=809796&extension=m3u8&play_token=xdbt7BgLik
 ##http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:eb:c5&stream=40668&extension=m3u8&play_token=
 ##http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=646977&extension=m3u8&play_token=xdbt7BgLik

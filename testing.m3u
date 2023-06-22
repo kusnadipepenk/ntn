@@ -551,9 +551,15 @@ https://kusnadipepenk.github.io/ntn/arns3.m3u8
 #EXTINF:-1  tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport4.png" group-title="C-Sports",Arena 4 Sport
 https://kusnadipepenk.github.io/ntn/arns4.m3u8
 #EXTINF:-1 group-title="C-Sports",True Football 1
-https://kusnadipepenk.github.io/ntn/truf1.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://youdooball.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+##https://kusnadipepenk.github.io/ntn/truf1.m3u8
 #EXTINF:-1 group-title="C-Sports",True Football 2
-https://kusnadipepenk.github.io/ntn/truf2.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://youdooball.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+##https://kusnadipepenk.github.io/ntn/truf2.m3u8
 #EXTINF:-1 group-title="C-Sports",SuperSport Motor
 https://kusnadipepenk.github.io/ntn/vspom.m3u8
 #EXTINF:-1 group-title="C-Sports",ESPN

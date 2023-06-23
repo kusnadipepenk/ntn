@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=148668&extension=m3u8&play_token=xdbt7BgLik107433
+http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=148668&extension=m3u8&play_token=xdbt7BgLik107433
 ##http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=68997&extension=m3u8
 ##http://clientsportals.com:2095/play/live.php?mac=00:1A:79:00:04:02&stream=68997&extension=m3u8&play_token=msUKooUfNl
 ##http://foxx-iptv.eu:8080/play/live.php?mac=00:1A:79:B3:C4:17&stream=461179&extension=ts&play_token=XePxwUZ2Zr

@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=724561&extension=m3u8&play_token=xdbt7BgLik
+http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=724561&extension=m3u8&play_token=xdbt7BgLik
 ##http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=26505&extension=m3u8&play_token
 ##http://204.12.247.162:8080/premium426/mono.m3u8

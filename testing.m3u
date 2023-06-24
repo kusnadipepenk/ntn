@@ -634,7 +634,7 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/disn.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/JBh6DYD/aniplus.jpg" group-title="C-Kids",Aniplus
-http://210.210.155.35/session/5a96d1bc-6a30-11e9-afe2-91cea6c769ee/dr9445/h/h02/02.m3u8
+https://kusnadipepenk.github.io/campeign/anplus.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz

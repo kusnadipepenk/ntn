@@ -550,7 +550,10 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-040/stream.mpd
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
 
 #EXTINF:-1  tvg-logo="" group-title="C-Sports",ASSP 1
-https://kusnadipepenk.github.io/ntn/asp1.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
+https://webudit.cdnhks.lol/lb/premium123/index.m3u8
+##https://kusnadipepenk.github.io/ntn/asp1.m3u8
 #EXTINF:-1  tvg-logo="" group-title="C-Sports",ASSP 2
 https://kusnadipepenk.github.io/ntn/asp2.m3u8
 #EXTINF:-1  tvg-logo="" group-title="C-Sports",ASSP 3
@@ -598,7 +601,10 @@ https://youdooball.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
 https://youdooball.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 ##https://kusnadipepenk.github.io/ntn/truf2.m3u8
 #EXTINF:-1 group-title="C-Sports",SuperSport Motor
-https://kusnadipepenk.github.io/ntn/vspom.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
+https://webudit.cdnhks.lol/lb/premium424/index.m3u8
+##https://kusnadipepenk.github.io/ntn/vspom.m3u8
 #EXTINF:-1 group-title="C-Sports",ESPN
 https://kusnadipepenk.github.io/ntn/espn.m3u8
 
@@ -623,7 +629,10 @@ https://kusnadipepenk.github.io/ntn/elesp3.m3u8
 #EXTINF:-1 group-title="C-Sports",Golf Supersport
 https://kusnadipepenk.github.io/ntn/golf2.m3u8
 #EXTINF:-1 group-title="C-Sports",Sky Sport GOLF
-https://kusnadipepenk.github.io/ntn/golf.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
+https://webudit.cdnhks.lol/lb/premium70/index.m3u8
+##https://kusnadipepenk.github.io/ntn/golf.m3u8
 #EXTINF:-1 group-title="C-Sports" tvg-id="" tvg-logo="",GOLF+
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 
@@ -631,6 +640,14 @@ https://kusnadipepenk.github.io/ntn/golf.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="C-Sports",NBA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
+https://webudit.cdnhks.lol/lb/premium404/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/007/688/918/small/golf-sport-logo-free-vector.jpg" group-title="C-Sports",NBC Golf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
+https://webudit.cdnhks.lol/lb/premium318/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz

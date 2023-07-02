@@ -72,6 +72,9 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6ebd82
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="C-Nasional",iNewsTV
 https://anevia114.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="C-Nasional",iNewsTV (alt)
+https://cdn09jtedge.indihometv.com/dvr/139/inews/manifest.mpd?o1=194575080&o2=194575000&o3=194575000&o4=194575000&oa=194575000
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/pimages/logo_trans7_small1.png" group-title="C-Nasional",Trans 7

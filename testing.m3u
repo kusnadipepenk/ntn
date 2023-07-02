@@ -624,6 +624,13 @@ https://kusnadipepenk.github.io/ntn/elesp3.m3u8
 https://kusnadipepenk.github.io/ntn/golf2.m3u8
 #EXTINF:-1 group-title="C-Sports",Sky Sport GOLF
 https://kusnadipepenk.github.io/ntn/golf.m3u8
+#EXTINF:-1 group-title="C-Sports" tvg-id="" tvg-logo="",GOLF+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -852,7 +859,7 @@ https://anevia114.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
 https://anevia114.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 ##http://rr.dens.tv/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Family_Channel_Trial-
 
-#EXTINF:-1 tvg-logo="hg" group-title="C-Movies",Paramount
+#EXTINF:-1 tvg-logo="" group-title="C-Movies",Paramount
 https://kusnadipepenk.github.io/campeign/prmont.m3u8
 
 <!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha-->

@@ -7,6 +7,9 @@ https://cdn09jtedge.indihometv.com/dvr/139/antv/manifest.mpd?o1=1633427080&o2=16
 #EXTINF:-1  tvg-logo="" group-title="Livestream Alt",indosiar indihome
 https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd?o1=194575080&o2=194575000&o3=194575000&o4=194575000&oa=194575000
 
+#EXTINF:-1  tvg-logo="" group-title="Livestream Alt",kplus indihome
+https://cdn09jtedge.indihometv.com/dvr/139/kplus/manifest.mpd?o1=194575080&o2=194575000&o3=194575000&o4=194575000&oa=194575000
+
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz

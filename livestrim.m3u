@@ -4,6 +4,9 @@ https://cdn09jtedge.indihometv.com/dvr/139/antv/manifest.mpd?o1=1633427080&o2=16
 ##https://stream-02.sg1.dailymotion.com/sec(sdVP4ky6sYlWE27qaDlbfKNrWQIGu-1mWMIRFeyCELIu3SZJiMXas77Ebec03vRi)/dm/3/x8chy4s/s/live-3.m3u8#cell=lsg1
 ##https://stream-01.sg1.dailymotion.com/sec(sdVP4ky6sYlWE27qaDlbfI_KbX1OOwzKwDAVzhQXi_MPnOmtdO7H7AynKRAg38l2)/dm/3/x8chy4s/s/live-3.m3u8#cell=lsg1
 
+#EXTINF:-1  tvg-logo="" group-title="Livestream Alt",indosiar indihome
+https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd?o1=194575080&o2=194575000&o3=194575000&o4=194575000&oa=194575000
+
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz

@@ -569,6 +569,10 @@ https://kusnadipepenk.github.io/ntn/asp2.m3u8
 https://kusnadipepenk.github.io/ntn/asp3.m3u8
 #EXTINF:-1  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="C-Sports",ASSP 4
 https://kusnadipepenk.github.io/ntn/asp4.m3u8
+#EXTINF:-1  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport5_v1.png" group-title="C-Sports",ASSP 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
+https://webudit.cdnhks.lol/lb/premium127/index.m3u8
 #EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv1.png" group-title="C-Sports",Sporttv 1
 https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
 #EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2.png" group-title="C-Sports",Sporttv 2
@@ -584,7 +588,10 @@ https://kusnadipepenk.github.io/ntn/ele2.m3u8
 #EXTINF:-1  tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg" group-title="C-Sports",Eleven 3
 https://kusnadipepenk.github.io/ntn/ele3.m3u8
 #EXTINF:-1  tvg-logo="https://archive.org/download/SkySportsFootball_201708//sky%20sports%20football_thumb.jpg" group-title="C-Sports",Sky Sport Football
-https://kusnadipepenk.github.io/ntn/skyfut.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
+https://webudit.cdnhks.lol/lb/premium35/index.m3u8
+##https://kusnadipepenk.github.io/ntn/skyfut.m3u8
 #EXTINF:-1  tvg-logo="https://archive.org/download/SkySportsArena_201708/sky%20sports%20arena.png" group-title="C-Sports",Sky Sport Arena
 https://kusnadipepenk.github.io/ntn/skyare.m3u8
 #EXTINF:-1  tvg-logo="http://boomtivi.xyz/images/logos/DE/DAZN1.png" group-title="C-Sports",Dazn 1 Sport
@@ -617,23 +624,23 @@ https://kusnadipepenk.github.io/ntn/vspom.m3u8
 #EXTINF:-1 group-title="C-Sports",ESPN
 https://kusnadipepenk.github.io/ntn/espn.m3u8
 
-#EXTINF:-1 group-title="C-Sports",Sky Sport PL
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1507600205/1554.png" group-title="C-Sports",Sky Sport PL
 https://kusnadipepenk.github.io/ntn/skyprem.m3u8
 #EXTINF:-1 group-title="C-Sports",SuperSport PL
 https://kusnadipepenk.github.io/ntn/superprem.m3u8
-#EXTINF:-1 group-title="C-Sports",Sony Ten 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sony_TEN_logo.png/1200px-Sony_TEN_logo.png" group-title="C-Sports",Sony Ten 1
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
-#EXTINF:-1 group-title="C-Sports",Sony Ten 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sony_TEN_logo.png/1200px-Sony_TEN_logo.png" group-title="C-Sports",Sony Ten 2
 https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
-#EXTINF:-1 group-title="C-Sports",Sony Ten 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sony_TEN_logo.png/1200px-Sony_TEN_logo.png" group-title="C-Sports",Sony Ten 3
 https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
-#EXTINF:-1 group-title="C-Sports",Sony Ten 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sony_TEN_logo.png/1200px-Sony_TEN_logo.png" group-title="C-Sports",Sony Ten 4
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
-#EXTINF:-1 group-title="C-Sports",Eleven Sport 1
+#EXTINF:-1 tvg-logo="https://beisbolenvivo.com/wp-content/uploads/2023/04/dcr34.png" group-title="C-Sports",Eleven Sport 1
 https://kusnadipepenk.github.io/ntn/elesp1.m3u8
-#EXTINF:-1 group-title="C-Sports",Eleven Sport 2
+#EXTINF:-1 tvg-logo="https://beisbolenvivo.com/wp-content/uploads/2023/04/dcr34.png" group-title="C-Sports",Eleven Sport 2
 https://kusnadipepenk.github.io/ntn/elesp2.m3u8
-#EXTINF:-1 group-title="C-Sports",Eleven Sport 3
+#EXTINF:-1 tvg-logo="https://beisbolenvivo.com/wp-content/uploads/2023/04/dcr34.png" group-title="C-Sports",Eleven Sport 3
 https://kusnadipepenk.github.io/ntn/elesp3.m3u8
 #EXTINF:-1 group-title="C-Sports",Golf Supersport
 https://kusnadipepenk.github.io/ntn/golf2.m3u8

@@ -536,8 +536,8 @@ https://kusnadipepenk.github.io/ntn/bt3.m3u8
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/stream.mpd
 #EXTINF:-1  tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="C-Sports",Bein 1 (alt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium61/index.m3u8
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.cdnhks.lol/lb/premium61/index.m3u8|referer=https://streamservicehd.click/
 #EXTINF:-1  tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="C-Sports",Bein 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc-b-_pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
@@ -559,8 +559,8 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
 
 #EXTINF:-1  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="C-Sports",ASSP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
-https://webudit.cdnhks.lol/lb/premium123/index.m3u8
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
+https://webudit.cdnhks.lol/lb/premium123/index.m3u8|referer=https://streamservicehd.click/
 ##https://kusnadipepenk.github.io/ntn/asp1.m3u8
 #EXTINF:-1  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="C-Sports",ASSP 2
 https://kusnadipepenk.github.io/ntn/asp2.m3u8
@@ -570,8 +570,8 @@ https://kusnadipepenk.github.io/ntn/asp3.m3u8
 https://kusnadipepenk.github.io/ntn/asp4.m3u8
 #EXTINF:-1  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport5_v1.png" group-title="C-Sports",ASSP 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
-https://webudit.cdnhks.lol/lb/premium43/index.m3u8
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.cdnhks.lol/lb/premium43/index.m3u8|referrer=https://streamservicehd.click/ 
 #EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv1.png" group-title="C-Sports",Sporttv 1
 https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
 #EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2.png" group-title="C-Sports",Sporttv 2
@@ -588,8 +588,8 @@ https://kusnadipepenk.github.io/ntn/ele2.m3u8
 https://kusnadipepenk.github.io/ntn/ele3.m3u8
 #EXTINF:-1  tvg-logo="https://archive.org/download/SkySportsFootball_201708//sky%20sports%20football_thumb.jpg" group-title="C-Sports",Sky Sport Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
-https://webudit.cdnhks.lol/lb/premium35/index.m3u8
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.cdnhks.lol/lb/premium35/index.m3u8|referrer=https://streamservicehd.click/
 ##https://kusnadipepenk.github.io/ntn/skyfut.m3u8
 #EXTINF:-1  tvg-logo="https://archive.org/download/SkySportsArena_201708/sky%20sports%20arena.png" group-title="C-Sports",Sky Sport Arena
 https://kusnadipepenk.github.io/ntn/skyare.m3u8
@@ -617,7 +617,7 @@ https://youdooball.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 ##https://kusnadipepenk.github.io/ntn/truf2.m3u8
 #EXTINF:-1 group-title="C-Sports",SuperSport Motor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 ##https://webudit.cdnhks.lol/lb/premium424/index.m3u8
 https://kusnadipepenk.github.io/ntn/vspom.m3u8
 #EXTINF:-1 group-title="C-Sports",ESPN
@@ -645,8 +645,8 @@ https://kusnadipepenk.github.io/ntn/elesp3.m3u8
 https://kusnadipepenk.github.io/ntn/golf2.m3u8
 #EXTINF:-1 group-title="C-Sports",Sky Sport GOLF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
-##https://webudit.cdnhks.lol/lb/premium70/index.m3u8
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+##https://webudit.cdnhks.lol/lb/premium70/index.m3u8|referer=https://streamservicehd.click/
 https://kusnadipepenk.github.io/ntn/golf.m3u8
 #EXTINF:-1 group-title="C-Sports" tvg-id="" tvg-logo="",GOLF+
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -657,12 +657,12 @@ https://kusnadipepenk.github.io/ntn/golf.m3u8
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="C-Sports",NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
-https://webudit.cdnhks.lol/lb/premium404/index.m3u8
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.cdnhks.lol/lb/premium404/index.m3u8|referrer=https://streamservicehd.click/
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/007/688/918/small/golf-sport-logo-free-vector.jpg" group-title="C-Sports",NBC Golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
-https://webudit.cdnhks.lol/lb/premium318/index.m3u8
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
+https://webudit.onlinewebtv.lol/lb/premium318/index.m3u8|referrer=https://streamservicehd.click/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz

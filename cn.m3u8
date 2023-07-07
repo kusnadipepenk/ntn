@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=110897&extension=m3u8&play_token=xdbt7BgLik
+http://edge.linknetott.swiftserve.com/channelgroup2/cg218production/ch103/02.m3u8
+##http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=110897&extension=m3u8&play_token=xdbt7BgLik
 ##http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:eb:c5&stream=20941&extension=m3u8&play_token
 ##http://clientsportals.com:2095/play/live.php?mac=00:1A:79:AE:8E:4D&stream=9629&extension=m3u8&play_token=msUKooUfNl
 ##http://clientsportals.com:2095/live/d4Je5xwD/yadTXB63/9629.m3u8

@@ -563,11 +563,20 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
 https://webudit.cdnhks.lol/lb/premium123/index.m3u8|referer=https://streamservicehd.click/
 ##https://kusnadipepenk.github.io/ntn/asp1.m3u8
 #EXTINF:-1  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="C-Sports",ASSP 2
-https://kusnadipepenk.github.io/ntn/asp2.m3u8
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdnhks.lol/lb/premium124/index.m3u8
+##https://kusnadipepenk.github.io/ntn/asp2.m3u8
 #EXTINF:-1  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="C-Sports",ASSP 3
-https://kusnadipepenk.github.io/ntn/asp3.m3u8
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdnhks.lol/lb/premium125/index.m3u8
+##https://kusnadipepenk.github.io/ntn/asp3.m3u8
 #EXTINF:-1  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="C-Sports",ASSP 4
-https://kusnadipepenk.github.io/ntn/asp4.m3u8
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdnhks.lol/lb/premium126/index.m3u8
+##https://kusnadipepenk.github.io/ntn/asp4.m3u8
 #EXTINF:-1  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport5_v1.png" group-title="C-Sports",ASSP 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
@@ -623,7 +632,7 @@ https://kusnadipepenk.github.io/ntn/vspom.m3u8
 #EXTINF:-1 group-title="C-Sports",ESPN
 https://kusnadipepenk.github.io/ntn/espn.m3u8
 
-#EXTINF:-1 group-title="C-Sports",Sky SPort GP
+#EXTINF:-1 group-title="C-Sports",Sky SPort motoGP
 https://kusnadipepenk.github.io/ntn/skygp.m3u8
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1507600205/1554.png" group-title="C-Sports",Sky Sport PL
 https://kusnadipepenk.github.io/ntn/skyprem.m3u8

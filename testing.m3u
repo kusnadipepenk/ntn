@@ -534,6 +534,7 @@ https://kusnadipepenk.github.io/ntn/bt3.m3u8
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/stream.mpd
+
 #EXTINF:-1  tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="C-Sports",Bein 1 (alt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
@@ -547,6 +548,7 @@ https://webudit.cdnhks.lol/lb/premium91/index.m3u8|referer=https://streamservice
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-040/stream.mpd
+
 #EXTINF:-1  tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="C-Sports",Bein 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc-b-_pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
@@ -598,8 +600,8 @@ https://kusnadipepenk.github.io/ntn/ele3.m3u8
 #EXTINF:-1  tvg-logo="https://archive.org/download/SkySportsFootball_201708//sky%20sports%20football_thumb.jpg" group-title="C-Sports",Sky Sport Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.cdnhks.lol/lb/premium35/index.m3u8|referrer=https://streamservicehd.click/
-##https://kusnadipepenk.github.io/ntn/skyfut.m3u8
+##https://webudit.cdnhks.lol/lb/premium35/index.m3u8|referrer=https://streamservicehd.click/
+https://kusnadipepenk.github.io/ntn/skyfut.m3u8
 #EXTINF:-1  tvg-logo="https://archive.org/download/SkySportsArena_201708/sky%20sports%20arena.png" group-title="C-Sports",Sky Sport Arena
 https://kusnadipepenk.github.io/ntn/skyare.m3u8
 #EXTINF:-1  tvg-logo="http://boomtivi.xyz/images/logos/DE/DAZN1.png" group-title="C-Sports",Dazn 1 Sport
@@ -630,16 +632,18 @@ https://kusnadipepenk.github.io/ntn/arns2.m3u8
 https://kusnadipepenk.github.io/ntn/arns3.m3u8
 #EXTINF:-1  tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport4.png" group-title="C-Sports",Arena 4 Sport
 https://kusnadipepenk.github.io/ntn/arns4.m3u8
-#EXTINF:-1 group-title="C-Sports",True Football 1
+#EXTINF:-1 group-title="C-Sports",True PL Football 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/162591
 ##https://youdooball.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
-https://kusnadipepenk.github.io/ntn/truf1.m3u8
-#EXTINF:-1 group-title="C-Sports",True Football 2
+##https://kusnadipepenk.github.io/ntn/truf1.m3u8
+#EXTINF:-1 group-title="C-Sports",True PL Football 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/162592
 ##https://youdooball.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
-https://kusnadipepenk.github.io/ntn/truf2.m3u8
+##https://kusnadipepenk.github.io/ntn/truf2.m3u8
 #EXTINF:-1 group-title="C-Sports",SuperSport Motor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
@@ -649,7 +653,8 @@ https://kusnadipepenk.github.io/ntn/vspom.m3u8
 https://kusnadipepenk.github.io/ntn/espn.m3u8
 
 #EXTINF:-1 group-title="C-Sports",Sky SPort motoGP
-https://kusnadipepenk.github.io/ntn/skygp.m3u8
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/9880
+##https://kusnadipepenk.github.io/ntn/skygp.m3u8
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1507600205/1554.png" group-title="C-Sports",Sky Sport PL
 https://kusnadipepenk.github.io/ntn/skyprem.m3u8
 #EXTINF:-1 group-title="C-Sports",SuperSport PL
@@ -689,7 +694,8 @@ https://webudit.cdnhks.lol/lb/premium404/index.m3u8|referrer=https://streamservi
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/007/688/918/small/golf-sport-logo-free-vector.jpg" group-title="C-Sports",NBC Golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
-https://webudit.onlinewebtv.lol/lb/premium318/index.m3u8|referrer=https://streamservicehd.click/
+##https://webudit.onlinewebtv.lol/lb/premium318/index.m3u8|referrer=https://streamservicehd.click/
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/5845
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz

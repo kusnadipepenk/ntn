@@ -562,8 +562,8 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
 #EXTINF:-1  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="C-Sports",ASSP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
-https://webudit.cdnhks.lol/lb/premium123/index.m3u8|referer=https://streamservicehd.click/
-##https://kusnadipepenk.github.io/ntn/asp1.m3u8
+##https://webudit.cdnhks.lol/lb/premium123/index.m3u8|referer=https://streamservicehd.click/
+https://kusnadipepenk.github.io/ntn/asp1.m3u8
 #EXTINF:-1  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="C-Sports",ASSP 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -673,12 +673,9 @@ https://kusnadipepenk.github.io/ntn/elesp1.m3u8
 https://kusnadipepenk.github.io/ntn/elesp2.m3u8
 #EXTINF:-1 tvg-logo="https://beisbolenvivo.com/wp-content/uploads/2023/04/dcr34.png" group-title="C-Sports",Eleven Sport 3
 https://kusnadipepenk.github.io/ntn/elesp3.m3u8
-#EXTINF:-1 group-title="C-Sports",Golf Supersport
+#EXTINF:-1 group-title="C-Sports",Supersport GOLF
 https://kusnadipepenk.github.io/ntn/golf2.m3u8
 #EXTINF:-1 group-title="C-Sports",Sky Sport GOLF
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-##https://webudit.cdnhks.lol/lb/premium70/index.m3u8|referer=https://streamservicehd.click/
 https://kusnadipepenk.github.io/ntn/golf.m3u8
 #EXTINF:-1 group-title="C-Sports" tvg-id="" tvg-logo="",GOLF+
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -908,19 +905,19 @@ https://kusnadipepenk.github.io/campeign/kplus.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/MCN.png/revision/latest/scale-to-width-down/250?cb=20200201131113" group-title="C-Movies",My Cinema
+#EXTINF:0 tvg-logo="https://icon.mammothtv.my.id/film/mcn.png" group-title="C-Movies",My Cinema
 https://anevia114.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
 ##http://rr.dens.tv/h/h192/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_HD
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mycinemaasia_big.png" group-title="C-Movies", My Cinema Asia
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mycinemaasia_big.png" group-title="C-Movies",My Cinema Asia
 https://anevia114.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
 ##http://rr.dens.tv/h/h193/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Asia
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_new-myfamily_big.png" group-title="C-Movies", My Family Channel
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_new-myfamily_big.png" group-title="C-Movies",My Family Channel
 https://anevia114.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 ##http://rr.dens.tv/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Family_Channel_Trial-
 

@@ -10,6 +10,11 @@ https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd?o1=194575080&o2
 #EXTINF:-1  tvg-logo="" group-title="Livestream Alt",kplus indihome
 https://cdn09jtedge.indihometv.com/dvr/139/kplus/manifest.mpd?o1=194575080&o2=194575000&o3=194575000&o4=194575000&oa=194575000
 
+#EXTINF:-1 group-title="TESTMPD" tvg-logo="",Bein
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+http://ddy1.cdnhks.lol/ddy1/premium123/tracks-v1a1/mono.m3u8
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"pallycon-customdata-v2": "eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6Ik1RRFQiLCJ1c2VyX2lkIjoiMTI4MzI5NDUwIiwiY2lkIjoiODhiNmU3NTZmZDZlIiwicG9saWN5IjoiNWt4a1MyRytIbEhSb2Fnb1AwYU53ZjFiWXQxMEplWUoyaEJWejc4bGQyZ0JQckFFZTlnQ09vTm5tdUlJYkZ6MHRoSnhZa2hyaFNZeWhIanFLcWxvb3ZnbHVHd2lPTjNxMjdpQXVLU0F6cW96UnFaenppdTM5ZS95MEFYd3lLZnUiLCJ0aW1lc3RhbXAiOiIyMDIzLTA3LTA0VDA2OjMxOjU3WiIsImhhc2giOiJueStiMEQrbHoyYTlQeWQ3dTZqVnlYVmZoQWJZM2piM1NGeDRuM2ladkxRPSIsImtleV9yb3RhdGlvbiI6ZmFsc2V9"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash

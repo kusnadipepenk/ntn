@@ -31,7 +31,7 @@ https://etslive-2-vidio-com.akamaized.net/drm/dash/6786_stream.mpd
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.postimg.cc/kggxhb3Z/MNCTV.png", MNCTV (Trans)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://deerem-cubmu.pl-12537iptv.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.m3u8
+http://103.152.118.53/play/trans/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
 
 
 #EXTINF:-1  tvg-logo="" group-title="Livestream Alt",INews

@@ -10,27 +10,29 @@ https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd?o1=194575080&o2
 #EXTINF:-1  tvg-logo="" group-title="Livestream Alt",kplus indihome
 https://cdn09jtedge.indihometv.com/dvr/139/kplus/manifest.mpd?o1=194575080&o2=194575000&o3=194575000&o4=194575000&oa=194575000
 
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/pimages/logo_net_small1.png" group-title="C-Nasional",cinemachi
-https://anevia114.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
+#EXTINF:-1 tvg-id="ChampionsTV5.id"  tvg-logo="https://i.ibb.co/1zFCP3m/champions5.webp" group-title="𝙇𝙞𝙫𝙚 𝙊𝙣 𝘿𝙚𝙢𝙖𝙣𝙙",Champions TV 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ {"kty":"oct","k":"7zu0gOYxM5zjaQ1RnzKPvQ","kid":"yfN5XQodRrUF/VtdNJU97A"},{"kty":"oct","k":"","kid":""},{"kty":"oct","k":"","kid":""} ], "type":"temporary" }
+https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
 
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/pimages/logo_net_small1.png" group-title="C-Nasional",cinemachi kids
-https://anevia114.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-kids-HD.mpd
+
+#EXTINF:-1 tvg-id="ChampionsTV5.id"  tvg-logo="https://i.ibb.co/1zFCP3m/champions5.webp" group-title="𝙇𝙞𝙫𝙚 𝙊𝙣 𝘿𝙚𝙢𝙖𝙣𝙙",Champions TV 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ {"kty":"oct","k":"IPKOqoWSEo2iAyoMBfx7Eg","kid":"40pPe6jM/j9eFNhBOvjW+A"},{"kty":"oct","k":"","kid":""},{"kty":"oct","k":"","kid":""} ], "type":"temporary" }
+https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4c7ce1ed23d82d9/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+R7ZpSzALpMlUcnMl98M3A", "kid":"G8PmzFcNi69+3V1osb6gyQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="Vidio6785" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/JMlu8rFl1TSxhnX4jeio1KqsfDI=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg" group-title="𝙇𝙞𝙫𝙚 𝙊𝙣 𝘿𝙚𝙢𝙖𝙣𝙙", Champions TV 3
+https://etslive-2-vidio-com.akamaized.net/drm/dash/6786_stream.mpd
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.postimg.cc/kggxhb3Z/MNCTV.png", MNCTV (Trans)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://deerem-cubmu.pl-12537iptv.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.m3u8
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.postimg.cc/NFQ6Q8n8/cinemax-1.png",Cinemax 🇮🇩
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://s.id/1Os67
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="Livestream Alt",INews
 https://cdn09jtedge.indihometv.com/dvr/139/inews/manifest.mpd?o1=194575080&o2=194575000&o3=194575000&o4=194575000&oa=194575000

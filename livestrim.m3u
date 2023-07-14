@@ -10,25 +10,28 @@ https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd?o1=194575080&o2
 #EXTINF:-1  tvg-logo="" group-title="Livestream Alt",kplus indihome
 https://cdn09jtedge.indihometv.com/dvr/139/kplus/manifest.mpd?o1=194575080&o2=194575000&o3=194575000&o4=194575000&oa=194575000
 
-#EXTINF:-1 tvg-id="ChampionsTV5.id"  tvg-logo="https://i.ibb.co/1zFCP3m/champions5.webp" group-title="𝙇𝙞𝙫𝙚 𝙊𝙣 𝘿𝙚𝙢𝙖𝙣𝙙",Champions TV 1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ {"kty":"oct","k":"7zu0gOYxM5zjaQ1RnzKPvQ","kid":"yfN5XQodRrUF/VtdNJU97A"},{"kty":"oct","k":"","kid":""},{"kty":"oct","k":"","kid":""} ], "type":"temporary" }
-https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
-
-
-#EXTINF:-1 tvg-id="ChampionsTV5.id"  tvg-logo="https://i.ibb.co/1zFCP3m/champions5.webp" group-title="𝙇𝙞𝙫𝙚 𝙊𝙣 𝘿𝙚𝙢𝙖𝙣𝙙",Champions TV 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ {"kty":"oct","k":"IPKOqoWSEo2iAyoMBfx7Eg","kid":"40pPe6jM/j9eFNhBOvjW+A"},{"kty":"oct","k":"","kid":""},{"kty":"oct","k":"","kid":""} ], "type":"temporary" }
-https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4c7ce1ed23d82d9/index.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"pallycon-customdata-v2": "eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6Ik1RRFQiLCJ1c2VyX2lkIjoiMTI4MzI5NDUwIiwiY2lkIjoiODhiNmU3NTZmZDZlIiwicG9saWN5IjoiNWt4a1MyRytIbEhSb2Fnb1AwYU53ZjFiWXQxMEplWUoyaEJWejc4bGQyZ0JQckFFZTlnQ09vTm5tdUlJYkZ6MHRoSnhZa2hyaFNZeWhIanFLcWxvb3ZnbHVHd2lPTjNxMjdpQXVLU0F6cW96UnFaenppdTM5ZS95MEFYd3lLZnUiLCJ0aW1lc3RhbXAiOiIyMDIzLTA3LTA0VDA2OjMxOjU3WiIsImhhc2giOiJueStiMEQrbHoyYTlQeWQ3dTZqVnlYVmZoQWJZM2piM1NGeDRuM2ladkxRPSIsImtleV9yb3RhdGlvbiI6ZmFsc2V9"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license-global.pallycon.com/ri/licenseManager.do?
+#EXTINF:-1 group-title="TESTMPD" tvg-logo="https://i.postimg.cc/NFzZf23k/retro-tv-test-pattern-marianna-mills.jpg",BEIN 1
+https://etslive-2-vidio-com.akamaized.net/drm/dash/6299_stream.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"pallycon-customdata-v2": "eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6Ik1RRFQiLCJ1c2VyX2lkIjoiMTI4MzI5NDUwIiwiY2lkIjoiMzI0NzAwNDg2Y2ZmIiwicG9saWN5IjoiNWt4a1MyRytIbEhSb2Fnb1AwYU53ZjFiWXQxMEplWUoyaEJWejc4bGQyZ0JQckFFZTlnQ09vTm5tdUlJYkZ6MHRoSnhZa2hyaFNZeWhIanFLcWxvb3ZnbHVHd2lPTjNxMjdpQXVLU0F6cW96UnFaenppdTM5ZS95MEFYd3lLZnUiLCJ0aW1lc3RhbXAiOiIyMDIzLTA3LTA0VDA2OjMyOjIwWiIsImhhc2giOiI0cEdXSnFQMnBmQUpyV2FEbXI4a0l3M0VuOGtxMTkvWCtiT3RGKytiOUQ4PSIsImtleV9yb3RhdGlvbiI6ZmFsc2V9"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+R7ZpSzALpMlUcnMl98M3A", "kid":"G8PmzFcNi69+3V1osb6gyQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="Vidio6785" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/JMlu8rFl1TSxhnX4jeio1KqsfDI=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg" group-title="𝙇𝙞𝙫𝙚 𝙊𝙣 𝘿𝙚𝙢𝙖𝙣𝙙", Champions TV 3
-https://etslive-2-vidio-com.akamaized.net/drm/dash/6786_stream.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license-global.pallycon.com/ri/licenseManager.do?
+#EXTINF:-1 group-title="TESTMPD" tvg-logo="https://i.postimg.cc/NFzZf23k/retro-tv-test-pattern-marianna-mills.jpg",BEIN 3
+https://etslive-2-vidio-com.akamaized.net/drm/dash/6317_stream.mpd
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.postimg.cc/kggxhb3Z/MNCTV.png", MNCTV (Trans)
+#EXTINF:-1 group-title="TESTMPD" tvg-id="hboasia.sg" tvg-logo="https://i.postimg.cc/L5sJyx7W/hbo.png ",HBO (Trans)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.m3u8
+
+#EXTINF:-1 group-title="TESTMPD" tvg-logo="https://i.postimg.cc/kggxhb3Z/MNCTV.png", MNCTV (Trans)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://deerem-cubmu.pl-12537iptv.workers.dev/
 http://103.152.118.53/play/trans/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
@@ -77,30 +80,9 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e6475
 #EXTINF:-1  tvg-logo="" group-title="Livestream Alt",Bindo
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/rockaction 
-#EXTINF:-1 group-title="Livestream Alt" ,ROCK Action (Singapore Feed) 
-https://aqfadtv.xyz/live/mewatch/rockaction/index.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mstr
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="Livestream Alt",GTV
-https://anevia114.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-
-
-
 #EXTINF:-1  tvg-logo="" group-title="Livestream Alt",tesss
 https://ddy1.onlinewebtv.lol:443/ddy1/premium31/tracks-v1a1/mono.m3u8
 
-
-
-
-
-#EXTINF:-1 group-title="HBO Group" tvg-id="hboasia.sg" tvg-logo="https://i.postimg.cc/L5sJyx7W/hbo.png ",HBO (Trans)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.m3u8
 
 #EXTINF:-1 group-title="HBOGO" tvg-id="" tvg-logo="",gtv
 #KODIPROP:inputstreamaddon=inputstream.adaptive 

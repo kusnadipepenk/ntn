@@ -578,8 +578,9 @@ https://kusnadipepenk.github.io/ntn/asp2.m3u8
 #EXTINF:-1  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="C-Sports",ASSP 3
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://ddy1.cdnhks.lol/ddy1/premium125/tracks-v1a1/mono.m3u8
 ##https://webudit.cdnhks.lol/lb/premium125/index.m3u8
-https://kusnadipepenk.github.io/ntn/asp3.m3u8
+##https://kusnadipepenk.github.io/ntn/asp3.m3u8
 #EXTINF:-1  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="C-Sports",ASSP 4
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36

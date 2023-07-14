@@ -1,9 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-http://45.129.133.15:8080/live/3f6d5b2f/4b60123137/165105.m3u8
+http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=809796&extension=m3u8&play_token=xdbt7BgLik
 ##http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=m3u8&stream=594509
-##http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=809796&extension=m3u8&play_token=xdbt7BgLik
 ##http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:eb:c5&stream=40668&extension=m3u8&play_token=
 ##http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=646977&extension=m3u8&play_token=xdbt7BgLik
 ##http://clientsportals.com:2095/play/live.php?mac=00:1A:79:AE:8E:4D&stream=94486&extension=m3u8&play_token=msUKooUfNl

@@ -585,7 +585,7 @@ https://kusnadipepenk.github.io/ntn/asp3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 ##https://webudit.cdnhks.lol/lb/premium126/index.m3u8
 https://kusnadipepenk.github.io/ntn/asp4.m3u8
-#EXTINF:-1  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport5_v1.png" group-title="C-Sports",ASSP 5
+#EXTINF:-1  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="C-Sports",ASSP 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium43/index.m3u8|referrer=https://streamservicehd.click/ 
@@ -651,7 +651,7 @@ http://45.129.133.15:8080/3f6d5b2f/4b60123137/162591
 http://45.129.133.15:8080/3f6d5b2f/4b60123137/162592
 ##https://youdooball.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 ##https://kusnadipepenk.github.io/ntn/truf2.m3u8
-#EXTINF:-1 group-title="C-Sports",SuperSport Motor
+#EXTINF:-1 tvg-logo="https://techcentral.co.za/wp-content/uploads/2019/09/supersport-2156-1120.jpg" group-title="C-Sports",SuperSport Motor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 ##https://webudit.cdnhks.lol/lb/premium424/index.m3u8
@@ -659,13 +659,15 @@ https://kusnadipepenk.github.io/ntn/vspom.m3u8
 #EXTINF:-1 group-title="C-Sports",ESPN
 https://kusnadipepenk.github.io/ntn/espn.m3u8
 
-#EXTINF:-1 group-title="C-Sports",Sky SPort motoGP
+#EXTINF:-1 tvg-logo="https://techcentral.co.za/wp-content/uploads/2019/09/supersport-2156-1120.jpg" group-title="C-Sports",Sky SPort motoGP
 http://45.129.133.15:8080/3f6d5b2f/4b60123137/9880
 ##https://kusnadipepenk.github.io/ntn/skygp.m3u8
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1507600205/1554.png" group-title="C-Sports",Sky Sport PL
 https://kusnadipepenk.github.io/ntn/skyprem.m3u8
-#EXTINF:-1 group-title="C-Sports",SuperSport PL
+#EXTINF:-1 tvg-logo="https://techcentral.co.za/wp-content/uploads/2019/09/supersport-2156-1120.jpg" group-title="C-Sports",SuperSport PL
 https://kusnadipepenk.github.io/ntn/superprem.m3u8
+#EXTINF:-1 tvg-logo="https://techcentral.co.za/wp-content/uploads/2019/09/supersport-2156-1120.jpg" group-title="C-Sports",Supersport GOLF
+https://kusnadipepenk.github.io/ntn/golf2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sony_TEN_logo.png/1200px-Sony_TEN_logo.png" group-title="C-Sports",Sony Ten 1
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sony_TEN_logo.png/1200px-Sony_TEN_logo.png" group-title="C-Sports",Sony Ten 2
@@ -680,8 +682,6 @@ https://kusnadipepenk.github.io/ntn/elesp1.m3u8
 https://kusnadipepenk.github.io/ntn/elesp2.m3u8
 #EXTINF:-1 tvg-logo="https://beisbolenvivo.com/wp-content/uploads/2023/04/dcr34.png" group-title="C-Sports",Eleven Sport 3
 https://kusnadipepenk.github.io/ntn/elesp3.m3u8
-#EXTINF:-1 group-title="C-Sports",Supersport GOLF
-https://kusnadipepenk.github.io/ntn/golf2.m3u8
 #EXTINF:-1 group-title="C-Sports",Sky Sport GOLF
 https://kusnadipepenk.github.io/ntn/golf.m3u8
 #EXTINF:-1 group-title="C-Sports" tvg-id="" tvg-logo="",GOLF+

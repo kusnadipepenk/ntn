@@ -162,7 +162,7 @@ https://kusnadipepenk.github.io/campeign/moji.m3u8
 ##http://beetv.my.id/x/oxygen-moji-gojokkk.m3u8
 
 #EXTINF:-1 group-title="C-Nasional",Mentari TV
-http://103.152.118.53/streams/mentariteve/index.m3u8
+http://103.152.118.53/play/mentariteve/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz

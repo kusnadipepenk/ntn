@@ -49,7 +49,8 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e6475
 https://anevia114.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="C-Nasional",RCTI (alt)
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/157591
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157591
+##http://45.129.133.15:8080/3f6d5b2f/4b60123137/157591
 ##https://kusnadipepenk.github.io/campeign/rcti.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -166,7 +167,8 @@ https://kusnadipepenk.github.io/campeign/moji.m3u8
 ##http://beetv.my.id/x/oxygen-moji-gojokkk.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="C-Nasional",Moji Channel (alt)
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/298550
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298550
+##http://45.129.133.15:8080/3f6d5b2f/4b60123137/298550
 
 #EXTINF:-1 group-title="C-Nasional",Mentari TV
 http://103.152.118.53/play/mentariteve/index.m3u8
@@ -396,15 +398,16 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0c
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #EXTINF:-1 group-title="C-Movies" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115",HBO
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/197972
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/197972
+##http://45.129.133.15:8080/3f6d5b2f/4b60123137/197972
 #EXTINF:-1 group-title="C-Movies" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115",HBO Family
-http://45.129.133.15:8080/live/3f6d5b2f/4b60123137/197055.ts
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167197055
 #EXTINF:-1 group-title="C-Movies" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115",HBO Hits
-http://45.129.133.15:8080/live/3f6d5b2f/4b60123137/196480.ts
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/196480
 #EXTINF:-1 group-title="C-Movies" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature
-http://45.129.133.15:8080/live/3f6d5b2f/4b60123137/221948.ts
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/221948
 #EXTINF:-1 group-title="C-Movies" tvg-id="" tvg-logo="https://i.imgur.com/uB76Ft0.png",CINEMAX
-http://45.129.133.15:8080/live/3f6d5b2f/4b60123137/197964.ts
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/197964
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -567,7 +570,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/stream.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 ##https://webudit.cdnhks.lol/lb/premium91/index.m3u8|referer=https://streamservicehd.click/
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/165105
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165105
 ##https://kusnadipepenk.github.io/ntn/bs1.m3u8
 
 #EXTINF:-1  tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="C-Sports",Bein 2
@@ -670,13 +673,13 @@ https://kusnadipepenk.github.io/ntn/arns4.m3u8
 #EXTINF:-1 group-title="C-Sports",True PL Football 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/162591
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/162591
 ##https://youdooball.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
 ##https://kusnadipepenk.github.io/ntn/truf1.m3u8
 #EXTINF:-1 group-title="C-Sports",True PL Football 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/162592
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/162592
 ##https://youdooball.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 ##https://kusnadipepenk.github.io/ntn/truf2.m3u8
 #EXTINF:-1 tvg-logo="https://techcentral.co.za/wp-content/uploads/2019/09/supersport-2156-1120.jpg" group-title="C-Sports",SuperSport Motor
@@ -688,7 +691,7 @@ https://kusnadipepenk.github.io/ntn/vspom.m3u8
 https://kusnadipepenk.github.io/ntn/espn.m3u8
 
 #EXTINF:-1 tvg-logo="https://techcentral.co.za/wp-content/uploads/2019/09/supersport-2156-1120.jpg" group-title="C-Sports",Sky SPort motoGP
-http://45.129.133.15:8080/live/3f6d5b2f/4b60123137/9880.ts
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/9880
 ##https://kusnadipepenk.github.io/ntn/skygp.m3u8
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1507600205/1554.png" group-title="C-Sports",Sky Sport PL
 https://kusnadipepenk.github.io/ntn/skyprem.m3u8
@@ -727,7 +730,7 @@ https://webudit.cdnhks.lol/lb/premium404/index.m3u8|referrer=https://streamservi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
 ##https://webudit.onlinewebtv.lol/lb/premium318/index.m3u8|referrer=https://streamservicehd.click/
-http://45.129.133.15:8080/live/3f6d5b2f/4b60123137/5845.ts
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/5845
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -738,7 +741,7 @@ https://anevia114.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://kusnadipepenk.github.io/ntn/spotv1.m3u8
 
 #EXTINF:-1 group-title="C-Sports" tvg-id="" tvg-logo="https://i.ibb.co/s5xQfGD/Spotv.png",Spotv2 (alt)
-http://45.129.133.15:8080/live/3f6d5b2f/4b60123137/298571.ts
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298571
 ##https://kusnadipepenk.github.io/ntn/spotv2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -812,7 +815,7 @@ https://anevia114.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
 https://kusnadipepenk.github.io/ntn/cn.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="C-Kids",Cartoon Network
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/157593
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157593
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -821,7 +824,7 @@ http://45.129.133.15:8080/3f6d5b2f/4b60123137/157593
 ##https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="C-Kids",Boomerang (alt)
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/165109
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165109
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 

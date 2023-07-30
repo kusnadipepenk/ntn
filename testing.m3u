@@ -115,7 +115,8 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c
 https://anevia114.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/pimages/logo_antv_small1.png" group-title="C-Nasional",ANTV (alt)
-https://kusnadipepenk.github.io/campeign/antv.m3u8
+https://cdn09jtedge.indihometv.com/dvr/139/antv/manifest.mpd?o1=1633427080&o2=1633427000&o3=1633429000&o4=1633427000&oa=1633427000
+##https://kusnadipepenk.github.io/campeign/antv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz

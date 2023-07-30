@@ -1,7 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=683117&extension=m3u8&play_token=xdbt7BgLik
+http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=115304&extension=m3u8
+
+##http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=683117&extension=m3u8&play_token=xdbt7BgLik
 ##http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115684&extension=m3u8&play_token
 ##
 ##http://cod5.me/play/live.php?mac=00:1a:79:1e:4f:3a&stream=704415&extension=m3u8941564

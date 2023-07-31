@@ -283,7 +283,8 @@ https://kusnadipepenk.github.io/campeign/cnn.m3u8
 https://anevia114.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/rt.png" group-title="C-News",Sky News
-https://kusnadipepenk.github.io/campeign/skynew.m3u8
+https://d301yv2uyy17su.cloudfront.net/04_hd.m3u8
+##https://kusnadipepenk.github.io/campeign/skynew.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/rt.png" group-title="C-News",Metro GLobe Network
 https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist.m3u8
@@ -813,29 +814,28 @@ https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856b8d2390016b9c47b6f
 https://anevia114.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="C-Kids",Cartoon Network (alt)
-https://kusnadipepenk.github.io/ntn/cn.m3u8
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157593
+##https://kusnadipepenk.github.io/ntn/cn.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="C-Kids",Cartoon Network
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157593
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-##https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="C-Kids",Boomerang (alt)
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165109
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-##https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="C-Kids",Boomerang
-##https://anevia114.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
-https://kusnadipepenk.github.io/ntn/boom.m3u8
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165109
+##https://kusnadipepenk.github.io/ntn/boom.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz

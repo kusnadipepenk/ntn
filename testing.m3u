@@ -1197,16 +1197,23 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="TV MANCANEGARA-FILM",Star Movie
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/strmvi.m3u8
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/11511
+##https://raw.githubusercontent.com/kusnadipepenk/ntn/master/strmvi.m3u8
 #EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/101462-moviesnow.jpg" group-title="TV MANCANEGARA-FILM",Movies Now
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" group-title="TV MANCANEGARA-FILM",MN Plus
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnpls.m3u8
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/169118
+##https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="TV MANCANEGARA-FILM",Star Movie Select
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/267542
+##https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnpls.m3u8
 #EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2017/09/andPrive-HD_6.jpg" group-title="TV MANCANEGARA-FILM",AndPrive
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
-#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/andflix-logo.jpg" group-title="TV MANCANEGARA-FILM",AndFlix
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/49557
+##https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
+#EXTINF:-1 tvg-logo="o.jpg" group-title="TV MANCANEGARA-FILM",Sony Movies US
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/5831
+##https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 ##https://aqfadtv.xyz/live/&flix/index.m3u8
+#EXTINF:-1 tvg-logo="o.jpg" group-title="TV MANCANEGARA-FILM",World Movie
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/186984
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" group-title="TV MANCANEGARA-FILM",Sony PIX
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8

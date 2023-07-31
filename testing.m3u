@@ -510,9 +510,10 @@ https://kusnadipepenk.github.io/campeign/bluent.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://images.useetv.com/logo_blueant_small.png" group-title="C-Movies",Rock Entertainment
 https://anevia114.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 
-#EXTINF:0 tvg-id="" tvg-name="h" tvg-logo="https://images.useetv.com/logo_blueantext_small.png" group-title="C-Movies",Rock Extreme
+#EXTINF:0 tvg-id="" tvg-name="h" tvg-logo="https://images.useetv.com/logo_blueantext_small.png" group-title="C-Movies",Rock Action
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298490
 ##http://iptvid.my.id/hmm/rockext.m3u8
-https://kusnadipepenk.github.io/campeign/bluext.m3u8
+##https://kusnadipepenk.github.io/campeign/bluext.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png" group-title="C-Movies",KBSWorld
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
@@ -942,19 +943,22 @@ https://anevia114.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainme
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/hFrZwVC/VSDAD.png" group-title="C-Movies",tvN
 https://anevia114.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/hFrZwVC/VSDAD.png" group-title="C-Movies",tvN (alt)
-https://kusnadipepenk.github.io/campeign/tvn.m3u8
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197965
+##https://kusnadipepenk.github.io/campeign/tvn.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/WWfn1fR/XCFX.png" group-title="C-Movies",tvN Movies
 https://anevia114.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/WWfn1fR/XCFX.png" group-title="C-Movies",tvN Movies (alt)
-https://kusnadipepenk.github.io/campeign/tvnmovies.m3u8
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157596
+##https://kusnadipepenk.github.io/campeign/tvnmovies.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="C-Movies",K-Plus
-https://kusnadipepenk.github.io/campeign/kplus.m3u8
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197969
+##https://kusnadipepenk.github.io/campeign/kplus.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz

@@ -506,7 +506,7 @@ https://kusnadipepenk.github.io/campeign/bluent.m3u8
 https://anevia114.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="h" tvg-logo="https://images.useetv.com/logo_blueantext_small.png" group-title="C-Movies",Rock Action
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298490
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298490
 ##http://iptvid.my.id/hmm/rockext.m3u8
 ##https://kusnadipepenk.github.io/campeign/bluext.m3u8
 
@@ -938,7 +938,7 @@ https://anevia114.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainme
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/hFrZwVC/VSDAD.png" group-title="C-Movies",tvN
 https://anevia114.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/hFrZwVC/VSDAD.png" group-title="C-Movies",tvN (alt)
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197965
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/197965
 ##https://kusnadipepenk.github.io/campeign/tvn.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -946,13 +946,13 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197965
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/WWfn1fR/XCFX.png" group-title="C-Movies",tvN Movies
 https://anevia114.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/WWfn1fR/XCFX.png" group-title="C-Movies",tvN Movies (alt)
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157596
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157596
 ##https://kusnadipepenk.github.io/campeign/tvnmovies.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="C-Movies",K-Plus
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197969
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/197969
 ##https://kusnadipepenk.github.io/campeign/kplus.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1181,10 +1181,10 @@ https://xumo-redbox.ott-channels.stingray.com/108/master.m3u8
 https://kusnadipepenk.github.io/ntn/emtv.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="C-Music",Music CHoice
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/66088
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/66088
 
 #EXTINF:-1 tvg-logo="" group-title="C-Music",Prambors TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/264761
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264761
 
 #EXTINF:-1 group-title="C-Music",CMT music
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
@@ -1192,23 +1192,23 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="TV MANCANEGARA-FILM",Star Movie
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/11511
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/11511
 ##https://raw.githubusercontent.com/kusnadipepenk/ntn/master/strmvi.m3u8
 #EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/101462-moviesnow.jpg" group-title="TV MANCANEGARA-FILM",Movies Now
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/169118
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/169118
 ##https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="TV MANCANEGARA-FILM",Star Movie Select
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/267542
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/267542
 ##https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnpls.m3u8
 #EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2017/09/andPrive-HD_6.jpg" group-title="TV MANCANEGARA-FILM",AndPrive
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/49557
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/49557
 ##https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
 #EXTINF:-1 tvg-logo="o.jpg" group-title="TV MANCANEGARA-FILM",Sony Movies US
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/5831
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/5831
 ##https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 ##https://aqfadtv.xyz/live/&flix/index.m3u8
 #EXTINF:-1 tvg-logo="o.jpg" group-title="TV MANCANEGARA-FILM",World Movie
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/186984
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/186984
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" group-title="TV MANCANEGARA-FILM",Sony PIX
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8

@@ -18,7 +18,8 @@ https://kusnadipepenk.github.io/campeign/indos.m3u8
 ##http://iptvid.my.id/hmm/indosiar.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png" group-title="C-Nasional",Indosiar (Alt2)
-http://103.180.119.90:9911/stream/channelid/1706517786?profile=pass
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/162138
+##http://103.180.119.90:9911/stream/channelid/1706517786?profile=pass
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png" group-title="C-Nasional",Indosiar
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/02.m3u8

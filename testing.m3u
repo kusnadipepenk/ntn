@@ -1025,7 +1025,8 @@ https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.m
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
 #EXTINF:-1 tvg-logo="test/cgtndoc.png" group-title="C-Entertainment",Formosa TV
-https://kusnadipepenk.github.io/campeign/formosa.m3u8
+http://seb.sason.top/ptv/ftv.php?id=ms
+##https://kusnadipepenk.github.io/campeign/formosa.m3u8
 
 #EXTINF:-1 tvg-logo="test/cgtndoc.png" group-title="C-Entertainment",GEM TV
 https://kusnadipepenk.github.io/campeign/gem.m3u8

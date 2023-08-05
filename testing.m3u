@@ -741,8 +741,8 @@ https://anevia114.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://kusnadipepenk.github.io/ntn/spotv1.m3u8
 
 #EXTINF:-1 group-title="C-Sports" tvg-id="" tvg-logo="https://i.ibb.co/s5xQfGD/Spotv.png",Spotv2 (alt)
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298571
-##https://kusnadipepenk.github.io/ntn/spotv2.m3u8
+##http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298571
+https://kusnadipepenk.github.io/ntn/spotv2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz

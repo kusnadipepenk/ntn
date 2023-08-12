@@ -3,11 +3,11 @@
 #EXTINF:-1 group-title="GRATIS",Sky news
 https://kusnadipepenk.github.io/campeign/skynew.m3u8
 
-#EXTINF:-1 group-title="GRATIS",True football 1
-https://kusnadipepenk.github.io/ntn/truf1.m3u8
+#EXTINF:-1 group-title="GRATIS",Sportv 1
+https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="GRATIS",Star Movies
-https://kusnadipepenk.github.io/ntn/strmvi.m3u8
+#EXTINF:-1  tvg-logo="" group-title="GRATIS",Sony PIX
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF:-1 group-title="GRATIS",Eleven Sport 1
 https://kusnadipepenk.github.io/ntn/elesp1.m3u8
@@ -18,7 +18,7 @@ https://kusnadipepenk.github.io/campeign/cnn.m3u8
 ##http://cod5.me/play/live.php?mac=00:1a:79:1e:4f:3a&stream=704461&extension=ts
 
 #EXTINF:-1  tvg-logo="" group-title="GRATIS",Indosiar
-https://kusnadipepenk.github.io/campeign/indos.m3u8
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/162138
 
 #EXTINF:-1  tvg-logo="" group-title="GRATIS",SPOTV
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/spotv1.m3u8
@@ -33,15 +33,16 @@ https://kusnadipepenk.github.io/campeign/nika.m3u8
 #EXTINF:-1  tvg-logo="" group-title="GRATIS",BBC Earth2
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="GRATIS",RCTI
-https://kusnadipepenk.github.io/campeign/rcti.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="GRATIS",RCTI
+https://anevia114.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1  tvg-logo="" group-title="GRATIS",NET.TV
-https://kusnadipepenk.github.io/campeign/netv.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="GRATIS",MNCtv
-https://kusnadipepenk.github.io/campeign/mnc.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="GRATIS",MNCTV
+https://anevia114.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1  tvg-logo="" group-title="GRATIS",Formosa
-https://kusnadipepenk.github.io/campeign/formosa.m3u8
+
 

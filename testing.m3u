@@ -553,13 +553,10 @@ https://kusnadipepenk.github.io/ntn/bs1.m3u8
 #EXTVLCOPT--http-reconnect=true
 ##https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/stream.mpd
 
-#EXTINF:-1  tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="C-Sports",Bein 1 (alt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-##https://webudit.cdnhks.lol/lb/premium91/index.m3u8|referer=https://streamservicehd.click/
+#EXTINF:-1  tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="C-Sports",Bein 1 alt
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165105
 
-#EXTINF:-1  tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="C-Sports",Bein 2
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="C-Sports",Bein 2
 https://kusnadipepenk.github.io/ntn/bs2.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc-b-_pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
@@ -570,9 +567,8 @@ https://kusnadipepenk.github.io/ntn/bs2.m3u8
 #EXTVLCOPT--http-reconnect=true
 ##https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-040/stream.mpd
 
-#EXTINF:-1  tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="C-Sports",Bein 3s
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="C-Sports",Bein 3
 https://kusnadipepenk.github.io/ntn/bs3.m3u8
-##https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
 
 #EXTINF:-1  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="C-Sports",ASSP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -596,10 +592,7 @@ https://kusnadipepenk.github.io/ntn/asp3.m3u8
 ##https://webudit.cdnhks.lol/lb/premium126/index.m3u8|referrer=https://streamservicehd.click/
 https://kusnadipepenk.github.io/ntn/asp4.m3u8
 ##http://45.129.133.15:8080/3f6d5b2f/4b60123137/157558
-#EXTINF:-1  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="C-Sports",ASSP 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/287792
+
 ##https://webudit.cdnhks.lol/lb/premium43/index.m3u8|referrer=https://streamservicehd.click/ 
 #EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv1.png" group-title="C-Sports",Sporttv 1
 https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
@@ -634,15 +627,8 @@ https://kusnadipepenk.github.io/ntn/skyare.m3u8
 ##https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/64711
 ##https://kusnadipepenk.github.io/ntn/daz1.m3u8
+
 #EXTINF:-1  tvg-logo="http://boomtivi.xyz/images/logos/DE/DAZN2.png" group-title="C-Sports",Dazn 2 Sport
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc-b-_pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-##https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/64712
 
 #EXTINF:-1  tvg-logo="https://toploni.com/wp-content/uploads/2022/10/arena_sport_1.png" group-title="C-Sports",Arena 1 Sport

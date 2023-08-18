@@ -646,7 +646,8 @@ https://kusnadipepenk.github.io/ntn/skyare.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
+##https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/64711
 ##https://kusnadipepenk.github.io/ntn/daz1.m3u8
 #EXTINF:-1  tvg-logo="http://boomtivi.xyz/images/logos/DE/DAZN2.png" group-title="C-Sports",Dazn 2 Sport
 https://kusnadipepenk.github.io/ntn/daz2.m3u8
@@ -657,7 +658,8 @@ https://kusnadipepenk.github.io/ntn/daz2.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
+##https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/64712
 
 #EXTINF:-1  tvg-logo="https://toploni.com/wp-content/uploads/2022/10/arena_sport_1.png" group-title="C-Sports",Arena 1 Sport
 https://kusnadipepenk.github.io/ntn/arns1.m3u8

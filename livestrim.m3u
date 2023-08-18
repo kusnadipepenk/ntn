@@ -161,13 +161,12 @@ http://202.150.172.59:80/MNCTV/index.m3u8
 
 http://202.150.172.59:80/AXN/tracks-v1a1/mono.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:-1  tvg-logo="" group-title="Livestream Alt",fsdfsdf
-https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://drm-cubmu.mammothtv.workers.dev/license-proxy-widevine/cenc/?specConform=true 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTINF:-1 group-title="HBO Group" tvg-logo="https://i.postimg.cc/L5sJyx7W/hbo.png" tvg-id="hboasia.sg", HBO HD 
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 

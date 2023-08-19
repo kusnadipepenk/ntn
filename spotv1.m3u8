@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-http://edge.linknetott.swiftserve.com/channelgroup2/cg234production/ch329/02.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup2/cg234production/ch329/03.m3u8
 
 ##http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=683117&extension=m3u8&play_token=xdbt7BgLik
 ##http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115684&extension=m3u8&play_token

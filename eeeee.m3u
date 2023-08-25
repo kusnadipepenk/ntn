@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",NET.TV
 https://kusnadipepenk.github.io/campeign/netv.m3u8
-##https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(3ea35639-9807-470c-a701-50033b12abfb)/manifest.mpd
-##http://210.210.155.35/session/6141d55e-70a0-11e9-8180-b82a72d63267/qwr9ew/s/s08/02.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",TRANSTV
 https://kusnadipepenk.github.io/campeign/trns.m3u8
 ##http://rr2.dens.tv/s/s05/index.m3u8
@@ -20,13 +18,10 @@ https://kusnadipepenk.github.io/campeign/rcti.m3u8
 https://kusnadipepenk.github.io/campeign/sctv.m3u8
 ##http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/02.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",MNCtv
-##http://kuchini.site:8080/live/joeBt/e229c03d/165054.ts
-##http://cod5.me/play/live.php?mac=00:1a:79:1e:4f:3a&stream=704434&extension=ts
 https://kusnadipepenk.github.io/campeign/mnc.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",INDOSIAR
-http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/02.m3u8
+http://210.210.155.37/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",INDOSIAR 2
-##http://103.167.167.5:8111/play/a00r/index.m3u8
 https://kusnadipepenk.github.io/campeign/indos.m3u8
 ##http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.vidio.com/live/205-indosiar
 ##https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/205-indosiar
@@ -42,11 +37,11 @@ https://kusnadipepenk.github.io/campeign/tvone.m3u8
 https://kusnadipepenk.github.io/campeign/rtv.m3u8
 ##http://210.210.155.35/dr9445/h/h10/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="LOKAL NASIONAL",Moji ochanel
-##https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/206-moji
+http://210.210.155.37/qwr9ew/s/s41/01.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",JTV
-http://rr3.dens.tv/s/s91/index.m3u8
+##
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",ELSHINTA TV
-http://210.210.155.35:80/session/9064e496-2ed8-11eb-9242-b82a72d63267/qwr9ew/s/s10/02.m3u8
+##http://210.210.155.35:80/session/9064e496-2ed8-11eb-9242-b82a72d63267/qwr9ew/s/s10/02.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",TVRI
 ##http://210.210.155.35/qwr9ew/s/s11/01.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",TVRI2
@@ -85,7 +80,6 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1725438040_b
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/News_Live_title_card.jpg" group-title="BERITA",BBC WORLD
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
 #EXTINF:-1 group-title="BERITA",BBC NEWS
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/News_Live_title_card.jpg" group-title="BERITA",CNN NEWS
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_640x360_1200k.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/News_Live_title_card.jpg" group-title="BERITA",CNBC
@@ -340,19 +334,6 @@ https://kusnadipepenk.github.io/campeign/hbihit.m3u8
 https://kusnadipepenk.github.io/campeign/hbosi.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.seekpng.com/png/detail/223-2235525_hbo-logo-vector-hbo-png.png" group-title="HBOgrup",ID Cinemax
 https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",Hbo
-##http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/47020
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",hbo3
-##http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/653
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",max1
-##http://server.sibfungold.info:8080/eurotv-iptveu/bxdTtmPF1C/46033
-##http://189.91.128.146:4444/udp/227.10.20.96:1234
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO1
-##http://kuchini.site:8080/live/joeBt/e229c03d/197972.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBO2
-##http://kuchini.site:8080/live/joeBt/e229c03d/196480.ts
-
 
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/realistic-cinema-advertising-poster-popcorn-260nw-1411840919.jpg" group-title="MOVIES",A&E

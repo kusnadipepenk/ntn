@@ -123,12 +123,12 @@ https://kusnadipepenk.github.io/campeign/tvone.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/daaitv.png" group-title="C-Nasional",DAAI TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Nasional.png?raw=true" group-title="C-Nasional",DAAI TV
 https://anevia114.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/jtv.png" group-title="C-Nasional",JTV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Nasional.png?raw=true" group-title="C-Nasional",JTV
 https://anevia114.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -138,7 +138,7 @@ https://anevia114.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/balitv.png" group-title="C-Nasional",BALI TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Nasional.png?raw=true" group-title="C-Nasional",BALI TV
 https://anevia114.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -148,7 +148,7 @@ https://anevia114.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/bandungtv.png" group-title="C-Nasional",BandungTV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Nasional.png?raw=true" group-title="C-Nasional",BandungTV
 https://anevia114.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
 <!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha-->
@@ -158,7 +158,7 @@ https://anevia114.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="C-Nasional",Moji Channel
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Nasional.png?raw=true" group-title="C-Nasional",Moji Channel
 https://kusnadipepenk.github.io/campeign/moji.m3u8
 ##http://210.210.155.35/qwr9ew/s/s41/01.m3u8
 ##http://beetv.my.id/x/oxygen-moji-gojokkk.m3u8

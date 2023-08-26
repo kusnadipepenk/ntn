@@ -158,12 +158,12 @@ https://anevia114.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Nasional.png?raw=true" group-title="C-Nasional",Moji Channel
+#EXTINF:0 tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Nasional.png?raw=true" group-title="C-Nasional",Moji Channel
 https://kusnadipepenk.github.io/campeign/moji.m3u8
 ##http://210.210.155.35/qwr9ew/s/s41/01.m3u8
 ##http://beetv.my.id/x/oxygen-moji-gojokkk.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="C-Nasional",Moji Channel (alt)
+#EXTINF:0 tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Nasional.png?raw=true" group-title="C-Nasional",Moji Channel (alt)
 http://103.166.27.2:800/play/a017
 ##http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298550
 ##http://45.129.133.15:8080/3f6d5b2f/4b60123137/298550
@@ -212,7 +212,7 @@ https://anevia114.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="C-News",Bloomberg
+#EXTINF:0 tvg-id="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Movies.png?raw=true" group-title="C-News",Bloomberg
 https://anevia114.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -322,27 +322,27 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="C-Movies",Cinemachi
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Movies.png?raw=true" group-title="C-Movies",Cinemachi
 https://anevia114.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="C-Kids",Cinemachi kids
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Kids.png?raw=true" group-title="C-Kids",Cinemachi kids
 https://anevia114.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="C-Movies",Cinemachi Action
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Movies.png?raw=true" group-title="C-Movies",Cinemachi Action
 https://anevia114.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="hng" group-title="C-Movies",Cinemachi Max
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Movies.png?raw=true" group-title="C-Movies",Cinemachi Max
 https://anevia114.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="C-Movies",Cinemachi Xtra
+#EXTINF:0 tvg-id="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Movies.png?raw=true" group-title="C-Movies",Cinemachi Xtra
 https://anevia114.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -441,10 +441,10 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533f
 ##https://anevia114.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 ##https://kusnadipepenk.github.io/ntn/wrnr.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="C-Movies",Citra Bioskop
+#EXTINF:0 tvg-id="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Movies.png?raw=true" group-title="C-Movies",Citra Bioskop
 https://kusnadipepenk.github.io/campeign/citbiosk.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="C-Movies",Bioskop Indonesia
+#EXTINF:0 tvg-id="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Movies.png?raw=true" group-title="C-Movies",Bioskop Indonesia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://drm-cubmu.mammothtv.workers.dev/license-proxy-widevine/cenc/?specConform=true 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
@@ -542,7 +542,7 @@ https://kusnadipepenk.github.io/ntn/bt2.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_4_2022_WHITE_RGB.png" group-title="C-Sports",BT Sport 3
 https://kusnadipepenk.github.io/ntn/bt3.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="C-Sports",Bein 3X
+#EXTINF:-1 tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Sports.png?raw=true" group-title="C-Sports",Bein 3X
 https://kusnadipepenk.github.io/ntn/bs4.m3u8
 
 #EXTINF:-1  tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="C-Sports",Bein 1
@@ -704,7 +704,7 @@ https://kusnadipepenk.github.io/ntn/elesp2.m3u8
 https://kusnadipepenk.github.io/ntn/elesp3.m3u8
 #EXTINF:-1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/2/7/8/1344278_skysportslogo_138219.jpg" group-title="C-Sports",Sky Sport GOLF
 https://kusnadipepenk.github.io/ntn/golf.m3u8
-#EXTINF:-1 group-title="C-Sports" tvg-id="" tvg-logo="",GOLF+
+#EXTINF:-1 group-title="C-Sports" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Sports.png?raw=true",GOLF+
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -768,13 +768,13 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/disn.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/JBh6DYD/aniplus.jpg" group-title="C-Kids",Aniplus
 https://kusnadipepenk.github.io/campeign/anplus.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="C-Kids",Davinchi Kids
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Kids.png?raw=true" group-title="C-Kids",Davinchi Kids
 https://kusnadipepenk.github.io/campeign/dapinci.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="C-Kids",Horee
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Kids.png?raw=true" group-title="C-Kids",Horee
 https://kusnadipepenk.github.io/campeign/hore.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="C-Kids",ABC Kids
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Kids.png?raw=true" group-title="C-Kids",ABC Kids
 https://c.mjh.nz/abc-kids.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -787,7 +787,7 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 <!--#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/disneyxd.png" group-title="C-Kids",Disney XD-->
 <!--https://anevia114.mncnow.id/live/eds/DisneyXD/sa_dash_vmx/DisneyXD.mpd-->
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="C-Kids",Cartoon Premium
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Kids.png?raw=true" group-title="C-Kids",Cartoon Premium
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://drm-cubmu.mammothtv.workers.dev/license-proxy-widevine/cenc/?specConform=true 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
@@ -795,7 +795,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856b8d2390016b9c47b6f
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="C-Kids",Dreamwork
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Kids.png?raw=true" group-title="C-Kids",Dreamwork
 https://anevia114.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="C-Kids",Cartoon Network (alt)
@@ -843,7 +843,7 @@ https://anevia114.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png" group-title="C-Kids",Nick Jr
 https://anevia114.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="C-Kids",Disney CH
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Kids.png?raw=true" group-title="C-Kids",Disney CH
 https://kusnadipepenk.github.io/campeign/disch.m3u8
 ##http://208.86.19.13:81/14.stream/index.m3u8
 
@@ -863,13 +863,13 @@ https://kusnadipepenk.github.io/campeign/afc.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/tlc.png" group-title="C-Lifestyle",TLC (alt)
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Lifestyle.png?raw=trueg" group-title="C-Lifestyle",TLC (alt)
 ##https://anevia114.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 https://kusnadipepenk.github.io/ntn/tlc.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/fmn.png" group-title="C-Lifestyle",FMN
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Lifestyle.png?raw=true" group-title="C-Lifestyle",FMN
 https://anevia114.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -878,37 +878,37 @@ https://anevia114.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 ##https://anevia114.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 https://kusnadipepenk.github.io/ntn/hgtv.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/lifetime.png" group-title="C-Lifestyle",Fashion TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Lifestyle.png?raw=true" group-title="C-Lifestyle",Fashion TV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="C-Lifestyle",MNC Lifestyle & Fashion
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Lifestyle.png?raw=true" group-title="C-Lifestyle",MNC Lifestyle & Fashion
 https://anevia114.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/lifetime.png" group-title="C-Lifestyle",Lifetime
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Lifestyle.png?raw=true" group-title="C-Lifestyle",Lifetime
 https://anevia114.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/oktv.png" group-title="C-Lifestyle",OKTV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Lifestyle.png?raw=true" group-title="C-Lifestyle",OKTV
 https://anevia114.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/visionprime.png" group-title="C-Lifestyle",Vision Prime
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Lifestyle.png?raw=true" group-title="C-Lifestyle",Vision Prime
 https://anevia114.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/ie.png" group-title="C-Lifestyle",Infotainment
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Lifestyle.png?raw=true" group-title="C-Lifestyle",Infotainment
 https://anevia114.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/ent.png" group-title="C-Lifestyle",MNC Entertainment
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Lifestyle.png?raw=true" group-title="C-Lifestyle",MNC Entertainment
 https://anevia114.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -949,7 +949,7 @@ https://anevia114.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
 https://anevia114.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 ##http://rr.dens.tv/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Family_Channel_Trial-
 
-#EXTINF:-1 tvg-logo="" group-title="C-Movies",Paramount
+#EXTINF:-1 tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Movies.png?raw=true" group-title="C-Movies",Paramount
 https://kusnadipepenk.github.io/campeign/prmont.m3u8
 
 <!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha-->
@@ -964,27 +964,27 @@ https://anevia114.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/hunantv.png" group-title="C-Entertainment",Hunan TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Entertainmen.png?raw=true" group-title="C-Entertainment",Hunan TV
 https://anevia114.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/dragontv.png" group-title="C-Entertainment",Dragon TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Entertainmen.png?raw=true" group-title="C-Entertainment",Dragon TV
 https://anevia114.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/jiangsutv.png" group-title="C-Entertainment",Jiangsu TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Entertainmen.png?raw=true" group-title="C-Entertainment",Jiangsu TV
 https://anevia114.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/xingxong.png" group-title="C-Entertainment",Xingkong TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Entertainmen.png?raw=true" group-title="C-Entertainment",Xingkong TV
 https://anevia114.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/nhkworld.png" group-title="C-Entertainment",NHK World TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Entertainmen.png?raw=true" group-title="C-Entertainment",NHK World TV
 https://anevia114.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1003,16 +1003,16 @@ https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.m
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 ##https://kusnadipepenk.github.io/campeign/chanyu.m3u8
 
-#EXTINF:-1 tvg-logo="test/cgtndoc.png" group-title="C-Entertainment",Channel 5
+#EXTINF:-1 tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Entertainmen.png?raw=true" group-title="C-Entertainment",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cloudtv-playback.stackstaging.com/astrogo.com.my/live/results.php?keyid=607b7d22565c4bc3b95ff6c33ce65425&key=28cc5367df666c44be4382e64af64d57
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
-#EXTINF:-1 tvg-logo="test/cgtndoc.png" group-title="C-Entertainment",Formosa TV
+#EXTINF:-1 tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Entertainmen.png?raw=true" group-title="C-Entertainment",Formosa TV
 http://seb.sason.top/ptv/ftv.php?id=ms
 ##https://kusnadipepenk.github.io/campeign/formosa.m3u8
 
-#EXTINF:-1 tvg-logo="test/cgtndoc.png" group-title="C-Entertainment",GEM TV
+#EXTINF:-1 tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Entertainmen.png?raw=true" group-title="C-Entertainment",GEM TV
 https://kusnadipepenk.github.io/campeign/gem.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1022,7 +1022,7 @@ https://anevia114.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="test/cgtndoc.png" group-title="C-Knowledge",CGTN DOCUMENTARY
+#EXTINF:-1 tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Knowledge.png?raw=true" group-title="C-Knowledge",CGTN DOCUMENTARY
 https://anevia114.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1039,7 +1039,7 @@ https://kusnadipepenk.github.io/ntn/disc.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/bbcearth.png" group-title="C-Knowledge",BBC Earth
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Knowledge.png?raw=true" group-title="C-Knowledge",BBC Earth
 https://anevia114.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1082,7 +1082,7 @@ https://kusnadipepenk.github.io/ntn/discien.m3u8
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/134-1341950_discovery-turbo-logo-discovery-turbo.png" group-title="C-Knowledge",DISCOVERY Turbo
 https://kusnadipepenk.github.io/ntn/disturbo.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/a/a8/Travel_Channel.png" group-title="C-Knowledge" tvg-logo="",TRVL CH
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Travel_Channel.png" group-title="C-Knowledge",TRVL CH
 https://kusnadipepenk.github.io/campeign/trvl.m3u8
 
 
@@ -1098,23 +1098,23 @@ https://anevia114.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/muslimtv.png" group-title="C-Religi",Muslim TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Religi.png?raw=true" group-title="C-Religi",Muslim TV
 https://anevia114.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/tvmu.png" group-title="C-Religi",TVMU
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Religi.png?raw=true" group-title="C-Religi",TVMU
 https://anevia114.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/tv9.png" group-title="C-Religi",TV9
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Religi.png?raw=true" group-title="C-Religi",TV9
 https://anevia114.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/dcCRKCj/iam.jpg" group-title="C-Religi",IAM Channel
 http://iamchannel.org:1935/tes/1/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="https://images.useetv.com/logo_uchannel_big1.png" tvg-logo="" group-title="C-Religi",U-Channel
+#EXTINF:0 tvg-id="" tvg-name="https://github.com/kusnadipepenk/pajal/blob/main/Religi.png?raw=true" tvg-logo="" group-title="C-Religi",U-Channel
 https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel.m3u8
 ##http://210.210.155.35/x6bnqe/s/s73/S4/mnf.m3u8
 
@@ -1130,40 +1130,40 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/channelv.png" group-title="C-Music",Music Top
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Musik.png?raw=true" group-title="C-Music",Music Top
 ##https://anevia114.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="test/musictv.png" group-title="C-Music",Music Channel
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Musik.png?raw=true" group-title="C-Music",Music Channel
 https://anevia114.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="C-Music",Spirit TV
+#EXTINF:-1 tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Musik.png?raw=true" group-title="C-Music",Spirit TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="C-Music",Afrobeat
+#EXTINF:-1 tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Musik.png?raw=true" group-title="C-Music",Afrobeat
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 group-title="C-Music",Kpop
+#EXTINF:-1 tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Musik.png?raw=true" group-title="C-Music",Kpop
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="C-Music",Urban Trace
+#EXTINF:-1 tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Musik.png?raw=true" group-title="C-Music",Urban Trace
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="C-Music",Stingray Hits Music
+#EXTINF:-1 tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Musik.png?raw=true" group-title="C-Music",Stingray Hits Music
 https://xumo-redbox.ott-channels.stingray.com/155/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="C-Music",Stingray Hot Country
+#EXTINF:-1 tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Musik.png?raw=true" group-title="C-Music",Stingray Hot Country
 https://xumo-redbox.ott-channels.stingray.com/108/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="C-Music",MTV Live 
+#EXTINF:-1 tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Musik.png?raw=true" group-title="C-Music",MTV Live 
 https://kusnadipepenk.github.io/ntn/emtv.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="C-Music",Music CHoice
+#EXTINF:-1 tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Musik.png?raw=true" group-title="C-Music",Music CHoice
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz7/66088
 
-#EXTINF:-1 tvg-logo="" group-title="C-Music",Prambors TV
+#EXTINF:-1 tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Musik.png?raw=true" group-title="C-Music",Prambors TV
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/264761
 
-#EXTINF:-1 group-title="C-Music",CMT music
+#EXTINF:-1 tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Musik.png?raw=true" group-title="C-Music",CMT music
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
 

@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/pajal.png?raw=true" group-title="KONTAK ADMIN",Admin PAJALIPTV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/pajal.png?raw=true" group-title="",Admin PAJALIPTV
 https://raw.githubusercontent.com/kusnadipepenk/pajal/main/admin.m3u8
 
 ##https://stream-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd

@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/pajal.png?raw=true" group-title="KONTAK ADMIN",Admin PAJALIPTV
-https://github.com/kusnadipepenk/pajal/raw/main/0501.m38
+https://kusnadipepenk.github.io/campeign/trns.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",NET.TV
 https://kusnadipepenk.github.io/campeign/netv.m3u8

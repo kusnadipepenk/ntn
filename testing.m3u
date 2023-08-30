@@ -1177,17 +1177,19 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="TV MANCANEGARA-FILM",Star Movie
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/strmvi.m3u8
 #EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/101462-moviesnow.jpg" group-title="TV MANCANEGARA-FILM",Movies Now
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8
+http://humiptv.live:8080/tarun589853/5787489bcsh/152388
+##https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="TV MANCANEGARA-FILM",Star Movie Select
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/267542
 ##https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnpls.m3u8
 #EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2017/09/andPrive-HD_6.jpg" group-title="TV MANCANEGARA-FILM",AndPrive
-##http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/49557
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/49557
+##https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Movies.png?raw=true" group-title="TV MANCANEGARA-FILM",Sony Movies US
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/5831
 #EXTINF:-1 tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Movies.png?raw=true" group-title="TV MANCANEGARA-FILM",AndFlix
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
+http://humiptv.live:8080/tarun589853/5787489bcsh/253
+##https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 ##https://aqfadtv.xyz/live/&flix/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Movies.png?raw=true" group-title="TV MANCANEGARA-FILM",World Movie
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/186984
@@ -1242,12 +1244,179 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_4.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Movies.png?raw=true" group-title="TV MANCANEGARA-FILM",Electric Now
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=53
 
-#EXTINF:-1  tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Movies.png?raw=true" group-title="TV MANCANEGARA-FILM",ION
-https://scripps-ion-1-us.samsung.wurl.tv/playlist_960x540_2000k.m3u8
-
 #EXTINF:-1  tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Movies.png?raw=true" group-title="TV MANCANEGARA-FILM",Circle
 https://circle-roku.amagi.tv/playlist.m3u8
 
 
-<!-- VOD -->
 
+<!-- VOD International -->
+
+#EXTINF:-1 type="movie" tvg-logo="https://s5.makimbo.xyz/wp-content/uploads/2023/01/film-plane-2023-lk21-d21.jpg" group-title="VOD International",Plane (2023)
+#EXTVLCOPT:http-referrer=https://you.wendiella.sbs/new1.php?id=aadfb7efe9d8891ba804b874e37fcf5f4c588312
+https://you.wendiella.sbs/xxx/plane-2023/4/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="http://cgvindo.site/wp-content/uploads/2023/04/liLN69YgoovHVgmlHJ876PKi5Yi.jpg" group-title="VOD International",Ghosted (2023)
+#EXTVLCOPT:http-referrer=https://you.wendiella.sbs/new1.php?id=e9d48d4b6beca58d567cfc87f50a5741fa0e6404
+https://you.wendiella.sbs/xxx/ghosted-2023/9/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://s2.makimbo.xyz/wp-content/uploads/2023/04/film-65-2023-lk21-d21.jpg" group-title="VOD International",65 (2023)
+#EXTVLCOPT:http-referrer=https://you.wendiella.sbs/new1.php?id=692e0322d3b9a47ecbbe1bfa47f1d96fe51704e4
+https://you.wendiella.sbs/xxx/65-2023/9/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://s7.makimbo.xyz/wp-content/uploads/2023/04/film-hunger-2023-lk21-d21.jpg" group-title="VOD International",Hunger (2023)
+#EXTVLCOPT:http-referrer=https://you.wendiella.sbs/new1.php?id=7a0b68b6cb9a88914bc694a5ae64e536e5c8dd8e
+https://you.wendiella.sbs/xxx/hunger-2023/9/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://s2.makimbo.xyz/wp-content/uploads/2023/03/film-operation-fortune-ruse-de-guerre-2023-lk21-d21.jpg" group-title="VOD International",Operation Fortune (2023)
+#EXTVLCOPT:http-referrer=https://you.wendiella.sbs/new1.php?id=a36699c2fe4f1590bb084e136579072ca8403829
+https://you.wendiella.sbs/xxx/operation-fortune-ruse-de-guerre-2023/4/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://s4.makimbo.xyz/wp-content/uploads/2023/04/film-the-last-kingdom-seven-kings-must-die-2023-lk21-d21.jpg" group-title="VOD International",The Last Kingdom - Seven Kings Must Die (2023)
+#EXTVLCOPT:http-referrer=https://you.wendiella.sbs/new1.php?id=095354e25b7cdc4e50efa9c14ae2957b75c3b04b
+https://you.wendiella.sbs/xxx/the-last-kingdom-seven-kings-must-die-2023/9/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://s1.makimbo.xyz/wp-content/uploads/2023/04/film-shazam-fury-of-the-gods-2023-lk21-d21.jpg" group-title="VOD International",Shazam (2023)
+#EXTVLCOPT:http-referrer=https://you.wendiella.sbs/new1.php?id=23c896c7bfcc1b668ebbc7fdb2833f728787b85c
+https://you.wendiella.sbs/xxx/shazam-fury-of-the-gods-2023/8/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://s3.makimbo.xyz/wp-content/uploads/2023/04/film-creed-iii-2023-lk21-d21.jpg" group-title="VOD International",Creed III (2023)
+#EXTVLCOPT:http-referrer=https://you.wendiella.sbs/new1.php?id=6cc7983f639d1d9a4d3343cd9d84c32347e65dfe
+https://you.wendiella.sbs/xxx/creed-iii-2023/6/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://s5.makimbo.xyz/wp-content/uploads/2023/03/film-tetris-2023-lk21-d21.jpg" group-title="VOD International",Tetris (2023)
+#EXTVLCOPT:http-referrer=https://you.wendiella.sbs/new1.php?id=618c6d4355ae0a42c3a0f3d47defa879bd54f382
+https://you.wendiella.sbs/xxx/tetris-2023/8/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://s0.makimbo.xyz/wp-content/uploads/2023/03/film-assassin-2023-lk21-d21.jpg" group-title="VOD International",Assassin (2023)
+#EXTVLCOPT:http-referrer=https://you.wendiella.sbs/new1.php?id=3ddda4defd1a02dddc79da68f653f2f48af4a760
+https://you.wendiella.sbs/xxx/assassin-2023/6/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="http://cgvindo.site/wp-content/uploads/2023/05/3BSxAjiporlwQTWzaHZ9Yrl5C9D.jpg" group-title="VOD International",AKA (2023)
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+http://23.226.71.77/uvt04xFnBFHQ33gasPEdli3kYqCQNdSJbHdv93DEB8qdd1CuHYaWVb_XmLmD-Au0eKq_Yz9bh6T95Gt7Fpg9CA/LT-2yNnbmQzoRVduBalNmWZVJdY9MFt-SPDCmEpTIyw/1080.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="http://cgvindo.site/wp-content/uploads/2023/03/t2NEaFrNFRCrBIyAETlz5sqq15H.jpg" group-title="VOD International",Scream VI (2023)
+#EXTVLCOPT:sub-file=http://23.226.71.77/znPWCgtu-0BJ2x7yhuPCIyHnR5NBkgYZ2L8aeBUoVeNGRpEs8IJ7wuvZ3zfsk4bt9Y0ME8ukyKY1uePeRkERUw/OTM58Bv1J6SXWFyYVBbnYgocEwgMhh9O0ixCN4bWNXU/thumbnail.vtt
+#EXTVLCOPT:subsdec-encoding=System Default
+#EXTVLCOPT:subsdec-align=0
+#EXTVLCOPT:freetype-rel-fontsize=16
+#EXTVLCOPT:sub-fps=0
+#EXTVLCOPT:sub-delay=0
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+http://23.226.71.77/Rg-NqEVpl6xrkoe4N1pWjUDz6DfW4gfdQVUmfCQEdzvo5u5KmqQyMMxD1-J_dtAeFFEwzbk04KsWnfh3vAd45g/xPlQ2QeZIoPbRZEJ9itCB2Ao1saU2ZEeJ2rT5MmWajU/1080.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqEhh4Kx09XEsbyQe4obNJILSy5tqgsuV7xOU6U5LCrJ2x0SqkUZw20ZHI&s=10" group-title="VOD International",Knock at The Cabin (2023)
+https://punya.mammothtv.my.id/vod/2023/knock-at-the-cabin.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Black_Panther_Wakanda_Forever_poster.jpg/220px-Black_Panther_Wakanda_Forever_poster.jpg" group-title="VOD International",Black Panther - Wakanda Forever (2023)
+https://punya.mammothtv.my.id/vod/2023/black-panther-2.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJalZQtalLm0OPWwuqfuEm_RtOkCJI447RQg&usqp=CAU" group-title="VOD International",Missing (2023)
+https://punya.mammothtv.my.id/vod/2023/missing.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNV3n_ThGCzQq8t6pBUqYUarlyczQ7pZMysQ&usqp=CAU" group-title="VOD International",Fast X (2023)
+https://punya.mammothtv.my.id/vod/2023/fast-x.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/54/Avatar_The_Way_of_Water_poster.jpg" group-title="VOD International",Avatar 2 (2023)
+https://punya.mammothtv.my.id/vod/2023/avatar-2.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRtrDpYFT5UwofSqvcroERDXlP5gSzDAuviw&usqp=CAU" group-title="VOD International",Sharper (2023)
+https://punya.mammothtv.my.id/vod/2023/sharper.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRNkPDCFspSFYUtJDHBlEIY6pXHyoOOGwK6A&usqp=CAU" group-title="VOD International",Teen Wolf (2023)
+https://punya.mammothtv.my.id/vod/2023/teen-wolf.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSymySJ_66ZfYzvW1VYzgojhix7L4QcmOxP2w&usqp=CAU" group-title="VOD International",Big George Foreman (2023)
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+https://punya.mammothtv.my.id/vod/2023/big-george-foreman.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSehGxbPlvNA3tvO2LpVXH8JTkDQ2uJQks92eTRIQPRu6Z2GYrbHko7g-U&s=10" group-title="VOD International",Air (2023)
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+https://punya.mammothtv.my.id/vod/2023/air.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://cds.bet/wp-content/uploads/2023/03/vZloFAK7NmvMGKE7VkF5UHaz0I-146x218.jpg" group-title="VOD International",John Wick - Chapter 4 (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ns1.ruby.gift/play/driveid-162312-webrip-1080-terbit21-com-john-wick-chapter-4-2023.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/yMeKoe3ui4Pad8FUOJwCby3SOWe-146x218.jpg" group-title="VOD International",Death's Roulette (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef2.ruby.gift/play/driveid-161866-webdl-1080-terbit21-com-deaths-roulette-2023.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/s0Qx9YL1JSpYKm1hu0Ovj0IJ1SN-150x225.jpg" group-title="VOD International",Dead Shot (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef2.ruby.gift/play/driveid-161834-webrip-1080-terbit21-com-dead-shot-2023.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/n8ZpMwYT02XjpQHpSxn1eJw5Zpz-146x218.jpg" group-title="VOD International",Crater (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef3.ruby.gift/play/driveid-161845-webdl-1080-terbit21-com-crater-2023.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/vnRthEZz16Q9VWcP5homkHxyHoy-146x218.jpg" group-title="VOD International",The Mother (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef1.ruby.gift/play/driveid-161848-webrip-1080-terbit21-com-the-mother-2023.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/cxSKca4dNlk7O7PMiEYT203vlIw-146x218.jpg" group-title="VOD International",One Day As a Lion (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ns2.ruby.gift/play/driveid-161063-webrip-720-terbit21-com-one-day-as-a-lion-2023.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/p6yUjhvNGQpFZilKwOKbxQ1eHlo-146x218.jpg" group-title="VOD International",Renfield (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef3.ruby.gift/play/driveid-161135-webrip-1080-terbit21-com-renfield-2023.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/8OyzvMrVx2tXjyJiE3GZpvaXE2T-146x218.jpg" group-title="VOD International",Invitation to a Murder (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef2.ruby.gift/play/driveid-160591-webrip-1080-terbit21-com-invitation-to-a-murder-2023.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/pD1o9B0ibENdNroYrBCQemG2jnr-1-146x218.jpg" group-title="VOD International",Last Sentinel (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef2.ruby.gift/play/driveid-160588-webrip-1080-terbit21-com-last-sentinel-2023.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/9NXAlFEE7WDssbXSMgdacsUD58Y-146x218.jpg" group-title="VOD International",Peter Pan & Wendy (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef2.ruby.gift/play/driveid-160519-webdl-1080-terbit21-com-peter-pan-wendy-2023.mp4
+
+<!-- VOD Asia -->
+
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIHpMpfgFk-rLBbOM4LMiMgiU7rR6ervtZA&usqp=CAU" group-title="VOD Asia",Unlocked (2023)
+https://punya.mammothtv.my.id/vod/2023/unlocked.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/lB4VhlVcJGxBTHtSgFaCJdFrmxL-146x218.jpg" group-title="VOD Asia",Thankam (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef1.ruby.gift/play/driveid-161868-webdl-1080-terbit21-com-thankam-2023.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/eFczmRIOQqsxgcihXxpPZYWMKog-146x218.jpg" group-title="VOD Asia",Yaathisai (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef2.ruby.gift/play/driveid-162004-webdl-1080-terbit21-com-yaathisai-2023.mp4
+
+<!-- VOD Indonesia -->
+
+#EXTINF:-1 type="movie" tvg-logo="http://cgvindo.site/wp-content/uploads/2023/02/iy5srhwdsOKEcNGFMFfgA7PgLAH.jpg" group-title="VOD Indonesia",Sri Asih (2022)
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+http://23.226.71.77/cf-SG_tF6diGsVmSbWiPi8Xbbl6sty2Gz11k0H_XK4oOI-fhWiTxDodMWjIqZQ2vYTvH9DFb5Rdp9tM9H6HAZQ/jKUgnzCOAB0Gj0b1kql1C923oNgImmPybi42_lGz9v4/1080.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="http://cgvindo.site/wp-content/uploads/2022/09/7UkcMbrurCHTe2CDu9WuIZkCisu.jpg" group-title="VOD Indonesia",Miracle In Cell No. 7 (2022)
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+http://23.226.71.77/eIw6Q1_0QA9kJMKDMBIFqxOiDloXTaVqpPGI4cInfiYVoBunC_D6MmdY5TFXPN1DZ4Q2AEHSFtwPz8_-iSy0PQ/h_iTEhbNnWcNUnlvpOFq99BrfZu4Nx72ZXOUXGOis0E/720.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="http://cgvindo.site/wp-content/uploads/2022/12/Nonton-Film-Cek-Toko-Sebelah-2-225x300.jpg" group-title="VOD Indonesia",Cek Toko Sebelah 2 (2022)
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+http://23.226.71.77/ZrpTMRn2oRcd6F6v47Xr78kVqQ5uTvKW4JkyM8QTS134tcMnfDvn-ocGqxuc47Thxbq4ZeHhATD8NhMa4qe_fA/GeYigLyZLeg65TBz_JrVsNNv11BIHq3Y9IYt-xT4hHs/1080.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="http://cgvindo.site/wp-content/uploads/2022/09/Streaming-Film-Mumun-2022-Full-HD-200x300.jpg" group-title="VOD Indonesia",Mumun (2022)
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+http://23.226.71.77/GyOLwQDHxQP0su0JTFeFsv0431_WRpZDtFSJD8rvA0-L7o2xtQSmX6dfFpsoYOPoOTqwJGMuIQnJlHQMmu6bhQ/ENeNqOSV-HpxmjZ6IID4pBfw9AR-t35yiw1d5vllUA4/video.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="http://cgvindo.site/wp-content/uploads/2023/02/51jw5DPqvSYLm2IcFK7tf9mah8w.jpg" group-title="VOD Indonesia",Mendarat Darurat (2022)
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+http://23.226.71.77/kGFDAdEzA9diWusdX_SyMq13pLkID6E8IEpsCmvyhnSjhWDE6ZIftA7WC4k6ElTjpB08VdqH9sspVcg8Hv_wbw/05Q0TKUb8R1BrXsQTdspI5jjIqa1JYI_tHmATsFcfQM/1080.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="http://cgvindo.site/wp-content/uploads/2023/01/t86d7Us4hW9yVqf8ctDj834d1RD.jpg" group-title="VOD Indonesia",Jailangkung - Sandekala (2022)
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+http://23.226.71.77/vEk0wtiPJ_suNISQkO9drxYZ3PhIBgsN5yOWJnS8__mNuADALYc_HdOzxRsZvKiVYcejMfj2L0Hnse8R5_oaIw/0Y9ewsAkRTm5YVLZjpbck6nAvxDo9ipyg2q8vrZJGDU/1080.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="http://cgvindo.site/wp-content/uploads/2022/09/1fdqRcgEYNkXCnnKAzz2JtFnUv7.jpg" group-title="VOD Indonesia",Mencuri Raden Saleh (2022)
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+http://23.226.71.77/ARkaKDSkLk2LIce5t9a16qgoSIFOlY-MMC9CvmQ0jFSS2Wixk3v-e-xwO_K_yKJ3CAjwPnx5ysKek2Ik1MRtwA/2FoZoCf5cnOrv_0LHo3jb9DLn-To_Ly-t-s-J0egOjk/1080.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="http://cgvindo.site/wp-content/uploads/2023/03/Nonton-Film-Horor-Jagat-Arwah-200x300.jpg" group-title="VOD Indonesia",Jagat Arwah (2022)
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+http://23.226.71.77/NnrjvencblXo2l7UFY-OtoEStG3fstFh_WOZiUwysJl2XigtvIQArs-sjoANVlzbDWx0FobfMnhLLWIIl6ad8g/n1f-2jhQNRJQkB8LEo_uDDH0F2okf1AMVsLaFNZW1rA/1080.m3u8

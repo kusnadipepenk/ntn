@@ -1,9 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=202688&extension=m3u8
-
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/253.m3u8
+##http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=202688&extension=m3u8
 ##http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=155990&extension=m3u8&play_token=xdbt7BgLik
 ##945810http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=282632&extension=m3u8&play_token=xdbt7BgLik
-
 ##http://tv.cloudcdn.me:80/live/Ab0jVoVN4c/EjK6GSiG13/49859.m3u8

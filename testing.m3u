@@ -1183,16 +1183,19 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/267542
 #EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2017/09/andPrive-HD_6.jpg" group-title="TV MANCANEGARA-FILM",AndPrive
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/49557
 ##https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
-#EXTINF:-1 tvg-logo="o.jpg" group-title="TV MANCANEGARA-FILM",Sony Movies US
+#EXTINF:-1 tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Movies.png?raw=true" group-title="TV MANCANEGARA-FILM",Sony Movies US
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/5831
-#EXTINF:-1 tvg-logo="o.jpg" group-title="TV MANCANEGARA-FILM",AndFlix
+#EXTINF:-1 tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Movies.png?raw=true" group-title="TV MANCANEGARA-FILM",AndFlix
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 ##https://aqfadtv.xyz/live/&flix/index.m3u8
-#EXTINF:-1 tvg-logo="o.jpg" group-title="TV MANCANEGARA-FILM",World Movie
+#EXTINF:-1 tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Movies.png?raw=true" group-title="TV MANCANEGARA-FILM",World Movie
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/186984
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" group-title="TV MANCANEGARA-FILM",Sony PIX
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Movies.png?raw=true" group-title="TV MANCANEGARA-FILM",Sony MAX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch174)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Sony_Crackle_Logo.png/revision/latest?cb=20190917114804" group-title="TV MANCANEGARA-FILM",Crackle
 http://crackle-xumo.amagi.tv/playlistX432p.m3u8
@@ -1208,39 +1211,39 @@ https://comedy-redbox.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/15ac6c5a93d6db3e62101b29491615d2ec89ffaee7899f94ccf5728c236a70fc.png" group-title="TV MANCANEGARA-FILM",REDBOX2
 https://rush-redbox.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV MANCANEGARA-FILM",MyTime
+#EXTINF:-1 tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Movies.png?raw=true" group-title="TV MANCANEGARA-FILM",MyTime
 https://mytime-tcl.amagi.tv/playlist404-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/abstract-letter-k-logo-negative-260nw-403225240.jpg" group-title="TV MANCANEGARA-FILM",K-Cinema
 https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV MANCANEGARA-FILM",Movie SPhere UK
+#EXTINF:-1 tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Movies.png?raw=true" group-title="TV MANCANEGARA-FILM",Movie SPhere UK
 https://moviesphere-samsung-samsungus.amagi.tv/playlist480p.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV MANCANEGARA-FILM",Movie SPhere US
+#EXTINF:-1 tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Movies.png?raw=true" group-title="TV MANCANEGARA-FILM",Movie SPhere US
 https://moviesphereuk-samsunguk.amagi.tv/playlist480p.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV MANCANEGARA-FILM",PixL
+#EXTINF:-1 tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Movies.png?raw=true" group-title="TV MANCANEGARA-FILM",PixL
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 
-#EXTINF:-1  tvg-logo="" group-title="TV MANCANEGARA-FILM",AMC
+#EXTINF:-1  tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Movies.png?raw=true" group-title="TV MANCANEGARA-FILM",AMC
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="TV MANCANEGARA-FILM",AMC Thriler
+#EXTINF:-1  tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Movies.png?raw=true" group-title="TV MANCANEGARA-FILM",AMC Thriler
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="TV MANCANEGARA-FILM",Cine Real
+#EXTINF:-1  tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Movies.png?raw=true" group-title="TV MANCANEGARA-FILM",Cine Real
 https://cinereal-plex.amagi.tv/CineReal/master_4.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="TV MANCANEGARA-FILM",Topcine
+#EXTINF:-1  tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Movies.png?raw=true" group-title="TV MANCANEGARA-FILM",Topcine
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_4.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="TV MANCANEGARA-FILM",Electric Now
+#EXTINF:-1  tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Movies.png?raw=true" group-title="TV MANCANEGARA-FILM",Electric Now
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=53
 
-#EXTINF:-1  tvg-logo="" group-title="TV MANCANEGARA-FILM",ION
+#EXTINF:-1  tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Movies.png?raw=true" group-title="TV MANCANEGARA-FILM",ION
 https://scripps-ion-1-us.samsung.wurl.tv/playlist_960x540_2000k.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="TV MANCANEGARA-FILM",Circle
+#EXTINF:-1  tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Movies.png?raw=true" group-title="TV MANCANEGARA-FILM",Circle
 https://circle-roku.amagi.tv/playlist.m3u8
 

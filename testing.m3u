@@ -1248,3 +1248,5 @@ https://scripps-ion-1-us.samsung.wurl.tv/playlist_960x540_2000k.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Movies.png?raw=true" group-title="TV MANCANEGARA-FILM",Circle
 https://circle-roku.amagi.tv/playlist.m3u8
 
+#EXTINF:-1  tvg-logo="" group-title="VIDEO ON DEMAND",VOD
+https://kusnadipepenk.github.io/campeign/trial.m3u

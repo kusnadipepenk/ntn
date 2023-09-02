@@ -1401,7 +1401,7 @@ https://s.id/1TfQW
 <!-- VOD Asia -->
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIHpMpfgFk-rLBbOM4LMiMgiU7rR6ervtZA&usqp=CAU" group-title="VOD Asia",Unlocked (2023)
-https://punya.mammothtv.my.id/vod/2023/unlocked.m3u8
+https://www.googleapis.com/drive/v3/files/1vOGuBWaoLo8elFDoJt2Sid1PiIu_qB5O?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:0 tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/lB4VhlVcJGxBTHtSgFaCJdFrmxL-146x218.jpg" group-title="VOD Asia", Thankam (2023)
 #EXTVLCOPT:http-referrer=https://t21.press/

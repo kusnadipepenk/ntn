@@ -62,8 +62,8 @@ https://kusnadipepenk.github.io/campeign/metro.m3u8
 ##http://210.210.155.35/session/b44f53c0-1a28-11ea-980f-a261a2f9ca81/qwr9ew/s/s104/02.m3u8
 https://kusnadipepenk.github.io/campeign/kompas.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",Inews
-https://cdn09jtedge.indihometv.com/dvr/139/inews/manifest.mpd?o1=194575080&o2=194575000&o3=194575000&o4=194575000&oa=194575000
-##https://kusnadipepenk.github.io/campeign/inews.m3u8
+##https://cdn09jtedge.indihometv.com/dvr/139/inews/manifest.mpd?o1=194575080&o2=194575000&o3=194575000&o4=194575000&oa=194575000
+https://kusnadipepenk.github.io/campeign/inews.m3u8
 ##http://kuchini.site:8080/live/joeBt/e229c03d/157579.ts
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
@@ -214,6 +214,8 @@ https://kusnadipepenk.github.io/campeign/sone.m3u8
 ##http://iptvid.my.id:80/hmm/sone.m3u8
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=109_MtH3Y5T8d_07P1VVEnD3sAkyX9_go" group-title="PREMIUM INDONESIA",HITS CH
 https://kusnadipepenk.github.io/campeign/hit.m3u8
+#EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",HITS Movie
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch324)/index.m3u8
 #EXTINF:-1  group-title="PREMIUM INDONESIA",CELESTIAL MOVIE
 https://kusnadipepenk.github.io/campeign/celmov.m3u8
 ##http://210.210.155.35:80/dr9445/h/h14/02.m3u8
@@ -225,7 +227,6 @@ http://210.210.155.37:80/x6bnqe/h/h192/index.m3u8
 ##http://210.210.155.35/uq2663/h/h192/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/PYPLz36/trill.png" group-title="PREMIUM INDONESIA",THRILL
 https://kusnadipepenk.github.io/campeign/thril.m3u8
-##http://210.210.155.35/session/453c7fb4-6a31-11e9-b1c1-bf03b175abaa/qwr9ew/s/s34/02.m3u8
 #EXTINF:-1  tvg-logo="" group-title="PREMIUM INDONESIA",CCM
 https://kusnadipepenk.github.io/campeign/ccm.m3u8
 ##http://rr2.dens.tv/s/s31/02.m3u8
@@ -234,8 +235,6 @@ https://kusnadipepenk.github.io/campeign/ccm.m3u8
 http://210.210.155.37/qwr9ew/s/s32/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/56yF6Zx/simin.jpg" group-title="PREMIUM INDONESIA",Bisnet Adventure.
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/270_144.png" group-title="PREMIUM INDONESIA",Warner TV
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/wrnr.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://pcwyoming.org/wp-content/uploads/2020/04/prayer-hands.jpeg" group-title="RELIGI",life CH

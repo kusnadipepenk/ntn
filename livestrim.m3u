@@ -10,8 +10,7 @@ https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd?o1=194575080&o2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Sports.png?raw=true" group-title="C-Sports",MNC Sports 2
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Sports.png?raw=true" group-title="C-Sports",MNC Sports 22
 https://anevia114.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #EXTINF:-1  tvg-logo="" group-title="Livestream Alt",kplus indihome

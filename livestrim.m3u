@@ -256,6 +256,11 @@ https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5053/default.mpd
 #EXTINF:-1 tvg-id="415.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Hits.png" group-title="aaaaa",HBO Hits
 https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5055/default.mpd
 
+#EXTINF:-1 tvg-id="Cinemax" ch-number="412" group-title="aaaaa" tvg-logo="",412 Cinemax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/603
+https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA TV FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 

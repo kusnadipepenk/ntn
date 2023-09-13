@@ -282,3 +282,12 @@ https://av-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 #EXTINF:-1 tvg-id="414" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png" group-title="Movie",HBO FAMILY FHD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
 
+#EXTINF:-1 tvg-id="HBO" ch-number="411" group-title="bbb" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",411 HBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=897aa91ee5958140b5ebd8076cced310&key=453b01beb73c78bd6f8ad380f8a06a8e
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
+
+#EXTINF:-1 tvg-id="Cinemax" ch-number="412" group-title="bbb" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",412 Cinemax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1b0fbb95b8d4ab19d3ea816be9683310&key=560e1ef299aa9a4352e70ed14f8839b9
+https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd

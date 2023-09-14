@@ -261,12 +261,6 @@ https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5055/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
 https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
 
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA TV FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
-https://webudit.cdnhks.lol/lb/premium404/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Astro_ASSP5.png" group-title="Qingsports", Astro SuperSport 5 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059
@@ -281,13 +275,33 @@ https://av-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5053
 #EXTINF:-1 tvg-id="414" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png" group-title="Movie",HBO FAMILY FHD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
-
 #EXTINF:-1 tvg-id="HBO" ch-number="411" group-title="bbb" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",411 HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=897aa91ee5958140b5ebd8076cced310&key=453b01beb73c78bd6f8ad380f8a06a8e
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
-
 #EXTINF:-1 tvg-id="Cinemax" ch-number="412" group-title="bbb" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",412 Cinemax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1b0fbb95b8d4ab19d3ea816be9683310&key=560e1ef299aa9a4352e70ed14f8839b9
 https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
+
+
+#EXTINF:-1 group-title="ccc" tvg-id="HBO" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",HBO
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true
+https://cdn-telkomsel-01.akamaized.net/Content/dash/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+#EXTINF:-1 group-title="ccc" tvg-id="HBO HITS" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",HBO HITS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/hbohits/license-proxy-widevine/cenc/?specConform=true
+http://cdn-telkomsel-01.akamaized.net:80/Content/dash/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
+#EXTINF:-1 group-title="ccc" tvg-id="HBO SIGNATURE" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",HBO SIGNATURE
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true
+http://cdn-telkomsel-01.akamaized.net:80/Content/dash/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
+#EXTINF:-1 group-title="ccc" tvg-id="HBO FAMILY" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",HBO FAMILY
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/hbofamily/license-proxy-widevine/cenc/?specConform=true
+http://cdn-telkomsel-01.akamaized.net:80/Content/dash/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
+#EXTINF:-1 group-title="ccc" tvg-id="CINEMAX" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",CINEMAX
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/cinemax/license-proxy-widevine/cenc/?specConform=true
+http://cdn-telkomsel-01.akamaized.net:80/Content/dash/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd

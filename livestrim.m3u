@@ -285,17 +285,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 
 
-#EXTINF:-1 group-title="ccc" tvg-id="HBO" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",HBOsss
+#EXTINF:-1 group-title="ccc" tvg-id="HBO" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",HBOs
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://hbop.openwindow040.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/hbo/license-proxy-widevine/cenc/?specConform=true
 https://cdn-telkomsel-01.akamaized.net/Content/dash/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
 #EXTINF:-1 group-title="ccc" tvg-id="HBO HITS" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",HBO HITS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://hbohitsp.openwindow040.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/hbohits/license-proxy-widevine/cenc/?specConform=true
 http://cdn-telkomsel-01.akamaized.net:80/Content/dash/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
 #EXTINF:-1 group-title="ccc" tvg-id="HBO SIGNATURE" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",HBO SIGNATURE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://hbosigp.openwindow040.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/hbosignature/license-proxy-widevine/cenc/?specConform=true
 http://cdn-telkomsel-01.akamaized.net:80/Content/dash/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 #EXTINF:-1 group-title="ccc" tvg-id="HBO FAMILY" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",HBO FAMILY
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -314,23 +314,4 @@ http://cdn-telkomsel-01.akamaized.net:80/Content/dash/Live/channel(9ef01e28-6fac
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTINF:-1 group-title="ddd" tvg-logo="https://i.postimg.cc/L5sJyx7W/hbo.png" tvg-id="hboasia.sg", HBO HD 
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTINF:-1 group-title="ddd" tvg-logo="https://i.postimg.cc/YScmpfG4/hbo-hits.png" tvg-id="hbohitsasia.sg", HBO Hits HD 
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTINF:-1 group-title="ddd" tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png" tvg-id="hbosignatureasia.sg", HBO Signature HD 
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTINF:-1 group-title="ddd" tvg-logo="https://i.postimg.cc/6p4vJ13J/hbo-family.png" tvg-id="hbofamilyasia.sg", HBO Family HD 
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTINF:-1 group-title="ddd" tvg-logo="https://i.postimg.cc/NFQ6Q8n8/cinemax-1.png" tvg-id="cinemaxasia.sg", Cinemax HD 
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+

@@ -294,10 +294,10 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf6
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://hbop.openwindow040.workers.dev
-#EXTINF:-1 group-title="eee" tvg-id="HBO HD" tvg-url="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115",HBO (max)
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:-1 group-title="eee" tvg-id="HBO HD" tvg-url="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115",HBOwar (max)
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
-
+###https://hbop.openwindow040.workers.dev
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
@@ -308,8 +308,12 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b9
 #EXTINF:-1 group-title="eee" tvg-id="WARNER TV" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",WARNER TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6093e12639b24cd651ee6b3c13446d10:f8326f668c7bee309e5302b513e5bdf7
-https://quiet-rain-1d8f.wkwkw.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
+https://quiet-rain-1d8f.wkwkw.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
 
+#EXTINF:-1 group-title="eee" tvg-id="WARNER TV" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",WAR TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
+https://quiet-rain-1d8f.wkwkw.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.m
 
 #EXTINF:-1 http-user-agent=Android
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/

@@ -309,3 +309,12 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6093e12639b24cd651ee6b3c13446d10:f8326f668c7bee309e5302b513e5bdf7
 https://quiet-rain-1d8f.wkwkw.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
+
+
+#EXTINF:-1 http-user-agent=Android
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTINF:-1 tvg-id="1" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg" group-title="SPORT HD",ASTRO SS1
+https://ddh1.cdnbos.lol/ddh1/premium123/tracks-v1a1/mono.m3u8
+https://ddy1.cdnbos.lol/ddy1/premium124/tracks-v1a1/mono.m3u8
+https://ddy1.cdnbos.lol/ddy1/premium125/tracks-v1a1/mono.m3u8
+https://ddy1.cdnbos.lol/ddy1/premium126/tracks-v1a1/mono.m3u8

@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=812165&extension=m3u8
+http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=39616&extension=m3u8
+##http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=812165&extension=m3u8
 ##http://line.gofast-tv.me/play/live.php?mac=00:1a:79:6f:5a:5d&stream=812165&extension=m3u8&play_token=i1VcxHPCGH
 ##
 ###http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=69003&extension=m3u8

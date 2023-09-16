@@ -315,10 +315,8 @@ https://quiet-rain-1d8f.wkwkw.workers.dev/linearjitp-playback.astro.com.my/dash-
 #KODIPROP:inputstream.adaptive.license_key=2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
 
-#EXTINF:-1 http-user-agent=Android
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="1" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg" group-title="SPORT HD",ASTRO SS1
-https://ddh1.cdnbos.lol/ddh1/premium123/tracks-v1a1/mono.m3u8
-https://ddy1.cdnbos.lol/ddy1/premium124/tracks-v1a1/mono.m3u8
-https://ddy1.cdnbos.lol/ddy1/premium125/tracks-v1a1/mono.m3u8
-https://ddy1.cdnbos.lol/ddy1/premium126/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Astro English", group-logo="", tvg-logo="",412 Cinemax 
+#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E8xTWtSnMgEUeGPKw4bN0w", "kid":"79sqjTkVHMOfS1HXYs+cEA" } ], "type":"temporary" } 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd

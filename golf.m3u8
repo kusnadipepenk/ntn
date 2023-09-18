@@ -1,9 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://178.170.9.116:8080/live/698237333250315/2045118185/112339.m3u8
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=79477&extension=m3u8
+##http://178.170.9.116:8080/live/698237333250315/2045118185/112339.m3u8
 ##http://vip.itvdom.com:25443/live/V17oiyuPZBQXB/Z2EtFkyVPO/31087.m3u8
-##http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=79477&extension=m3u8
+##
 ##http://line.gofast-tv.me/play/live.php?mac=00:1a:79:6f:5a:5d&stream=83451&extension=m3u8&play_token=xdbt7BgLik
 ##http://germanydnsx15.com:8080/live/mustafa123/123mustafa/86108.m3u8
 ##http://premiumiptvmk.com:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264.m3u8

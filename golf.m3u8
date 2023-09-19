@@ -1,8 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=83451&extension=m3u8
-##http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=79477&extension=m3u8
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=79477&extension=m3u8
 ##http://178.170.9.116:8080/live/698237333250315/2045118185/112339.m3u8
 ##http://vip.itvdom.com:25443/live/V17oiyuPZBQXB/Z2EtFkyVPO/31087.m3u8
 ##

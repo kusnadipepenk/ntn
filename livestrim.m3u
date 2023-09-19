@@ -328,3 +328,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E8xTWtSnMgEUeGPKw4bN0w", "kid":"79sqjTkVHMOfS1HXYs+cEA" } ], "type":"temporary" } 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="HBO" ch-number="411" group-title="eee" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",411 HBOr
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
+https://aqfadtv.xyz/live/hbo/index.mpd

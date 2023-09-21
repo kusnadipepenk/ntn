@@ -335,3 +335,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
 https://aqfadtv.xyz/live/hbo/index.mpd
+
+
+#EXTINF:-1 tvg-id="rcti.id" tvg-logo="" group-title="sss",RCTI
+#EXTGRP:National
+http://nxanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
+
+EXTINF:-1 tvg-id="1" tvg-logo="" group-title="sss", rcti  
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
+http://202.147.204.114/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+EXTINF:-1 tvg-id="1" tvg-logo="" group-title="sss", rcti 2
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+https://1m-rcti.rctiplus.id/rcti-sdi.m3u8?auth_key=1694558585-4151de3acff4166b7fa1fdbece073999-0-c9dea18f5bcab5732b6d3df2cc4f43a0

@@ -337,8 +337,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 https://aqfadtv.xyz/live/hbo/index.mpd
 
 
-#EXTINF:-1 tvg-id="rcti.id" tvg-logo="" group-title="sss",RCTI
-http://nxanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="sss", rcti  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -348,3 +346,9 @@ http://202.147.204.114/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="sss", rcti 2
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 https://1m-rcti.rctiplus.id/rcti-sdi.m3u8?auth_key=1694558585-4151de3acff4166b7fa1fdbece073999-0-c9dea18f5bcab5732b6d3df2cc4f43a0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="sss",RCTI
+http://nxanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2-avc1_2499968=3-mp4a_98800=2.m3u8

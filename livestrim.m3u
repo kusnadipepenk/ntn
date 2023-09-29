@@ -258,26 +258,26 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 
 
-#EXTINF:-1 group-title="ccc" tvg-id="HBO" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",HBOs
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/hbo/license-proxy-widevine/cenc/?specConform=true
-https://cdn-telkomsel-01.akamaized.net/Content/dash/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
-#EXTINF:-1 group-title="ccc" tvg-id="HBO HITS" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",HBO HITS
+#KODIPROP:inputstream.adaptive.license_key=https://hbo-max.openwindows037.workers.dev/
+EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="rrr",HBO
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/hbohit/license-proxy-widevine/cenc/?specConform=true
-http://cdn-telkomsel-01.akamaized.net:80/Content/dash/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
-#EXTINF:-1 group-title="ccc" tvg-id="HBO SIGNATURE" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",HBO SIGNATURE
+#KODIPROP:inputstream.adaptive.license_key=https://hbohits-max.openwindows037.workers.dev/
+EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="rrr",HBO Hits
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/hbosig/license-proxy-widevine/cenc/?specConform=true
-http://cdn-telkomsel-01.akamaized.net:80/Content/dash/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
-#EXTINF:-1 group-title="ccc" tvg-id="HBO FAMILY" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",HBO FAMILY
+#KODIPROP:inputstream.adaptive.license_key=https://hbofam-max.openwindows037.workers.dev/
+EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="rrr",HBO Family
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/hbofamily/license-proxy-widevine/cenc/?specConform=true
-http://cdn-telkomsel-01.akamaized.net:80/Content/dash/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
-#EXTINF:-1 group-title="ccc" tvg-id="CINEMAX" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",CINEMAX
+#KODIPROP:inputstream.adaptive.license_key=https://hbosig-max.openwindows037.workers.dev/
+EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="rrr",HBO Signature
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/cinemax/license-proxy-widevine/cenc/?specConform=true
-http://cdn-telkomsel-01.akamaized.net:80/Content/dash/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cinemax.openwindows037.workers.dev/
+EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="rrr",Cinemax
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}

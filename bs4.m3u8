@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=14413&extension=m3u8&play_token=141845
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=646975&extension=m3u8
+##http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=14413&extension=m3u8&play_token=141845
 
 ##http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=m3u8&stream=594507
 ##http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=672397&extension=m3u8&play_token=xdbt7BgLik

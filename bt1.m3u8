@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-http://45.139.122.199:8080/play/live.php?mac=00:1A:79:bf:ce:d5&stream=128229&extension=m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
+http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=1348093&extension=m3u8
+##http://45.139.122.199:8080/play/live.php?mac=00:1A:79:bf:ce:d5&stream=128229&extension=m3u8
 
 ##http://198.16.100.90:8278/beeone/playlist.m3u8?tid=ME4E5665100556651005&ct=19254&tsum=caea1a674ddae23ddac022c6f734bbe9
-##http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=79486&extension=m3u8
 ##http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=1047260&extension=m3u8&play_token=xdbt7BgLik

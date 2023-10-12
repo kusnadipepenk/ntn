@@ -127,12 +127,11 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c
 #EXTINF:-1 group-title="HBOGO" tvg-id="" tvg-logo="",parammm
 https://mibitivi.xyz/sc/playhls.m3u8?tekon=skyactiv&channel=paramount
 
-#EXTINF:-1 group-title="HBOGO" tvg-id="" tvg-logo="",spotva
-http://beetv.my.id/x/usee-spotv-gojokkk.m3u8
-##https://mibitivi.xyz/sc/playhls.m3u8?tekon=skyactiv&channel=spotv
+#EXTINF:-1 group-title="olah" tvg-id="" tvg-logo="",spot klub
+http://37.18.239.36:8888/Sport_Klub_Golf/index.mpd
 
-#EXTINF:-1 group-title="HBOGO" tvg-id="" tvg-logo="",spotv2
-https://mibitivi.xyz/sc/playhls.m3u8?tekon=skyactiv&channel=spotv2
+#EXTINF:-1 group-title="olah" tvg-id="" tvg-logo="",arena
+http://37.18.239.36:8888/Arena_sport_3_HD/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 

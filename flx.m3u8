@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5000000
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=155990&extension=m3u8
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=155990&extension=m3u8
 ##http://2hubs.ddns.net:25461/live/sltv/PVHDRgW4hH/67082.m3u8
 ##http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=202688&extension=m3u8
 ##

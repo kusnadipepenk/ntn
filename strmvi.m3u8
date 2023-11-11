@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5000000
-http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=1116488&extension=m3u8
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=282639&extension=m3u8
 ##http://protv.fun:80/play/live.php?mac=00:1a:79:6f:5a:5d&stream=155727&extension=m3u8&play_token=xdbt7BgLik
 ##http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=945813&extension=ts&play_token=RmFK3j6FUm
 ##http://kuchini.site:8080/live/tomstme300/tomasarenatelegramme300/49557.m3u8
-##http://37.49.230.48:8080/live/ksport2021/gq5F3UDPJzwxdpEX/49557.m3u8
+##http://37.49.230.48:8080/live/ksport2021/gq5F3UDPJzwxdpEX/49557.m3u8 1116488

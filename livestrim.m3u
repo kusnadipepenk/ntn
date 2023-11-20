@@ -400,3 +400,13 @@ https://linear007-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/c
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AAMHWsFUs+4g76JLXWj5dQ","k":"Vam6lNKD/bjhI5ldfYegpA"}]}
 https://linear002-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/channel(skysportspremierleague)/manifest_hd.mpd
+
+
+#EXTINF:-1 group-title="INDIHOY" useesport
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
+#EXTINF:-1 group-title="INDIHOY" useesport
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd

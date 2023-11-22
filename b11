@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
+https://flbl1.112421.net:8082/332035/mpegts?token=KwHVTS0UtBqGn2yj1z6sQ81G1VJnXfICd1croCeZx26gDgru&extension=m3u8
+##https://flbl1.112421.net:8082/332035/mpegts?token=KwHVTS0UtBqGn2yj1z6sQ81G1VJnXfICd1croCeZx26gDgru&extension=m3u8

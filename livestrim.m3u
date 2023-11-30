@@ -103,12 +103,12 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cd6e9c59
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
-#EXTINF:-1 group-title="HBOGO" tvg-id="" tvg-logo="",transtv
+#EXTINF:-1 group-title="anak" tvg-id="" tvg-logo="",transtv
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://t.mayvee.workers.dev/license-proxy-widevine/cenc/?specConform=true
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
 #EXTINF:-1 group-title="HBOGO" tvg-id="" tvg-logo="",rerereryss
@@ -133,13 +133,11 @@ http://37.18.239.36:8888/Sport_Klub_Golf/index.mpd
 #EXTINF:-1 group-title="olah" tvg-id="" tvg-logo="",arena
 http://37.18.239.36:8888/Arena_sport_3_HD/index.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#EXTINF:-1 group-title="anak" tvg-id="CartoonNetworkAsia.sg" tvg-logo="https://i.imgur.com/8VTfjI6.png",Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:-1 group-title="HBOGO" tvg-id="" tvg-logo="",BBBBB
-https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://t.mayvee.workers.dev/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
 #EXTINF:-1 group-title="HBOGO" tvg-id="" tvg-logo="",CNNNN
 http://202.150.172.59:80/CNN_Indonesia/index.m3u8

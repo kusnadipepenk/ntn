@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:B1:30:05&stream=110764&extension=m3u8
+http://muka03.wanicelife.com:8880/live/3ca7043n04/asfde32e2/60795.m3u8
+##http://line.gofast-tv.me/play/live.php?mac=00:1A:79:B1:30:05&stream=110764&extension=m3u8
 ##http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=110764&extension=m3u8
 ##http://45.139.122.199:8080/play/live.php?mac=00:1A:79:bf:ce:d5&stream=647870&extension=m3u8
 ##http://line.gofast-tv.me/play/live.php?mac=00:1a:79:50:63:9e&stream=833276&extension=m3u8&play_token=xdbt7BgLik

@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=239078&extension=m3u8
+http://muka03.wanicelife.com:8880/live/3ca7043n04/asfde32e2/60799.m3u8
+##http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=239078&extension=m3u8
 ##http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=39408&extension=m3u8
 ##http://uday.dyndns.org:8080/live/rajkothari/07711911534/166.m3u8
 ##http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239078&extension=m3u8

@@ -4,45 +4,16 @@
 https://kusnadipepenk.github.io/campeign/skynew.m3u8
 
 #EXTINF:-1 group-title="GRATIS",Sportv 1
-https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
+https://epg.pw/stream/711b049b4c0a8425214dcb626ad5ff497b3a58014aa3d8f557f1a83df6c8169f.ctv
 
-#EXTINF:-1  tvg-logo="" group-title="GRATIS",Sony PIX
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-
-#EXTINF:-1 group-title="GRATIS",Eleven Sport 1
-https://kusnadipepenk.github.io/ntn/elesp1.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="GRATIS",CNN
-https://kusnadipepenk.github.io/campeign/cnn.m3u8
-##https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_640x360_1200k.m3u8
-##http://cod5.me/play/live.php?mac=00:1a:79:1e:4f:3a&stream=704461&extension=ts
-
-#EXTINF:-1  tvg-logo="" group-title="GRATIS",Indosiar
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/162138
-
-#EXTINF:-1  tvg-logo="" group-title="GRATIS",SPOTV
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/spotv1.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="GRATIS",TVN MOVIES
-https://kusnadipepenk.github.io/campeign/tvn.m3u8
-##http://cod5.me/play/live.php?mac=00:1a:79:1e:4f:3a&stream=704464&extension=ts&play_token=jf9DmNb0lm
-
-#EXTINF:-1 group-title="GRATIS",Nick JR
-https://kusnadipepenk.github.io/campeign/nika.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="GRATIS",BBC Earth2
-https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="GRATIS",RCTI
-https://anevia114.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTINF:0 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/2/7/8/1344278_skysportslogo_138219.jpg" group-title="C-Sports",Sky Sport Football
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00033a7801c324b97dd9997d15cd1e6d:da90342266ae32a331a83bd05d6308bd
+https://linear016-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportsfootball)/manifest_sd.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="GRATIS",MNCTV
-https://anevia114.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 
 

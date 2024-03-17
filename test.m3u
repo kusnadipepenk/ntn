@@ -12,5 +12,31 @@ https://epg.pw/stream/4a76d9e59eec10d4d59d4a7f31f30f23dd64ce786472c57b3c54eae0eb
 #EXTINF:-1 group-title="GRATIS",astro 3
 https://epg.pw/stream/dee158bae1b16da827a86c9aa591b784e524286e457217728fcfa24c93431013.ctv
 
-
-
+#EXTINF:-1 group-title="GRATIS",natgeo1
+NatGeo Wild HD,https://epg.pw/stream/20c128deaefb48d41fa75a0a71e9f5b92c1a51d5cac4dcf8210c562ef1b2a3d1.ctv
+#EXTINF:-1 group-title="GRATIS",natgeo2
+NatGeo Wild HD,https://epg.pw/stream/afbf43cf5f4c131a1d163191d27ce31df62c1668442e02816eac802c26fd0e3e.ctv
+#EXTINF:-1 group-title="GRATIS",natgeo3
+NatGeo Wild HD,https://epg.pw/stream/d49e73ce53a53ce07c3ffba80fe06925d70df061e7a13c55109f948da95dcf31.ctv
+#EXTINF:-1 group-title="GRATIS",natgeo4
+NatGeo Wild HD,https://epg.pw/stream/368c0fd2ad49629b5db12be7f9c68f81e364ad5e45a3cd3369ea726aed176566.ctv
+#EXTINF:-1 group-title="GRATIS",natgeo5
+NatGeo Wild HD,https://epg.pw/stream/31e36ac0fac166148f4d4c3d4b0b2b86f6069dd302808aede3ea583fab1db1c5.ctv
+#EXTINF:-1 group-title="GRATIS",natgeo6
+NatGeo Wild HD,https://epg.pw/stream/cd38cbd238834798aaac7dcaddb2261e2412446f3141472c71dc2d895e025c0b.ctv
+#EXTINF:-1 group-title="GRATIS",natgeo7
+NatGeo Wild HD,https://epg.pw/stream/5f6ee731fcbc04bff08e367b88892533e2f4838d7dc480df627fd74b15ae7de3.ctv
+#EXTINF:-1 group-title="GRATIS",warner1
+WARNER TV,https://epg.pw/stream/f9fd88233014fc077eec22f74556044e9670276ed4428eaa04baa7a2ca091a1b.ctv
+#EXTINF:-1 group-title="GRATIS",warner2
+WARNER TV,https://epg.pw/stream/e9a765475e6cad5ca2ab429585375026ddf2c91f8f817f9eee3eaad427b24443.ctv
+#EXTINF:-1 group-title="GRATIS",warner3
+WARNER TV,https://epg.pw/stream/51ceba1fd4acfb9791974f7c83467bb234dfaa3e86d82f56d1a2233cbfb1b92a.ctv
+#EXTINF:-1 group-title="GRATIS",warner4
+WARNER TV,https://epg.pw/stream/9593e19ff4912a811475481f4399f9e6addb42433b057bdc81a12ea463201c7c.ctv
+#EXTINF:-1 group-title="GRATIS",warner5
+WARNER TV,https://epg.pw/stream/05155ed014820fb339c7fc4e514063e166c3577c600fa98245266134929f42c4.ctv
+#EXTINF:-1 group-title="GRATIS",warner6
+WARNER TV,https://epg.pw/stream/39b9df7fd7d52b464c6573bcb0a05c7667f16ffb3cd96e0b03c4c67819fc5c52.ctv
+#EXTINF:-1 group-title="GRATIS",warner7
+WARNER TV,https://epg.pw/stream/dee18a48a8d6540053331a057488f20e31069a6fa690d9b637f0088fb5cb5f65.m3u8

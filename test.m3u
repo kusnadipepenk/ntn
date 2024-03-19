@@ -42,3 +42,11 @@ https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d0552e0c
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO Group",Cinemax (Transcorp)
 https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
+#EXTINF:-1 group-title="GRATIS",test1
+https://06cu05a.akamaized.net/USA_ABC/index.mpd
+
+#EXTINF:-1 group-title="GRATIS",test2
+https://06cu05a.akamaized.net/USA_FOX/index.mpd
+
+#EXTINF:-1 group-title="GRATIS",test3
+https://06cu05a.akamaized.net/USA_HGTV/index.mpd

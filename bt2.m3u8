@@ -1,9 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://honeywatch.net:80/play/live.php?mac=00:1a:79:a5:9f:91&stream=1458653&extension=m3u8
+http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=79485&extension=m3u8
+##http://honeywatch.net:80/play/live.php?mac=00:1a:79:a5:9f:91&stream=1458653&extension=m3u8
 ##http://line.gofast-tv.me/play/live.php?mac=00:1A:79:B1:30:05&stream=79485&extension=m3u8
-##http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=79485&extension=m3u8
 ##http://45.139.122.199:8080/play/live.php?mac=00:1A:79:bf:ce:d5&stream=128230&extension=m3u8
 ##, 00:1A:79:c0:86:ea
 ##http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=1047261&extension=m3u8&play_token=xdbt7BgLik

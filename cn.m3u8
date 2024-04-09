@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://honeywatch.net:80/play/live.php?mac=00:1a:79:a5:9f:91&stream=1458587&extension=m3u8
+http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=754475&extension=m3u8
+##http://honeywatch.net:80/play/live.php?mac=00:1a:79:a5:9f:91&stream=1458587&extension=m3u8
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/Stream(01)/index.m3u8
 ##http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=110897&extension=m3u8&play_token=xdbt7BgLik
 ##http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:eb:c5&stream=20941&extension=m3u8&play_token

@@ -177,3 +177,9 @@ http://202.21.104.6:88/sps-action/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/850/850-LOGO-m.png" group-title="7. CHANNEL | OLAH RAGA DUNIA",Premier Sports 5 
 http://202.21.104.6:88/sps-plus/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="C-Sports",NBA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTVLCOPT:http-referer=https://widevine.licenses4.me/?r\u0026User-agent\u003dREDLINECLIENT
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-035/stream.mpd

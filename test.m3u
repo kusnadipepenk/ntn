@@ -163,23 +163,16 @@ https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
 https://ssc3-ak.akamaized.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/110/110-LOGO-m.png" group-title="7. CHANNEL | OLAH RAGA DUNIA",Premier Sports 1 
-http://202.21.104.6:88/sps-prime/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/847/847-LOGO-m.png" group-title="7. CHANNEL | OLAH RAGA DUNIA",Premier Sports 2 
-http://202.21.104.6:88/sps-play/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/848/848-LOGO-m.png" group-title="7. CHANNEL | OLAH RAGA DUNIA",Premier Sports 3 
-http://202.21.104.6:88/sps-world/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/849/849-LOGO-m.png" group-title="7. CHANNEL | OLAH RAGA DUNIA",Premier Sports 4 
-http://202.21.104.6:88/sps-action/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/850/850-LOGO-m.png" group-title="7. CHANNEL | OLAH RAGA DUNIA",Premier Sports 5 
-http://202.21.104.6:88/sps-plus/index.m3u8
-
-#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="C-Sports",NBA TV
+#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/logo-SPOTV.png" group-title="7. CHANNEL | OLAH RAGA DUNIA",SPOTV HD Unif
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/?r\u0026User-agent\u003dREDLINECLIENT
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-035/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=7de0fa3c35f52f8a8517f1600dd11ed7:2d59cf94d10020aeee01a97cd0716eea
+https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227608/3221227608.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawWP5a6lzyDPJ57LXeuC05Cs44sM6v4Pb96oLcepTGODErcymHBIhx5oJP4jv2fPK0%3D%3A20230206101724%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101724%2Curn:Huawei:liveTV:XTV100000161%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy27CMBRE_8ZLK3YehIVXIKRKVahE6Laa2NcmihODHZD695A2bGfmjM4coeljr1B2dV7Zqsu1LeoS2EhRk611tu2MFYYlujVBSabhfT-5JpgF-z7tfkTGMy6l4EKydrk7eLh12dzHjqLK39iJ4qPXpEyy_IHE4Vwkh7kPE__y-D1Hv04YtauaqDZltc0KKQuZs3lJW6Th1bAL0i6MV0Qyn8H9AcrCJ2JX6AGOGoykprv3_9wxmpfNEzpVq7L0AAAA&tenantId=6001
+
+#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/logo-SPOTV2.png" group-title="7. CHANNEL | OLAH RAGA DUNIA",SPOTV2 Unif
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c67cb7de9465062c06ac94e8e065462:5931fc07f285ffe40eb98e130bb090f9
+https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227726/3221227726.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUeOV6Zn1IaYCsVySN%2F6aTU0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV100000162%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBiE36bHpi0I9tCTGxOTDbuJrFczhZ9KLNRt0cS3X1D2NpmZbzJTREOHD5PZwoqt0IXSXZ7JEnqWCp2WFhtlBUv0WwWjWAPv-9FVoV2w03F3loILrpTkUrF6mdt7uLVZ3QdL0WT_2JHio2_ItKnjDyQO5yI5TH0Y-bfH8yf6tcKoXq_JotwUWuSlyvOSTYtbI13nhF2QdmG4IVL7GdwLMB18InZDc4WjCgOZ8e79m_uK7fzmD_CkDoH0AAAA&tenantId=6001

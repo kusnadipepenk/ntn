@@ -1,7 +1,15 @@
 #EXTM3U
-#EXT-X-VERSION:3
+#EXT-X-VERSION:5
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=754475&extension=m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,URI="https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network-mp4a_128000_eng=2.m3u8",GROUP-ID="audio-AACL-128",LANGUAGE="en",NAME="English",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
+#EXT-X-STREAM-INF:BANDWIDTH=1308207,AVERAGE-BANDWIDTH=1189280,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=853x480,FRAME-RATE=25.000,AUDIO="audio-AACL-128"
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network-avc1_1000000=1.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1891207,AVERAGE-BANDWIDTH=1719279,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO="audio-AACL-128"
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network-avc1_1500000=3.m3u8
+
+
+
+##http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=754475&extension=m3u8
 ##http://honeywatch.net:80/play/live.php?mac=00:1a:79:a5:9f:91&stream=1458587&extension=m3u8
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/Stream(01)/index.m3u8
 ##http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=110897&extension=m3u8&play_token=xdbt7BgLik

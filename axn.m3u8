@@ -1,7 +1,17 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&extension=m3u8&stream=683144
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",NAME="eng a1",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="eng",URI="http://170.254.18.106/AXN/tracks-a1/mono.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",NAME="spa a2",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="spa",URI="tracks-a2/mono.m3u8"
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1440000,BANDWIDTH=1800000,AUDIO="aac",RESOLUTION=852x480,FRAME-RATE=29.970,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
+http://170.254.18.106/AXN/tracks-v2a1/mono.m3u8
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=3010000,BANDWIDTH=3770000,AUDIO="aac",RESOLUTION=1280x720,FRAME-RATE=29.970,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
+http://170.254.18.106/AXN/tracks-v1a1/mono.m3u8
+
+
+
+
+##http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&extension=m3u8&stream=683144
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/Stream(02)/index.m3u8
 ##http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=683144&extension=m3u8
 ##http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=683144&extension=m3u8&play_token=

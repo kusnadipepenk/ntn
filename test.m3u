@@ -14,7 +14,9 @@ https://epg.pw/stream/dee158bae1b16da827a86c9aa591b784e524286e457217728fcfa24c93
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+##KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=nkridamai
+##KODIPROP:inputstream.adaptive.license_key=https://cubpku.strimz.workers.dev/
 #EXTINF:-1 tvg-id="HBO HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO Group",HBO (Transcorp)
 https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
@@ -52,22 +54,6 @@ https://cdnjt24.useetv.com/drm/live/smil:bein1.smil/manifest.mpd
 #EXTINF:-1 tvg-logo="https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png" tvg-id="" group-title="HAHA",SIAMSPORT 1
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL001/DASH/JL001.mpd
-
-#EXTINF:-1 group-title="DAZN" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=175989829625_image-header_pRow_1688019823000&quality=70&width=500",DPLAY SPORTS 1
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-051/stream.mpd
-#EXTINF:-1 group-title="DAZN" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=175989829627_image-header_pRow_1688020141000&quality=70&width=500",DPLAY SPORTS 2
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-052/stream.mpd
-#EXTINF:-1 group-title="DAZN" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=175995461629_image-header_pRow_1688020143000&quality=70&width=500",DPLAY SPORTS 3
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-053/stream.mpd
 
 
 
@@ -147,36 +133,6 @@ http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31775/FHD/skysport257/master
 http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32772/skysport258/master.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSCz4wXP/ssc1.png" group-title="7. CHANNEL | OLAH RAGA DUNIA" ,SSC 1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Px8ZZf1S/ssc2.png" group-title="7. CHANNEL | OLAH RAGA DUNIA" ,SSC 2 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
-https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sghRttPt/ssc3.png" group-title="7. CHANNEL | OLAH RAGA DUNIA" ,SSC 3 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
-https://ssc3-ak.akamaized.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
-
-
-#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/logo-SPOTV.png" group-title="7. CHANNEL | OLAH RAGA DUNIA",SPOTV HD Unif
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7de0fa3c35f52f8a8517f1600dd11ed7:2d59cf94d10020aeee01a97cd0716eea
-https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227608/3221227608.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawWP5a6lzyDPJ57LXeuC05Cs44sM6v4Pb96oLcepTGODErcymHBIhx5oJP4jv2fPK0%3D%3A20230206101724%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101724%2Curn:Huawei:liveTV:XTV100000161%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy27CMBRE_8ZLK3YehIVXIKRKVahE6Laa2NcmihODHZD695A2bGfmjM4coeljr1B2dV7Zqsu1LeoS2EhRk611tu2MFYYlujVBSabhfT-5JpgF-z7tfkTGMy6l4EKydrk7eLh12dzHjqLK39iJ4qPXpEyy_IHE4Vwkh7kPE__y-D1Hv04YtauaqDZltc0KKQuZs3lJW6Th1bAL0i6MV0Qyn8H9AcrCJ2JX6AGOGoykprv3_9wxmpfNEzpVq7L0AAAA&tenantId=6001
-
-#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/logo-SPOTV2.png" group-title="7. CHANNEL | OLAH RAGA DUNIA",SPOTV2 Unif
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c67cb7de9465062c06ac94e8e065462:5931fc07f285ffe40eb98e130bb090f9
-https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227726/3221227726.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUeOV6Zn1IaYCsVySN%2F6aTU0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV100000162%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBiE36bHpi0I9tCTGxOTDbuJrFczhZ9KLNRt0cS3X1D2NpmZbzJTREOHD5PZwoqt0IXSXZ7JEnqWCp2WFhtlBUv0WwWjWAPv-9FVoV2w03F3loILrpTkUrF6mdt7uLVZ3QdL0WT_2JHio2_ItKnjDyQO5yI5TH0Y-bfH8yf6tcKoXq_JotwUWuSlyvOSTYtbI13nhF2QdmG4IVL7GdwLMB18InZDc4WjCgOZ8e79m_uK7fzmD_CkDoH0AAAA&tenantId=6001
-
 
 #EXTINF:-1 group-title="8. CHANNEL | DAKWAH" tvg-id="khazanah.id" tvg-logo="https://iptv.urfan.web.id/logo/khazanah.png",Khazanah
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -184,38 +140,5 @@ https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/322122772
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
 
-#EXTINF:-1 tvg-logo="http://cloud9apps.ddns.net/logos/tntsports1hd.png", tvg-id="ksport1hd" group-title="7. CHANNEL | OLAH RAGA DUNIA", TNT Sports 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 tvg-logo="http://cloud9apps.ddns.net/logos/tntsports2hd.png", tvg-id="ksport1hd" group-title="7. CHANNEL | OLAH RAGA DUNIA", TNT Sports 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
-#EXTINF:-1 tvg-logo="http://cloud9apps.ddns.net/logos/tntsports3hd.png", tvg-id="ksport1hd" group-title="7. CHANNEL | OLAH RAGA DUNIA", TNT Sports 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
-https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-
-#EXTINF:-1 tvg-logo="http://cloud9apps.ddns.net/logos/tntsports4hd.png", tvg-id="ksport1hd" group-title="7. CHANNEL | OLAH RAGA DUNIA", TNT Sports 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
-https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-
-#EXTINF:-1 tvg-logo="http://omzolix.elementfx.com/logo/tnt5.png", tvg-id="ksport1hd" group-title="7. CHANNEL | OLAH RAGA DUNIA",TNT Sports 5
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
-https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
 

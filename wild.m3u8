@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://honeywatch.net:80/play/live.php?mac=00:1a:79:a5:9f:91&stream=174764&extension=m3u8
+http://stream02.vnet.am/NatGeoWild/tracks-v1a2/mono.m3u8
+##http://honeywatch.net:80/play/live.php?mac=00:1a:79:a5:9f:91&stream=174764&extension=m3u8
 ###http://line.gofast-tv.me/play/live.php?mac=00:1A:79:B1:30:05&stream=1057014&extension=m3u8
 ###http://50.7.137.106:8080/NAT_GEO_WILD/tracks-v1a1/mono.m3u8?token=test
 ###http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=m3u8&stream=770767

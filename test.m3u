@@ -156,3 +156,22 @@ https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d0552e0c
 #EXTINF:-1 tvg-id="HBO HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="Premium Movies",HBO1 (Maxstream) 
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
 
+#EXTINF:-1 ch-number="116" tvg-name="HBO" tvg-id="HBO.th" group-logo="https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/MoviesICON.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png" group-title="AIS | Movies", HBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=da901f885137d1f274dc7592762611ab:4d3536a7f0d996d6b013fc3dc1de7a3d
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0114/DASH/V0114.mpd
+
+#EXTINF:-1 ch-number="117" tvg-name="HBO Signature" tvg-id="HBO Signature.th" group-logo="https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/MoviesICON.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="AIS | Movies", HBO Signature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=97c1c27765dae9b95ee04ea6e8f50c34:7db57b354d4d9cdb22e256c2a7500956
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0117/DASH/V0117.mpd
+
+#EXTINF:-1 ch-number="118" tvg-name="HBO Hits" tvg-id="HBO Hits.th" group-logo="https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/MoviesICON.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png" group-title="AIS | Movies", HBO Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56c2717c2c6431c75ac1fbf64a997cb6:d4544ffd929b2da1f6101705e74facee
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0116/DASH/V0116.mpd
+
+#EXTINF:-1 ch-number="119" tvg-name="HBO Family" tvg-id="HBO Family.th" group-logo="https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/MoviesICON.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png" group-title="AIS | Movies", HBO Family
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96af42ae402ccc9b3f92a8e99ec8f5aa:6a0991ae3f06f76a010afa5515f67ac6
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0115/DASH/V0115.mpd

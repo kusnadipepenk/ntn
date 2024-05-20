@@ -12,6 +12,23 @@ https://epg.pw/stream/4a76d9e59eec10d4d59d4a7f31f30f23dd64ce786472c57b3c54eae0eb
 #EXTINF:-1 group-title="GRATIS",NET
 https://ythls.urfan.web.id/stream/UC1-ATnDVEwKT6-0aEeJ2ibA/master.m3u8
 
+
+#EXTINF:0 group-title="GRATIS",dazn 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
+
+#EXTINF:0 group-title="GRATIS",dazn 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
+
+#EXTINF:0 group-title="GRATIS",dazn 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd
+
+
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 ##KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/

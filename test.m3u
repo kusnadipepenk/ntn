@@ -9,8 +9,8 @@ https://epg.pw/stream/711b049b4c0a8425214dcb626ad5ff497b3a58014aa3d8f557f1a83df6
 #EXTINF:0 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/2/7/8/1344278_skysportslogo_138219.jpg" group-title="C-Sports",Sky Sport Football
 https://epg.pw/stream/4a76d9e59eec10d4d59d4a7f31f30f23dd64ce786472c57b3c54eae0ebe83673.ctv
 
-#EXTINF:-1 group-title="GRATIS",astro 3
-https://epg.pw/stream/dee158bae1b16da827a86c9aa591b784e524286e457217728fcfa24c93431013.ctv
+#EXTINF:-1 group-title="GRATIS",NET
+https://ythls.urfan.web.id/stream/UC1-ATnDVEwKT6-0aEeJ2ibA/master.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

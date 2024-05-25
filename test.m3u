@@ -191,13 +191,13 @@ http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32772/skysport258/master.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
 
-#EXTINF:-1 group-title="GRATIS",astro 11
-http://xtv.ooo:8080/live/6301638/5295385/350955.m3u8
+#EXTINF:-1 group-title="GRATIS",astro 112
+http://14.102.154.164:5021/live/495
 #EXTINF:-1 group-title="GRATIS",astro 10
-http://xtv.ooo:8080/live/6301638/5295385/350956.m3u8
+http://14.102.154.164:5021/live/494
 #EXTINF:-1 group-title="GRATIS",astro 12
-http://xtv.ooo:8080/live/6301638/5295385/350957.m3u8
+http://14.102.154.164:5021/live/493
 #EXTINF:-1 group-title="GRATIS",astro 13
-http://xtv.ooo:8080/live/6301638/5295385/350958.m3u8
+http://14.102.154.164:5021/live/492
 #EXTINF:-1 group-title="GRATIS",astro 14
-http://xtv.ooo:8080/live/6301638/5295385/350922.m3u8
+http://14.102.154.164:5021/live/491

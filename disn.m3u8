@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://fortv.cc:8080/live/N0QaDD/625713/41960.m3u8
+http://103.197.59.107:5002/cs23.m3u8?token=guoziyun&gid=cs23&channel=zhongying
 ##http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&extension=m3u8&stream=45587
 ##http://honeywatch.net:80/play/live.php?mac=00:1a:79:a5:9f:91&stream=174630&extension=m3u8
 ###http://line.gofast-tv.me/play/live.php?mac=00:1A:79:B1:30:05&stream=174630&extension=m3u8&play_token=xdbt7BgLik

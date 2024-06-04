@@ -13,9 +13,9 @@ https://epg.pw/stream/4a76d9e59eec10d4d59d4a7f31f30f23dd64ce786472c57b3c54eae0eb
 https://ythls.urfan.web.id/stream/UC1-ATnDVEwKT6-0aEeJ2ibA/master.m3u8
 
 
-#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/ck783bt-y8I/mqdefault.jpg" group-title="C-Nasional",Mo Channel
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/ck783bt-y8I/mqdefault.jpg" group-title="C-Nasional",Mot Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=304781&extension=m3u8
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=304781&extension=ts
 
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/

@@ -13,14 +13,10 @@ https://epg.pw/stream/4a76d9e59eec10d4d59d4a7f31f30f23dd64ce786472c57b3c54eae0eb
 https://ythls.urfan.web.id/stream/UC1-ATnDVEwKT6-0aEeJ2ibA/master.m3u8
 
 
-#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/ck783bt-y8I/mqdefault.jpg" group-title="C-Nasional",Moji Channel
-#EXTVLCOPT:http-referrer=http://xtv.ooo/
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/ck783bt-y8I/mqdefault.jpg" group-title="C-Nasional",Mo Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://xtv.ooo:8080/live/6301638/5295385/350997.m3u8
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=304781&extension=m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="C-Nasional",SCTV (Alt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://xtv.ooo:8080/live/6301638/5295385/351030.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

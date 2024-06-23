@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1895&extension=m3u8
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1883&extension=m3u8
 ##http://honeywatch.net:80/play/live.php?mac=00:1a:79:a5:9f:91&stream=1458661&extension=m3u8
 ##http://line.gofast-tv.me/play/live.php?mac=00:1A:79:B1:30:05&stream=83453&extension=m3u8
 ##http://atg100.xyz:80/live/sunny1114c/23616F5A257DCF5/219214.m3u8

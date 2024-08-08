@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5000000
-http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=155746&extension=m3u8
+http://geldia.xyz/play/live.php?mac=00:1a:79:a6:57:7b&stream=181327&extension=m3u8
+##http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=155746&extension=m3u8
 ##http://line.gofast-tv.me/play/live.php?mac=00:1A:79:B1:30:05&stream=155746&extension=m3u8
 ###http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=155746&extension=m3u8&play_token=xdbt7BgLik
 ##http://2hubs.ddns.net:25461/live/sltv/PVHDRgW4hH/67084.m3u8

@@ -1,8 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-https://webhdrunns.mizhls.ru/lb/premium493/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-##http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1021089&extension=m3u8
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1021089&extension=m3u8
 ##http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=508158&extension=m3u8
 ##http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=646975&extension=m3u8
 ##http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=14413&extension=m3u8&play_token=141845

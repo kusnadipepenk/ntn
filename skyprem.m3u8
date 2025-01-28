@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5000000
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:be:78:73&stream=97139&extension=m3u8
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BE:78:73&stream=97139&extension=m3u8&AuthToken=E210F4BFB2E53368269D686D025A9476&sn2=
 ##http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=83447&extension=m3u8
 ##http://honeywatch.net:80/play/live.php?mac=00:1a:79:a5:9f:91&stream=1458669&extension=m3u8
 ##http://muka03.wanicelife.com:8880/live/3ca7043n04/asfde32e2/2877.m3u8

@@ -8,8 +8,7 @@ https://raw.githubusercontent.com/kusnadipepenk/campeign/refs/heads/master/indos
 
 #EXTINF:-1 group-title="Saluran | Lokal & Nasional" tvg-id="indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png",Indosiar V (OFF) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
-https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/205_stream.mpd?hdntl=exp=1738226312~acl=%2fvp9%2f205_stream.mpd!%2fvp9%2f205%2f*!%2fvp9%2f*%2f205_stream.mpd!%2fvp9%2f*%2f205%2f*~id=allUsers~data=hdntl~hmac=a098852ebdf304f97cc9ebce6dc7ebcddb02fd62e5cafb07f6819d767954b769
-##https://thedream.biz.id/indonesia/rooih.php?id=205&=.m3u8
+https://raw.githubusercontent.com/kusnadipepenk/campeign/refs/heads/master/kid.m3u8
 
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="Shareext@LOKAL_ID",Indosiar(pft)televizo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 

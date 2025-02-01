@@ -22,7 +22,7 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc 
-https://live.mocdn.tv/out/v1/728c541035c34cc598cef262c95f7b43/manifest_L1.mpd
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/drm/dash/17623_stream.mpd?hdntl=exp=1738416492~acl=%2fdrm%2fdash%2f17623*~id=176824032~data=hdntl~hmac=8854372243e7e9cf22ee0a36f8a5044570af53cf70915b9176218c1e925fef94
 
 <!-- VOD Serial -->
 #EXTM3U billed-msg="Link Expired"

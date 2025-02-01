@@ -2,11 +2,9 @@
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/pajal.png?raw=true" group-title="ADMIN+Info",Admin PAJALIPTV Klik disini.
 https://s.id/1T5GU
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3OE29QO" group-title="NASIONAL",Indosiar (Alt-b)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3OE29QO" group-title="NASIONAL",Indosiar (Alt-a)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=20000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
 ###https://raw.githubusercontent.com/kusnadipepenk/campeign/refs/heads/master/indos.m3u8

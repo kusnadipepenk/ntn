@@ -8,7 +8,9 @@ https://s.id/1T5GU
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
-https://raw.githubusercontent.com/kusnadipepenk/campeign/refs/heads/master/indos.m3u8
+#EXTINF:1,
+http://perfecttv.net:8080/live/Perfecttv/Perfecttv/1603.ts
+###https://raw.githubusercontent.com/kusnadipepenk/campeign/refs/heads/master/indos.m3u8
 
 #EXTINF:-1 group-title="Saluran | Lokal & Nasional" tvg-id="indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png",Indosiar V (OFF) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 

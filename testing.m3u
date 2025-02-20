@@ -40,17 +40,12 @@ https://dash2.antik.sk/stream/hisi_ngc/playlist_cbcs.mpd
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://xyzdddd.mizhls.ru/lb/premium376/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="2. SPORTS" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/wwenetwork.png",WWE Network
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
-https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="2. SPORTS" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/impactwresling.png",Impact! Wrestling 1
-https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="2. SPORTS" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/impactwresling.png",Impact! Wrestling 2
-https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-name="SkySportF1.it" tvg-id="Sky Sport Formula Uno HD" group-title="Sky Sport Italia" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_478skysportf1hddark/200/50?output-format=webp" group-logo="",Sky Sport Formula 1 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036a96b6bbbf1828488f90e6b2ca1f4:d24e6ae926e88f8303b6926271ff8155
+https://linear307-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31478/FHD/skysportf1/master.mpd
 
 
 <!-- VOD Serial -->

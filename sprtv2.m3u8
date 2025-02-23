@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5000000
-http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=148670&extension=m3u8
+http://mu3241218.oknirvana.club:8880/live/6mk140000/87667788/28945.m3u8
+##http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=148670&extension=m3u8
 ##http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=78796&extension=m3u8
 ##http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=148670&extension=m3u8
 ##http://45.139.122.199:8080/play/live.php?mac=00:1A:79:bf:ce:d5&stream=68993&extension=m3u8

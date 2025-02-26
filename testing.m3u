@@ -48,5 +48,20 @@ https://xyzdddd.mizhls.ru/lb/premium376/index.m3u8
 https://linear307-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31478/FHD/skysportf1/master.mpd
 
 
+#EXTINF:-1 tvg-id="dazn1.es" tvg-logo="https://i.ibb.co/JjjCjpp/Dazn-logo.png" group-title="ANOTHER SPORTS", Dazn 1 
+http://tooontv.com:999/live/ere3444h/agape/188510.m3u
+
+#EXTINF:-1 tvg-id="dazn2.es" tvg-logo="https://i.ibb.co/JjjCjpp/Dazn-logo.png" group-title="ANOTHER SPORTS", Dazn 2 
+http://tooontv.com:999/live/ere3444h/agape/188511.m3u
+
+#EXTINF:-1 tvg-id="dazn3.es" tvg-logo="https://i.ibb.co/JjjCjpp/Dazn-logo.png" group-title="ANOTHER SPORTS", Dazn 3
+http://tooontv.com:999/live/ere3444h/agape/184848.m3u
+
+#EXTINF:-1 tvg-id="dazn4.es" tvg-logo="https://i.ibb.co/JjjCjpp/Dazn-logo.png" group-title="ANOTHER SPORTS", Dazn 4
+http://tooontv.com:999/live/ere3444h/agape/109188.m3u
+
+#EXTINF:-1 tvg-id="daznf1.es" tvg-logo="https://i.ibb.co/R2JfJGq/DAZNF1.png" group-title="ANOTHER SPORTS", Dazn F1
+http://tooontv.com:999/live/ere3444h/agape/109190.m3u
+
 <!-- VOD Serial -->
 #EXTM3U billed-msg="Link Expired"

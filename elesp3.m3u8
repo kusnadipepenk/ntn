@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5000000
-http://ktv.im:8080/live/kk56712/kk12345/442076.m3u8
+http://tooontv.com:999/live/ere3444h/agape/71095.m3u8
+###http://ktv.im:8080/live/kk56712/kk12345/442076.m3u8
 ##http://extraott.com:900/live/6945574629/7169628753/9618.m3u8
 ##http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=880315&extension=m3u8
 ##http://45.139.122.199:8080/play/live.php?mac=00:1A:79:bf:ce:d5&stream=26527&extension=m3u8

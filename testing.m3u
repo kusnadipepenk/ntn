@@ -35,25 +35,57 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena6/default/index.mpd
 
 
 
-#EXTINF:-1 tvg-logo="htjpg" group-title="OLAHRAGA",61
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-https://windnew.iosplayer.ru/wind/premium61/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/fQSmk0y/go3sport1.png" group-title="SHAREEXT@MPD SPORT", ~GO3 Sport 1 馃嚤馃嚬
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e
+https://tr.live.cdn.cgates.lt/live/dash/560502/index.mpd
 
-#EXTINF:-1 tvg-logo="htjpg" group-title="OLAHRAGA",46
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-https://windnew.iosplayer.ru/wind/premium46/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/vZ3pSq8/go3sport2.png" group-title="SHAREEXT@MPD SPORT", ~GO3 Sport 2 馃嚤馃嚬
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8315b1996d92477b965cb29100a3dc07:0081c0674e9047e219caa27a07da9d4b
+https://tr.live.cdn.cgates.lt/live/dash/560505/index.mpd
 
-#EXTINF:-1 tvg-logo="htjpg" group-title="OLAHRAGA",60
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-https://windnew.iosplayer.ru/wind/premium60/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/JQXQfyq/go3sportopen.png" group-title="SHAREEXT@MPD SPORT", ~GO3 Sport OPEN 馃嚤馃嚬
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
+https://tr.live.cdn.cgates.lt/live/dash/561402/index.mpd
 
-#EXTINF:-1 tvg-logo="htjpg" group-title="OLAHRAGA",45
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-https://windnew.iosplayer.ru/wind/premium45/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Mgt4fPj/msetinfinityplus.png" group-title="SHAREEXT@MPD SPORT",Infinity+ 1 馃嚠馃嚬  
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b832a8f0326fbdc02e:ade0533ba667bb7e9847d8f215f03076
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Mgt4fPj/msetinfinityplus.png" group-title="SHAREEXT@MPD SPORT",Infinity+ 2 馃嚠馃嚬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834b0f0c2bfee80ac:76b3afbf163f9c3feb6204b8fcf0ff53
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-u2/u2-dash-widevine.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Mgt4fPj/msetinfinityplus.png" group-title="SHAREEXT@MPD SPORT",Infinity+ 3 馃嚠馃嚬
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8342d78d46c8c202a:8d2e953821d36c942161be09930d2bd4
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-u3/u3-dash-widevine.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Mgt4fPj/msetinfinityplus.png" group-title="SHAREEXT@MPD SPORT",Infinity+ 4 馃嚠馃嚬
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834357864bc2ae0a8:ae7bec66e4ac23f3d243fa6e4d767a00
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-u4/u4-dash-widevine.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Mgt4fPj/msetinfinityplus.png" group-title="SHAREEXT@MPD SPORT",Infinity+ 5 馃嚠馃嚬
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834b278760c5ba026:a9ab51a9e021da177f982de9b42eb0de
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-u5/u5-dash-widevine.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Mgt4fPj/msetinfinityplus.png" group-title="SHAREEXT@MPD SPORT",Infinity+ 6 馃嚠馃嚬
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834ba7888b9f960a4:852ebe5446caa8fad99c440b86ad128c
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-u6/u6-dash-widevine.isml/manifest.mpd
 
 <!-- VOD Serial -->
 #EXTM3U billed-msg="Link Expired"

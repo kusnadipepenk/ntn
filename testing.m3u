@@ -108,5 +108,12 @@ https://cors-proxy.cooks.fyi/http://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/c
 #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 https://cors-proxy.cooks.fyi/http://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
+#EXTINF:-1 group-title="test" tvg-logo="",RTV
+https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=1561&type=hls
+
+#EXTINF:-1 group-title="test" tvg-logo="",indTV
+http://203.77.246.14:8001/udp/239.1.1.110:5000
+
+
 <!-- VOD Serial -->
 #EXTM3U billed-msg="Link Expired"

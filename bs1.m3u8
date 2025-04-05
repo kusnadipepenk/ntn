@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1021091&extension=m3u8
+http://extraott.com:900/live/3162523972/3791698850/105.m3u8
+###http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1021091&extension=m3u8
 ##http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=9383&extension=m3u8
 ##http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=508160&extension=m3u8
 ##http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=174561&extension=m3u8&play_token=646977

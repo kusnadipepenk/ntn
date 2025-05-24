@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5000000
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1791&extension=m3u8
+http://cord-cutter.net:8080/live/95549031/69361122/17779.m3u8
+###http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1791&extension=m3u8

@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-http://extraott.com:900/live/3162523972/3791698850/79115.m3u8
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/98775.m3u8
+###http://extraott.com:900/live/3162523972/3791698850/79115.m3u8
 ###http://fortv.cc:8080/live/cQnq6G/652882/53706.m3u8
 ###http://extraott.com:900/live/6945574629/7169628753/189987.m3u8
 ###http://kunkun77.wanicelife.com:8880/live/6mk140000/87667788/29073.m3u8

@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-https://esx1new.newkso.ru/esx1/primadazn3pt/mono.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
+http://tvm8.org:8080/live/jK8jAu7GFky8/sK8J1xkBuPU6/194967.m3u8
+###https://esx1new.newkso.ru/esx1/primadazn3pt/mono.m3u8
 ###http://45.139.122.199:8080/play/live.php?mac=00:1A:79:bf:ce:d5&stream=69009&extension=m3u8
 ##http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=812163&extension=m3u8
 ##http://line.gofast-tv.me/play/live.php?mac=00:1a:79:6f:5a:5d&stream=812163&extension=m3u8&play_token=xdbt7BgLik

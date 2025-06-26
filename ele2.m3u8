@@ -6,8 +6,10 @@
 http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/1503.ts
 #EXTINF:5.760,
 http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/1503.ts
-
-
+#EXTINF:5.560,
+http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/1503.ts
+#EXTINF:5.760,
+http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/1503.ts
 
 ###EXTM3U
 ###EXT-X-VERSION:3

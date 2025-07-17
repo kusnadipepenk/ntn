@@ -1,8 +1,12 @@
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=991124,RESOLUTION=960x540
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch242%29/Stream(02)/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000129/1024.m3u8
+
+
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=991124,RESOLUTION=960x540
+##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch242%29/Stream(02)/index.m3u8
 ##http://edge.linknetott.swiftserve.com/channelgroup3/cg356production/ch242/02.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=494559,RESOLUTION=320x240
-http://edge.linknetott.swiftserve.com/channelgroup3/cg356production/ch242/01.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2402472,RESOLUTION=960x540
-http://edge.linknetott.swiftserve.com/channelgroup3/cg356production/ch242/03.m3u8
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=494559,RESOLUTION=320x240
+##http://edge.linknetott.swiftserve.com/channelgroup3/cg356production/ch242/01.m3u8
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2402472,RESOLUTION=960x540
+##http://edge.linknetott.swiftserve.com/channelgroup3/cg356production/ch242/03.m3u8

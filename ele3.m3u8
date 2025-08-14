@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://cord-cutter.net:8080/live/95549031/69361122/167748.m3u8
+http://filex.me:8080/live/@B1gM0/qsavC6NPSm/292978.m3u8
+##http://cord-cutter.net:8080/live/95549031/69361122/167748.m3u8
 ##http://tvm8.org:8080/live/jK8jAu7GFky8/sK8J1xkBuPU6/194967.m3u8
 ###https://esx1new.newkso.ru/esx1/primadazn3pt/mono.m3u8
 ###http://45.139.122.199:8080/play/live.php?mac=00:1A:79:bf:ce:d5&stream=69009&extension=m3u8

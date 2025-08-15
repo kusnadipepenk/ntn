@@ -4,9 +4,9 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:12
 #EXTINF:8.840000,
-http://filex.me:8080/@B1gM0/qsavC6NPSm/317325
+http://filex.me:8080/live/@B1gM0/qsavC6NPSm/317325.ts
 #EXTINF:8.840000,
-http://filex.me:8080/@B1gM0/qsavC6NPSm/317325
+http://filex.me:8080/live/@B1gM0/qsavC6NPSm/317325.ts
 
 ##http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=93915&extension=m3u8&play_token=
 

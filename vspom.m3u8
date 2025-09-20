@@ -1,9 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5000000
-http://primestreams.tv:826/live/SF11/vulwBvtfo9/109152.m3u8
+http://fortv.cc:8080/live/cQnq6G/652882/1847.m3u8
+##http://primestreams.tv:826/live/SF11/vulwBvtfo9/109152.m3u8
 ##http://tvm8.org:8080/live/jK8jAu7GFky8/sK8J1xkBuPU6/2861.m3u8
-##http://fortv.cc:8080/live/cQnq6G/652882/1847.m3u8
 ##http://extraott.com:900/live/6945574629/7169628753/181441.m3u8
 ##http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=647871&extension=m3u8
 ##http://uday.dyndns.org:8080/live/rajkothari/07711911534/211510.m3u8

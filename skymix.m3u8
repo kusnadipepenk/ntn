@@ -1,10 +1,6 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:11
-#EXTINF:10.520000,
-http://1tv41.icu:8080/live/43761449506/smallwood/53706.ts
+http://mains.services/live/pmf0423/1aku0jt%40/29af5e17-0851-4b44-9781-b384dd176ea0.m3u8
+##http://1tv41.icu:8080/live/43761449506/smallwood/53706.ts
 ###http://extraott.com:900/live/3162523972/3791698850/79115.m3u8
 ###http://fortv.cc:8080/live/cQnq6G/652882/53706.m3u8
 ###http://extraott.com:900/live/6945574629/7169628753/189987.m3u8
@@ -22,6 +18,7 @@ http://1tv41.icu:8080/live/43761449506/smallwood/53706.ts
 ##EXT-X-TARGETDURATION:10
 ##EXTINF:10.000000,
 #http://primestreams.tv:826/live/SF11/vulwBvtfo9/98775.ts
+
 
 
 

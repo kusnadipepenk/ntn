@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
 http://mains.services/live/pmf0423/1aku0jt%40/c4793abd-2409-4081-9886-f4b745600994.m3u8
 ##http://tooontv.com:999/live/ere3444h/agape/1553.m3u8
 ###http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1885&extension=m3u8

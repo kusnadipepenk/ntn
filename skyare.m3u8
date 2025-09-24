@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
 http://mains.services/live/pmf0423/1aku0jt%40/ca8ae27d-b601-4469-b926-470acb3a5d2b.m3u8
 ##http://1tv41.icu:8080/live/43761449506/smallwood/35238.m3u8
 ##http://tooontv.com:999/live/ere3444h/agape/948.m3u8

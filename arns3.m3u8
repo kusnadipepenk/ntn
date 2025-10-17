@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5000000
-http://mains.services/live/pmf0423/1aku0jt%40/987248b4-4a46-4e30-9eb6-f6e6825a0236.m3u8
+http://dream4ktv.net:80/play/live.php?mac=00:1A:79:D0:BF:09&stream=227215&extension=m3u8&play_token=
 ##http://tooontv.com:999/live/ere3444h/agape/7326.m3u
 
 

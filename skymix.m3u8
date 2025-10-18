@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-http://mains.services/live/pmf0423/1aku0jt%40/29af5e17-0851-4b44-9781-b384dd176ea0.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175177&extension=m3u8&play_token=
 ##http://1tv41.icu:8080/live/43761449506/smallwood/53706.ts
 ###http://extraott.com:900/live/3162523972/3791698850/79115.m3u8
 ###http://fortv.cc:8080/live/cQnq6G/652882/53706.m3u8
@@ -20,6 +20,7 @@ http://mains.services/live/pmf0423/1aku0jt%40/29af5e17-0851-4b44-9781-b384dd176e
 ##EXT-X-TARGETDURATION:10
 ##EXTINF:10.000000,
 #http://primestreams.tv:826/live/SF11/vulwBvtfo9/98775.ts
+
 
 
 

@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-http://mains.services/live/pmf0423/1aku0jt%40/607a00ed-5cf2-45f6-9e37-1e352fe4ef20.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175171&extension=m3u8&play_token=
 ##http://tooontv.com:999/live/ere3444h/agape/1040.m3u
 ##https://looooooool.footfast.net/event/35.m3u8
 ##http://tvm8.org:8080/live/jK8jAu7GFky8/sK8J1xkBuPU6/30344.m3u8

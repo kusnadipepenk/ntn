@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://mains.services/live/pmf0423/1aku0jt%40/b2e7b477-4147-48d2-8cc8-b64838f56f71.m3u8
+http://1tv41.icu:8080/live/43761449506/smallwood/11664.m3u8
+##http://mains.services/live/pmf0423/1aku0jt%40/b2e7b477-4147-48d2-8cc8-b64838f56f71.m3u8
 ##http://stream02.vnet.am/NatGeoWild/tracks-v1a2/mono.m3u8
 ##http://honeywatch.net:80/play/live.php?mac=00:1a:79:a5:9f:91&stream=174764&extension=m3u8
 ###http://line.gofast-tv.me/play/live.php?mac=00:1A:79:B1:30:05&stream=1057014&extension=m3u8

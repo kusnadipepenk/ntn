@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5000000
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537002&extension=m3u8&play_token=
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+http://tv.premiumplus.tv:80/play/live.php?mac=a0:bb:3e:12:1b:60&stream=17200748&extension=m3u8
+##http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537002&extension=m3u8&play_token=
 ##http://mains.services/live/pmf0423/1aku0jt%40/3e4e2a6d-0b1d-482a-921e-dcf817e8d280.m3u8
 ##http://tooontv.com:999/live/ere3444h/agape/7324.m3u
 ##http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=161931&extension=m3u8&play_token=xdbt7BgLik

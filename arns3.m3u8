@@ -1,6 +1,18 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1920x1080
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/174083.m3u8
+#EXT-X-TARGETDURATION:11
+#EXT-X-MEDIA-SEQUENCE:176706135
+#EXT-X-VERSION:3
+#EXTINF:10.000,
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/210604.ts
+#EXTINF:10.000,
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/210604.ts
+#EXTINF:10.000,
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/210604.ts
+
+
+##EXTM3U
+##EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1920x1080
+##http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/174083.m3u8
 ##http://dream4ktv.net:80/play/live.php?mac=00:1A:79:D0:BF:09&stream=227215&extension=m3u8&play_token=
 ##http://tooontv.com:999/live/ere3444h/agape/7326.m3u
 
@@ -10,7 +22,6 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/174083.m3u8
 ##EXT-X-VERSION:3
 ##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
 ##http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=93918&extension=m3u8&play_token=
-
 ##http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=161933&extension=m3u8&play_token=xdbt7BgLik
 ##http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:eb:c5&stream=41394&extension=m3u8&play_token
 ##http://clientsportals.com:2095/play/live.php?mac=00:1A:79:AE:8E:4D&stream=41394&extension=m3u8&play_token=msUKooUfNl

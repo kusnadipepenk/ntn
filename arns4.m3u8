@@ -1,13 +1,18 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:11
-#EXT-X-MEDIA-SEQUENCE:176706135
 #EXT-X-VERSION:3
-#EXTINF:10.000,
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/210606.ts
-#EXTINF:10.000,
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/210606.ts
-#EXTINF:10.000,
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/210606.ts
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=1112&extension=m3u8
+
+##EXTM3U
+##EXT-X-TARGETDURATION:11
+##EXT-X-MEDIA-SEQUENCE:176706135
+##EXT-X-VERSION:3
+##EXTINF:10.000,
+#https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/210606.ts
+##EXTINF:10.000,
+#https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/210606.ts
+##EXTINF:10.000,
+##https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/210606.ts
 
 
 ##EXTM3U

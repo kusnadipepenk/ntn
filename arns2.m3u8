@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=1114&extension=m3u8
+http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/221.m3u8
+##http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=1114&extension=m3u8
 
 ##EXTM3U
 ##EXT-X-TARGETDURATION:11

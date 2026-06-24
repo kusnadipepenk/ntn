@@ -1,9 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5000000
-http://1tv41.icu:8080/live/43761449506/smallwood/1846.m3u8
-##http://tvm8.org:8080/live/jK8jAu7GFky8/sK8J1xkBuPU6/2860.m3u8
-##http://fortv.cc:8080/live/cQnq6G/652882/1846.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
+http://line.smootvone.vip:80/play/live.php?mac=00:1A:79:D1:EA:F2&stream=858547&extension=m3u8
 
 
 ###EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
